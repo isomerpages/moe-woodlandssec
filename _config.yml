@@ -1,6 +1,6 @@
 title: Woodlands Secondary School
 url: https://woodlandssec.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/schoolcrest.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1qrsrqf24putd.amplifyapp.com
 prod: https://master.d1qrsrqf24putd.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/schoolcrest.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
