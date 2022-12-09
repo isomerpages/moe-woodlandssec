@@ -1,6 +1,10 @@
 logo: /images/header-logo3.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: WDL Experience
+    collection: wdl-experience
+  - title: CCAs
+    collection: ccas
+  - title: Resources
+    collection: resources
