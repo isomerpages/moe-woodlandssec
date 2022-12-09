@@ -40,9 +40,9 @@ Successful applicants will be offered a place in Woodlands Secondary School for 
 .tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
 .tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 809px">
 <colgroup>
-<col style="width: 96px">
+<col style="width: 105px">
 <col style="width: 100px">
 <col style="width: 195px">
 <col style="width: 189px">
