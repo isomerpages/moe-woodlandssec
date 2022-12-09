@@ -24,4 +24,8 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      title: Updates
+      subtitle: Latest News
+      button: View All
 ---
