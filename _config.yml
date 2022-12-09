@@ -3,7 +3,7 @@ url: https://woodlandssec.moe.edu.sg
 favicon: /images/schoolcrest.png
 colors:
   primary-color: "#1653c0"
-  secondary-color: "#3a65bd"
+  secondary-color: "#0054b4"
   media-colors:
     - title: media-color-one
       color: "#49759a"
