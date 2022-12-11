@@ -52,31 +52,31 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-gmej"><a href="#1"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Attire</span></a></td>
+    <td class="tg-gmej"><a href="#attire"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Attire</span></a></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students wear the school uniform with pride. Unsightly alterations and modifications are NOT allowed.</span></td>
   </tr>
   <tr>
-    <td class="tg-gmej"><a href="#2"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Appearance</span></a></td>
+    <td class="tg-gmej"><a href="#appearance"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Appearance</span></a></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students sport short and neat hairstyles. Girls have their hair tied with appropriate clips and bands.</span></td>
   </tr>
   <tr>
-    <td class="tg-gmej"><a href="#3"><span style="font-weight:bold;font-style:inherit">Attendance</span></a></td>
+    <td class="tg-gmej"><a href="#attendance"><span style="font-weight:bold;font-style:inherit">Attendance</span></a></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students attend school without fail. Absence from school must be justified with a letter from parents or a medical certificate.</span></td>
   </tr>
   <tr>
-    <td class="tg-gmej"><a href="#4"><span style="font-weight:bold;font-style:inherit">Attitude</span></a></td>
+    <td class="tg-gmej"><a href="#attitude"><span style="font-weight:bold;font-style:inherit">Attitude</span></a></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students give their best at all times. They strive to achieve the best they can be in both their CCA and academics.</span></td>
   </tr>
   <tr>
-    <td class="tg-gmej"><a href="#5"><span style="font-weight:bold;font-style:inherit">Assignments</span></a></td>
+    <td class="tg-gmej"><a href="#assignments"><span style="font-weight:bold;font-style:inherit">Assignments</span></a></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Assignments given are done on time and to the best of one’s ability.</span></td>
   </tr>
   <tr>
-    <td class="tg-gmej"><a href="#6"><span style="font-weight:bold;font-style:inherit">Assessment</span></a></td>
+    <td class="tg-gmej"><a href="#assessment"><span style="font-weight:bold;font-style:inherit">Assessment</span></a></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students to give their best in all tests and exams.</span></td>
   </tr>
   <tr>
-    <td class="tg-gmej"><a href="#7"><span style="font-weight:bold;font-style:inherit">Appropriateness</span></a></td>
+    <td class="tg-gmej"><a href="#appropriateness"><span style="font-weight:bold;font-style:inherit">Appropriateness</span></a></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students respect all members of the school community and behave appropriately at all times.</span></td>
   </tr>
 </tbody>
@@ -84,7 +84,7 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 
 
 
-<a id="1"></a>
+<a id="attendance"></a>
 #### Attendance & Punctuality
 
 *   Students are expected to report to school by 7.30am.
@@ -94,7 +94,7 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 *   Students are to remain in the classrooms at all times unless permission has been given by their teachers.
 
 
-<a id="2"></a>
+<a id="attitude"></a>
 #### Attitude
 
 *   Students must subscribe to a growth mindset of excellence and strive to do their best in their studies and their CCA.
@@ -102,7 +102,7 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 *   Students must practise sound time management in order to balance academic, co-curricular activities and service to the community.
 *   Students must strive to uphold the good name of the school at all times.
 
-<a id="3"></a>
+<a id="appropriateness"></a>
 #### Appropriateness
 
 *   Students must attend and observe all the commands for assembly. The flag-raising ceremony must be observed with respect and pride.
@@ -112,7 +112,7 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 *   Students must refrain from engaging in practices which may cause physical or emotional distress.
 *   Students are not allowed to have in their possession any weapon or weapon-like item to be used or intended to be used to cause harm to others and/or self.
 
-<a id="4"></a>
+<a id="attire"></a>
 #### Attire & Grooming
 
 *   Students are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
@@ -168,10 +168,26 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 
 
 
-<a id="5"></a>
+<a id="assignments"></a>
+#### Assignments
+
+*   Students must make conscientious attempts at completing work given on time and ensure expected standards are met.
+*   Students are encouraged to seek assistance from teachers when needed.
+
+<a id="assessment"></a>
+#### Assessment
+
+*   Students must aspire to do their very best for all tests and examinations.
+*   Students are not to engage in any acts of dishonesty during tests/examinations.
+*   Students are to adhere to all instructions given by examiners/invigilators during tests/exams.
+*   Students who are unable to sit for tests/examinations, must provide a medical certificate on the day he/she returns to school.
+*   Students absent from examinations without valid reasons will be awarded zero marks.
 
 
-<a id="6"></a>
+#### Offences and consequences
+
+Students will be dealt with by the Student Management Committee in line with the category of offence committed.
 
 
-<a id="7"></a>
+
+<a id="appropriateness"></a>
