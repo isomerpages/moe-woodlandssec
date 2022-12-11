@@ -529,3 +529,54 @@ Corps Achievement Award - Gold
 </tbody>
 </table>
 
+### Academic Achievements 2019
+
+**Outstanding students from graduating cohort of 4 Express**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Name</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AADIL HAZIQ B MOHAMED SAID</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CONCERT BAND</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ANGUST GUAY TENG SEE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST. JOHN BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LIM YI XUN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BADMINTON</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ANNABELLE CHUA PEI WEN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CONCERT BAND</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AW JAYEN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BOYS” BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CHAI YOU KEE, EMILY</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ART CLUB</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">DANIAL TAN JUN HAO</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BADMINTON</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+
