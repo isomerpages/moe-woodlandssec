@@ -1364,3 +1364,26 @@ Outstanding Cadet Award \- Danny Chan
 </tbody>
 </table>
 
+**Outstanding students from graduating cohort of 5 Normal Academic**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Name</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CHEONG MAN YEE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">INFOCOM CLUB</span></td>
+  </tr>
+</tbody>
+</table>
