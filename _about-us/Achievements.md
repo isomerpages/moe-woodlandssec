@@ -77,3 +77,46 @@ SINGAPORE SCHOOLS SPORTS COUNCIL NATIONAL INTER-SCHOOL SEPAK TAKRAW TOURNAMENT
 
 ![](/images/st1.png)
 
+###### FOOTBALL GIRLS
+
+SSSC/FAS ‘C’ Division Girls National Inter-School Football Championship
+<img src="/images/a19-2.jpeg" 
+     style="width:75%">
+<center>Second position</center>
+
+GESS Volkswagen Cup U-14
+
+<img src="/images/a19-2.jpeg" 
+     style="width:75%">
+
+
+<img src="/images/a19-3.jpeg" 
+     style="width:75%">
+
+
+<img src="/images/a19-4.jpeg" 
+     style="width:75%">
+
+
+<img src="/images/a19-5.jpeg" 
+     style="width:75%">
+
+
+<img src="/images/a19-6.jpeg" 
+     style="width:75%">
+
+
+<img src="/images/a19-7.jpeg" 
+     style="width:75%">
+
+
+<img src="/images/a19-8.jpeg" 
+     style="width:75%">
+
+
+<img src="/images/a19-9.jpeg" 
+     style="width:75%">
+
+
+
+
