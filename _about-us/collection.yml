@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People.md
       - School Expectations (Rules).md
       - Achievements.md
       - Direct School Admission (DSA).md
