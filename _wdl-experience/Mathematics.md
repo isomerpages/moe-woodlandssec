@@ -35,3 +35,9 @@ Every Woodlander a creative problem solver and caring citizen.
   </tr>
 </tbody>
 </table>
+
+![](/images/math1.png)
+
+#### Additional resources
+
+[NT Maths Lessons](https://woodlandssec.moe.edu.sg/nt-maths-lessons/)
