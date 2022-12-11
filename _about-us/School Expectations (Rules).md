@@ -213,3 +213,20 @@ Students will be dealt with by the Student Management Committee in line with the
   </tr>
 </tbody>
 </table>
+
+
+#### Guidelines on the use of mobile devices
+
+Students are allowed to bring their mobile devices/tablets to school. The following restrictions dictate when and where these devices may be use in order to ensure that students remain focused during lessons:
+
+*   The use of mobile devices/tablets is restricted to before the start of school, during recess/lunch break and after school.
+*   The use of mobile devices/tablets is restricted to canteen and foyer only.
+*   The use of mobile devices/tablets is prohibited during instructional hours (unless supervised or permission has been given by a teacher).
+*   Students are also reminded to observe proper etiquette in the use of mobile devices/tablets.
+*   Students must take full responsibility for the security of their mobile devices/tablets.
+*   Mobile devices must be kept in the locker at all times except before start of school, during recess/lunch breaks and after school.
+*   Infringement would lead to confiscation of the item(s), which would be kept by the Operational Managers in the General Office for:
+    *   1 day for 1st offence
+    *   1 week for 2nd offence
+    *   1 month for 3rd and subsequent offence
+*   Parents will be contacted to collect the item(s) for the 3rd and subsequent offences
