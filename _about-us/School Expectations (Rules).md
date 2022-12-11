@@ -152,6 +152,22 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 </tbody>
 </table>
 
+
+**School Uniform**
+
+![](/images/schuni.png)
+
+**P.E. Attire**
+
+![](/images/schpe.png)
+
+
+**Proper attire for School Polo T-shirt**
+![](/images/schpolo.png)
+![](/images/schhair.png)
+
+
+
 <a id="5"></a>
 
 
