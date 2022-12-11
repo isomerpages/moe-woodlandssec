@@ -38,3 +38,5 @@ The programmes and approaches of the Science Department are underpinned by the S
   </tr>
 </tbody>
 </table>
+
+![](/images/sci1.png)
