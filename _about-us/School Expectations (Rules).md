@@ -92,3 +92,45 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 *   Absence from school must be accounted for by a medical certificate from a doctor or a letter from a parent/guardian (students are restricted to 3 letters from parents in a single term).
 *   Students must seek permission from the School Leaders if he/she wishes to take time off from school for any reasons.
 *   Students are to remain in the classrooms at all times unless permission has been given by their teachers.
+
+
+<a id="2"></a>
+#### Attitude
+
+*   Students must subscribe to a growth mindset of excellence and strive to do their best in their studies and their CCA.
+*   Students must remain positive when faced with challenges and be receptive to instructions from teachers.
+*   Students must practise sound time management in order to balance academic, co-curricular activities and service to the community.
+*   Students must strive to uphold the good name of the school at all times.
+
+<a id="3"></a>
+#### Appropriateness
+
+*   Students must attend and observe all the commands for assembly. The flag-raising ceremony must be observed with respect and pride.
+*   Students who are Singapore citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with the right fist placed over the heart.
+*   Students are to greet and be respectful to all visitors and members of the school.
+*   Students must forge and sustain positive relationships with their peers and establish rapport with their teachers.
+*   Students must refrain from engaging in practices which may cause physical or emotional distress.
+*   Students are not allowed to have in their possession any weapon or weapon-like item to be used or intended to be used to cause harm to others and/or self.
+
+<a id="4"></a>
+#### Attire & Grooming
+
+*   Students are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
+*   Students must wear their Full-Uniform when reporting to school on Mondays. Students may wear the school Polo T-shirt with their pants/skirts from Tuesdays to Fridays.
+*   Students coming to school on Saturdays or after-school hours should be properly attired. This means they should be in Full-Uniform, Polo T-shirt with school pants/skirts, or Half-Uniform (PE T-shirt with school pants/skirts). Students should also leave school at the end of the day/lesson in proper attire.
+*   The school uniform must be worn neatly and smartly and tucked in at all times:
+    *   School ties are to be worn on Mondays for morning assembly.
+    *   Girls are required to don the school skirts that are knee-length or longer.
+    *   Alterations, such as tapering long pants, are not allowed.
+    *   Students are to change into their PE attire for PE lessons and to change back into their school uniform or Polo T-shirt with school pants/skirts after the lesson.
+    *   Students are to wear white socks and shoes with white shoe laces. Only thin discreet lines around the base of the shoe are allowed. Only white socks above ankle-length can be worn.
+*   Students are to observe the following:
+
+<a id="5"></a>
+
+
+<a id="6"></a>
+
+
+<a id="7"></a>
+
