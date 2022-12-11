@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Partners.md
       - Our People.md
       - School Expectations (Rules).md
       - Achievements.md
