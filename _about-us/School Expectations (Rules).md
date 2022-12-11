@@ -84,7 +84,6 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 
 
 <a id="1"></a>
-
 #### Attendance & Punctuality
 
 *   Students are expected to report to school by 7.30am.
