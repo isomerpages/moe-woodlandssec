@@ -64,3 +64,16 @@ Nur Nadiah (4B2)
 ![](/images/a20-3.jpeg)
 **Silver Award**   
 Nur Filzah (3G)
+
+------
+
+### 2019 Achievements
+
+##### Sports & Games CCAs
+
+###### SEPAK TAKRAW
+
+SINGAPORE SCHOOLS SPORTS COUNCIL NATIONAL INTER-SCHOOL SEPAK TAKRAW TOURNAMENT
+
+![](/images/st1.png)
+
