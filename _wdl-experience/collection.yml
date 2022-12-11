@@ -2,4 +2,5 @@ collections:
   wdl-experience:
     output: true
     order:
+      - PE|CCA.md
       - Character & Citizenship Education (CCE).md
