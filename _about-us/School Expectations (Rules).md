@@ -45,38 +45,39 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fdt3{background-color:#FFF;color:#034289;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-gmej{background-color:#FFF;color:#034289;font-size:16px;font-weight:bold;text-align:left;text-decoration:underline;
+  vertical-align:top}
+.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-fdt3"><a href="#1"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Attire</span></a></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students wear the school uniform with pride. Unsightly alterations and modifications are NOT allowed.</span></td>
+    <td class="tg-gmej"><a href="#1"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Attire</span></a></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students wear the school uniform with pride. Unsightly alterations and modifications are NOT allowed.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="#2"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Appearance</span></a></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students sport short and neat hairstyles. Girls have their hair tied with appropriate clips and bands.</span></td>
+    <td class="tg-gmej"><a href="#2"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Appearance</span></a></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students sport short and neat hairstyles. Girls have their hair tied with appropriate clips and bands.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="#3"><span style="font-weight:bold;font-style:inherit">Attendance</span></a></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students attend school without fail. Absence from school must be justified with a letter from parents or a medical certificate.</span></td>
+    <td class="tg-gmej"><a href="#3"><span style="font-weight:bold;font-style:inherit">Attendance</span></a></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students attend school without fail. Absence from school must be justified with a letter from parents or a medical certificate.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="#4"><span style="font-weight:bold;font-style:inherit">Attitude</span></a></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students give their best at all times. They strive to achieve the best they can be in both their CCA and academics.</span></td>
+    <td class="tg-gmej"><a href="#4"><span style="font-weight:bold;font-style:inherit">Attitude</span></a></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students give their best at all times. They strive to achieve the best they can be in both their CCA and academics.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="#5"><span style="font-weight:bold;font-style:inherit">Assignments</span></a></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Assignments given are done on time and to the best of one’s ability.</span></td>
+    <td class="tg-gmej"><a href="#5"><span style="font-weight:bold;font-style:inherit">Assignments</span></a></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Assignments given are done on time and to the best of one’s ability.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="#6"><span style="font-weight:bold;font-style:inherit">Assessment</span></a></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students to give their best in all tests and exams.</span></td>
+    <td class="tg-gmej"><a href="#6"><span style="font-weight:bold;font-style:inherit">Assessment</span></a></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students to give their best in all tests and exams.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="#7"><span style="font-weight:bold;font-style:inherit">Appropriateness</span></a></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students respect all members of the school community and behave appropriately at all times.</span></td>
+    <td class="tg-gmej"><a href="#7"><span style="font-weight:bold;font-style:inherit">Appropriateness</span></a></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students respect all members of the school community and behave appropriately at all times.</span></td>
   </tr>
 </tbody>
 </table>
