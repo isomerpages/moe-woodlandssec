@@ -11,7 +11,11 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wxe1{background-color:#11439c;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 602px">
+<colgroup>
+<col style="width: 301px">
+<col style="width: 301px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-wxe1"><a href="#1">
