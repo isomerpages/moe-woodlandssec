@@ -17,22 +17,22 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
   <tr>
     <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Care for Self</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students are responsible for their personal well-being and discipline.</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students are responsible for their personal well-being and discipline.</span></td>
   </tr>
   <tr>
     <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Care for Others</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students care and strive to build positive relationships with the people around them.</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students care and strive to build positive relationships with the people around them.</span></td>
   </tr>
   <tr>
     <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Care for School</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students display pride for their school and the facilities and give their best for the school at all times.</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Students display pride for their school and the facilities and give their best for the school at all times.</span></td>
   </tr>
 </tbody>
 </table>
