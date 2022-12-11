@@ -694,3 +694,11 @@ Corps Achievement Award - Gold
 #### Sports & Games
 
 ##### SEPAK TAKRAW
+
+SINGAPORE SCHOOLS SPORTS COUNCIL NATIONAL INTER-SCHOOL SEPAK TAKRAW TOURNAMENT  
+B Division - 3rd Runner up  
+C Division – 1st round finalists
+
+###### FOOTBALL BOYS
+
+National School Games League
