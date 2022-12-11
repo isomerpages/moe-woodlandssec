@@ -27,3 +27,26 @@ As Woodlanders come from different backgrounds with different levels of language
 *   Sec 2 and 3 students will be acquiring skills to generate quick and clear ideas on the spot, verbalising them in a structured manner, which will facilitate their learning in the spoken interaction component in the oral examination
 
 #### Key Programmes
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-g43m{background-color:#FFF;color:#034289;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-l8if{background-color:#FFF;color:#3A3A3A;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">Growing all Woodlanders</span></td>
+    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">Secondary 1</span><br><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Effective communication enrichment that involves storytelling and social media presenting</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Curated magazine with interesting articles for reading activities and discussions in class</span><br><br><span style="font-weight:normal;font-style:inherit;color:#034289">Secondary 2</span><br><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Effective communication package that involves quick generation of ideas and clear articulation</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Curated magazine with interesting articles for reading activities and discussions in class</span><br><br><span style="font-weight:normal;font-style:inherit;color:#034289">Secondary 3</span><br><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Effective communication package that involves quick generation of ideas, structured organisation of ideas, and the precision and coherence in articulation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">Stretching those with strong interests</span></td>
+    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">External Competitions:</span><br><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Writing competitions: Write for Kindness, Commonwealth Essay Competition </span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Public Speaking competitions: YMCA Plain English Speaking Awards</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Literacy competitions: EL Olympiad</span><br><br><span style="font-style:inherit">School Opportunities</span><br><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Morning student banter to showcase talents and hone speaking skills</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Emceeing opportunities for schoolwide events</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit;color:#000"> Featured essays, stories and poetry in the termly Woodlands Newsletter</span></td>
+  </tr>
+</tbody>
+</table>
