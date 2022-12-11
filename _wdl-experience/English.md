@@ -21,7 +21,7 @@ As Woodlanders come from different backgrounds with different levels of language
 *   A culture of reading is essential to build basic literacy skills, which is the foundation for all learning.
 *   Our reading programme provides. magazines that have captivating articles for various levels of readability and different interests. This is to ensure that all Woodlanders have access to appropriate  reading material, and eventually developing a habit of reading
 
-###### EFFECTIVE COMMUNICATION PROGRAMME
+**EFFECTIVE COMMUNICATION PROGRAMME**
 
 *   Sec 1 students will be acquiring skills on storytelling and social media presentation skills, which will facilitate their learning in the reading aloud component in the oral examination
 *   Sec 2 and 3 students will be acquiring skills to generate quick and clear ideas on the spot, verbalising them in a structured manner, which will facilitate their learning in the spoken interaction component in the oral examination
