@@ -30,6 +30,5 @@ Do take your time to explore our website and visit our [Facebook](https://www.f
 
 Thank you.
 
-Mrs Tay Yang Fern
-
+Mrs Tay Yang Fern    
 Principal
