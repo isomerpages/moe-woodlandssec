@@ -40,4 +40,4 @@ Every Woodlander a creative problem solver and caring citizen.
 
 #### Additional resources
 
-[NT Maths Lessons](https://woodlandssec.moe.edu.sg/nt-maths-lessons/)
+[NT Maths Lessons](/nt-math-lessons/)
