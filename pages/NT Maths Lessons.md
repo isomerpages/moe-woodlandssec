@@ -195,7 +195,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Trigonometry</span></td>
-    <td class="tg-4rlp"><a href="https://deck.toys/a/QklqqN5MN"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#01A1C1;background-color:transparent">https://deck.toys/a/QklqqN5MN</span></a></td>
+    <td class="tg-4rlp"><a href="https://deck.toys/a/QklqqN5MN"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289;background-color:transparent">https://deck.toys/a/QklqqN5MN</span></a></td>
   </tr>
 </tbody>
 </table>
