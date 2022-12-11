@@ -51,3 +51,26 @@ The overall blue tone reflects the setting of the school near the sea. Blue repr
 The six-pointed golden star encompasses the total development of the individual's academic, physical, social, emotional, aesthetic and moral aspects that will be strengthened to a fineness represented by the points of the star.
 
 The stylised W is designed as a soaring bird representing purity of spirit and ambition to reach greater heights. It is the focus of loyalty and aims to foster a sense of belonging and pride in the school.
+
+
+### Pupil Creed
+
+I know there is something inside of me It’s what I call ability   
+And I know I could do my best   
+In everyday life’s a big big test   
+And when the going gets tough   
+And everything just seems so rough  
+I know that I’m not alone  
+  
+**Chorus**   
+I believe we can conquer dreams   
+I believe we can reach for greater heights   
+I believe we can do anything as one   
+Woodlanders are the best when we unite  
+  
+I feel there is freedom in my heart   
+I put pride in the freedom that I have   
+With this freedom, I won’t lose respect   
+That I feel for each and everyone   
+Never stray from the ray of wisdom   
+Achieve our goals through lifelong learning
