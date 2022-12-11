@@ -699,6 +699,61 @@ SINGAPORE SCHOOLS SPORTS COUNCIL NATIONAL INTER-SCHOOL SEPAK TAKRAW TOURNAMENT
 B Division - 3rd Runner up  
 C Division – 1st round finalists
 
-###### FOOTBALL BOYS
+##### FOOTBALL BOYS
 
 National School Games League
+
+<img src="/images/a18-1.jpeg" 
+     style="width:65%">
+<center>B Division – Group Stage</center>
+
+##### ATHLETICS
+
+National Inter-Schools Track & Field Championship  
+B Division Boys (1500m, Individual Event) – 15th
+
+44th Singapore Athletics Championship  
+B Division Boys (800m, Individual Event) – 4th and 6th
+
+B Division Boys (3000m, Individual Event) – 4th
+
+Akira/Swift Cross Country Championship  
+B Division Boys (Team Event) – 3rd award
+
+-------
+
+#### Performing Arts
+
+##### ELDDS (DRAMA)
+
+Human Values Drama Festival - Semi-finals
+
+-----
+
+#### Clubs & Societies
+
+##### INFOCOMM CLUB
+
+6th Singapore National CoSpace & RoboMaker Challenges
+
+<img src="/images/a18-2.jpeg" 
+     style="width:65%">
+<center>First place</center>
+
+6th Singapore National CoSpace & RoboMaker Challenges
+
+<img src="/images/a18-3.jpeg" 
+     style="width:65%">
+<center>Third Place</center>
+
+RippleUX
+<img src="/images/a18-4.jpeg" 
+     style="width:65%">
+<center>Best poster Exhibition Award 2018 (Senior Category)</center>
+
+<img src="/images/a18-5.jpeg" 
+     style="width:65%">
+
+<img src="/images/a18-6.jpeg" 
+     style="width:65%">
+
