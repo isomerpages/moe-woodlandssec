@@ -579,4 +579,118 @@ Corps Achievement Award - Gold
 </table>
 
 
+**Outstanding students from graduating cohort of 4 Normal Academic**
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Name</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">KOSHEILA D/O MANIMARAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">TRACK &amp; FIELD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">PANG YEN LING</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BADMINTON</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">DILTON GOH YING REN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BOYS’ BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">PHONE THU HAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BOYS’ BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">FIONA FOO XIAO XUAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">DRAMA - ENGLISH</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NAURAH BASYIRAH BTE JUMARI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">GIRL GUIDES</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+**Outstanding students from graduating cohort of 4 Normal Technical**
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Name</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LIM YOU WEI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BASKETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CHAN QI YAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ATHLETICS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LIM JIA WEI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BASKETBALL</span></td>
+  </tr>
+</tbody>
+</table>
+
+**Outstanding students from graduating cohort of 5 Normal Academic**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Name</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">KOH JIA CI, COREEN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">DANCE - INTERNATIONAL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CYANE LOW YI XUAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CONCERT BAND</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">G HEMENDIRA</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NCC</span></td>
+  </tr>
+</tbody>
+</table>
+
+-----
+
+### 2018 Achievements
+
+#### Sports & Games
+
+##### SEPAK TAKRAW
