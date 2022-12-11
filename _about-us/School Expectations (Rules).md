@@ -59,23 +59,23 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students sport short and neat hairstyles. Girls have their hair tied with appropriate clips and bands.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="https://woodlandssec.moe.edu.sg/about-us/school-expectations/#attendance"><span style="font-weight:bold;font-style:inherit">Attendance</span></a></td>
+    <td class="tg-fdt3"><a href="#3"><span style="font-weight:bold;font-style:inherit">Attendance</span></a></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students attend school without fail. Absence from school must be justified with a letter from parents or a medical certificate.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="https://woodlandssec.moe.edu.sg/about-us/school-expectations/#attitude"><span style="font-weight:bold;font-style:inherit">Attitude</span></a></td>
+    <td class="tg-fdt3"><a href="#4"><span style="font-weight:bold;font-style:inherit">Attitude</span></a></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students give their best at all times. They strive to achieve the best they can be in both their CCA and academics.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="https://woodlandssec.moe.edu.sg/about-us/school-expectations/#assignments"><span style="font-weight:bold;font-style:inherit">Assignments</span></a></td>
+    <td class="tg-fdt3"><a href="#5"><span style="font-weight:bold;font-style:inherit">Assignments</span></a></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Assignments given are done on time and to the best of one’s ability.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="https://woodlandssec.moe.edu.sg/about-us/school-expectations/#assessment"><span style="font-weight:bold;font-style:inherit">Assessment</span></a></td>
+    <td class="tg-fdt3"><a href="#6"><span style="font-weight:bold;font-style:inherit">Assessment</span></a></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students to give their best in all tests and exams.</span></td>
   </tr>
   <tr>
-    <td class="tg-fdt3"><a href="https://woodlandssec.moe.edu.sg/about-us/school-expectations/#appropriateness"><span style="font-weight:bold;font-style:inherit">Appropriateness</span></a></td>
+    <td class="tg-fdt3"><a href="#7"><span style="font-weight:bold;font-style:inherit">Appropriateness</span></a></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students respect all members of the school community and behave appropriately at all times.</span></td>
   </tr>
 </tbody>
