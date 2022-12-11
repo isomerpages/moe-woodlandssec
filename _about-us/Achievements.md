@@ -80,39 +80,69 @@ SINGAPORE SCHOOLS SPORTS COUNCIL NATIONAL INTER-SCHOOL SEPAK TAKRAW TOURNAMENT
 ##### FOOTBALL GIRLS
 
 SSSC/FAS ‘C’ Division Girls National Inter-School Football Championship
+
 <img src="/images/a19-2.jpeg" 
      style="width:75%">
 <center>Second position</center>
 
 GESS Volkswagen Cup U-14
 
-<img src="/images/a19-2.jpeg" 
-     style="width:75%">
-
-
 <img src="/images/a19-3.jpeg" 
      style="width:75%">
 
+<center>Fourth position</center>
+
+##### FOOTBALL BOYS
+
+National School Games League
 
 <img src="/images/a19-4.jpeg" 
      style="width:75%">
 
+<center>C Division – Group Stage</center>
+
+
+------
+
+##### Performing Arts CCAs
+
+##### MALAY DANCE
+
+Singapore Youth Festival Arts Presentation
 
 <img src="/images/a19-5.jpeg" 
      style="width:75%">
 
+<center>Certificate of Accomplishment</center>
+
+##### CHINESE DANCE
+
+Singapore Youth Festival Arts Presentation
 
 <img src="/images/a19-6.jpeg" 
      style="width:75%">
 
+<center>Certificate of Accomplishment</center>
+
+##### CONCERT BAND
+
+Singapore Youth Festival Arts Presentation
 
 <img src="/images/a19-7.jpeg" 
      style="width:75%">
 
+<center>Certificate of Accomplishment</center>
+
+###### ELDDS
+
+Singapore Youth Festival Arts Presentation
 
 <img src="/images/a19-8.jpeg" 
      style="width:75%">
 
+<center>Drama Group - Certificate of Accomplishment</center>
 
 <img src="/images/a19-9.jpeg" 
      style="width:75%">
+
+<center>Debate group - Certificate of Accomplishment</center>
