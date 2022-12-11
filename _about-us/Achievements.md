@@ -5,27 +5,27 @@ description: ""
 ---
 ### 2021 Achievements
 
-###### THE QUEEN'S COMMONWEALTH ESSAY COMPETITION 2021
+##### THE QUEEN'S COMMONWEALTH ESSAY COMPETITION 2021
 
 <img src="/images/a21-1.jpeg" 
      style="width:100%">
 **Bronze Award**    
 Dinisari (3A), Jeslyn (3A) & Timus (3A)
 
-###### SINGAPORE MATHEMATICAL OLYMPIAD 2021
+##### SINGAPORE MATHEMATICAL OLYMPIAD 2021
 <img src="/images/a21-2.jpeg" 
      style="width:100%">
 **Honourable Mention**  
 Harrish (2A) & Ashton (1A)
 
-###### NANYANG POLYTECHNIC E-SCIENCE & TECHNOLOGY CHALLENGE (NYP E-STC)
+##### NANYANG POLYTECHNIC E-SCIENCE & TECHNOLOGY CHALLENGE (NYP E-STC)
 <img src="/images/a-21-3.jpeg" 
      style="width:75%">
 **2nd Runner-up**   
 for Rescue Rangers Category 2021  
 Arpitha (2A), Xuan Yee (2A) & Serhnice (2A)
 
-###### SYF ARTS PRESENTATION 2021
+##### SYF ARTS PRESENTATION 2021
 <img src="/images/a21-4.jpeg" 
      style="width:100%">
 **Distinction** for Drama  
@@ -49,17 +49,17 @@ by [ELDDS] (LINK HERE)
 
 ### 2020 Achievements
 
-###### NYP SCIENCE & TECHNOLOGY CHALLENGE 2020
+##### NYP SCIENCE & TECHNOLOGY CHALLENGE 2020
 ![](/images/a20-1.jpeg)
 **Most Innovative Award**
 
-###### LIVE ON DESIGN COMPETITION
+##### LIVE ON DESIGN COMPETITION
 ![](/images/a20-2.jpeg)
 **High Distinction Prize**  
 **Top 10 entry** out of 1000 submissions  
 Nur Nadiah (4B2)
 
-###### ANIMATION & GAME-MAKING COMPETITION
+##### ANIMATION & GAME-MAKING COMPETITION
 
 ![](/images/a20-3.jpeg)
 **Silver Award**   
@@ -71,13 +71,13 @@ Nur Filzah (3G)
 
 ##### Sports & Games CCAs
 
-###### SEPAK TAKRAW
+##### SEPAK TAKRAW
 
 SINGAPORE SCHOOLS SPORTS COUNCIL NATIONAL INTER-SCHOOL SEPAK TAKRAW TOURNAMENT
 
 ![](/images/st1.png)
 
-###### FOOTBALL GIRLS
+##### FOOTBALL GIRLS
 
 SSSC/FAS ‘C’ Division Girls National Inter-School Football Championship
 <img src="/images/a19-2.jpeg" 
@@ -116,7 +116,3 @@ GESS Volkswagen Cup U-14
 
 <img src="/images/a19-9.jpeg" 
      style="width:75%">
-
-
-
-
