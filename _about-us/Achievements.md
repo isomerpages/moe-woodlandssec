@@ -69,7 +69,7 @@ Nur Filzah (3G)
 
 ### 2019 Achievements
 
-##### Sports & Games CCAs
+#### Sports & Games CCAs
 
 ##### SEPAK TAKRAW
 
@@ -104,7 +104,7 @@ National School Games League
 
 ------
 
-##### Performing Arts CCAs
+#### Performing Arts CCAs
 
 ##### MALAY DANCE
 
@@ -146,3 +146,386 @@ Singapore Youth Festival Arts Presentation
      style="width:75%">
 
 <center>Debate group - Certificate of Accomplishment</center>
+
+
+-------
+
+#### Uniform Groups
+
+##### BOYS' BRIGADE
+
+J M Fraser Award for Excellence - Silver
+
+##### ST. JOHN BRIGADE SINGAPORE
+
+Corps Achievement Award - Gold
+
+
+-----
+
+#### Colours Award
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Name</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Award</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit"> CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">PUAH ZHI QING</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">GOLD</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST JOHN BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SITI JASMEEN BTE MOHAMAD ALI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">GOLD</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NPCC</span></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Name</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Award</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit"> CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AADIL HAZIQ B MOHAMED SAID</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CONCERT BAND</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ANGUST GUAY TENG SEE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST JOHN BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ASHVINESHRAVIN SO R M R</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ART CLUB</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AW JAYEN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">THE BOYS' BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CINDY LEW ZHI XING</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CHINESE DANCE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">DENNIS CHENG WEI LIN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">THE BOYS' BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">DILTON GOH YING REN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">THE BOYS' BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HAYUTIARA BINTE HAMIDI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MALAY DANCE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HO KAI SHENG</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST JOHN BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">JADEN OH</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">THE BOYS' BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MUHAMMAD AFIZ BIN AZHAR</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NCC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MUHAMMAD AQILSUFI B AWANG</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST JOHN BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MUHAMMAD RUZAINI B MD SUPIAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST JOHN BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NOR ZUHAILY B AHMAD SAZALI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SEPAK TAKRAW</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NUR ATIQAH BTE MOHAMMED DEAH</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MALAY DANCE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NURINA HUMAIRA BTE MOHD YAZID</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CONCERT BAND</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">OUH WEI QI (OU HUI QI)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ELDDS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">PRIYANKA RAJENDRAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MALAY DANCE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SEOW YU XIN, ASHLEY</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NPCC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">TAN CHOR PHENG GABRIEL</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">THE BOYS' BRIGADE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">THERESA TAN QIAN RU</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CHINESE DANCE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">YEO DONG CHENG</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SILVER</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">THE BOYS' BRIGADE</span></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Name</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Award</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit"> CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AZHAD B' ASRI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ATHLETICS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BATRISYIA HAKIMAH BTE ABDUL RAZAK</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ATHLETICS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CHAI YOU KEE EMILY</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ART CLUB</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">GABRIELLE TRASPORTO</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">IMRAAN KHAN B ABDUL AZIZ</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">FOOTBALL BOYS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ISHERIL MELISA BTE ISHAK</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">FOOTBALL GIRLS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">KABINESH GANESAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NPCC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">KAREN HAW QIAN ENN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">INFOCOMM CLUB</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">KOH HAU YEE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ART CLUB</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LEE KAH SENG MARCUS</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ELDDS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LIM CHUN LIAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NPCC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LIM YOU WEI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BASKETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MAHIRA NURSYAZA BTE MAZLAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MUHAMMAD HAZIQ MUSTAQIM B M Y</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CONCERT BAND</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MUHAMMAD NABEEL B HUSSAIN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NPCC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NORSYAFARINA BTE MUHAMAD NASAHRUDIN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NUR ATIQAH BTE MOHD FARID</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">FOOTBALL GIRLS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NUR EDRIANNA QISTINA BTE MUHD MAHADI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">FOOTBALL GIRLS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NUR QAMARINA BTE ZULKARNAIN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ATHLETICS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NURUL FAEZAH BTE HUSSIN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">PANG YEN LING</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BADMINTON</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">PRISCILLA THOMAS</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">INFOCOMM CLUB</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">RIVIYA DAHLIA</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SAMANTHA ONG YIN LUAN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SANJANA SAKTHIVEL</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">INFOCOMM CLUB</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SYAFIQ IZZUDDIN B HUSIN</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SEPAK TAKRAW</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SYAHIDAH BTE HAMZAH</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CONCERT BAND</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">TAN YING YING</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CONCERT BAND</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">THAM KAI LIM KIMBERLY</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NETBALL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">TIMOTHY KOH MING HUI</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ART CLUB</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">TOH XIN YIN JOSELYNE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">BRONZE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NETBALL</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+#### Individual Award
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">CCA</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Competition</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ELDDS (Debates)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Evergreen Invitational Debates</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Best Speaker of the Team</span><br><span style="font-weight:inherit;font-style:inherit">– VAN NORIEL MC CARTNEY ORDONIO</span></td>
+  </tr>
+</tbody>
+</table>
+
