@@ -126,6 +126,8 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
     *   Students are to wear white socks and shoes with white shoe laces. Only thin discreet lines around the base of the shoe are allowed. Only white socks above ankle-length can be worn.
 *   Students are to observe the following:
 
+
+<a id="appearance"></a>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
