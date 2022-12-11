@@ -44,3 +44,23 @@ by [ELDDS] (LINK HERE)
 <img src="/images/a21-7.jpeg" 
      style="width:100%">
 **Accomplishment** for [Concert Band](https://woodlandssec.moe.edu.sg/ccas/performing-arts/#concert-band)
+
+------
+
+### 2020 Achievements
+
+###### NYP SCIENCE & TECHNOLOGY CHALLENGE 2020
+![](/images/a20-1.jpeg)
+**Most Innovative Award**
+
+###### LIVE ON DESIGN COMPETITION
+![](/images/a20-2.jpeg)
+**High Distinction Prize**  
+**Top 10 entry** out of 1000 submissions  
+Nur Nadiah (4B2)
+
+###### ANIMATION & GAME-MAKING COMPETITION
+
+![](/images/a20-3.jpeg)
+**Silver Award**   
+Nur Filzah (3G)
