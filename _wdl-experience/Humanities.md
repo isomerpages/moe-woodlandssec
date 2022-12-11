@@ -54,3 +54,6 @@ As Humanities subjects are new to secondary school students, the following is do
   </tr>
 </tbody>
 </table>
+
+![](/images/humans1.png)
+![](/images/humans2.png)
