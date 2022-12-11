@@ -747,13 +747,26 @@ Human Values Drama Festival - Semi-finals
 <center>Third Place</center>
 
 RippleUX
+
 <img src="/images/a18-4.jpeg" 
      style="width:65%">
 <center>Best poster Exhibition Award 2018 (Senior Category)</center>
 
+Robocup 2018 Singapore Open
+
 <img src="/images/a18-5.jpeg" 
      style="width:65%">
+<center>Second place</center>
+
+
+-------
+
+#### Uniformed Groups
+
+##### BOYS BRIGADE
+
+J M Fraser Award for Excellenc
 
 <img src="/images/a18-6.jpeg" 
      style="width:65%">
-
+<center>Silver</center>
