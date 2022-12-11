@@ -126,6 +126,32 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
     *   Students are to wear white socks and shoes with white shoe laces. Only thin discreet lines around the base of the shoe are allowed. Only white socks above ankle-length can be worn.
 *   Students are to observe the following:
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-l8if{background-color:#FFF;color:#3A3A3A;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 399px">
+<col style="width: 401px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">BOYS</span></td>
+    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">GIRLS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-oku2"><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Boys must be clean-shaven at all times and facial hair is not to be kept.</span><br><span style="font-weight:700;font-style:normal">• </span><span style="font-weight:inherit;font-style:inherit">Boys must sport short, neat hairstyle and well-combed. Hair should not touch the eyebrows, ears or collar.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Dyeing/ highlighting of hair and/or fanciful hairstyle are not allowed.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Ear-sticks, rings, necklace or jewellery of any kind are not allowed.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Nails are to be kept short and clean.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> No coloured contact lens is allowed.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Body art/tattoos and piercings are strictly forbidden.</span></td>
+    <td class="tg-oku2"><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Hair must be kept neat and the fringe of the hair should be above the eyebrow. Shoulder length or long hair is to be plaited or tied-up with dark coloured hair clips or bands.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Use of cosmetics (make-up) is</span> <span style="font-weight:bold;font-style:inherit">NOT</span> <span style="font-weight:inherit;font-style:inherit">allowed.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Dyeing/ highlighting of hair and/or fanciful hairstyle are not allowed.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Earrings, if worn, should be simple and identical, with only one on each earlobe. Rings, necklace or jewellery of any kind are</span> <span style="font-weight:bold;font-style:inherit">NOT</span> <span style="font-weight:inherit;font-style:inherit">allowed.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Nails are to be kept short and clean. The use of nail polish is not permitted.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> No coloured contact lens is allowed.</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Body art/tattoos and piercings are strictly forbidden</span></td>
+  </tr>
+</tbody>
+</table>
+
 <a id="5"></a>
 
 
@@ -133,4 +159,3 @@ Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to u
 
 
 <a id="7"></a>
-
