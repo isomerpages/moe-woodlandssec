@@ -15,8 +15,40 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-wxe1"><a href="#1">
-<span style="color:#FFF">Parents Support Group (PSG@WDL)</span></td>
-		<td class="tg-wxe1"><span style="color:#FFF"></span></a></td>
+			<span style="color:#FFF">Parents Support Group (PSG@WDL)</span></a></td>
+		<td class="tg-wxe1"><a href="#2"><span style="color:#FFF">Alumni</span></a></td>
   </tr>
 </tbody>
 </table>
+
+
+<a id="1"></a>
+
+### Parents Support Group (PSG@WDL)
+
+##### Vision
+
+Involved Parents, Inspired Woodlanders
+
+##### Mission
+
+Working hand in hand to support the school endeavor towards excellence
+
+##### Objectives
+
+The Parent Support Group:
+
+*   plays an important role in promoting and fostering w between home and school like organising projects to benefit the students in the areas of educational interest and welfare;
+*   serves as a communication channel for parents to provide constructive feedback on school programmes; and
+*   recruiting and leading other parents to join this meaningful endeavour to ensure sustainability of home-school partnership.
+
+##### Key Programme
+
+*   Welcome dinner for new members
+*   Sports Fiesta
+*   Cross Country
+*   Parents’ workshop and seminar
+*   Hosting International students for Hari Raya Celebrations
+*   Teachers’ Day celebration
+
+(For more information and latest updates, please join “[WDL PSG](https://www.facebook.com/pages/WDL-PSG/492211320814534?fref=ts)” Facebook group)
