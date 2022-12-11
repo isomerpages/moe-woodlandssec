@@ -1,4 +1,5 @@
 collections:
   wdl-experience:
     output: true
-    order: []
+    order:
+      - Character & Citizenship Education (CCE).md
