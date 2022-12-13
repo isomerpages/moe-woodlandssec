@@ -79,3 +79,7 @@ Students are exposed to 2 areas of learning - Food Science and Computational Thi
   </tr>
 </tbody>
 </table>
+
+![](/images/alp1.png)
+![](/images/alp2.png)
+![](/images/alp3.png)
