@@ -331,9 +331,9 @@ Miss Low May Ann Shawna
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 144px">
+<table class="tg" style="undefined;table-layout: fixed; width: 160px">
 <colgroup>
-<col style="width: 34px">
+<col style="width: 50px">
 <col style="width: 110px">
 </colgroup>
 <tbody>
@@ -341,7 +341,7 @@ Miss Low May Ann Shawna
     <td class="tg-x5q1"><a href = "https://www.instagram.com/wdl_ncdcc/" target = "_self"> 
           <img src="/images/instagram.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-x5q1"></td>
+		<td class="tg-x5q1"><a href="https://www.instagram.com/wdl_ncdcc/">@wdl_ncdcc</a></td>
   </tr>
 </tbody>
 </table>
