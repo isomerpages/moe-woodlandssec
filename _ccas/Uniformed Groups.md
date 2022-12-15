@@ -420,3 +420,39 @@ Mr Muhammad Tirmidzi Bin Khalid
   </tr>
 </tbody>
 </table>
+
+##### Key Info & Programmes
+
+*   Crime Scene Investigation (CSI) - where cadets will learn how to analyse the crime scene and get to experience how to dust for finger prints for evidence.
+*   Unarmed Tactics - where cadets learn the basics of self-defence from SPF trainers.
+*   Annual .22 Revolver Shooting - Sec 2 & 3 will get to experience live shooting using a real revolver.
+*   Adventure training camp & Survival training camp at Pulau Ubin.
+*   Enrichment courses like 1st Aid, Kayaking 1 Star, Self defence & Shooting.
+
+
+##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2011 - 2019 Overall Unit Proficiency Award</span></td>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Gold Award</span><br><span style="font-weight:inherit;font-style:inherit">(9 consecutive years of Gold Award)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2020 SPF-NPCC Badge</span></td>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">1 Recipient</span><br><span style="font-weight:inherit;font-style:inherit">(9 in total for the past 7 years)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2019 Inter-Unit Drill Competition</span></td>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Top 50</span></td>
+  </tr>
+</tbody>
+</table>
