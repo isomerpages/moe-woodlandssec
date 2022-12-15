@@ -194,7 +194,10 @@ HQ activities and trainings on some Saturdays for selected Guides.
 </tbody>
 </table>
 
--------
+--------
+
+<a id="3"></a>
+
 
 ### NCC
 
@@ -277,3 +280,92 @@ To develop our young NCC leaders to have the following:
   </tr>
 </tbody>
 </table>
+
+
+
+--------
+
+<a id="4"></a>
+
+### NCDCC
+
+##### NATIONAL CIVIL DEFENCE CADET CORPS
+
+![](/images/ncdcc.jpeg)
+
+##### Teachers-in-Charge
+
+Mr Lee Jia Xin (OIC)  
+Ms Yeo Su Yan (AIC)  
+Miss Low May Ann Shawna
+
+
+##### Weekly Training Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 275px">
+<colgroup>
+<col style="width: 275px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Social Media
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 144px">
+<colgroup>
+<col style="width: 34px">
+<col style="width: 110px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><a href = "https://www.instagram.com/wdl_ncdcc/" target = "_self"> 
+          <img src="/images/instagram.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-x5q1"></td>
+  </tr>
+</tbody>
+</table>
+ 
+ ##### Key Info & Programmes
+
+**Objectives:**    
+**We Learn, We Lead, We Serve**
+
+*   Developing and empowering our youths to be active and concerned citizens with life-saving skills.
+*   Develop greater awareness of civil defence
+
+**Key Programmes  Structured Training Programme which includes:**
+*   Basic firefighting, first aid and CPR+AED Modules
+*   Drills excellence
+*   Proficiency badges
+*   Structured community service
+*   Sports & Wellness Programme
+
+
+
+
+
+
+--------
+
+<a id="5"></a>
