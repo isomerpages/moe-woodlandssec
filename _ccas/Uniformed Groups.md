@@ -354,12 +354,33 @@ Miss Low May Ann Shawna
 *   Developing and empowering our youths to be active and concerned citizens with life-saving skills.
 *   Develop greater awareness of civil defence
 
-**Key Programmes  Structured Training Programme which includes:**
+**Key Programmes**   
+**Structured Training Programme which includes:**
 *   Basic firefighting, first aid and CPR+AED Modules
 *   Drills excellence
 *   Proficiency badges
 *   Structured community service
 *   Sports & Wellness Programme
+
+##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Unit Overall Proficiency Award (UOPA)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 
