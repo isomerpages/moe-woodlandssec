@@ -106,6 +106,70 @@ Mr Lin Zhaowei
 <a id="2"></a>
 
 
+### Badminton
+
+![](/images/Badminton_4.jpeg)
+
+##### Teachers-in-Charge
+
+Miss Tay Li Ching (OIC)  
+Mr Wong Chin Choong Brian
+
+##### Weekly Training Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<colgroup>
+<col style="width: 300px">
+</colgroup>
+	<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">3.00 - 6.00pm</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Key Info & Programmes
+
+*   Community Involvement via in Value in Action Programme
+*   Badminton Day Camp
+*   Sec 1 Welcoming party
+*   Sec 4 Graduation Farewell
+*   Annual B & C National School Games
+*   Interschool friendly matches
+
+##### Recent Achievements
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Sportsmanship</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">- 5th Place</span><br><span style="font-weight:inherit;font-style:inherit">- Certificate of Sportsmanship</span></td>
+  </tr>
+</tbody>
+</table>
+
 
 
 
