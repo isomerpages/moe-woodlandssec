@@ -26,4 +26,21 @@ description: ""
 
 <a id="1"></a>
 
-Hello
+### Boys' Brigade
+
+##### THE BOY'S BRIGADE 66TH SINGAPORE COMPANY
+
+##### Teachers-in-Charge
+
+Mr Tan Eng Hui  
+Mr Lim Kian Beng  
+Miss Kee Jing Yee  
+
+##### Officers
+
+Rev. Joseph Heng, LTA (Chaplain)  
+Mr Harry Lim, LTA (Captain)  
+Mr Peh Chee Leong, LTA  
+Mr Yang Jiangang, LTA  
+Mr Lim Mou Yee, 2LT  
+Mdm Choo Kai Ee, 2LT
