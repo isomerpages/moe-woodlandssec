@@ -9,9 +9,16 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:16px;text-align:center;vertical-align:middle}
+.tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 160px">
+<col style="width: 160px">
+<col style="width: 160px">
+<col style="width: 160px">
+<col style="width: 160px">
+</colgroup>
 <tbody>
   <tr>
 		<td class="tg-fj82"><a href="#1"><span style="color:#FFF;background-color:#034289">Boys' Brigade</span></a></td>
