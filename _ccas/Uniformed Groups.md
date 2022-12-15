@@ -144,3 +144,140 @@ Miss Divyalakshmi d/o Muthu Saminathan
   </tr>
 </tbody>
 </table>
+
+
+HQ activities and trainings on some Saturdays for selected Guides.
+
+##### Key Info & Programmes
+
+*   Leadership & Character Development
+*   Outdoor Skills Training
+*   UN Sustainable Development Goals Advocacy
+*   Community Involvement in Sree Narayana Mission
+*   Annual Camp to foster bonding & Teamwork
+
+
+##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2019 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">2019 North Division Masterchef</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1st</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">2019 North Division Day Telematch</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1st</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2018 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2018 North Division Amazing Race</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">3rd</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2018 North Division Outdoor Challenge 2018</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Patrol Flag (1st)</span></td>
+  </tr>
+</tbody>
+</table>
+
+-------
+
+<a id="3"></a>
+
+### NCC
+
+##### NATIONAL CADET CORPS
+
+![](/images/ncc.jpeg)
+
+##### Teachers-in-Charge
+
+Mr Michael Eric Basuki (OIC)  
+Miss Saranya d/o Thayalan  
+Mr Chun Guan Yang
+
+##### Weekly Training Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<colgroup>
+<col style="width: 300px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br>Sec 3: 2.45 – 5.45pm<br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Key Info & Programmes
+
+**Objective**
+
+To develop our young NCC leaders to have the following:
+
+*   Fit body
+*   Committed Heart
+*   A resilient Mind
+
+**Key Events**
+
+*   Camp Forge (Sec 1)
+*   Camp Steel (Sec 2)
+*   Orienteering Competition (Sec 2)
+*   Advanced Drill Course (Sec 3)
+*   Specialist Course (Sec 3)
+*   Senior Specialist Course (Sec 3)
+*   Fitness Challenge (All)
+*   Sports Championship (All)
+*   Precision Drill Competition (All)
+
+##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">2020 Outstanding Cadet Award</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Awarded to Gabriel Goh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">2019 NCC Unit Recognition (UR) Award</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">2018 NCC Unit Recognition (UR) Award</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
+  </tr>
+</tbody>
+</table>
