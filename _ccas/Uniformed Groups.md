@@ -107,3 +107,10 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
   </tr>
 </tbody>
 </table>
+
+--------
+
+<a id="2"></a>
+
+### Girl Guides
+
