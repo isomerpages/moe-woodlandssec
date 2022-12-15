@@ -198,8 +198,6 @@ HQ activities and trainings on some Saturdays for selected Guides.
 
 -------
 
-<a id="3"></a>
-
 ### NCC
 
 ##### NATIONAL CADET CORPS
@@ -228,7 +226,7 @@ Mr Chun Guan Yang
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br>Sec 3: 2.45 – 5.45pm<br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
+    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
   </tr>
 </tbody>
 </table>
@@ -263,21 +261,21 @@ To develop our young NCC leaders to have the following:
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">2020 Outstanding Cadet Award</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Awarded to Gabriel Goh</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 Outstanding Cadet Award</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Awarded to Gabriel Goh</span></td>
   </tr>
   <tr>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">2019 NCC Unit Recognition (UR) Award</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 NCC Unit Recognition (UR) Award</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
   </tr>
   <tr>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">2018 NCC Unit Recognition (UR) Award</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 NCC Unit Recognition (UR) Award</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
   </tr>
 </tbody>
 </table>
