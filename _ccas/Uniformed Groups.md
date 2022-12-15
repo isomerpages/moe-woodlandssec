@@ -30,6 +30,8 @@ description: ""
 
 ##### THE BOY'S BRIGADE 66TH SINGAPORE COMPANY
 
+![](/images/bb1.jpg)
+
 ##### Teachers-in-Charge
 
 Mr Tan Eng Hui  
@@ -114,3 +116,4 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 
 ### Girl Guides
 
+![](/images/girl-guides.jpeg)
