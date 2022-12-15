@@ -87,7 +87,7 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 461px">
 <colgroup>
@@ -125,26 +125,24 @@ Miss Uma Sankgery d/o Pandyan (AIC)
 Miss Divyalakshmi d/o Muthu Saminathan
 
 ##### Weekly Training Schedule
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<table class="tg" style="undefined;table-layout: fixed; width: 248px">
 <colgroup>
-<col style="width: 300px">
+<col style="width: 248px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-weight:inherit;font-style:inherit">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:inherit;font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:inherit;font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:inherit;font-style:inherit">Sec 4s/5: 2.45 – 6pm</span></td>
   </tr>
 </tbody>
 </table>
-
 
 HQ activities and trainings on some Saturdays for selected Guides.
 
