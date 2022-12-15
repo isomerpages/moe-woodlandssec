@@ -67,3 +67,43 @@ Mdm Choo Kai Ee, 2LT
 </table>
 
 HQ activities and trainings on some Saturdays for selected Boys.
+
+##### Key Info & Programmes
+
+A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) with the following key outcomes:
+
+*   Character Formation through Community
+*   Engagement events such as BB CARES and BB Share-a-Gift
+*   Leadership Development through Officers/Teachers’ close mentoring of the Boys.
+*   Adventure fun through various ventures, like kayaking, and Camp Craft
+
+##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 461px">
+<colgroup>
+<col style="width: 207px">
+<col style="width: 254px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">JM Fraser Award 2020</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Founders’ Awardees 2020</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Awarded to</span><br><span style="font-weight:inherit;font-style:inherit">- SSGT Loh Qi Won, Sylvester</span><br><span style="font-weight:inherit;font-style:inherit">- SSGT Gan Shiu Kuan</span><br><span style="font-weight:inherit;font-style:inherit">- SSGT Tan Jin Xiang</span></td>
+  </tr>
+  <tr>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">JM Fraser Award 2020</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
+  </tr>
+</tbody>
+</table>
