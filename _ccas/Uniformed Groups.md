@@ -163,33 +163,33 @@ HQ activities and trainings on some Saturdays for selected Guides.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2019 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">2019 North Division Masterchef</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1st</span></td>
+    <td class="tg-ppvc"><span style="font-weight:400;font-style:inherit">2019 North Division Masterchef</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">1st</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">2019 North Division Day Telematch</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1st</span></td>
+    <td class="tg-ppvc"><span style="font-weight:400;font-style:inherit">2019 North Division Day Telematch</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">1st</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2018 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2018 North Division Amazing Race</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">3rd</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 North Division Amazing Race</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2018 North Division Outdoor Challenge 2018</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Patrol Flag (1st)</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 North Division Outdoor Challenge 2018</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Patrol Flag (1st)</span></td>
   </tr>
 </tbody>
 </table>
