@@ -3,7 +3,13 @@ title: Sports & Games
 permalink: /ccas/sports-and-games/
 description: ""
 ---
-<style type="text/css">
+##### Teachers-in-Charge
+
+Mdm Intan Badariah Bushra (OIC)  
+Ms Lim Jia Wen  
+Ms Siti Farhana Binte Abdullah
+
+##### Weekly Training Schedule<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -11,7 +17,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
 <col style="width: 160px">
 <col style="width: 160px">
@@ -61,7 +67,7 @@ Mr Lin Zhaowei
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<table style="undefined;table-layout: fixed; width: 300px" class="tg">
 <colgroup>
 <col style="width: 257px">
 </colgroup>
@@ -75,7 +81,7 @@ Mr Lin Zhaowei
 </tbody>
 </table>
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 *   National School Games Championships
 *   Akira SWIFT X-Country
@@ -125,7 +131,7 @@ Mr Wong Chin Choong Brian
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<table style="undefined;table-layout: fixed; width: 300px" class="tg">
 <colgroup>
 <col style="width: 300px">
 </colgroup>
@@ -139,16 +145,17 @@ Mr Wong Chin Choong Brian
 </tbody>
 </table>
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 *   Community Involvement via in Value in Action Programme
 *   Badminton Day Camp
 *   Sec 1 Welcoming party
 *   Sec 4 Graduation Farewell
-*   Annual B & C National School Games
+*   Annual B &amp; C National School Games
 *   Interschool friendly matches
 
 ##### Recent Achievements
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -193,7 +200,7 @@ Mr Li Rui
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<table style="undefined;table-layout: fixed; width: 300px" class="tg">
 <colgroup>
 <col style="width: 300px">
 </colgroup>
@@ -207,20 +214,57 @@ Mr Li Rui
 </tbody>
 </table>
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 *   Values-in-Action (VIA) Programme
 *   Friendly matches
 *   North Zone Competition
 
 
-
-
-
-
-
 --------
 <a id="4"></a>
+
+### Football (Girls)
+
+![](/images/football-girls.jpeg)
+
+##### Teachers-in-Charge
+
+Mdm Intan Badariah Bushra (OIC)  
+Ms Lim Jia Wen  
+Ms Siti Farhana Binte Abdullah
+
+##### Weekly Training Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table style="undefined;table-layout: fixed; width: 300px" class="tg">
+<colgroup>
+<col style="width: 300px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5.00pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4/5: 2.45 – 6.00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:normal">Thursdays</span><br><span style="font-weight:400;font-style:normal">4.00 - 6.00pm</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Key Info &amp; Programmes
+
+*   Annual ‘B’ and ‘C’ National School Games (NSG)
+*   GESS Volkswagen Cup
+*   Team-building Activities
+
+##### Recent Achievements
 
 
 
