@@ -9,7 +9,9 @@ Mdm Intan Badariah Bushra (OIC)
 Ms Lim Jia Wen  
 Ms Siti Farhana Binte Abdullah
 
-##### Weekly Training Schedule<style type="text/css">
+##### Weekly Training Schedule
+
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
