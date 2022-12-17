@@ -29,3 +29,38 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+
+<a id="1"></a>
+### Choir
+
+![](/images/choir-scaled.jpeg)
+
+##### Teachers-in-Charge
+
+Ms Farhana Binte Zulkifli (OIC)  
+Mdm Fu Jian Ning Janny
+
+##### Weekly Training Schedule
+
+
+
+-------
+<a id="2"></a>
+
+
+
+-------
+<a id="3"></a>
+
+
+
+
+-------
+<a id="4"></a>
+
+
+
+-------
+<a id="5"></a>
