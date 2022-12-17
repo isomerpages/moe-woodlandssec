@@ -3,7 +3,6 @@ title: Sports & Games
 permalink: /ccas/sports-and-games/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -260,7 +259,33 @@ Ms Siti Farhana Binte Abdullah
 
 ##### Recent Achievements
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ppvc" rowspan="2"><span style="font-weight:inherit;font-style:inherit">2019 SSSC/FAS ‘C’ Division Girls National Inter – School Football Championship 2018</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">First Runner Up</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Siti Noraini Binte Suyudi was awarded the "Most Promising Player" Award for the championship</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship 2018</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SOF Peter Lim Scholarship</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Nur Amirah Bte Mohamed Rosman was awarded the scholarship</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 --------
