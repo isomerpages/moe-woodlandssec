@@ -425,5 +425,37 @@ Miss Low Qiao Xuan
 </table>
 
 
+##### Key Info & Programmes
+
+At the end of their secondary education, each player will:
+
+*   be passionate about netball
+*   know netball rules and is able to play in at least 2 positions
+*   have played in at least 4 competitions
+*   have fostered good relationships with other team players and teachers-in-charge
+
+##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Girls</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd in Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Girls</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd in Group</span></td>
+  </tr>
+</tbody>
+</table>
+
 --------
 <a id="7"></a>
