@@ -249,7 +249,77 @@ Miss Lim Zhi Xuan
 -------
 <a id="4"></a>
 
+### ELDDS
 
+##### ENGLISH LANGUAGE DRAMA AND DEBATING SOCIETY
+
+![](/images/syf2021-drama.jpeg)
+
+##### Teachers-in-Charge
+
+Ms Grace Sum Lai Yee (OIC)  
+Mdm Rozilawati Bte Kasran  
+Ms Ong Xin Yan, Alyssa
+
+##### Weekly Training Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<colgroup>
+<col style="width: 300px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4s/5: 2.45 – 6pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">4.00 - 6.00pm</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Key Info & Programmes
+
+**Debates:**
+
+*   Singapore Secondary School Debate Championship
+*   DADC
+*   Youth Debate Open
+
+**Drama:**
+
+*   Singapore Youth Festival
+*   Human Values Drama Festival
+
+##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2020 Human Values Drama Festival</span></td>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Certificate of Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2019 Singapore Youth Festival Arts Presentation</span></td>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
+  </tr>
+</tbody>
+</table>
 
 -------
 <a id="5"></a>
