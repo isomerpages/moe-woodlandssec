@@ -131,7 +131,7 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 .tg .tg-cly1{text-align:left;vertical-align:middle}
 .tg .tg-cqfb{font-size:18px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 225px">
+<table class="tg" style="undefined;table-layout: fixed; width: 255px">
 <colgroup>
 <col style="width: 55px">
 <col style="width: 200px">
