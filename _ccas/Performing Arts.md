@@ -87,7 +87,7 @@ Mdm Fu Jian Ning Janny
     <td class="tg-cqfb"><a href = "https://www.instagram.com/wdl_choir/" target = "_self"> 
           <img src="/images/instagram.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-cly1"><a href="https://www.instagram.com/wdl_choir/">@wdl_choir</a></td>
+    <td class="tg-cqfb"><a href="https://www.instagram.com/wdl_choir/">@wdl_choir</a></td>
   </tr>
 </tbody>
 </table>
@@ -106,10 +106,55 @@ Mdm Fu Jian Ning Janny
 WDL Choir was started in 2020.
 
 
-
 -------
 <a id="2"></a>
 
+### Concert Band
+
+![](/images/syf2021-band.jpeg)
+
+##### Teachers-in-Charge
+
+Miss Seah Wei Ee (OIC)  
+Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
+
+##### Weekly Training Schedule
+
+##### Social Media
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-cqfb{font-size:18px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 211px">
+<colgroup>
+<col style="width: 54px">
+<col style="width: 157px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdl_choir/" target = "_self"> 
+          <img src="/images/instagram.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-cqfb"><a href="https://www.instagram.com/wdl_choir/">@wdl_choir</a></td>
+  </tr>
+</tbody>
+</table>
+
+##### Key Info & Programmes
+
+*   SYF Presentation on alternate years
+*   School Aesthetics Showcase on alternate years
+*   School Performances for school festive events celebrations and National Day.
+*   Community involvement via the Values in Action Programme.
+*   Annual Band camp to foster bonding and teamwork.
+
+##### Recent Achievements
 
 
 -------
