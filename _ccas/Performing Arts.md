@@ -138,10 +138,10 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdl_choir/" target = "_self"> 
+    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdlsymphonicband/" target = "_self"> 
           <img src="/images/instagram.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-cqfb"><a href="https://www.instagram.com/wdl_choir/">@wdl_choir</a></td>
+    <td class="tg-cqfb"><a href="https://www.instagram.com/wdlsymphonicband/">@wdlsymphonicband</a></td>
   </tr>
 </tbody>
 </table>
