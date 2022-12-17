@@ -63,10 +63,10 @@ Mdm Fu Jian Ning Janny
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdl_ncdcc/" target = "_self"> 
+    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdl_choir/" target = "_self"> 
           <img src="/images/instagram.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-cly1"><a href="https://www.instagram.com/explore/tags/wdlnetball/">@wdl_netball</a></td>
+    <td class="tg-cly1"><a href="https://www.instagram.com/wdl_choir/">@wdl_choir</a></td>
   </tr>
 </tbody>
 </table>
