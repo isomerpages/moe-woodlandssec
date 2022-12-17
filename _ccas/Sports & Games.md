@@ -3,13 +3,6 @@ title: Sports & Games
 permalink: /ccas/sports-and-games/
 description: ""
 ---
-##### Teachers-in-Charge
-
-Mdm Intan Badariah Bushra (OIC)  
-Ms Lim Jia Wen  
-Ms Siti Farhana Binte Abdullah
-
-##### Weekly Training Schedule
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -44,7 +37,6 @@ Ms Siti Farhana Binte Abdullah
   </tr>
 </tbody>
 </table>
-
 
 
 <a id="1"></a>
