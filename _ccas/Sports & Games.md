@@ -3,6 +3,9 @@ title: Sports & Games
 permalink: /ccas/sports-and-games/
 description: ""
 ---
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -36,6 +39,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+
 
 
 <a id="1"></a>
@@ -399,7 +403,8 @@ Miss Low Qiao Xuan
 </tbody>
 </table>
 
-### Social Media
+##### Social Media
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -407,19 +412,20 @@ Miss Low Qiao Xuan
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 188px">
+<table class="tg" style="undefined;table-layout: fixed; width: 211px">
 <colgroup>
-<col style="width: 53px">
-<col style="width: 135px">
+<col style="width: 54px">
+<col style="width: 157px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-x5q1"><a href = "https://www.instagram.com/wdl_ncdcc/" target = "_self"> 
+    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdl_ncdcc/" target = "_self"> 
           <img src="/images/instagram.jpeg" 
      style="width:100%"></a></td>
-		<td class="tg-x5q1"><a href="https://www.instagram.com/explore/tags/wdlnetball/">@wdl_netball</a></td>
+    <td class="tg-cly1"><a href="https://www.instagram.com/explore/tags/wdlnetball/">@wdl_netball</a></td>
   </tr>
 </tbody>
 </table>
