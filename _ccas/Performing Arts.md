@@ -360,6 +360,30 @@ Mdm Liyana Binte Kamsani
 ##### Social Media
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-cqfb{font-size:18px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 255px">
+<colgroup>
+<col style="width: 55px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-cqfb"><a href = "https://www.instagram.com/alunan_sutera/" target = "_self"> 
+          <img src="/images/instagram.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-cqfb"><a href="https://www.instagram.com/alunan_sutera/">@alunan_sutera</a></td>
+  </tr>
+</tbody>
+</table>
+
 ##### Key Info & Programmes
 
 *   SYF Arts Presentation
@@ -370,3 +394,28 @@ Mdm Liyana Binte Kamsani
 *   Internal/ external performances
 
 ##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SYF Arts Presentation</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 Istana National Day Open House</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Performers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 SYF Arts Presentation</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Distinction</span></td>
+  </tr>
+</tbody>
+</table>
