@@ -2,5 +2,6 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts.md
       - Sports & Games.md
       - Uniformed Groups.md
