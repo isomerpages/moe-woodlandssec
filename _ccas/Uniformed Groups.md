@@ -331,17 +331,17 @@ Miss Low May Ann Shawna
 ##### Social Media
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 160px">
+<table class="tg" style="undefined;table-layout: fixed; width: 188px">
 <colgroup>
-<col style="width: 50px">
-<col style="width: 110px">
+<col style="width: 53px">
+<col style="width: 135px">
 </colgroup>
 <tbody>
   <tr>
@@ -352,6 +352,7 @@ Miss Low May Ann Shawna
   </tr>
 </tbody>
 </table>
+ 
  
  ##### Key Info & Programmes
 
