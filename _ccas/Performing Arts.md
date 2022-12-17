@@ -44,6 +44,27 @@ Mdm Fu Jian Ning Janny
 
 ##### Weekly Training Schedule
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 205px">
+<colgroup>
+<col style="width: 205px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4s/5: 2.45 – 6pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">4.00 - 6.00pm</span></td>
+  </tr>
+</tbody>
+</table>
 
 ##### Social Media
 
@@ -83,6 +104,7 @@ Mdm Fu Jian Ning Janny
 ##### Recent Achievements
 
 WDL Choir was started in 2020.
+
 
 
 -------
