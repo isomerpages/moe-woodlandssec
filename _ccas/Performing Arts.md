@@ -131,10 +131,10 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 .tg .tg-cly1{text-align:left;vertical-align:middle}
 .tg .tg-cqfb{font-size:18px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 211px">
+<table class="tg" style="undefined;table-layout: fixed; width: 225px">
 <colgroup>
-<col style="width: 54px">
-<col style="width: 157px">
+<col style="width: 55px">
+<col style="width: 200px">
 </colgroup>
 <tbody>
   <tr>
@@ -156,6 +156,26 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 
 ##### Recent Achievements
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Singapore Youth Festival Arts Presentation</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Youth Festival Arts Presentation</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
+  </tr>
+</tbody>
+</table>
 
 -------
 <a id="3"></a>
