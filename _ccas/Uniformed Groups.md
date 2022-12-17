@@ -354,7 +354,8 @@ Miss Low May Ann Shawna
 </table>
  
  
- ##### Key Info & Programmes
+
+##### Key Info & Programmes
 
 **Objectives:**    
 **We Learn, We Lead, We Serve**
