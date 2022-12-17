@@ -71,6 +71,18 @@ Mdm Fu Jian Ning Janny
 </tbody>
 </table>
 
+##### Key Info & Programmes
+
+*   SYF Presentation (biennial)
+*   School Aesthetics Showcase (biennial)
+*   School Performances for school events and festive celebrations
+*   Values-in-Action service to the community
+*   Termly Games and Team-bonding activities
+*   Annual Choir Camp -- build up leadership skills and musical proficiency
+
+##### Recent Achievements
+
+WDL Choir was started in 2020.
 
 
 -------
