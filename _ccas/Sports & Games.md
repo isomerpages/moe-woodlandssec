@@ -366,6 +366,38 @@ Mr Ang Choon Peng
 <a id="6"></a>
 
 
+### Netball
+
+![](/images/Netball-2.jpeg)
+
+##### Teachers-in-Charge
+
+Ms Eliza binte Mohamed (OIC)  
+Miss Low Qiao Xuan
+
+##### Weekly Training Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<colgroup>
+<col style="width: 300px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Fridays</span><br><span style="font-style:inherit">1.00 - 3.00pm</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 
