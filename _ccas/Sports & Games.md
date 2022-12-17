@@ -287,12 +287,79 @@ Ms Siti Farhana Binte Abdullah
 </tbody>
 </table>
 
-
 --------
 <a id="5"></a>
 
 
+### Football (Boys)
 
+![](/images/football-boys.jpeg)
+
+
+##### Teachers-in-Charge
+
+Mr Muhammad Kamal Bin Abdul Halim (OIC)  
+Mr Ang Choon Peng
+
+##### Weekly Training Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
+<colgroup>
+<col style="width: 300px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Fridays</span><br><span style="font-style:inherit">2.30 - 5.30pm</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Key Info & Programmes
+
+*   Annual ‘B’ and ‘C’ National School Games (NSG)
+*   Seasonal Football League
+*   Road to Valencia 2020
+*   Invited Guest Speaker from external football organisation
+*   Team-building Activities
+*   External competitions
+
+##### Recent Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 2 Group Stage</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 2 Group Stage</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 1 Group Stage</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 --------
