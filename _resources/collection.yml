@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Booklists & Uniform.md
       - Counselling.md
       - Education and Career Guidance (ECG).md
       - Special Education Needs.md
