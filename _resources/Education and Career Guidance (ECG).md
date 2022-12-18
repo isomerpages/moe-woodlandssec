@@ -29,4 +29,4 @@ Parents or Students who would like to explore more about subject choices, enquir
 </table>
 
 **Contact details:**  
-**Email: [subramaniyam\_jekanathan@schools.gov.sg](mailto:subramaniyam_jekanathan@schools.gov.sg)**
+Email: [subramaniyam\_jekanathan@schools.gov.sg](mailto:subramaniyam_jekanathan@schools.gov.sg)
