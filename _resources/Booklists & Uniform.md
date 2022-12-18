@@ -46,7 +46,7 @@ description: ""
 
 #### Booklists for 2022 Sec 3s
 
-*   [For Sec 3 Exp](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S3-EXP.pdf)
+*   [For Sec 3 Exp][](/files/WDLSS-Booklist-S3-EXP.pdf)
 *   [For Sec 3 Normal (Academic)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S3-NA.pdf)
     *   [For Sec 3 Normal (Academic) Students taking SBB Subject(s)\*](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S3-NA-SBB.pdf)
 *   [For Sec 3 Normal (Technical)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S3-NT.pdf)
