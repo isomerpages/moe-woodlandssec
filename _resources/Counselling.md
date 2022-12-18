@@ -13,7 +13,7 @@ We have school counsellors who are able to provide a listening ear to your probl
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oqf2{background-color:#034289;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-oqf2{background-color:#034289;font-size:18px;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 439px">
 <colgroup>
