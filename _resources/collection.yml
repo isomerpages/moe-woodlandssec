@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Contact Information.md
       - Student Handbook.md
       - Booklists & Uniform.md
       - Counselling.md
