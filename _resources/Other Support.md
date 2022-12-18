@@ -18,6 +18,24 @@ An Anti-Bullying week is set aside yearly to educate students on the issue of bu
 Woodlands Secondary School is one of the first schools to offer Positive Parenting Programme (Triple P) and Signposts. These programmes are among the few parenting programmes in the world that have been proven to work. They provide parents with tools and strategies to improve their children's behaviour and reduce parenting stress.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1d4EruZ4f6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-More information about Care Corner Parenting Support Services Positive Parenting Programme (Triple P)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6nwz{font-size:14px;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 596px">
+<colgroup>
+<col style="width: 596px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-6nwz">More information about Care Corner Parenting Support Services Positive Parenting Programme (Triple P)</td>
+  </tr>
+</tbody>
+</table>
 
 Find out more how to support your child's transition to secondary school with a seminar by [Care Corner](https://www.carecorner.org.sg/) [Parenting Support Services.](https://www.carecorner.org.sg/parenting-support) \- [Programme Brochure and Registration Details] (pdf file larger than 5mb)
