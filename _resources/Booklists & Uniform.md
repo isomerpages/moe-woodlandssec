@@ -26,7 +26,7 @@ description: ""
 
 #### Booklists for 2022 Sec 1s
 
-*   [For Sec 1 Exp][](/files/WDLSS-Booklist-S1-EXP.pdf)
+*   [For Sec 1 Exp](/files/WDLSS-Booklist-S1-EXP.pdf)
 *   [For Sec 1 Normal (Academic)](/files/WDLSS-Booklist-S1-NA.pdf)
     *   [For Sec 1 N(A) Students taking SBB Subject(s)](/files/WDLSS-Booklist-S1-NA-SBB.pdf)\*
 *   [For Sec 1 Normal (Technical)](/files/WDLSS-Booklist-S1-NT.pdf)
