@@ -25,3 +25,5 @@ We have school counsellors who are able to provide a listening ear to your probl
   </tr>
 </tbody>
 </table>
+
+For Education & Career Guidance (ECG) related matters, please visit [the ECG page](https://woodlandssec.moe.edu.sg/resources/ecg/).
