@@ -20,5 +20,4 @@ Woodlands Secondary School is one of the first schools to offer Positive Parenti
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1d4EruZ4f6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 More information about Care Corner Parenting Support Services Positive Parenting Programme (Triple P)
 
-Find out more how to support your child's transition to secondary school with a seminar by [Care Corner](https://www.carecorner.org.sg/) [Parenting Support Services.](https://www.carecorner.org.sg/parenting-support)  
-\- [Programme Brochure and Registration Details] (pdf file larger than 5mb)
+Find out more how to support your child's transition to secondary school with a seminar by [Care Corner](https://www.carecorner.org.sg/) [Parenting Support Services.](https://www.carecorner.org.sg/parenting-support) \- [Programme Brochure and Registration Details] (pdf file larger than 5mb)
