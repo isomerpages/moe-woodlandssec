@@ -36,13 +36,13 @@ description: ""
 
 #### Booklists for 2022 Sec 2s
 
-*   [For Sec 2 Exp](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S2-EXP.pdf)
-*   [For Sec 2 Normal (Academic)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S2-NA.pdf)
-    *   [For Sec 2 Normal (Academic) Students taking SBB Subject(s)\*](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S2-NA-SBB.pdf)
-*   [For Sec 2 Normal (Technical)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S2-NT.pdf)
-    *   [For Sec 2 Normal (Technical) Students taking SBB Subject(s)\*](https://woodlandssec.moe.edu.sg/wp-content/uploads/2021/11/WDLSS-Booklist-S2-NT-SBB.pdf)
+*   [For Sec 2 Exp](/files/WDLSS-Booklist-S2-EXP.pdf)
+*   [For Sec 2 Normal (Academic)](/files/WDLSS-Booklist-S2-NA.pdf)
+    *   [For Sec 2 Normal (Academic) Students taking SBB Subject(s)\*](/files/WDLSS-Booklist-S2-NA-SBB.pdf)
+*   [For Sec 2 Normal (Technical)](/files/WDLSS-Booklist-S2-NT.pdf)
+    *   [For Sec 2 Normal (Technical) Students taking SBB Subject(s)\*](/files/WDLSS-Booklist-S2-NT-SBB.pdf)
 
-\*Please purchase materials only for the SBB Subject(s) you are taking. [(More Info)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2020/12/sbb-buy-textbook-advisory.pdf)
+\*Please purchase materials only for the SBB Subject(s) you are taking. [(More Info)](/files/sbb-buy-textbook-advisory.pdf)
 
 #### Booklists for 2022 Sec 3s
 
