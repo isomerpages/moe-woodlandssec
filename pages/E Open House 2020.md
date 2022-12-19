@@ -284,3 +284,42 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 ##### CCAs play an important role in growing our Woodlanders’ gifts. With caring seniors and teachers, how would you like to grow your interests?
 
 ### Test it out by learning a skill from our CCA seniors!
+
+
+##### PERFORMING ARTS
+
+[(Watch all as a playlist on YouTube)](https://www.youtube.com/playlist?list=PL3LU17pYOYNJvUXJtuBMSv2PAipuGzcG6)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">How to make good music</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts#concert-band" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Concert Band</span></a></td>
+    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">Good posture for singing</span><br><span style="font-weight:400;font-style:normal">by</span><span style="font-weight:400;font-style:normal;color:#034289"> </span><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts/#choir" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Choir</span></a></td>
+    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">How to do some of our dance movements</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts/#dance" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Dance</span></a></td>
+    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">3 Laban's movement efforts</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts/#eldds" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">ELDDS</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">5 Movements from Malay Dance</span><br><br><span style="font-weight:400;font-style:normal">by </span><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts/#malay-dance" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Malay Dance</span></a></td>
+    <td class="tg-fuxe"></td>
+    <td class="tg-fuxe"></td>
+    <td class="tg-fuxe"></td>
+  </tr>
+</tbody>
+</table>
+
+
+
