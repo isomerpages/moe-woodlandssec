@@ -281,6 +281,6 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 
 # Co-Curricular Activities (CCAs)
 
-#### CCAs play an important role in growing our Woodlanders’ gifts. With caring seniors and teachers, how would you like to grow your interests?
+##### CCAs play an important role in growing our Woodlanders’ gifts. With caring seniors and teachers, how would you like to grow your interests?
 
 ### Test it out by learning a skill from our CCA seniors!
