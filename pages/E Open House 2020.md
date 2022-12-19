@@ -313,13 +313,10 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
     <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">3 Laban's movement efforts</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts/#eldds" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">ELDDS</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">5 Movements from Malay Dance</span><br><br><span style="font-weight:400;font-style:normal">by </span><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts/#malay-dance" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Malay Dance</span></a></td>
+    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">5 Movements from Malay Dance</span><br><br><span style="font-weight:400;font-style:normal">by </span><a href="/ccas/performing-arts/#5" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Malay Dance</span></a></td>
     <td class="tg-fuxe"></td>
     <td class="tg-fuxe"></td>
     <td class="tg-fuxe"></td>
   </tr>
 </tbody>
 </table>
-
-
-
