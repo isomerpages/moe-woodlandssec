@@ -203,3 +203,16 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
   </tr>
 </tbody>
 </table>
+
+
+<a id="4"></a>
+
+# Teachers & Academics
+
+#### As you have seen in our [circuit-breaker stories](https://youtu.be/aOdQQM2IVpE), when it comes to growing our Woodlanders, our teachers believe that the relationship with our Woodlanders is the most important.
+
+### Learn something in a few minutes with our teachers!
+
+[(Watch all as a YouTube playlist)](https://www.youtube.com/playlist?list=PL3LU17pYOYNJi-9z9BnfJbJ63lpBHh9p7)
+
+##### **SUBJECTS SINCE PRIMARY SCHOOL**
