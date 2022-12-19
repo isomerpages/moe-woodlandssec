@@ -67,10 +67,10 @@ description: ""
 .tg .tg-7fzn{background-color:#e8b95d;text-align:center;vertical-align:middle}
 .tg .tg-6cbd{background-color:#e8b95d;color:#ffffff;font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 797px">
+<table class="tg" style="undefined;table-layout: fixed; width: 815px">
 <colgroup>
-<col style="width: 234px">
-<col style="width: 563px">
+<col style="width: 260px">
+<col style="width: 555px">
 </colgroup>
 <tbody>
   <tr>
