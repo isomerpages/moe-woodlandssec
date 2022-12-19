@@ -22,9 +22,9 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">Exercises for Athletics</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#athletics" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Athletics</span></a></td>
-    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">How to do an overhead smash</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#badminton" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Badminton</span></a></td>
-    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">Basketball shooting techniques</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#basketball" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Basketball</span></a></td>
+    <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/RpKoe9jLUDU" title="Exercises for Athletics (Athletics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">Exercises for Athletics</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#athletics" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Athletics</span></a></td>
+    <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/qlieBAykgNc" title="How to do an overhead smash (Badminton)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">How to do an overhead smash</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#badminton" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Badminton</span></a></td>
+    <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/QSAb2G4-PPc" title="Basketball shooting techniques (Basketball)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">Basketball shooting techniques</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#basketball" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Basketball</span></a></td>
     <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">Two essential skills needed in football</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#football-girls" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Football Girls</span></a></td>
   </tr>
   <tr>
@@ -35,4 +35,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
