@@ -14,11 +14,11 @@ description: ""
 <table style="undefined;table-layout: fixed; width: 803px" class="tg">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 192px">
-<col style="width: 196px">
+<col style="width: 197px">
+<col style="width: 201px">
 <col style="width: 100px">
 <col style="width: 105px">
-<col style="width: 110px">
+<col style="width: 100px">
 </colgroup>
 <tbody>
   <tr>
