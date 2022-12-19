@@ -182,5 +182,3 @@ Tea Reception
   </tr>
 </tbody>
 </table>
-
-
