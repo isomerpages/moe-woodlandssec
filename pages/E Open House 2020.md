@@ -244,3 +244,5 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
   </tr>
 </tbody>
 </table>
+
+##### **NEW SUBJECTS IN SECONDARY SCHOOL**
