@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Lower Sec Experience.md
       - Principal's Message.md
       - Our Identity.md
       - Our History.md
