@@ -246,3 +246,32 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 </table>
 
 ##### **NEW SUBJECTS IN SECONDARY SCHOOL**
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 798px">
+<colgroup>
+<col style="width: 266px">
+<col style="width: 266px">
+<col style="width: 266px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nx8p"><iframe width="265" height="150" src="https://www.youtube.com/embed/A7jf_isPjZk" title="Making your own mayonnaise (Food and Consumer Education)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">Food &amp; Consumer Education - Making your own mayonnaise</span><br><span style="font-weight:400;font-style:normal">by the </span><a href="https://woodlandssec.moe.edu.sg/wdl-experience/craft-tech/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Craft &amp; Tech Department</span></a></td>
+    <td class="tg-nx8p"><iframe width="265" height="150" src="https://www.youtube.com/embed/fO6Qk2P6m5Q" title="Drawing Zentagles (Art)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">Art - Drawing Zentagles</span><br>by the <a href="https://woodlandssec.moe.edu.sg/wdl-experience/craft-tech/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Craft &amp; Tech Department</span></a><br></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Design &amp; Technology - Making your own clip-on lamp</span><br><span style="font-weight:400;font-style:normal">by the </span><a href="https://woodlandssec.moe.edu.sg/wdl-experience/craft-tech/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Craft &amp; Tech Department</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">English Literature - Which is the right interpretation of the character?</span><br><span style="font-weight:400;font-style:normal">by the </span><a href="https://woodlandssec.moe.edu.sg/wdl-experience/english/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">English Language Department</span></a></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">History - How would different perspectives present the same event?</span><br>by the <a href="https://woodlandssec.moe.edu.sg/wdl-experience/humanities/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Humanities Department</span></a><br></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Geography - Why do winds bend?</span><br>by the <a href="https://woodlandssec.moe.edu.sg/wdl-experience/humanities/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Humanities Department</span></a><br></td>
+  </tr>
+</tbody>
+</table>
