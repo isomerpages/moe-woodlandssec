@@ -73,15 +73,18 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-auka"><br><span style="font-weight:700">OUR PULSE,</span><br><span style="font-weight:700">OUR HEARTBEAT,</span><br><span style="font-weight:700">OUR SOUL.</span><br></td>
+    <td class="tg-nrix"><img src="/images/wdl40-1.jpeg" 
+     style="width:100%"></td>
+    <td class="tg-auka"><br><span style="font-weight:700">OUR PULSE,</span><br><span style="font-weight:700">OUR HEARTBEAT,</span><br><span style="font-weight:700">OUR SOUL.</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><img src="/images/wdl40-2.jpeg" 
+     style="width:100%"></td>
     <td class="tg-nx8p"><span style="font-weight:400;font-style:normal">Woodlands Sec is turning 40 this year, in the midst of the COVID-19 pandemic. This means that our usual celebration activities, such as a gala dinners and in-person performances, can no longer be held. Even so, we want you to be a part of this important milestone.</span><br><br><span style="font-weight:400;font-style:normal">• </span><a href="https://padlet.com/WDL/40thanniversary" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">Share your well-wishes with the school</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://youtu.be/ScC1__7yNEo" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;font-style:inherit">Join us for our live stream</span></a> <span style="font-weight:inherit;font-style:inherit">at 3pm on 25 March, Friday.</span><br><br><span style="font-weight:inherit;font-style:inherit">Stay tuned as we will share more about the commemorative items!</span></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><img src="/images/wdl40-3.jpeg" 
+     style="width:100%"></td>
     <td class="tg-nx8p"><span style="font-weight:bold;font-style:inherit">THEME</span><br><span style="font-weight:400;font-style:italic">"Our Pulse, Our Heartbeat, Our Soul"</span><br><span style="font-weight:400;font-style:normal">The theme evokes our common experience of being in a school that pulsates with life and energy throughout its 40 years of history. Heartbeat </span>signifies the power, strength, endurance, love, passion and the ability to keep moving forward. Soul depicts the distinctiveness of the school that makes us unique as an organisation.</td>
   </tr>
 </tbody>
