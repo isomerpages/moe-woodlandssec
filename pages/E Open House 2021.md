@@ -64,7 +64,7 @@ description: ""
     <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/yrZrmkvd6CY" title="The NPCC Experience (NPCC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">The NPCC Experience</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/uniformed-groups/#npcc" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">NPCC</span></a></td>
   </tr>
   <tr>
-    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal">How to perform CPR compressions</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/uniformed-groups/#ncdcc" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">NCDCC</span></a></td>
+    <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/43IsRDJOnfE" title="How to perform CPR compressions (NCDCC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">How to perform CPR compressions</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/uniformed-groups/#ncdcc" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">NCDCC</span></a></td>
     <td class="tg-fuxe"></td>
     <td class="tg-fuxe"></td>
     <td class="tg-fuxe"></td>
