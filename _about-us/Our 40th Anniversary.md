@@ -125,3 +125,62 @@ Virtual Concert
 
 **4:25pm**  
 Tea Reception
+
+
+<a id="3"></a>
+
+# MARKING 40 YEARS OF WDL
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-r59o{background-color:#034289;color:#ffffff;font-size:26px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-8kfi{background-color:#034289;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-gqnv{background-color:#034289;color:#ffffff;font-size:26px;text-align:left;vertical-align:top}
+.tg .tg-hqaq{background-color:#034289;color:#ffffff;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 809px">
+<colgroup>
+<col style="width: 249px">
+<col style="width: 560px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-8kfi" rowspan="2"><img src="/images/m40-1.jpeg" 
+     style="width:100%"></td>
+    <td class="tg-gqnv"><span style="font-weight:700">40 PROJECTS OF GIVING</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hqaq"><span style="font-weight:inherit;font-style:inherit">In line with our 40th Anniversary celebration, the school completed 40 Values-in-Action (VIA) projects since March 2021. This is part of our journey in growing our Woodlanders to become Community Youth Leaders.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8kfi" rowspan="2"><img src="/images/m40-2.jpeg" 
+     style="width:100%"></td>
+    <td class="tg-gqnv"><span style="font-weight:bold;font-style:inherit">NAGOMI ART</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hqaq"><span style="font-weight:400;font-style:normal">The Craft and Technology Department introduced Nagomi Art to the school population to build mental wellness. Through the creative process, staff and students learnt a mindful way to help sooth emotions, calm down and relax the mind, as well as to produce heart warming art pieces as gifts for the 40th Anniversary.</span><br><br><span style="font-weight:400;font-style:normal">Pastel Nagomi Art is a form of healing art founded in Japan, which uses powered pastels to create a transparent, gentle, warm and heart-touching art through simple yet unique ways of painting techniques. The word “Nagomi” carries the meaning of harmony, calm and peace</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8kfi" rowspan="2"><img src="/images/m40-3.jpeg" 
+     style="width:100%"></td>
+    <td class="tg-r59o">APPLIED LEARNING PROGRAME (ALP)</td>
+  </tr>
+  <tr>
+    <td class="tg-hqaq"><span style="font-weight:inherit;font-style:inherit">The Science Department organises and conducts two programmes for our lower secondary students - drinks making using molecular gastronomy and programming with microcontroller. Through these programmes, we aim to spark students’ interest in science and develop the joy of learning science. Students also get to experience inquiry learning and the application of science in real life.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8kfi" rowspan="2"><img src="/images/m40-4.jpeg" 
+     style="width:100%"></td>
+    <td class="tg-r59o">DECK.TOYS TRAIL</td>
+  </tr>
+  <tr>
+    <td class="tg-hqaq"><span style="font-weight:inherit;font-style:inherit">Deck.Toys is an online classroom platform that allows teachers to teach and engage students interactively.This year, the entire school population will help locate a time capsule that was hidden and scheduled to open at our 40th anniversary celebrations through solving the puzzles in Deck.Toys.</span></td>
+  </tr>
+</tbody>
+</table>
+
+
