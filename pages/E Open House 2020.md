@@ -67,6 +67,8 @@ description: ""
 </tbody>
 </table>
 
+-----
+
 ![](/images/schawa2020.png)
 
 
@@ -89,3 +91,4 @@ Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is re
 
 
 #### Despite COVID-19, our Woodlanders continue to SERVE!
+
