@@ -145,9 +145,12 @@ Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is re
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-r28n"></td>
-    <td class="tg-r28n"></td>
-    <td class="tg-r28n"></td>
+    <td class="tg-r28n"><img src="/images/innovative.jpeg" 
+     style="width:100%"></td>
+    <td class="tg-r28n"><img src="/images/high-distinction.jpeg" 
+     style="width:100%"></td>
+    <td class="tg-r28n"><img src="/images/animation.jpeg" 
+     style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-a9sh"><span style="font-weight:bold;font-style:inherit">1) Most Innovative Award</span><br><a href="https://www.instagram.com/p/CFFW7UUB09x/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">NYP Science &amp; Technology Challenge 2020</span></a></td>
