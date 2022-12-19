@@ -217,3 +217,30 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 
 ##### **SUBJECTS SINCE PRIMARY SCHOOL**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 798px">
+<colgroup>
+<col style="width: 266px">
+<col style="width: 266px">
+<col style="width: 266px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">English - Using proper action words (Verbs)</span><br>by the <a href="https://woodlandssec.moe.edu.sg/wdl-experience/english/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">English Language Department</span></a></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:inherit">Math - Which is the faster route?</span><br><span style="font-weight:inherit;font-style:inherit">by the </span><a href="https://woodlandssec.moe.edu.sg/wdl-experience/mathematics/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Mathematics Department</span></a></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Science - Which balloon will burst?</span><br><span style="font-weight:400;font-style:normal">by the </span><a href="https://woodlandssec.moe.edu.sg/wdl-experience/science/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Science Department</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Chinese - Which is the right word to use? (In Chinese)</span><br>by the <a href="https://woodlandssec.moe.edu.sg/wdl-experience/mother-tongue/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Mother Tongue Department</span></a><br></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Malay - Common leaves in school which are important to Malay culture (in Malay)</span><br>by the <a href="https://woodlandssec.moe.edu.sg/wdl-experience/mother-tongue/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Mother Tongue Department</span></a></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Tamil - Festivals important to Indian culture (in Tamil)</span><br><span style="font-weight:400;font-style:normal">by the </span><a href="https://woodlandssec.moe.edu.sg/wdl-experience/mother-tongue/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Mother Tongue Department</span></a></td>
+  </tr>
+</tbody>
+</table>
