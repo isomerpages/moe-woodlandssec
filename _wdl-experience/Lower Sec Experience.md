@@ -83,3 +83,28 @@ The camp aims to foster a sense of belonging, build cohort spirit, and to streng
 *   The camp ends on a high note with the inter-class dance competition showcase.
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTS95ZXtiR0FXLQ-A7qREOm4HDWy_j8UgcgPMv06WE4dKAdE0MCi-AZiZt57M3368v4ttH7xQ7bzJKI/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+
+
+<a id="3"></a>
+
+# ALP EXPERIENCES
+
+#### (Applied Learning Programme)
+
+### **Sec ONE**
+
+Woodlanders are exposed to two areas of learning - Food Science and Computational Thinking.
+
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_kp2shukSNArCaC97OL2xCnBqc4bjwmrX52ZtR1UHae47q3PUHUbei2rgBYrZsExmiKtrthAK0KAS/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
+
+### **Sec TWO**
+
+##### Woodlanders
+
+The camp aims to foster a sense of belonging, build cohort spirit, and to strengthen resilience.
+
+*   Students tough it out together and completed their land expedition, rock climbing, field cooking, and various team building games.
+*   Students learn various life skills such as tent pitching and basic first-aid.
+*   The camp ends on a high note with the inter-class dance competition showcase.
+
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTS95ZXtiR0FXLQ-A7qREOm4HDWy_j8UgcgPMv06WE4dKAdE0MCi-AZiZt57M3368v4ttH7xQ7bzJKI/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
