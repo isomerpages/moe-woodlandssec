@@ -56,8 +56,8 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-nrix"><iframe width="265" height="150" src="https://www.youtube.com/embed/q-NlrFtIMMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><iframe width="265" height="150" src="https://www.youtube.com/embed/ufoz5fY4ewA" title="Tips for Primary 6 students, from your seniors at Woodlands Sec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-nrix"><iframe width="265" height="150" src="https://www.youtube.com/embed/fU25f3_ZZsE" title="Woodlands Sec School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">Welcome message</span><br><br>By our Principal,<br><span style="font-weight:400;font-style:normal">Mrs Tay Yang Fern.</span></td>
