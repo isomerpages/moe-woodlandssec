@@ -40,19 +40,27 @@ Drop us an email or a message through our social media accounts (listed below). 
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nx8p"></td>
+    <td class="tg-nx8p"><a href = "linkhere" target = "_self"> 
+          <img src="/images/instagram.jpeg" 
+     style="width:100%"></a></td>
     <td class="tg-wzrl"><a href="https://www.instagram.com/woodlandssec" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#034289">instagram.com/woodlandssec</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p"></td>
+    <td class="tg-nx8p"><a href = "linkhere" target = "_self"> 
+          <img src="/images/facebook.jpeg" 
+     style="width:100%"></a></td>
     <td class="tg-wzrl"><a href="https://www.facebook.com/woodlandssecsch" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#034289">facebook.com/woodlandssecsch</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p"></td>
+    <td class="tg-nx8p"><a href = "linkhere" target = "_self"> 
+          <img src="/images/website.gif" 
+     style="width:100%"></a></td>
     <td class="tg-wzrl"><a href="https://woodlandssec.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#034289">woodlandssec.moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p"></td>
+    <td class="tg-nx8p"><a href = "linkhere" target = "_self"> 
+          <img src="/images/email.jpeg" 
+     style="width:100%"></a></td>
     <td class="tg-wzrl"><span style="font-weight:400;font-style:normal">wdl_ss@moe.edu.sg</span></td>
   </tr>
 </tbody>
