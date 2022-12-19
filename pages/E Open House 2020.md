@@ -128,36 +128,36 @@ Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is re
 
 #### Despite COVID-19, our Woodlanders continue to ACHIEVE!
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-a9sh{color:#034289;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-r28n{font-size:18px;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 795px">
+<table class="tg" style="undefined;table-layout: fixed; width: 801px">
 <colgroup>
-<col style="width: 265px">
-<col style="width: 265px">
-<col style="width: 265px">
+<col style="width: 267px">
+<col style="width: 267px">
+<col style="width: 267px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><img src="/images/principal.jpg" 
-     style="width:65%">
-</td>
-    <td class="tg-nrix"><img src="/images/principal.jpg" 
-     style="width:65%">
-</td>
-    <td class="tg-nrix"></td>
+    <td class="tg-r28n"></td>
+    <td class="tg-r28n"></td>
+    <td class="tg-r28n"></td>
   </tr>
   <tr>
-    <td class="tg-x5q1"></td>
-    <td class="tg-x5q1"></td>
-    <td class="tg-x5q1"></td>
+    <td class="tg-a9sh"><span style="font-weight:bold;font-style:inherit">1) Most Innovative Award</span><br><a href="https://www.instagram.com/p/CFFW7UUB09x/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">NYP Science &amp; Technology Challenge 2020</span></a></td>
+    <td class="tg-a9sh"><span style="font-weight:bold;font-style:inherit">2) High Distinction Prize</span><br><a href="https://www.instagram.com/p/CFdXSpABwzI/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Top 10 entry out of 1000 submissions for Live on Design competition</span></a></td>
+    <td class="tg-a9sh"><span style="font-weight:bold;font-style:inherit">3) Silver Award</span><br><a href="https://www.instagram.com/p/CFj_lNChXQa/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Animation &amp; Game-making Competition</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-a9sh"><span style="font-weight:bold;font-style:inherit">4) Best O-Level Mid-Year Mother Tongue results </span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> About 50% Distinction for Tamil and Chinese Language</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> About 25% Distinction for Malay language.</span></td>
+    <td class="tg-a9sh"><span style="font-weight:bold;font-style:inherit">5) Early Admissions Exercise (EAE)</span><br><span style="font-weight:inherit;font-style:inherit">Admissions to post-secondary courses based on interests and passion.</span><br><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> About 40% of Woodlanders who applied were offered EAE to a polytechnic course.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> About 70% of the Woodlanders who applied were offered EAE to an ITE course.</span></td>
+    <td class="tg-a9sh"></td>
   </tr>
 </tbody>
 </table>
