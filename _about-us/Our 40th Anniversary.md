@@ -44,10 +44,10 @@ description: ""
 </colgroup>
 <tbody>
 	<tr>
-		<td class="tg-fj82"><a href="#1"><span style="color:#FFF;background-color:#034289">Choir</span></a></td>
-    <td class="tg-fj82"><a href="#2"><span style="color:#FFF;background-color:#034289">Concert Band</span></a></td>
-    <td class="tg-fj82"><a href="#3"><span style="color:#FFF;background-color:#034289">Dance</span></a></td>
-    <td class="tg-fj82"><a href="#4"><span style="color:#FFF;background-color:#034289">ELDDS</span></a></td>
+		<td class="tg-fj82"><a href="#1"><span style="color:#FFF;background-color:#034289">Share your well-wishes for the school!</span></a></td>
+    <td class="tg-fj82"><a href="#2"><span style="color:#FFF;background-color:#034289">More Info</span></a></td>
+    <td class="tg-fj82"><a href="#3"><span style="color:#FFF;background-color:#034289">Programme</span></a></td>
+    <td class="tg-fj82"><a href="#4"><span style="color:#FFF;background-color:#034289">Marking 40 years<br>of WDL</span></a></td>
   </tr>
 </tbody>
 </table>
