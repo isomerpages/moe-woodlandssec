@@ -6,3 +6,22 @@ description: ""
 # OUR 40TH ANNIVERSARY
 
 ### 25 March, Fri, 3pm
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-99fv{background-color:#fee3c2;font-size:18px;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 226px">
+<colgroup>
+<col style="width: 226px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-99fv"><a href="youtube.com/watch?v=ScC1__7yNEo"><span style="color:#343434;background-color:#FEDBAF">CLICK HERE TO WATCH THE LIVE STREAM @ YOUTUBE</span></a></td>
+  </tr>
+</tbody>
+</table>
