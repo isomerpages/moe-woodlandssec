@@ -172,3 +172,34 @@ Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is re
 
 **Overview of our distinctive programmes**  
 Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their gifts through our distinctive programmes.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-9drd{font-size:26px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><span style="font-weight:700;font-style:inherit">APPLIED LEARNING PROGRAMME (ALP) </span></td>
+    <td class="tg-x5q1"><span style="font-weight:700;font-style:inherit">LEARNING FOR LIFE PROGRAMME (LLP)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9drd">Science, Tech, Engineering &amp; Mathematics (STEM)</td>
+    <td class="tg-9drd">Community Youth<br>Leadership</td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p">pic<br><br><span style="font-weight:400;font-style:normal">Our ALP aims to nuture the love for for STEM. At Sec 1, you will get to learn about Food Sciences and Computational Thinking. In Sec 2, you will get to specialise in one of these fields further.</span><br><br><a href="https://woodlandssec.moe.edu.sg/wdl-experience/distinctive-programmes#1" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Find out more</span></a></td>
+    <td class="tg-nx8p"><span style="font-weight:400;font-style:normal">pic</span><br><br><span style="font-weight:400;font-style:normal">Our LLP aims to nuture the love for the community and the sensitivity to the needs of others. From Sec 1, we progressively nurture you to serve the school, and then the community. Eventually, we bring all Sec 3s to serve the ASEAN community overseas. With the confidence, we encourage you to advocate for the cause you feel strongly for in Sec 4.</span><br><br><a href="https://woodlandssec.moe.edu.sg/wdl-experience/distinctive-programmes#2" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Find out more</span></a></td>
+  </tr>
+</tbody>
+</table>
