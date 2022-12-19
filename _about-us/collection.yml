@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our 40th Anniversary.md
       - Principal's Message.md
       - Our Identity.md
       - Our History.md
@@ -10,4 +9,5 @@ collections:
       - Our People.md
       - School Expectations (Rules).md
       - Achievements.md
+      - Our 40th Anniversary.md
       - Direct School Admission (DSA).md
