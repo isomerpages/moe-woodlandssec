@@ -11,13 +11,13 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 803px" class="tg">
+<table style="undefined;table-layout: fixed; width: 808px" class="tg">
 <colgroup>
-<col style="width: 100px">
-<col style="width: 197px">
-<col style="width: 201px">
-<col style="width: 100px">
 <col style="width: 105px">
+<col style="width: 197px">
+<col style="width: 216px">
+<col style="width: 100px">
+<col style="width: 90px">
 <col style="width: 100px">
 </colgroup>
 <tbody>
@@ -74,7 +74,7 @@ description: ""
 
 # What we stand for
 
-#### We believe that every [Woodlander is a gift to society.](/about-us/our-identity/)  Hence, we support and develop them relentlessly, to be rooted in [GR2EAT values](/about-us/our-identity/).
+#### We believe that every [Woodlander is a gift to society](/about-us/our-identity/).  Hence, we support and develop them relentlessly, to be rooted in [GR2EAT values](/about-us/our-identity/).
 
 
-### How so? Let’s take COVID-19 as an example.
+#### How so? Let’s take COVID-19 as an example.
