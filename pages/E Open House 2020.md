@@ -169,3 +169,6 @@ Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is re
 #### How do our distinctive programmes grow you to become a gift to society?
 
 <center><iframe width="600" height="366" src="https://www.youtube.com/embed/qXI4tRuRMUk" title="Growing gifts through our distinctive programmes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+**Overview of our distinctive programmes**  
+Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their gifts through our distinctive programmes.
