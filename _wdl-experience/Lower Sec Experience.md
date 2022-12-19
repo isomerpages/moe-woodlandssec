@@ -32,3 +32,23 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+<br>
+
+
+<a id="1"></a>
+
+# Level Goals
+
+### **Sec ONE** 
+#### Believing in your dreams
+
+Our Sec 1 Woodlanders will enter their teenage years and go through physical, emotional and mental changes. They will also begin to explore the different pathways available for them to fulfil their dreams and aspirations.Teachers in Woodlands Secondary will guide and walk alongside our Woodlanders in their journey of achieving their goals.
+
+### **Sec TWO**  
+#### Discovering the Woodlander Within
+
+In Secondary Two, Woodlanders discover their passions and strengths through key learning experiences throughout the year.
+
+Education & Career Guidance programmes, STEM activities, sports, and personal leadership programmes will help Woodlanders gain insights on how they might develop a wealth of competencies and empower them to chart the course of their education for their streaming year, with the added bonus of strengthening their resilience, character and values.
