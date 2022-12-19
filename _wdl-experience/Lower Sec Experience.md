@@ -14,7 +14,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 160px">
 <col style="width: 160px">
@@ -51,7 +51,7 @@ Our Sec 1 Woodlanders will enter their teenage years and go through physical, em
 
 In Secondary Two, Woodlanders discover their passions and strengths through key learning experiences throughout the year.
 
-Education & Career Guidance programmes, STEM activities, sports, and personal leadership programmes will help Woodlanders gain insights on how they might develop a wealth of competencies and empower them to chart the course of their education for their streaming year, with the added bonus of strengthening their resilience, character and values.
+Education &amp; Career Guidance programmes, STEM activities, sports, and personal leadership programmes will help Woodlanders gain insights on how they might develop a wealth of competencies and empower them to chart the course of their education for their streaming year, with the added bonus of strengthening their resilience, character and values.
 
 
 <a id="2"></a>
@@ -59,5 +59,26 @@ Education & Career Guidance programmes, STEM activities, sports, and personal le
 
 # KEY PROGRAMMES
 
+### **Sec ONE**
 
+##### Sec 1 Orientation
 
+The Sec 1 Orientation is a three-day induction programme during which student leaders help our new Woodlanders adapt and familiarise themselves to the new learning environment.
+
+Activities conducted during the Secondary 1 Orientation&nbsp; help our&nbsp; Sec 1 newcomers to bond with each other, get to know the staff and school environment, and learn about the school culture.
+
+The orientation ends with the annual CCA Fair and Aesthetics showcase provides Sec 1 Woodlanders an opportunity to explore and engage with members of the various CCAs.
+
+**A peek into Sec 1 Orientation**
+
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_kp2shukSNArCaC97OL2xCnBqc4bjwmrX52ZtR1UHae47q3PUHUbei2rgBYrZsExmiKtrthAK0KAS/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+
+### **Sec TWO**
+
+##### Sec 2 Adventure Camp&nbsp;
+
+The camp aims to foster a sense of belonging, build cohort spirit, and to strengthen resilience.
+
+*   Woodlanders tough it out together and completed their land expedition, rock climbing, field cooking, and various team building games.
+*   Woodlanders learn various life skills such as tent pitching and basic first-aid.
+*   The camp ends on a high note with the inter-class dance competition showcase.
