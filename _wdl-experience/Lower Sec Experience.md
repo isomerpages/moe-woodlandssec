@@ -39,7 +39,7 @@ description: ""
 
 <a id="1"></a>
 
-# Level Goals
+# LEVEL GOALS
 
 ### **Sec ONE** 
 #### Believing in your dreams
@@ -52,3 +52,12 @@ Our Sec 1 Woodlanders will enter their teenage years and go through physical, em
 In Secondary Two, Woodlanders discover their passions and strengths through key learning experiences throughout the year.
 
 Education & Career Guidance programmes, STEM activities, sports, and personal leadership programmes will help Woodlanders gain insights on how they might develop a wealth of competencies and empower them to chart the course of their education for their streaming year, with the added bonus of strengthening their resilience, character and values.
+
+
+<a id="2"></a>
+
+
+# KEY PROGRAMMES
+
+
+
