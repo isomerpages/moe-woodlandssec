@@ -61,7 +61,7 @@ Drop us an email or a message through our social media accounts (listed below). 
     <td class="tg-nx8p"><a href = "linkhere" target = "_self"> 
           <img src="/images/email.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-wzrl"><span style="font-weight:400;font-style:normal">wdl_ss@moe.edu.sg</span></td>
+    <td class="tg-wzrl"><span style="font-weight:400;font-style:normal"><a href="mailto:wdl_ss@moe.edu.sg">wdl_ss@moe.edu.sg</a></span></td>
   </tr>
 </tbody>
 </table>
