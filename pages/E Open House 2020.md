@@ -92,3 +92,78 @@ Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is re
 
 #### Despite COVID-19, our Woodlanders continue to SERVE!
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 795px">
+<colgroup>
+<col style="width: 265px">
+<col style="width: 265px">
+<col style="width: 265px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><img src="/images/serve20-1.jpeg" 
+     style="width:100%">
+</td>
+    <td class="tg-nrix"><img src="/images/serve20-2.jpeg" 
+     style="width:100%">
+</td>
+    <td class="tg-nrix"></td>
+  </tr>
+  <tr>
+    <td class="tg-x5q1">As part of the Learning for Life Programme (LLP), our Sec 2 Woodlanders continue to serve the Marsiling community. They made hand sanitisers and prepared care packs for the seniors in the community to better cope with the pandemic.<br><a href="https://www.instagram.com/p/CDxAvQUB-sb/">Find out More</a></td>
+    <td class="tg-x5q1">Although our Sec 3 Woodlanders were unable to help transform the schools in Vietnam and Cambodia for their LLP this year, they transformed the courtyard between the classroom blocks with their own designs.<br><a href="https://www.instagram.com/p/CDnS_3iBLLf/">Find out More</a></td>
+    <td class="tg-x5q1"></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+bah
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 795px">
+<colgroup>
+<col style="width: 265px">
+<col style="width: 265px">
+<col style="width: 265px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><img src="/images/principal.jpg" 
+     style="width:65%">
+</td>
+    <td class="tg-nrix"><img src="/images/principal.jpg" 
+     style="width:65%">
+</td>
+    <td class="tg-nrix"></td>
+  </tr>
+  <tr>
+    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"></td>
+  </tr>
+</tbody>
+</table>
