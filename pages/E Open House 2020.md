@@ -160,3 +160,12 @@ Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is re
   </tr>
 </tbody>
 </table>
+
+
+<a id="3"></a>
+
+# Distinctive Programmes
+
+#### How do our distinctive programmes grow you to become a gift to society?
+
+<center><iframe width="600" height="366" src="https://www.youtube.com/embed/qXI4tRuRMUk" title="Growing gifts through our distinctive programmes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
