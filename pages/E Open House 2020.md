@@ -32,7 +32,7 @@ description: ""
 </tbody>
 </table>
 
-
+<a id="1"></a>
 
 <center><h1>WELCOME<BR>to our E-Open House</h1></center>
 
@@ -68,3 +68,13 @@ description: ""
 </table>
 
 ![](/images/schawa2020.png)
+
+
+<a id="2"></a>
+
+# What we stand for
+
+#### We believe that every [Woodlander is a gift to society.](/about-us/our-identity/)  Hence, we support and develop them relentlessly, to be rooted in [GR2EAT values](/about-us/our-identity/).
+
+
+### How so? Let’s take COVID-19 as an example.
