@@ -91,3 +91,38 @@ description: ""
 </tbody>
 </table>
 
+
+
+<a id="2"></a>
+
+# PROGRAMME
+
+
+**2.30pm**  
+Arrival of guests
+
+**3.00pm**  
+Arrival of Guest-of-Honour  
+Mr Zaqy Mohamad  
+_Senior Minister of State,_   
+_Ministry of Defence & Ministry of Manpower_
+
+Inspection of Parade by Guest-of-Honour
+
+**3.15pm**  
+Official Entrance of Guest-of-Honour  
+Singing of School Song  
+Speech by Principal Mrs Tay Yang Fern  
+Address by Guest-of-Honour
+
+**3:40pm**  
+Presentation of Awards  
+Presentation of Token of Appreciation to Guest-of-Honour  
+Valedictorian’s Speech
+
+**3:55pm**  
+Virtual Concert
+
+**4:25pm**  
+Tea Reception
+
