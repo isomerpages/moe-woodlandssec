@@ -79,4 +79,13 @@ description: ""
 
 #### How so? Let’s take COVID-19 as an example.
 
-<iframe width="600" height="366" src="https://www.youtube.com/embed/aOdQQM2IVpE" title="Our Circuit Breaker Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="600" height="366" src="https://www.youtube.com/embed/aOdQQM2IVpE" title="Our Circuit Breaker Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+**Going beyond for the students**   
+Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is required of them to support our Woodlanders during the Circuit Breaker period.
+
+*   Our Senior Teacher (English), Miss Seah Wei Ee, was featured in [Schoolbag](https://www.schoolbag.edu.sg/story/learning-from-covid-19) and [Lianhe Zaobao](https://www.instagram.com/p/B_zQksrhpo5/), for her unique ways to tap on her students' strengths during Circuit Breaker period.
+*   Our [WDL HBL Challenge](https://www.instagram.com/p/B_GsvEaBrgr/) during the Circuit Breaker period serves as a platform for our students to encourage others in a fun way. At the same time, it serves to deepen their relationships so as to ensure their well-being. ([see more at our Instagram page](https://www.instagram.com/explore/tags/wdlhblchallenge/))
+
+
+#### Despite COVID-19, our Woodlanders continue to SERVE!
