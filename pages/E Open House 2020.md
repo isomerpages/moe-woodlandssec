@@ -126,13 +126,7 @@ Our Vice-Principal, Mdm Masayu, recounts how our teachers went beyond what is re
 </tbody>
 </table>
 
-
-
-
-
-bah
-
-
+#### Despite COVID-19, our Woodlanders continue to ACHIEVE!
 
 
 <style type="text/css">
