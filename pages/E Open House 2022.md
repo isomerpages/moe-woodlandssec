@@ -80,3 +80,23 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 </tbody>
 </table>
 
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hqaq{background-color:#034289;color:#ffffff;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 660px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="/eopenhouse-2021/#3" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Uniformed Groups CCAs.</td>
+  </tr>
+</tbody>
+</table>
