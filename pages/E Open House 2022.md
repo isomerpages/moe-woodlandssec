@@ -41,3 +41,35 @@ Our HOD (Mathematics), Ms Goh Hui Shi, and our SH (Mathematics), Mr Wilson Tuong
   </tr>
 </tbody>
 </table>
+
+
+#### Opportunities in WDL to develop in this area
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yg9r{border-color:inherit;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Subjects</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Mathematics</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Additional Mathematics</span></td>
+    <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Exposure for all</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Math Trail (Sec 1)</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Enrichment Programmes</span></td>
+    <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Stretching those with strong interests</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> External competitions</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Math π-neers</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+#### Recent achievement in this area
+
+
+
