@@ -446,7 +446,7 @@ Our SH (Physics), Mr Jacky Tan, explains what someone who excels in this area is
 <br>
 
 
-## 5) STEM (Our ALP)
+## 5) Science, Technology, Engineering & Math (STEM)
 
 
 
