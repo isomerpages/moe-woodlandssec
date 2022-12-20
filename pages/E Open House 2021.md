@@ -36,3 +36,6 @@ description: ""
 
 <center><h1>WELCOME<BR>to our E-Open House 2021</h1></center>
 
+<center><h4>We believe that every <a href="/about-us/our-identity/">Woodlander is a gift to society</a>.<br>This year, we want to help you discover your gifts.</h4></center>
+
+<center><h5>so that it will be easier to decide on your choices for secondary school.</h5></center>
