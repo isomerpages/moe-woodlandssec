@@ -271,3 +271,26 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 </table>
 
 #### Opportunities in WDL to develop in this area
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yg9r{border-color:inherit;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Subjects</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Chinese Language</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Malay Language</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Tamil Language</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Higher Chinese</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Higher Tamil</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Higher Malay</span></td>
+    <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Exposure for all</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Mother Tongue Fortnight</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Curated reading materials</span></td>
+    <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Stretching those with strong interests</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> External competitions for writing, public speaking, cultural and debate competitions</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Offering of Higher Mother Tongue Subjects</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Emceeing opportunities for school cultural events</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Featuring essays and stories in school's public platforms</span></td>
+  </tr>
+</tbody>
+</table>
