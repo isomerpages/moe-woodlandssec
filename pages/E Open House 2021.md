@@ -62,3 +62,10 @@ description: ""
 
 ### After you have taken the [Gift Finder Quiz...](https://for.edu.sg/wdlgiftfinder)
 
+
+**1) Find out more about the 9 areas at this e-open house!**
+
+Your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report would identify the gifts you may have.
+
+*   Hear from our teachers and your seniors what you can do to develop your gifts. 
+*   Find out what opportunities Woodlands Sec offer to develop our students' gifts in these areas. 
