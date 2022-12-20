@@ -130,7 +130,7 @@ Your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report would identify the
 
 ### Misc. Info
 
-<iframe width="600" height="366" src="https://www.youtube.com/embed/fU25f3_ZZsE" title="Woodlands Sec School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="620" height="366" src="https://www.youtube.com/embed/fU25f3_ZZsE" title="Woodlands Sec School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 **Take a School Tour!**  
 Let our Woodlanders take you on a tour of our home and have a peek into what we do.
@@ -238,3 +238,5 @@ Our HOD (English Language), Ms Sarah Teo, explains what someone who excels in th
 
 
 ## 2) Mother Tongue
+
+<iframe width="864" height="477" src="https://www.youtube.com/embed/s9Gv8Yitui4" title="WDL Gift Finder Report - Mother Tongue Language" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
