@@ -88,18 +88,18 @@ Your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report would identify the
 <tbody>
   <tr>
     <td class="tg-hqaq"><a href="#el"><span style="color:#FFF;background-color:#034289">1) English Language</span></a></td>
-    <td class="tg-hqaq"><span style="color:#FFF">2) Mother Tongue</span></td>
-    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">3) Math</span></td>
+    <td class="tg-hqaq"><a href="#mt"><span style="color:#FFF">2) Mother Tongue</span></a></td>
+    <td class="tg-hqaq"><a href="#math"><span style="color:#FFF;background-color:#034289">3) Math</span></a></td>
   </tr>
   <tr>
-    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">4) Science </span></td>
-    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">5) STEM (Our ALP)</span></td>
-    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">6) Sports</span></td>
+    <td class="tg-hqaq"><a href="#sci"><span style="color:#FFF;background-color:#034289">4) Science </span></a></td>
+    <td class="tg-hqaq"><a href="#stem"><span style="color:#FFF;background-color:#034289">5) STEM (Our ALP)</span></a></td>
+    <td class="tg-hqaq"><a href="#sports"><span style="color:#FFF;background-color:#034289">6) Sports</span></a></td>
   </tr>
   <tr>
-    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">7) Humanities</span></td>
-    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">8) Design and Aesthetics</span></td>
-    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">9) Service &amp; Leadership (Our LLP)</span></td>
+    <td class="tg-hqaq"><a href="#humans"><span style="color:#FFF;background-color:#034289">7) Humanities</span></a></td>
+    <td class="tg-hqaq"><a href="#dna"><span style="color:#FFF;background-color:#034289">8) Design and Aesthetics</span></a></td>
+    <td class="tg-hqaq"><a href="#llp"><span style="color:#FFF;background-color:#034289">9) Service &amp; Leadership (Our LLP)</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -162,4 +162,3 @@ Let our Woodlanders take you on a tour of our home and have a peek into what we 
 <a href="#el"></a>
 
 <br>
-
