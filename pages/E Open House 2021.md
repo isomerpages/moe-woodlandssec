@@ -87,7 +87,7 @@ Your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report would identify the
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">1) English Language</span></td>
+    <td class="tg-hqaq"><a href="#el"><span style="color:#FFF;background-color:#034289">1) English Language</span></a></td>
     <td class="tg-hqaq"><span style="color:#FFF">2) Mother Tongue</span></td>
     <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">3) Math</span></td>
   </tr>
