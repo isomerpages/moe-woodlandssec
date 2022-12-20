@@ -199,3 +199,25 @@ Our HOD (English Language), Ms Sarah Teo, explains what someone who excels in th
 
 #### Opportunities in WDL to develop in this area
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Subjects</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> English Language</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> English Literature</span><br><br><br><span style="font-weight:600;font-style:inherit">CCAs</span><br><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts#eldds" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;color:#034289">•</span></a><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts#eldds" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:none;color:#034289"> English Language Drama &amp; Debating Society</span></a></td>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Exposure for all</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Effective communication enrichment (e.g. social media presentation)</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Curated reading materials</span></td>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Stretching those with strong interests</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> External competitions for writing and public speaking.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Morning assembly sharing with the whole school</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Emceeing opportunities for school events</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Featuring essays, stories and poetry in the termly Woodlands Newsletter</span></td>
+  </tr>
+</tbody>
+</table>
