@@ -37,3 +37,7 @@ Our HOD (Craft & Technology), Mr Abdul Latiff Bin Omar , and HOD (PE & CCA), Mr 
 </table>
 
 
+#### Explore further with our seniors from Performing Arts CCAs
+
+[(Watch all as a playlist on YouTube)](https://www.youtube.com/playlist?list=PL3LU17pYOYNJvUXJtuBMSv2PAipuGzcG6)
+
