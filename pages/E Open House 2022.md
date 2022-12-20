@@ -99,3 +99,28 @@ Our HOD (PE & CCA), Mr Mohd Razif Bin Abdul Hamed, explains what someone who exc
   </tr>
 </tbody>
 </table>
+
+#### Opportunities in WDL to develop in this area
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">CCAs</span><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-games/#athletics" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#034289">Athletics</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-games#badminton" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Badminton</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-games#basketball" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Basketball</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-game#football-girls" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Football Girls</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-games#football-boys" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Football Boys</span></a><span style="color:#034289"> </span><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-games#netball" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Netball</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-games#sepak-takraw" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Sepak Takraw</span></a><br></td>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Exposure for all</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Sports Elective Programme</span><br><br><span style="font-weight:600;font-style:inherit">Subjects</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-style:inherit"> Physical Education</span></td>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Stretching those with strong interests</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> External competitions (through CCA)</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Inter-class Competitions</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Developing the coaching eye through mentoring of classmates in lessons</span></td>
+  </tr>
+</tbody>
+</table>
