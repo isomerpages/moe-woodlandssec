@@ -3,9 +3,6 @@ title: E Open House 2022
 permalink: /eopenhouse-2022/
 description: ""
 ---
-
-
-
 # STEM
 
 
@@ -55,3 +52,19 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 
 **2nd Runner-up**   
 [Rescue Rangers Category 2021 Nanyang Polytechnic e-Science & Technology Challenge (NYP E-STC)](https://www.instagram.com/p/CTpSPSjBlro/)
+
+
+
+## 6) Sports
+
+
+<center><iframe width="415" height="235" src="https://www.youtube.com/embed/NOFq-ONAlbA" title="WDL Gift Finder Report - Sports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+#### Do I have a strong interest in this area?
+
+Our HOD (PE & CCA), Mr Mohd Razif Bin Abdul Hamed, explains what someone who excels in this area is like and how the Gift Finder determines if that might be you.
+
+### Explore further with our seniors from Sports & Games CCAs
+
+[(Watch all as a playlist on YouTube)](https://youtube.com/playlist?list=PL3LU17pYOYNI7jTmkvL8T45UoxRlnIkAW)
+
