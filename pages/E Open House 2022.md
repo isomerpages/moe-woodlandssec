@@ -37,3 +37,28 @@ Our SH (History & NE), Mrs Lechimi Devi Ramesh, and our SH (Geography), Mr Luo Y
 </table>
 
 
+#### Opportunities in WDL to develop in this area
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Subjects</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Geography</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> History</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Social Studies</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> English Literature</span><br><span style="font-weight:400;font-style:inherit">(See </span><a href="/eopenhouse-2021/#el" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit">English Language</span></a> <span style="font-style:inherit">section above)</span></td>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Exposure for all</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Experiential Learning through games, virtual fieldtrips and Lego Brick Museum</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Learning through inquiry and investigation</span></td>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Stretching those with strong interests</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> External competitions</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Model United Nations</span></td>
+  </tr>
+</tbody>
+</table>
+
