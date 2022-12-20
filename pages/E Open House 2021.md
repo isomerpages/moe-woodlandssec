@@ -221,3 +221,12 @@ Our HOD (English Language), Ms Sarah Teo, explains what someone who excels in th
   </tr>
 </tbody>
 </table>
+
+
+#### Recent achievement in this area
+
+<img src="/images/queens-english.jpeg" 
+     style="width:45%">
+
+**Bronze Award**   
+[The Queen's Commonwealth Essay Competition 2021](https://www.instagram.com/p/CU-YAj3hOSp/)
