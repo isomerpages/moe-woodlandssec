@@ -324,4 +324,38 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 <br>
 
 
-## 4) STEM )Our ALP)
+## 5) STEM (Our ALP)
+
+
+
+
+<a id="#sports"></a>
+
+<br>
+
+
+## 6) Sports
+
+
+<a id="#humans"></a>
+
+<br>
+
+
+## 7) Humanities
+
+
+<a id="#dna"></a>
+
+<br>
+
+
+## 8) Design and Aesthetics
+
+
+
+<a id="#alp"></a>
+
+<br>
+
+## 9) Service & Leadership (Our LLP)
