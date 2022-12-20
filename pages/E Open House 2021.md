@@ -196,3 +196,6 @@ Our HOD (English Language), Ms Sarah Teo, explains what someone who excels in th
   </tr>
 </tbody>
 </table>
+
+#### Opportunities in WDL to develop in this area
+
