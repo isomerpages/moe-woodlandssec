@@ -66,7 +66,7 @@ Our HOD (Craft & Technology), Mr Abdul Latiff Bin Omar , and HOD (PE & CCA), Mr 
   </tr>
   <tr>
     <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/fpk4bBR5qrI" title="5 Movements from Malay Dance (Malay Dance)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">5 Movements from Malay Dance</span><br><span style="font-weight:400;font-style:normal">by </span><a href="/ccas/performing-arts/#5" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Malay Dance</span></a></td>
-    <td class="tg-hqaq" colspan="3"><span style="font-weight:600;font-style:normal"><br><br>Show us your skills!</span><br><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="https://woodlandssec.moe.edu.sg/eopenhouse-2021/#cca-challenge-sports-and-games" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF">CCA challenge</span></a> by the seniors from the Performing Arts CCAs.</td>
+    <td class="tg-hqaq" colspan="3"><span style="font-weight:600;font-style:normal"><br><br>Show us your skills!</span><br><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="/eopenhouse-2021/#3" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF">CCA challenge</span></a> by the seniors from the Performing Arts CCAs.</td>
   </tr>
 </tbody>
 </table>
