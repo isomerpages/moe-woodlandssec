@@ -68,4 +68,61 @@ description: ""
 Your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report would identify the gifts you may have.
 
 *   Hear from our teachers and your seniors what you can do to develop your gifts. 
-*   Find out what opportunities Woodlands Sec offer to develop our students' gifts in these areas. 
+*   Find out what opportunities Woodlands Sec offer to develop our students' gifts in these areas.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hqaq{background-color:#034289;color:#ffffff;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 802px">
+<colgroup>
+<col style="width: 236px">
+<col style="width: 253px">
+<col style="width: 313px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">1) English Language</span></td>
+    <td class="tg-hqaq"><span style="color:#FFF">2) Mother Tongue</span></td>
+    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">3) Math</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">4) Science </span></td>
+    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">5) STEM (Our ALP)</span></td>
+    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">6) Sports</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">7) Humanities</span></td>
+    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">8) Design and Aesthetics</span></td>
+    <td class="tg-hqaq"><span style="color:#FFF;background-color:#034289">9) Service &amp; Leadership (Our LLP)</span></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><span style="font-weight:bold;font-style:normal"><iframe width="400" height="215" src="https://www.youtube.com/embed/G_AMynplgIU" title="Making Sense of my WDL Gift Finder Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>2) Making sense of your Gift Finder report</span><br><br><span style="font-weight:400;font-style:normal">Our Vice-Principal, Mdm Masayu, explains how to interpret your </span><a href="https://for.edu.sg/wdlgiftfinder" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Gift Finder</span></a> report.</td>
+    <td class="tg-fuxe"><span style="font-weight:bold;font-style:inherit">3) Deciding on your choices</span><br><span style="font-weight:400;font-style:normal">Our Vice-Principal, Mr Chen Bing Hong, shares how you can use your </span><a href="https://for.edu.sg/wdlgiftfinder" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Gift Finder</span></a> report to help you decide on your secondary school choices.<br><br><span style="font-weight:bold;font-style:inherit">Resources mentioned in the video</span><br><span style="font-weight:400;font-style:normal">• </span><a href="https://for.edu.sg/wdlblanktemplate" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Graphic Organiser to make sense of a school's programmes (For printing)</span></a><br><span style="font-weight:400;font-style:normal">•</span><span style="color:#034289"> </span><a href="https://for.edu.sg/wdlcreatecopyblanktemplate" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Copy of the Google Doc version</span></a><br><span style="font-weight:400;font-style:normal">•</span> <a href="https://for.edu.sg/wdlgraphicorganiser" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Summary of our programmes as an example</span></a></td>
+  </tr>
+</tbody>
+</table>
