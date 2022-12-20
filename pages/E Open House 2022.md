@@ -95,7 +95,9 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-yg9r">pic<br><br>pic</td>
+    <td class="tg-yg9r"><img src="/images/alp.jpeg" 
+     style="width:100%"><br><br><img src="/images/alp2.jpeg" 
+     style="width:100%"></td>
     <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Exposure for all</span><br><span style="font-weight:400;font-style:inherit">Our ALP aims to nurture the love for for STEM.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> At Sec 1, you will get to learn about Food Sciences and Computational Thinking</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> In Sec 2, you will get to specialise in one of these fields further.</span><br><br><br><span style="font-weight:600;font-style:inherit">CCAs</span><br><span style="font-weight:400;font-style:normal">• </span><a href="/ccas/clubs-and-societies/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;color:#034289">Infocomm &amp; Media Club</span></a></td>
     <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Stretching those with strong interests</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> STEM Competitions</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Coding Programme by Saturday Kids</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Science Centre enrichment programme</span></td>
   </tr>
