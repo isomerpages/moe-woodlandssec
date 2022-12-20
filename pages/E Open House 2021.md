@@ -235,7 +235,7 @@ Our HOD (English Language), Ms Sarah Teo, explains what someone who excels in th
 [The Queen's Commonwealth Essay Competition 2021](https://www.instagram.com/p/CU-YAj3hOSp/)
 
 
-<a id="#mt"></a>
+<a id="mt"></a>
 
 <br>
 
@@ -299,7 +299,7 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 </table>
 
 
-<a id="#math"></a>
+<a id="math"></a>
 
 <br>
 
@@ -309,7 +309,7 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 
 
 
-<a id="#sci"></a>
+<a id="sci"></a>
 
 <br>
 
@@ -319,7 +319,7 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 
 
 
-<a id="#stem"></a>
+<a id="stem"></a>
 
 <br>
 
@@ -329,7 +329,7 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 
 
 
-<a id="#sports"></a>
+<a id="sports"></a>
 
 <br>
 
@@ -337,7 +337,7 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 ## 6) Sports
 
 
-<a id="#humans"></a>
+<a id="humans"></a>
 
 <br>
 
@@ -345,7 +345,7 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 ## 7) Humanities
 
 
-<a id="#dna"></a>
+<a id="dna"></a>
 
 <br>
 
@@ -354,7 +354,7 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 
 
 
-<a id="#alp"></a>
+<a id="alp"></a>
 
 <br>
 
