@@ -294,3 +294,21 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
   </tr>
 </tbody>
 </table>
+
+
+<a href="#math"></a>
+
+<br>
+
+
+## 3) Mathematics
+
+
+
+
+<a href="#sci"></a>
+
+<br>
+
+
+## 2) Scince
