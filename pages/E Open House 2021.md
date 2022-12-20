@@ -230,3 +230,11 @@ Our HOD (English Language), Ms Sarah Teo, explains what someone who excels in th
 
 **Bronze Award**   
 [The Queen's Commonwealth Essay Competition 2021](https://www.instagram.com/p/CU-YAj3hOSp/)
+
+
+<a href="#mt"></a>
+
+<br>
+
+
+## 2) Mother Tongue
