@@ -70,3 +70,28 @@ Our HOD (Craft & Technology), Mr Abdul Latiff Bin Omar , and HOD (PE & CCA), Mr 
   </tr>
 </tbody>
 </table>
+
+### Opportunities in WDL to develop in this area
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Subjects</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Art</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Design &amp; Technology</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Music</span><br><br><span style="font-weight:600;font-style:inherit">CCAs</span><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts#choir" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Choir</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts#concert-band" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Concert Band</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts#dance" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:none;color:#034289">Dance</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts#eldds" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">English Language Drama &amp; Debating Society (ELDDS)</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/ccas/performing-arts#malay-dance" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;text-decoration:underline;color:#034289">Malay Dance</span></a></td>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Exposure for all</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Basic Design Skills</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Learning of musical instruments and performing with it</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Aesthetics appreciation programme</span></td>
+    <td class="tg-fuxe"><span style="font-weight:600;font-style:inherit">Stretching those with strong interests</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Performance opportunities</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Performing Arts CCAs</span></td>
+  </tr>
+</tbody>
+</table>
