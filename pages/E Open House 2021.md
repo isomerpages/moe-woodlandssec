@@ -159,10 +159,10 @@ Let our Woodlanders take you on a tour of our home and have a peek into what we 
 
 -----
 
-<a id="#2"></a>
+<a id="2"></a>
 
 
-<a id="#el"></a>
+<a id="el"></a>
 
 <br>
 
