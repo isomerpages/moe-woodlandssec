@@ -130,7 +130,7 @@ Your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report would identify the
 
 ### Misc. Info
 
-<center><iframe width="620" height="366" src="https://www.youtube.com/embed/fU25f3_ZZsE" title="Woodlands Sec School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="650" height="366" src="https://www.youtube.com/embed/fU25f3_ZZsE" title="Woodlands Sec School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 **Take a School Tour!**  
 Let our Woodlanders take you on a tour of our home and have a peek into what we do.
