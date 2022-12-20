@@ -311,4 +311,4 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 <br>
 
 
-## 2) Scince
+## 2) Science
