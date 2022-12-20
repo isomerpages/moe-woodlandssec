@@ -133,3 +133,31 @@ Your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report would identify the
 <a id="el"></a>
 
 test
+
+### Misc. Info
+
+<iframe width="600" height="366" src="https://www.youtube.com/embed/fU25f3_ZZsE" title="Woodlands Sec School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Take a School Tour!**  
+Let our Woodlanders take you on a tour of our home and have a peek into what we do.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-slrk{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 263px">
+<colgroup>
+<col style="width: 263px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-slrk"><a href="/eopenhouse-2020/">
+<span style="color:#FFF;background-color:#034289">Visit E-Open House 2020</span></a></td>
+  </tr>
+</tbody>
+</table>
+
