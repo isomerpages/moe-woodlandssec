@@ -74,7 +74,7 @@ Our HOD (Mathematics), Ms Goh Hui Shi, and our SH (Mathematics), Mr Wilson Tuong
 [Singapore Mathematical Olympiad 2021](https://www.instagram.com/p/CVX5A_gpSf2/)
 
 
-
+<br>
 
 
 <style type="text/css">
