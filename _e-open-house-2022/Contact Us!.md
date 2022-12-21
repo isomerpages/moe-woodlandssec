@@ -14,7 +14,7 @@ Click [here to share your feedback with us.](https://form.gov.sg/5face73730a262
 <img src="/images/chit-chat.jpeg" 
      style="width:55%">
 
-Registration is now closed.
+<center>Registration is now closed.</center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
