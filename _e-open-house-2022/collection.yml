@@ -2,6 +2,7 @@ collections:
   e-open-house-2022:
     output: true
     order:
+      - Explore Your Gifts/3 – Mathematics.md
       - Explore Your Gifts/4 – Science.md
       - Explore Your Gifts/5 – STEM (ALP).md
       - Explore Your Gifts/6 – Sports.md
