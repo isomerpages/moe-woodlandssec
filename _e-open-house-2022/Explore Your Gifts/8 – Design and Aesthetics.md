@@ -170,7 +170,7 @@ Our HOD (Craft & Technology), Mr Abdul Latiff Bin Omar , and HOD (PE & CCA), Mr 
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+    <td class="tg-w45d"><a href="/e-open-house-2022/Explore-Your-Gifts/explore-your-gifts/"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
   </tr>
 </tbody>
 </table>
