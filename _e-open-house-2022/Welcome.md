@@ -38,7 +38,7 @@ description: ""
     <td class="tg-fuxe" rowspan="2"><span style="font-weight:bold;font-style:inherit">Explore this e-open house with your Gift Finder report</span><br><span style="font-weight:inherit;font-style:inherit">Your </span><a href="https://for.edu.sg/wdlgiftfinder" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Gift Finder</span></a> <span style="font-weight:inherit;font-style:inherit">report would identify the gifts you may have.</span><br><span style="font-weight:inherit;font-style:inherit">Hear from our teachers and your seniors what you can do to develop your gifts. </span><br><span style="font-weight:inherit;font-style:inherit">Find out what opportunities Woodlands Sec offer to develop our students' gifts in these areas.</span></td>
   </tr>
   <tr>
-    <td class="tg-5u3w"><span style="font-weight:400;font-style:normal;color:#FFF">Take the quiz</span></td>
+    <td class="tg-5u3w"><a href="https://wdlgiftfinder.herokuapp.com/"><span style="font-weight:400;font-style:normal;color:#FFF">Take the quiz</span></a></td>
   </tr>
 </tbody>
 </table>
