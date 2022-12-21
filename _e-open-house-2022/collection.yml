@@ -2,6 +2,7 @@ collections:
   e-open-house-2022:
     output: true
     order:
+      - CCA Challenge.md
       - Explore Your Gifts/.keep
       - Explore Your Gifts/Explore Your Gifts!.md
       - Explore Your Gifts/1 – English.md
