@@ -42,3 +42,51 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+
+------
+
+#### Choose a gift to explore
+
+Why not start with the ones highlighted by your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nx8p">el</td>
+    <td class="tg-nx8p">mt</td>
+    <td class="tg-nx8p">math</td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p">sci</td>
+    <td class="tg-nx8p">stem</td>
+    <td class="tg-nx8p">sports</td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p">humans</td>
+    <td class="tg-nx8p">de</td>
+    <td class="tg-nx8p">llp</td>
+  </tr>
+</tbody>
+</table>
+
+
+### More about using the [Gift Finder report](https://for.edu.sg/wdlgiftfinder)
+
+
+
