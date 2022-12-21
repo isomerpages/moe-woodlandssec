@@ -47,11 +47,29 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 
 #### Recent achievement in this area
 
-<img src="/images/sci-eopen-21.jpeg" 
-     style="width:45%">
-
-**2nd Runner-up**   
-[Rescue Rangers Category 2021 Nanyang Polytechnic e-Science & Technology Challenge (NYP E-STC)](https://www.instagram.com/p/CTpSPSjBlro/)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><span style="font-weight:700;font-style:normal">Gold Award</span><br><span style="font-weight:400;font-style:normal">Game-Making Competition 2022</span></td>
+    <td class="tg-fuxe"><span style="font-weight:700;font-style:normal">Semi-finalist</span><br><span style="font-weight:400;font-style:normal">Young Founders Summit Singapore 2022 - for youth changemakers to create innovative solutions that solve sustainability challenges.</span></td>
+    <td class="tg-fuxe"><img src="/images/sci-eopen-21.jpeg" 
+     style="width:100%"><span style="font-weight:700;font-style:normal">2nd Runner-up</span><br><a href="https://www.instagram.com/p/CTpSPSjBlro/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289">Rescue Rangers Category</span></a><br><a href="https://www.instagram.com/p/CTpSPSjBlro/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289">2021 Nanyang Polytechnic e-Science &amp; Technology Challenge (NYP E-STC)</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 <br>
