@@ -80,7 +80,7 @@ Our SH (Physics), Mr Jacky Tan, explains what someone who excels in this area is
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-fuxe"><img src="/images/principal.jpg"><span style="font-weight:700;font-style:normal">Honourable Mention</span><br><span style="font-weight:400;font-style:normal">Singapore Physics Olympiad 2022</span></td>
+    <td class="tg-fuxe"><img src="/images/physics-olympiad.jpeg"><span style="font-weight:700;font-style:normal">Honourable Mention</span><br><span style="font-weight:400;font-style:normal">Singapore Physics Olympiad 2022</span></td>
     <td class="tg-fuxe"></td>
     <td class="tg-fuxe"></td>
   </tr>
