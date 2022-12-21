@@ -113,3 +113,40 @@ Why not start with the ones highlighted by your [Gift Finder](https://for.edu.s
 </table>
 
 ### Other info
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-slrk{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:top}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 269px">
+<col style="width: 269px">
+<col style="width: 269px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe" rowspan="3"><iframe width="250" height="135" src="https://www.youtube.com/embed/fU25f3_ZZsE" title="Woodlands Sec School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><span style="font-weight:bold;font-style:normal">Take a School Tour!</span><br><br><span style="font-weight:400;font-style:normal">Let our Woodlanders take you on a tour of our home and have a peek into what we do.</span></td>
+    <td class="tg-fuxe"><a href = "/eopenhouse-2020/" target = "_self"> 
+          <img src="/images/chit-chat.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-fuxe"><a href = "/eopenhouse-2020/" target = "_self"> 
+          <img src="/images/2020eoh.jpeg" 
+     style="width:100%"></a></td>
+  </tr>
+  <tr>
+    <td class="tg-slrk"><a href="https://youtu.be/JDRd2GxDssc" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:#034289">Q&amp;A Zoom Recording</span></a></td>
+    <td class="tg-slrk"><a href="/eopenhouse-2020" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:#034289">Visit E-Open House 2020</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:inherit">Registration is now closed.</span><br><br><span style="font-weight:400;font-style:normal">Date: 26 November 2022</span><br><span style="font-weight:400;font-style:normal">Time: 10am</span><br><span style="font-weight:400;font-style:normal">Venue: Through Zoom or at Woodlands Sec</span><br><br><span style="font-weight:400;font-style:normal">Have a chat with our school leaders and middle managers to clarify your doubts as you decide on your secondary school choices.</span><br><br><span style="font-weight:400;font-style:normal">School tours will be provided to those who attend the event at Woodlands Sec.</span></td>
+    <td class="tg-nx8p"></td>
+  </tr>
+</tbody>
+</table>
