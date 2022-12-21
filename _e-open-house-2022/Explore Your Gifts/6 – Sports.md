@@ -97,3 +97,29 @@ Our HOD (PE & CCA), Mr Mohd Razif Bin Abdul Hamed, explains what someone who exc
   </tr>
 </tbody>
 </table>
+
+
+#### Recent Achievements in this Area
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><img src="/images/takraw-b.jpeg"><span style="font-weight:700;font-style:normal">3rd in 'C' Division,</span><br><span style="font-weight:700;font-style:normal">4th in 'B' Division</span><br><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-games#sepak-takraw" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Sepak Takraw</span></a><br><span style="font-weight:400;font-style:normal">National School Games 2022</span></td>
+    <td class="tg-fuxe"><img src="/images/football-girls-b.jpeg"><span style="font-weight:700;font-style:normal">4th in 'B' Division</span><br><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-game#football-girls" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Football Girls</span></a><br><span style="font-weight:400;font-style:normal">National School Games 2022</span></td>
+    <td class="tg-fuxe"><img src="/images/football-boys-c.jpeg"><span style="font-weight:700;font-style:normal">3rd in 'C' Divison,</span><br><span style="font-weight:700;font-style:normal">Fairplay Award for B-Division</span><br><a href="https://woodlandssec.moe.edu.sg/ccas/sports-and-games#football-boys" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Football Boys</span></a><br><span style="font-weight:400;font-style:normal">National School Games 2022</span></td>
+  </tr>
+</tbody>
+</table>
