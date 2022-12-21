@@ -52,10 +52,9 @@ third_nav_title: Explore Your Gifts
     <td class="tg-nx8p"><a href = "#dna" target = "_self"> 
           <img src="/images/8-de.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nx8p"><a href = "#sl" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/sl/" target = "_self"> 
           <img src="/images/9-sl.jpeg" 
      style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
-
