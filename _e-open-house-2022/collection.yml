@@ -2,6 +2,7 @@ collections:
   e-open-house-2022:
     output: true
     order:
+      - Contact Us!.md
       - Welcome.md
       - Explore Your Gifts/.keep
       - Explore Your Gifts/Explore Your Gifts!.md
