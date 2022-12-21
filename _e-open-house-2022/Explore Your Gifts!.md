@@ -3,6 +3,8 @@ title: Explore Your Gifts!
 permalink: /e-open-house-2022/explore-your-gifts/
 description: ""
 ---
+<a id="1"></a>
+
 ### Choose a gift to explore
 
 ##### Why not start with the ones highlighted by your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report
@@ -131,6 +133,26 @@ Our HOD (English Language), Ms Sarah Teo, explains what someone who excels in th
 
 **Bronze Award**   
 [The Queen's Commonwealth Essay Competition 2021](https://www.instagram.com/p/CU-YAj3hOSp/)
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 <a id="mt"></a>
@@ -795,4 +817,3 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
   </tr>
 </tbody>
 </table>
-
