@@ -99,7 +99,7 @@ Our HOD (PE & CCA), Mr Mohd Razif Bin Abdul Hamed, explains what someone who exc
 </table>
 
 
-#### Recent Achievements in this Area
+#### Recent achievement in this area
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
