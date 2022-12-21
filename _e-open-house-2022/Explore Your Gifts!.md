@@ -653,7 +653,7 @@ Our SH (History & NE), Mrs Lechimi Devi Ramesh, and our SH (Geography), Mr Luo Y
 #### Recent achievement in this area
 
 **Silver Award**   
-NLB Historical Scene Investigation Challenge
+NLB Historical Scene Investigation Challenge, for both 2021 and 2022.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
