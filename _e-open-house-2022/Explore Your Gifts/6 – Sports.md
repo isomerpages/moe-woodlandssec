@@ -65,7 +65,7 @@ Our HOD (PE & CCA), Mr Mohd Razif Bin Abdul Hamed, explains what someone who exc
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the</span><span style="font-weight:400;font-style:normal;color:#FFF"> </span><a href="https://woodlandssec.moe.edu.sg/eopenhouse/eoh-cca-challenge/" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Sports &amp; Games CCAs.</td>
+    <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the</span><span style="font-weight:400;font-style:normal;color:#FFF"> </span><a href="/e-open-house-2022/cca-challenge/" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Sports &amp; Games CCAs.</td>
   </tr>
 </tbody>
 </table>
