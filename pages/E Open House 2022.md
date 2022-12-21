@@ -70,7 +70,7 @@ The CCA seniors will pick their favourite entries by the end of January!
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/performing-arts/#1" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Choir</span></a></td>
+    <td class="tg-nx8p"><iframe width="200" height="110" src="https://www.youtube.com/embed/F7LUZqP6c5k" title="WDL CCA Challenge -Choir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/performing-arts/#1" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Choir</span></a></td>
     <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/performing-arts/#3" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Dance</span></a></td>
     <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/performing-arts/#4" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">ELDDS</span></a></td>
     <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by</span><span style="font-weight:700;font-style:normal;color:#034289"> </span><a href="/ccas/performing-arts/#5" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Malay Dance</span></a></td>
