@@ -2,6 +2,7 @@ collections:
   e-open-house-2022:
     output: true
     order:
+      - Explore Your Gifts/9 – Service & Leadership (Our LLP).md
       - Explore Your Gifts/.keep
       - Explore Your Gifts!.md
       - Welcome.md
