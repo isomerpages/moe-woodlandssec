@@ -99,8 +99,8 @@ The CCA seniors will pick their favourite entries by the end of January!
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/uniformed-groups/#1" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Boys' Brigade</span></a></td>
-    <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/uniformed-groups/#2" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Girl Guides</span></a></td>
+    <td class="tg-nx8p"><iframe width="200" height="110" src="https://www.youtube.com/embed/9x9PfBmDDHc" title="WDL CCA Challenge - Boys' Brigade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/uniformed-groups/#1" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Boys' Brigade</span></a></td>
+    <td class="tg-nx8p"><iframe width="200" height="110" src="https://www.youtube.com/embed/XIPKPWpYfVY" title="WDL CCA Challenge - Girl Guides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/uniformed-groups/#2" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Girl Guides</span></a></td>
     <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/uniformed-groups/#3" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">NCC</span></a></td>
     <td class="tg-nx8p"></td>
   </tr>
