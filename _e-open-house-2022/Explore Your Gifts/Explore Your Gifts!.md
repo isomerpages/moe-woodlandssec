@@ -24,32 +24,32 @@ third_nav_title: Explore Your Gifts
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nx8p"><a href = "/explore-your-gifts/el/" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/el/" target = "_self"> 
           <img src="/images/1-el.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nx8p"><a href = "#mt" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/mt/" target = "_self"> 
           <img src="/images/2-mt.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nx8p"><a href = "#math" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/math/" target = "_self"> 
           <img src="/images/3-math.jpeg" 
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p"><a href = "#sci" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/science/" target = "_self"> 
           <img src="/images/4-science.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "#stem" target = "_self"> 
-          <img src="/images/5-stem.jpeg" 
+          <img src="/e-open-house-2022/Explore-Your-Gifts/stem/" 
      style="width:100%"></a></td>
-    <td class="tg-nx8p"><a href = "#sports" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/sports/" target = "_self"> 
           <img src="/images/6-sports.jpeg" 
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p"><a href = "#humans" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/humanities/" target = "_self"> 
           <img src="/images/7-humanities.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nx8p"><a href = "#dna" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/dna/" target = "_self"> 
           <img src="/images/8-de.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/sl/" target = "_self"> 
