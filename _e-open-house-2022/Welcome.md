@@ -45,9 +45,9 @@ description: ""
 
 <br>
 
-#### Choose a gift to explore
+### Choose a gift to explore
 
-Why not start with the ones highlighted by your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report
+##### Why not start with the ones highlighted by your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -65,19 +65,37 @@ Why not start with the ones highlighted by your [Gift Finder](https://for.edu.s
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nx8p">el</td>
-    <td class="tg-nx8p">mt</td>
-    <td class="tg-nx8p">math</td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/el/" target = "_self"> 
+          <img src="/images/1-el.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/mt/" target = "_self"> 
+          <img src="/images/2-mt.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/math/" target = "_self"> 
+          <img src="/images/3-math.jpeg" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p">sci</td>
-    <td class="tg-nx8p">stem</td>
-    <td class="tg-nx8p">sports</td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/science/" target = "_self"> 
+          <img src="/images/4-science.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/stem/" target = "_self"> 
+          <img src="/images/5-stem.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/sports/" target = "_self"> 
+          <img src="/images/6-sports.jpeg" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p">humans</td>
-    <td class="tg-nx8p">de</td>
-    <td class="tg-nx8p">llp</td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/humanities/" target = "_self"> 
+          <img src="/images/7-humanities.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/dna/" target = "_self"> 
+          <img src="/images/8-de.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/sl/" target = "_self"> 
+          <img src="/images/9-sl.jpeg" 
+     style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
