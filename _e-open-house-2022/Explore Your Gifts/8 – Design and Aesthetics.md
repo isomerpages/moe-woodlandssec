@@ -142,14 +142,20 @@ Our HOD (Craft & Technology), Mr Abdul Latiff Bin Omar , and HOD (PE & CCA), Mr 
 </colgroup>
 <tbody>
   <tr>
+		<td class="tg-fuxe"><img src="/images/dntawards.jpeg"><span style="font-weight:700;font-style:normal">Design &amp; Technology Award 2022</span><br><span style="font-weight:400;font-style:normal">National awards for best products produced for Design &amp; Technology N-Level and O-Level coursework.</span></td>
     <td class="tg-fuxe"><img src="/images/pa-awa-1.jpeg" 
      style="width:100%"><span style="font-weight:700;font-style:normal">Accomplishment</span><br><a href="https://www.instagram.com/p/COc8VC3h_I_/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Concert Band</span></a><br><a href="https://www.instagram.com/p/COc8VC3h_I_/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">SYF Arts Presentation 2021</span></a></td>
     <td class="tg-nx8p"><img src="/images/pa-awa-2.png" 
      style="width:100%"><span style="font-weight:700;font-style:normal">Accomplishment</span><br><a href="https://www.instagram.com/p/COc7_uSBjEe/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Chinese Dance</span></a><br><a href="https://www.instagram.com/p/COc7_uSBjEe/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">SYF Arts Presentation 2021</span></a></td>
     <td class="tg-fuxe"><img src="/images/pa-awa-3.jpeg" 
      style="width:100%"><span style="font-weight:700;font-style:normal">Distinction</span><br><a href="https://www.instagram.com/p/COc8eJihP3P/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Drama</span></a><br><a href="https://www.instagram.com/p/COc8eJihP3P/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">SYF Arts Presentation 2021</span></a></td>
+  </tr>
+	<tr>
     <td class="tg-fuxe"><img src="/images/pa-awa-4.png" 
      style="width:100%"><span style="font-weight:700;font-style:normal">Distinction</span><br><a href="https://www.instagram.com/p/CNH6nI6Ba6p/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Malay Dance</span></a><br><a href="https://www.instagram.com/p/CNH6nI6Ba6p/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">SYF Arts Presentation 2021</span></a></td>
+    <td class="tg-nx8p"></td>
+    <td class="tg-fuxe"></td>
+    <td class="tg-fuxe"></td>
   </tr>
 </tbody>
 </table>
