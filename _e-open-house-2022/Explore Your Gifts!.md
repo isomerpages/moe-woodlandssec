@@ -145,8 +145,10 @@ Our HOD (English Language), Ms Sarah Teo, explains what someone who excels in th
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-fuxe"><span style="font-weight:700;font-style:normal">Zonal 18 Merit Award</span><br><span style="font-weight:400;font-style:normal">Singapore English Olympiad 2022</span></td>
-    <td class="tg-fuxe"><span style="font-weight:700;font-style:normal">Top 14</span><br><span style="font-weight:400;font-style:normal">Plain English Speaking Award (PESA) 2022</span></td>
+    <td class="tg-fuxe"><img src="/images/prince.jpeg" 
+     style="width:100%"><span style="font-weight:700;font-style:normal">Zonal 18 Merit Award</span><br><span style="font-weight:400;font-style:normal">Singapore English Olympiad 2022</span></td>
+    <td class="tg-fuxe"><img src="/images/pesa.jpeg" 
+     style="width:100%"><span style="font-weight:700;font-style:normal">Top 14</span><br><span style="font-weight:400;font-style:normal">Plain English Speaking Award (PESA) 2022</span></td>
     <td class="tg-fuxe"><img src="/images/queens-english.jpeg" 
      style="width:100%"><span style="font-weight:700;font-style:normal">Bronze Award</span><br><a href="https://www.instagram.com/p/CU-YAj3hOSp/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">The Queen's Commonwealth Essay Competition 2021</span></a></td>
   </tr>
