@@ -425,6 +425,31 @@ Our SH (Physics), Mr Jacky Tan, explains what someone who excels in this area is
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fuxe{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-fuxe"><img src="/images/principal.jpg"><span style="font-weight:700;font-style:normal">Honourable Mention</span><br><span style="font-weight:400;font-style:normal">Singapore Physics Olympiad 2022</span></td>
+    <td class="tg-fuxe"></td>
+    <td class="tg-fuxe"></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 180px">
