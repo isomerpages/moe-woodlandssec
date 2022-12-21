@@ -89,4 +89,25 @@ Why not start with the ones highlighted by your [Gift Finder](https://for.edu.s
 ### More about using the [Gift Finder report](https://for.edu.sg/wdlgiftfinder)
 
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal"><iframe width="260" height="140" src="https://www.youtube.com/embed/G_AMynplgIU" title="Making Sense of my WDL Gift Finder Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Making sense of your Gift Finder report</span><br><br><span style="font-weight:400;font-style:normal">Our Vice-Principal, Mdm Masayu, explains how to interpret your </span><a href="https://for.edu.sg/wdlgiftfinder" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Gift Finder</span></a> report.</td>
+    <td class="tg-nx8p"><iframe width="260" height="140" src="https://www.youtube.com/embed/Hrk2qjtHwQo" title="WDL Gift Finder Report - How do I decide on my secondary school choices?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:inherit">Deciding on your choices</span><br><span style="font-weight:400;font-style:normal">Our Vice-Principal, Mr Chen Bing Hong, shares how you can use your </span><a href="https://for.edu.sg/wdlgiftfinder" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Gift Finder</span></a> report to help you decide on your secondary school choices.</td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:inherit">Resources mentioned in the video</span><br><span style="font-weight:400;font-style:normal">• </span><a href="https://for.edu.sg/wdlblanktemplate" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Graphic Organiser to make sense of a school's programmes (For printing)</span></a><br><span style="font-weight:400;font-style:normal">•</span><span style="color:#034289"> </span><a href="https://for.edu.sg/wdlcreatecopyblanktemplate" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Copy of the Google Doc version</span></a><br><span style="font-weight:400;font-style:normal">•</span> <a href="https://for.edu.sg/wdlgraphicorganiser" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Summary of our programmes as an example</span></a></td>
+  </tr>
+</tbody>
+</table>
