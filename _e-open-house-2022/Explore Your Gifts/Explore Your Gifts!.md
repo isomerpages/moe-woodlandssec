@@ -38,8 +38,8 @@ third_nav_title: Explore Your Gifts
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/science/" target = "_self"> 
           <img src="/images/4-science.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nx8p"><a href = "#stem" target = "_self"> 
-          <img src="/e-open-house-2022/Explore-Your-Gifts/stem/" 
+    <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/stem/" target = "_self"> 
+          <img src="/images/5-stem.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/sports/" target = "_self"> 
           <img src="/images/6-sports.jpeg" 
