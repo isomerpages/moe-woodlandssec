@@ -91,9 +91,9 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-hqaq{background-color:#034289;color:#ffffff;font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<table class="tg" style="undefined;table-layout: fixed; width: 350px">
 <colgroup>
-<col style="width: 660px">
+<col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
