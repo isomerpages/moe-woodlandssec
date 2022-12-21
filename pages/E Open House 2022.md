@@ -46,3 +46,34 @@ The CCA seniors will pick their favourite entries by the end of January!
   </tr>
 </tbody>
 </table>
+
+
+### Performing Arts
+
+[(Watch all as a playlist on YouTube)](https://youtube.com/playlist?list=PL3LU17pYOYNImBWc6_lIz6ky00e2iyqCI)
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/performing-arts/#1" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Choir</span></a></td>
+    <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/performing-arts/#3" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Dance</span></a></td>
+    <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by </span><a href="/ccas/performing-arts/#4" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">ELDDS</span></a></td>
+    <td class="tg-nx8p"><span style="font-weight:700;font-style:normal">by</span><span style="font-weight:700;font-style:normal;color:#034289"> </span><a href="/ccas/performing-arts/#5" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Malay Dance</span></a></td>
+  </tr>
+</tbody>
+</table>
