@@ -218,6 +218,25 @@ Our SH (Chinese Language), Mr Phua Poh Boon, explains what someone who excels in
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+  </tr>
+</tbody>
+</table>
+
 
 <a id="math"></a>
 
@@ -294,6 +313,24 @@ Our HOD (Mathematics), Ms Goh Hui Shi, and our SH (Mathematics), Mr Wilson Tuong
 [Singapore Mathematical Olympiad 2021](https://www.instagram.com/p/CVX5A_gpSf2/)
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 <a id="sci"></a>
@@ -359,7 +396,26 @@ Our SH (Physics), Mr Jacky Tan, explains what someone who excels in this area is
 </tbody>
 </table>
 
+<br>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 <a id="stem"></a>
 
@@ -415,7 +471,24 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 **2nd Runner-up**   
 [Rescue Rangers Category 2021 Nanyang Polytechnic e-Science & Technology Challenge (NYP E-STC)](https://www.instagram.com/p/CTpSPSjBlro/)
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 <a id="sports"></a>
 
@@ -492,6 +565,25 @@ Our HOD (PE & CCA), Mr Mohd Razif Bin Abdul Hamed, explains what someone who exc
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+  </tr>
+</tbody>
+</table>
+
 
 <a id="humans"></a>
 
@@ -563,6 +655,24 @@ Our SH (History & NE), Mrs Lechimi Devi Ramesh, and our SH (Geography), Mr Luo Y
 **Silver Award**   
 NLB Historical Scene Investigation Challenge
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 <a id="dna"></a>
 
@@ -716,6 +826,27 @@ Our HOD (Craft & Technology), Mr Abdul Latiff Bin Omar , and HOD (PE & CCA), Mr 
 </tbody>
 </table>
 
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
+  </tr>
+</tbody>
+</table>
+
 <a id="alp"></a>
 
 <br>
@@ -814,6 +945,27 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 <tbody>
   <tr>
     <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="/eopenhouse-2021/#3" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Uniformed Groups CCAs.</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w45d{background-color:#034289;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 180px">
+<colgroup>
+<col style="width: 180px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-w45d"><a href="#1"><span style="color:#FFF;background-color:#034289">^ Back to Top</span></a></td>
   </tr>
 </tbody>
 </table>
