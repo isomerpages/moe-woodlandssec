@@ -83,13 +83,13 @@ Our HOD (Craft & Technology), Mr Abdul Latiff Bin Omar , and HOD (PE & CCA), Mr 
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-hqaq{background-color:#034289;color:#ffffff;font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<table class="tg" style="undefined;table-layout: fixed; width: 350px">
 <colgroup>
-<col style="width: 660px">
+<col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="/eopenhouse-2021/#3" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Performing Arts CCAs.</td>
+    <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="/e-open-house-2022/cca-challenge/" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Performing Arts CCAs.</td>
   </tr>
 </tbody>
 </table>
