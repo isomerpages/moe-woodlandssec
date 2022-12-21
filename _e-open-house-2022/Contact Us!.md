@@ -3,8 +3,6 @@ title: Contact Us!
 permalink: /e-open-house-2022/contact-us/
 description: ""
 ---
-# Connect with us!
-
 #### We hope you had a good time with us here at our e-open house.
 
 ##### HELP US IMPROVE!
