@@ -97,7 +97,7 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="/eopenhouse-2021/#3" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Uniformed Groups CCAs.</td>
+    <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="/e-open-house-2022/cca-challenge/" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Uniformed Groups CCAs.</td>
   </tr>
 </tbody>
 </table>
@@ -118,8 +118,7 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-w45d"><a href="/here/"><span style="color:#FFF;background-color:#034289">^ Back to Main</span></a></td>
+    <td class="tg-w45d"><a href="/e-open-house-2022/Explore-Your-Gifts/explore-your-gifts/"><span style="color:#FFF;background-color:#034289">^ Back to Main</span></a></td>
   </tr>
 </tbody>
 </table>
-
