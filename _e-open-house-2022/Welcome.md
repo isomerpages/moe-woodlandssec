@@ -45,9 +45,6 @@ description: ""
 
 <br>
 
-
-------
-
 #### Choose a gift to explore
 
 Why not start with the ones highlighted by your [Gift Finder](https://for.edu.sg/wdlgiftfinder) report
