@@ -150,3 +150,5 @@ Why not start with the ones highlighted by your [Gift Finder](https://for.edu.s
   </tr>
 </tbody>
 </table>
+
+![](/images/22-awa.png)
