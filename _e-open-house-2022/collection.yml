@@ -2,7 +2,6 @@ collections:
   e-open-house-2022:
     output: true
     order:
-      - Contact Us!.md
       - Welcome.md
       - Explore Your Gifts/.keep
       - Explore Your Gifts/Explore Your Gifts!.md
@@ -16,3 +15,4 @@ collections:
       - Explore Your Gifts/8 – Design and Aesthetics.md
       - Explore Your Gifts/9 – Service & Leadership (Our LLP).md
       - CCA Challenge.md
+      - Contact Us!.md
