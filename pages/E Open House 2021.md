@@ -542,7 +542,29 @@ Our HOD (PE & CCA), Mr Mohd Razif Bin Abdul Hamed, explains what someone who exc
     <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/OoQG7R29_9M" title="Passing in soccer (Football Boys)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">Passing in Soccer</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#football-boys" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Football Boys</span></a><br></td>
     <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/Px7qDgXBfWU" title="Common netball mistakes (Netball)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">Common netball mistakes</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#netball" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Netball</span></a><br></td>
     <td class="tg-fuxe"><iframe width="200" height="141" src="https://www.youtube.com/embed/-BQ1O84yHzg" title="How to do a Sunback Spike (Sepak Takraw)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="font-weight:bold;font-style:normal">How to do a Sunback Spike</span><br>by <a href="https://woodlandssec.moe.edu.sg/ccas/sports-games/#sepak-takraw" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Sepak Takraw</span></a><br></td>
-    <td class="tg-hqaq"><br><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the </span><a href="/eopenhouse-2021/#3" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;text-decoration:underline;color:#FFF">CCA challenge</span></a> by the seniors from the Sports &amp; Games CCAs.</td>
+    <td class="tg-fuxe"></td>
+  </tr>
+</tbody>
+</table>
+
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hqaq{background-color:#034289;color:#ffffff;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 350px">
+<colgroup>
+<col style="width: 350px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-hqaq"><span style="font-weight:600;font-style:normal">Show us your skills!</span><br><span style="font-weight:400;font-style:normal">Check out the</span><span style="font-weight:400;font-style:normal;color:#FFF"> </span><a href="/eopenhouse-2021/#3" target="_blank" rel="noopener noreferrer"><span style="font-style:inherit;color:#FFF;background-color:#034289">CCA challenge</span></a> by the seniors from the Sports &amp; Games CCAs.</td>
   </tr>
 </tbody>
 </table>
