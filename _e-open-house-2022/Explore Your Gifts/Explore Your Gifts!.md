@@ -24,7 +24,7 @@ third_nav_title: Explore Your Gifts
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nx8p"><a href = "/explore-your-gifts/el" target = "_self"> 
+    <td class="tg-nx8p"><a href = "/explore-your-gifts/el/" target = "_self"> 
           <img src="/images/1-el.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "#mt" target = "_self"> 
