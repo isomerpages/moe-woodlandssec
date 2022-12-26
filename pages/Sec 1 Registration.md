@@ -285,7 +285,7 @@ description: ""
   <tr>
     <td class="tg-74j4"><span style="font-weight:bold;font-style:inherit;text-decoration:underline;color:#C68C51">EITHER</span><span style="font-weight:bold;color:#C68C51"> </span><span style="font-weight:800;color:#C68C51;background-color:#FCE6DC">Apply ONLINE</span><br><span style="font-weight:400;font-style:normal">Submit FAS application to MOE at</span><br><span style="font-weight:400;font-style:normal"> </span><br><a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">https://go.gov.sg/moe-efas</span></a><br><br><img src="/images/qr-code-e-fas-application-300x287.png" 
      style="width:45%"></td>
-    <td class="tg-74j4"><span style="font-weight:bold;font-style:inherit;text-decoration:underline;color:#C68C51;background-color:#FCE6DC">OR</span><span style="color:#C68C51;background-color:#FCE6DC"> </span><span style="font-weight:800;color:#C68C51;background-color:#FCE6DC">Submit HARD copy</span><br><span style="font-weight:inherit;font-style:inherit">1. Download and complete </span><a href="https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/2023-MOE-FAS-APPLICATION-FORM.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">MOE FAS Application Form</span></a><span style="font-weight:inherit;font-style:inherit">.</span><br><span style="font-weight:inherit;font-style:inherit">2. Gather the supporting documents.</span><br><span style="font-weight:inherit;font-style:inherit">3. Submit (1) and (2) to the school's General Office on 22 Dec</span></td>
+    <td class="tg-74j4"><span style="font-weight:bold;font-style:inherit;text-decoration:underline;color:#C68C51;background-color:#FCE6DC">OR</span><span style="color:#C68C51;background-color:#FCE6DC"> </span><span style="font-weight:800;color:#C68C51;background-color:#FCE6DC">Submit HARD copy</span><br><span style="font-weight:inherit;font-style:inherit">1. Download and complete </span><a href="/files/MOE-FAS-2023-Application-Form.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">MOE FAS Application Form</span></a><span style="font-weight:inherit;font-style:inherit">.</span><br><span style="font-weight:inherit;font-style:inherit">2. Gather the supporting documents.</span><br><span style="font-weight:inherit;font-style:inherit">3. Submit (1) and (2) to the school's General Office on 22 Dec</span></td>
   </tr>
 </tbody>
 </table></td>
@@ -301,3 +301,4 @@ description: ""
   </tr>
 </tbody>
 </table>
+
