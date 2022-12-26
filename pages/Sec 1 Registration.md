@@ -363,3 +363,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**For SBB students**,  
+* Confirm your acceptance of the SBB offer before buying the textbooks to prevent wrong purchases.  
+* Ensure that you only purchase the textbooks of your SBB subject(s) from the SBB book list. [(More Info)](/files/sbb-buy-textbook-advisory.pdf)
+
