@@ -368,3 +368,51 @@ description: ""
 * Confirm your acceptance of the SBB offer before buying the textbooks to prevent wrong purchases.  
 * Ensure that you only purchase the textbooks of your SBB subject(s) from the SBB book list. [(More Info)](/files/sbb-buy-textbook-advisory.pdf)
 
+
+<a id="otherinfo"></a>
+
+# OTHER INFO
+
+<a id="psg"></a>
+
+##### Parents' Support Group (PSG)
+
+<center><iframe width="415" height="235" src="https://www.youtube.com/embed/HDpZJFQyuyg" title="WDL PSG Welcome" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+Welcome message by PSG Chairperson, Mdm Siti Aisha.
+
+*   Find out more at [PSG's Facebook page](https://www.facebook.com/wdlpsg/)
+*   Join the PSG [via this Google Form.](https://docs.google.com/forms/d/1S55MCzVhAwO3BT_YPyZIxR6FL2FUwagTZ7JldsqTP1Q/viewform?edit_requested=true)
+
+------
+
+##### Find out more about the school!
+
+(inser ttable herE)
+
+----
+
+<a id="aepandmep"></a>
+
+##### Art Elective Programe (AEP) & Music Elective Programme (MEP)
+
+If your child exhibits interest and passion for Art or Music, they can apply for Art Elective Programme (AEP) or Music Elective Programme (MEP) in the following Centres:
+
+*   AEP Centre (National Junior College)
+*   MEP Centres (Anglo-Chinese School (Independent) or Dunman High School)
+
+Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centres.
+
+##### APPLICATION
+
+The online application is open from 3-16 January. More information is available in web links provided below.
+
+##### MORE INFORMATION
+
+*   [Slides on AEP and MEP from MOE.](/files/AEPMEP-Sec_Briefing-Slides.pdf)
+*   **Art Elective Programme Website**  
+    [https://moe.gov.sg/aep](https://moe.gov.sg/aep)
+*   **Music Elective Programme Website**  
+    [https://moe.gov.sg/mep](https://moe.gov.sg/mep)
+
+
+
