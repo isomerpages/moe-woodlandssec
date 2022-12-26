@@ -89,33 +89,39 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4zha{background-color:#6a9db1;border-color:inherit;color:#ffffff;font-size:24px;font-weight:bold;text-align:left;
-  vertical-align:top}
+.tg .tg-wjzb{background-color:#caebf8;text-align:left;vertical-align:top}
 .tg .tg-2oeo{background-color:#caebf8;border-color:inherit;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-6hoa{background-color:#c5debf;border-color:inherit;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-c2x2{background-color:#6a9db1;font-size:24px;text-align:left;vertical-align:top}
 .tg .tg-287h{background-color:#339333;border-color:inherit;color:#ffffff;font-size:24px;font-weight:bold;text-align:left;
   vertical-align:top}
 .tg .tg-45ze{background-color:#caebf8;border-color:inherit;color:#034289;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-py97{background-color:#caebf8;font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 809px">
 <colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
+<col style="width: 68px">
+<col style="width: 338px">
+<col style="width: 403px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-4zha">22 Dec onwards (MORE DETAILS)</td>
+    <td class="tg-c2x2" colspan="2"><span style="font-weight:800;font-style:normal;color:#FFF">22 Dec onwards (</span><a href="https://woodlandssec.moe.edu.sg/sec1registration/#books-uniform" target="_blank" rel="noopener noreferrer"><span style="font-weight:800;font-style:inherit;color:#FFF">MORE DETAILS</span></a><span style="color:#FFF">)</span></td>
     <td class="tg-287h">03 Jan 2022, Tue </td>
   </tr>
   <tr>
-    <td class="tg-2oeo"><a href="https://woodlandssec.moe.edu.sg/sec1registration/#books-uniform" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289">Order books</span></a></td>
-    <td class="tg-6hoa" rowspan="3"><span style="font-weight:800;font-style:normal">REPORT TO SCHOOL</span><br><span style="font-weight:800;font-style:normal">BY 7.30AM IN FORMAL SCHOOL ATTIRE</span><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/Sec-1-Registration-Info-Booklet_for-2022_Final.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Refer to Pg 11 &amp; 12 of Sec 1 Registration Booklet</span></a><span style="font-weight:inherit;font-style:inherit"> for more details.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> On average, our Woodlanders spend about $2-3 during recess for a set meal, consisting of rice/noodles, vegetables, and meat.</span></td>
+    <td class="tg-wjzb"><img src="/images/textbook.png" 
+     style="width:100%"></td>
+    <td class="tg-2oeo"><a href="https://woodlandssec.moe.edu.sg/sec1registration/#books-uniform" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Order books</span></a></td>
+    <td class="tg-6hoa" rowspan="3"><span style="font-weight:800;font-style:normal">REPORT TO SCHOOL</span><br><span style="font-weight:800;font-style:normal">BY 7.30AM IN FORMAL SCHOOL ATTIRE</span><br><span style="font-weight:400;font-style:normal">• </span><a href="/files/Sec-1-Registration-Info-Booklet_for-2022_Final.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Refer to Pg 11 &amp; 12 of Sec 1 Registration Booklet</span></a><span style="font-weight:inherit;font-style:inherit"> for more details.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> On average, our Woodlanders spend about $2-3 during recess for a set meal, consisting of rice/noodles, vegetables, and meat.</span></td>
   </tr>
   <tr>
+    <td class="tg-wjzb"><img src="/images/uniform.png" 
+     style="width:100%"></td>
     <td class="tg-45ze"><a href="https://woodlandssec.moe.edu.sg/sec1registration/#books-uniform" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289">Order uniform</span></a></td>
   </tr>
   <tr>
-    <td class="tg-2oeo"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Order them online from 22 Dec onwards</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> OR purchase in school from 27 to 30 Dec</span><br><span style="font-weight:400;font-style:normal">Click on links above for more details, or </span><a href="https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/Sec-1-Registration-Info-Booklet_for-2022_Final.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289;background-color:#CAEBF8">refer to Pg 13 of Sec 1 Registration Booklet</span></a> for more details.</td>
+    <td class="tg-py97" colspan="2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Order them online from 22 Dec onwards</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> OR purchase in school from 27 to 30 Dec</span><br><span style="font-weight:400;font-style:normal">Click on links above for more details, or </span><a href="/files/Sec-1-Registration-Info-Booklet_for-2022_Final.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">refer to Pg 13 of Sec 1 Registration Booklet</span></a> for more details.</td>
   </tr>
 </tbody>
 </table>
