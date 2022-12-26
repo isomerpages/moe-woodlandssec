@@ -236,7 +236,7 @@ description: ""
   <tr>
     <td class="tg-lel6"><img src="/images/sbb.png" 
      style="width:65%"><br><br><span style="font-weight:inherit;font-style:inherit">2) Subject-based Banding (SBB)</span><br><span style="font-weight:bold;font-style:inherit;background-color:#CCC">SBB allows eligible students to take a higher-stream subject e.g. N(A) students taking Express subjects</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">If your child/ward is eligible for SBB, an offer will be made through PG.</span><br><span style="font-weight:inherit;font-style:inherit">Please accept or reject the offer through PG.</span><br><img src="/images/sec1-reg-2.png" 
+    <td class="tg-oku2"><a id="sbb"></a><span style="font-weight:inherit;font-style:inherit">If your child/ward is eligible for SBB, an offer will be made through PG.</span><br><span style="font-weight:inherit;font-style:inherit">Please accept or reject the offer through PG.</span><br><img src="/images/sec1-reg-2.png" 
      style="width:75%"><br><span style="font-weight:600;font-style:inherit;background-color:#DEDEDE">The SBB form on PG to accept or reject the offer.</span></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">We will contact you if:</span><br><span style="font-weight:400;font-style:normal">•</span> <span style="font-weight:inherit;font-style:inherit">You are not onboard PG</span><br><span style="font-weight:400;font-style:normal">•</span> <span style="font-weight:inherit;font-style:inherit">Your child/ward is eligible for SBB</span><br><span style="font-weight:inherit;font-style:inherit">We will then arrange a time for you to come by the school to accept or reject the offer.</span></td>
   </tr>
@@ -293,7 +293,7 @@ description: ""
   <tr>
     <td class="tg-oku2"><img src="/images/HTM.png" 
      style="width:65%"><span style="font-weight:inherit;font-style:inherit">Higher Mother Tongue</span></td>
-    <td class="tg-oku2" colspan="2"><span style="font-weight:inherit;font-style:inherit">Our HOD of MTL will inform the students/parents either by SMS or via phone call. Student to collect the forms from the General office and submit them by 27 Dec 2022.</span></td>
+    <td class="tg-oku2" colspan="2"><a id="hmt"></a><span style="font-weight:inherit;font-style:inherit">Our HOD of MTL will inform the students/parents either by SMS or via phone call. Student to collect the forms from the General office and submit them by 27 Dec 2022.</span></td>
   </tr>
   <tr>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">3rd Language Application</span></td>
