@@ -56,8 +56,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-k72d">21 Dec, Wed (MORE DETAILS)</td>
-    <td class="tg-76tb" colspan="2"><span style="font-weight:800;font-style:normal;color:#FFF">22 Dec, Thu </span><span style="font-weight:700;font-style:normal;color:#FFF">(MORE DETAILS)</span></td>
+    <td class="tg-k72d">21 Dec, Wed (<a href="https://woodlandssec.moe.edu.sg/sec1registration/#other-info" target="_blank" rel="noopener noreferrer"><span style="font-weight:800;font-style:inherit;color:#FFF">MORE DETAILS</span></a>)</td>
+    <td class="tg-76tb" colspan="2"><span style="font-weight:800;font-style:normal;color:#FFF">22 Dec, Thu </span><span style="font-weight:700;font-style:normal;color:#FFF">(<a href="https://woodlandssec.moe.edu.sg/sec1registration/#other-info" target="_blank" rel="noopener noreferrer"><span style="font-weight:800;font-style:inherit;color:#FFF">MORE DETAILS</span></a>)</span></td>
   </tr>
   <tr>
     <td class="tg-5lff" rowspan="4"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Be on </span><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Parents Gateway</span></a> <span style="font-weight:inherit;font-style:inherit">(if you are not onboard yet)</span><br><span style="font-weight:bold;font-style:inherit">A welcome message will be sent to you via Parents Gateway from 1pm onwards. Registration will be on 22 Dec.</span><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/sec1registration/#21-dec" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Update your contact details.</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="/files/Sec-1-Registration-Info-Booklet_for-2022_Final.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289">Download the Sec 1 Registration Info Booklet</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="/files/Letter-to-S1-Parents-on-Consent-for-Health-Dental-Visits-21-Dec-22.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Enrol your child into the HPB's annual school-based health and dental services</span></a><br></td>
@@ -160,4 +160,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
