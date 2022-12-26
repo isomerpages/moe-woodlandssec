@@ -323,10 +323,9 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-46dn"><img src="/images/sbb.png" 
+    <td class="tg-46dn"><img src="/images/FAS.png" 
      style="width:100%"></td>
     <td class="tg-46dn"><span style="font-weight:bold;font-style:inherit">For students on FAS,</span><br><span style="font-weight:bold;font-style:inherit"> </span><br><span style="font-weight:400;font-style:normal">Do </span><span style="font-weight:inherit;font-style:inherit">NOT </span>purchase the textbooks and uniform. Instead, <span style="font-weight:bold;font-style:inherit">between 27-30 Dec, </span><br><span style="font-weight:inherit;font-style:inherit">1. Present the FAS approval letter to the General Office first</span><br><span style="font-weight:inherit;font-style:inherit">2. Pick up the collection slip for books and uniform from the General Office.</span><br><span style="font-weight:inherit;font-style:inherit">3. Proceed to collect textbooks and uniforms from the venues in school stated below.</span></td>
   </tr>
 </tbody>
 </table>
-
