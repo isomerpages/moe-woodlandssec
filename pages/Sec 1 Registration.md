@@ -228,12 +228,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Before 11.30am</span><br><span style="font-weight:inherit;font-style:inherit">1) Complete your child's/ward's registration</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Complete the registration process by acknowledging your child's/ward's registration on PG.</span><br><br><span style="font-weight:inherit;font-style:inherit">(image here)</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:600;font-style:inherit;background-color:#DEDEDE">The registration form on PG.</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Complete the registration process by acknowledging your child's/ward's registration on PG.</span><br><br><img src="/images/sec1-reg-1.png" 
+     style="width:75%">
+<span style="font-weight:inherit;font-style:inherit"></span><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:600;font-style:inherit;background-color:#DEDEDE">The registration form on PG.</span></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">If you have difficulties acknowledging your child's/ward's registration on PG, you can submit the changes through</span> <a href="https://for.edu.sg/23wdls1reg"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289;background-color:transparent">this form</span></a><span style="font-weight:inherit;font-style:inherit">.</span></td>
   </tr>
   <tr>
     <td class="tg-lel6">(sbb image here)<br><br><span style="font-weight:inherit;font-style:inherit">2) Subject-based Banding (SBB)</span><br><span style="font-weight:bold;font-style:inherit;background-color:#CCC">SBB allows eligible students to take a higher-stream subject e.g. N(A) students taking Express subjects</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">If your child/ward is eligible for SBB, an offer will be made through PG.</span><br><span style="font-weight:inherit;font-style:inherit">Please accept or reject the offer through PG.</span><br><br>(image here)<br><br><span style="font-weight:600;font-style:inherit;background-color:#DEDEDE">The SBB form on PG to accept or reject the offer.</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">If your child/ward is eligible for SBB, an offer will be made through PG.</span><br><span style="font-weight:inherit;font-style:inherit">Please accept or reject the offer through PG.</span><br><br><img src="/images/sec1-reg-2.png" 
+     style="width:75%"><br><span style="font-weight:600;font-style:inherit;background-color:#DEDEDE">The SBB form on PG to accept or reject the offer.</span></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">We will contact you if:</span><br><span style="font-weight:inherit;font-style:inherit">You are not onboard PG</span><br><span style="font-weight:inherit;font-style:inherit">Your child/ward is eligible for SBB</span><br><span style="font-weight:inherit;font-style:inherit">We will then arrange a time for you to come by the school to accept or reject the offer.</span></td>
   </tr>
   <tr>
