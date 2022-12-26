@@ -66,7 +66,7 @@ description: ""
   <tr>
     <td class="tg-muga"><img src="/images/FAS.png" 
      style="width:100%"></td>
-    <td class="tg-lgu4"><a href="https://woodlandssec.moe.edu.sg/sec1registration/#s1-reg-schedule" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">2) Complete Financial Assistance Scheme (FAS) Application</span></a><br><br><a href="https://woodlandssec.moe.edu.sg/sec1registration/#s1-reg-schedule" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">(See Schedule)</span></a></td>
+    <td class="tg-lgu4"><a href="#sec1-reg-fas" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">2) Complete Financial Assistance Scheme (FAS) Application</span></a><br><br><a href="https://woodlandssec.moe.edu.sg/sec1registration/#s1-reg-schedule" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">(See Schedule)</span></a></td>
   </tr>
   <tr>
     <td class="tg-muga"><img src="/images/sbb.png" 
@@ -243,7 +243,7 @@ description: ""
   <tr>
     <td class="tg-o5ha"><img src="/images/FAS.png" 
      style="width:65%"><span style="font-weight:400;font-style:normal">Financial Assistance Scheme (FAS)</span></td>
-    <td class="tg-o5ha" colspan="2"><style type="text/css">
+    <td class="tg-o5ha" colspan="2"><a id="sec1-reg-fas"></a><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
