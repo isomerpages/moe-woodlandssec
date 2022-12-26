@@ -125,3 +125,39 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jdaz{background-color:#c0c0c0;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-f4bi{background-color:#656565;color:#ffffff;font-size:24px;text-align:left;vertical-align:top}
+.tg .tg-6hoa{background-color:#c5debf;border-color:inherit;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-287h{background-color:#339333;border-color:inherit;color:#ffffff;font-size:24px;font-weight:bold;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 802px">
+<colgroup>
+<col style="width: 401px">
+<col style="width: 401px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-287h"><span style="font-weight:800;font-style:normal">6 Jan 2022, Fri</span></td>
+    <td class="tg-f4bi"><span style="font-weight:800;font-style:normal">Other Info (</span><a href="https://woodlandssec.moe.edu.sg/sec1registration/#other-info" target="_blank" rel="noopener noreferrer"><span style="font-weight:800;font-style:inherit;color:#FFF">MORE DETAILS</span></a>)</td>
+  </tr>
+  <tr>
+    <td class="tg-6hoa" rowspan="3"><span style="font-weight:800;font-style:inherit">1) CCA SHOWCASE</span><br><span style="font-weight:inherit;font-style:inherit">Parents, do join us from 4pm.</span><br><br><span style="font-weight:800;font-style:inherit">2) PARENTS-TEACHERS MEETING (PTM)</span><br><span style="font-weight:inherit;font-style:inherit">5pm to 6.45pm</span><br><br><a href="/files/Sec-1-Registration-Info-Booklet_for-2022_Final.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289">Refer to Pg 11 of Sec 1 Registration Booklet</span></a><span style="font-weight:inherit;font-style:inherit;color:#034289"> </span><span style="font-weight:inherit;font-style:inherit">for more details.</span></td>
+    <td class="tg-jdaz" rowspan="3">• <a href="https://woodlandssec.moe.edu.sg/sec1registration/#other-info" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Parents' Support Group (PSG)</span></a><br>• <a href="/ccas/clubs-and-societies/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Find out more about our CCAs</span></a><br><span style="font-weight:400;font-style:normal">• </span><a href="https://woodlandssec.moe.edu.sg/sec1registration/#aep-mep" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">Art Elective Programme (AEP) and Music Elective Programme (MEP)</span></a><br><span style="font-weight:400;font-style:normal">• </span><span style="font-weight:inherit;font-style:inherit">Visit our </span><a href="/e-open-house-2022/welcome/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">E-Open House site</span></a><br><span style="font-weight:400;font-style:normal">• </span><span style="font-weight:inherit;font-style:inherit">Our </span><a href="https://www.facebook.com/woodlandssecsch" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Facebook Page</span></a><br><span style="font-weight:400;font-style:normal">• </span><span style="font-weight:inherit;font-style:inherit">Our </span><a href="https://www.instagram.com/woodlandssec/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">Instagram Account</span></a></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
+
