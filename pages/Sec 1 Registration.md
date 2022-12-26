@@ -243,7 +243,52 @@ description: ""
   <tr>
     <td class="tg-o5ha"><img src="/images/FAS.png" 
      style="width:65%"><span style="font-weight:400;font-style:normal">Financial Assistance Scheme (FAS)</span></td>
-    <td class="tg-o5ha" colspan="2">(table 1)<br><br>(table2)</td>
+    <td class="tg-o5ha" colspan="2"><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-knz1{background-color:#99c88b;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-gimg{background-color:#d6f3e0;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 600px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-knz1"><span style="font-weight:bold;font-style:normal">IF THE FAS APPLICATION IS </span><span style="font-weight:bold;font-style:inherit">APPROVED WITH A LETTER THAT IS PROVIDED BY EITHER:</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gimg"><span style="font-weight:inherit;font-style:inherit">- Your child's/ward's primary school,</span><br><span style="font-weight:inherit;font-style:inherit">- OR your child's/ward's sibling's school</span><br><br><span style="font-weight:400;font-style:normal">Come to the school with the letter between </span><span style="font-weight:bold;font-style:inherit">27-30 Dec </span>to pick up the collection slip for <a href="https://woodlandssec.moe.edu.sg/sec1registration/#23-dec-onwards" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;color:#034289">books and uniform</span></a> from the General Office.</td>
+  </tr>
+</tbody>
+</table><br><br><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-74j4{background-color:#fce6dc;border-color:inherit;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-a337{background-color:#d3a590;border-color:inherit;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 300px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-a337" colspan="2"><span style="font-weight:800;font-style:normal">IF YOU HAVE NOT APPLIED FOR FAS </span></td>
+  </tr>
+  <tr>
+    <td class="tg-74j4"><span style="font-weight:bold;font-style:inherit;text-decoration:underline;color:#C68C51">EITHER</span><span style="font-weight:bold;color:#C68C51"> </span><span style="font-weight:800;color:#C68C51;background-color:#FCE6DC">Apply ONLINE</span><br><span style="font-weight:400;font-style:normal">Submit FAS application to MOE at</span><br><span style="font-weight:400;font-style:normal"> </span><br><a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">https://go.gov.sg/moe-efas</span></a><br><br><img src="/images/qr-code-e-fas-application-300x287.png" 
+     style="width:45%"></td>
+    <td class="tg-74j4"><span style="font-weight:bold;font-style:inherit;text-decoration:underline;color:#C68C51;background-color:#FCE6DC">OR</span><span style="color:#C68C51;background-color:#FCE6DC"> </span><span style="font-weight:800;color:#C68C51;background-color:#FCE6DC">Submit HARD copy</span><br><span style="font-weight:inherit;font-style:inherit">1. Download and complete </span><a href="https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/2023-MOE-FAS-APPLICATION-FORM.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline">MOE FAS Application Form</span></a><span style="font-weight:inherit;font-style:inherit">.</span><br><span style="font-weight:inherit;font-style:inherit">2. Gather the supporting documents.</span><br><span style="font-weight:inherit;font-style:inherit">3. Submit (1) and (2) to the school's General Office on 22 Dec</span></td>
+  </tr>
+</tbody>
+</table></td>
   </tr>
   <tr>
     <td class="tg-oku2"><img src="/images/HTM.png" 
