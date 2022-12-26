@@ -8,7 +8,7 @@ links:
     collection: ccas
   - title: Resources
     collection: resources
-  - title: "2021"
-    url: /eopenhouse-2021
   - title: E-Open House 2022
     collection: e-open-house-2022
+  - title: Menu Title
+    url: /sec-1-registration
