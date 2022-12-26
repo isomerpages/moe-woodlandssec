@@ -66,17 +66,17 @@ description: ""
   <tr>
     <td class="tg-muga"><img src="/images/FAS.png" 
      style="width:100%"></td>
-    <td class="tg-lgu4"><a href="#sec1-reg-fas" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">2) Complete Financial Assistance Scheme (FAS) Application</span></a><br><br><a href="https://woodlandssec.moe.edu.sg/sec1registration/#s1-reg-schedule" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">(See Schedule)</span></a></td>
+    <td class="tg-lgu4"><a href="#sec1-reg-fas" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">2) Complete Financial Assistance Scheme (FAS) Application</span></a><br><br><a href="#sec1-reg-fas" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">(See Schedule)</span></a></td>
   </tr>
   <tr>
     <td class="tg-muga"><img src="/images/sbb.png" 
      style="width:100%"></td>
-    <td class="tg-lgu4"><a href="https://woodlandssec.moe.edu.sg/sec1registration/#sbb" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">3) Accept or reject Subject-based Banding (SBB) offer</span></a><br><br><span style="font-weight:bold;font-style:normal">(Only for those who have been offered).</span></td>
+    <td class="tg-lgu4"><a href="#sbb" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">3) Accept or reject Subject-based Banding (SBB) offer</span></a><br><br><span style="font-weight:bold;font-style:normal">(Only for those who have been offered).</span></td>
   </tr>
   <tr>
     <td class="tg-muga"><img src="/images/HTM.png" 
      style="width:100%"></td>
-    <td class="tg-lgu4"><a href="https://woodlandssec.moe.edu.sg/sec1registration/#hmt" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">4) Higher Mother Tongue and 3rd Language application outcome.</span></a><br><br><span style="font-weight:bold;font-style:normal">(Only for those who are eligible).</span></td>
+    <td class="tg-lgu4"><a href="#hmt" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289">4) Higher Mother Tongue and 3rd Language application outcome.</span></a><br><br><span style="font-weight:bold;font-style:normal">(Only for those who are eligible).</span></td>
   </tr>
 </tbody>
 </table>
