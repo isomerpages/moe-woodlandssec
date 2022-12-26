@@ -234,17 +234,20 @@ description: ""
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">If you have difficulties acknowledging your child's/ward's registration on PG, you can submit the changes through</span> <a href="https://for.edu.sg/23wdls1reg"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289;background-color:transparent">this form</span></a><span style="font-weight:inherit;font-style:inherit">.</span></td>
   </tr>
   <tr>
-    <td class="tg-lel6">(sbb image here)<br><br><span style="font-weight:inherit;font-style:inherit">2) Subject-based Banding (SBB)</span><br><span style="font-weight:bold;font-style:inherit;background-color:#CCC">SBB allows eligible students to take a higher-stream subject e.g. N(A) students taking Express subjects</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">If your child/ward is eligible for SBB, an offer will be made through PG.</span><br><span style="font-weight:inherit;font-style:inherit">Please accept or reject the offer through PG.</span><br><br><img src="/images/sec1-reg-2.png" 
+    <td class="tg-lel6"><img src="/images/sbb.png" 
+     style="width:65%"><br><br><span style="font-weight:inherit;font-style:inherit">2) Subject-based Banding (SBB)</span><br><span style="font-weight:bold;font-style:inherit;background-color:#CCC">SBB allows eligible students to take a higher-stream subject e.g. N(A) students taking Express subjects</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">If your child/ward is eligible for SBB, an offer will be made through PG.</span><br><span style="font-weight:inherit;font-style:inherit">Please accept or reject the offer through PG.</span><br><img src="/images/sec1-reg-2.png" 
      style="width:75%"><br><span style="font-weight:600;font-style:inherit;background-color:#DEDEDE">The SBB form on PG to accept or reject the offer.</span></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">We will contact you if:</span><br><span style="font-weight:inherit;font-style:inherit">You are not onboard PG</span><br><span style="font-weight:inherit;font-style:inherit">Your child/ward is eligible for SBB</span><br><span style="font-weight:inherit;font-style:inherit">We will then arrange a time for you to come by the school to accept or reject the offer.</span></td>
   </tr>
   <tr>
-    <td class="tg-o5ha"><span style="font-weight:400;font-style:normal">Financial Assistance Scheme (FAS)</span></td>
+    <td class="tg-o5ha"><img src="/images/FAS.png" 
+     style="width:65%"><span style="font-weight:400;font-style:normal">Financial Assistance Scheme (FAS)</span></td>
     <td class="tg-o5ha" colspan="2">(table 1)<br><br>(table2)</td>
   </tr>
   <tr>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Higher Mother Tongue</span></td>
+    <td class="tg-oku2"><img src="/images/HTM.png" 
+     style="width:65%"><span style="font-weight:inherit;font-style:inherit">Higher Mother Tongue</span></td>
     <td class="tg-oku2" colspan="2"><span style="font-weight:inherit;font-style:inherit">Our HOD of MTL will inform the students/parents either by SMS or via phone call. Student to collect the forms from the General office and submit them by 27 Dec 2022.</span></td>
   </tr>
   <tr>
