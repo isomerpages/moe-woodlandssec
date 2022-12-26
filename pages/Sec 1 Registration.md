@@ -48,10 +48,10 @@ description: ""
 .tg .tg-k72d{background-color:#656565;color:#FFF;font-size:24px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lgu4{background-color:#fcdebb;font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 805px">
+<table class="tg" style="undefined;table-layout: fixed; width: 815px">
 <colgroup>
-<col style="width: 390px">
-<col style="width: 74px">
+<col style="width: 405px">
+<col style="width: 70px">
 <col style="width: 341px">
 </colgroup>
 <tbody>
