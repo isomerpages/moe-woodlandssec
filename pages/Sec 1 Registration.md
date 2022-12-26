@@ -101,8 +101,8 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 809px">
 <colgroup>
 <col style="width: 68px">
-<col style="width: 338px">
-<col style="width: 403px">
+<col style="width: 358px">
+<col style="width: 383px">
 </colgroup>
 <tbody>
   <tr>
