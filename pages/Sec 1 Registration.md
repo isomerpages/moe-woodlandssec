@@ -56,7 +56,7 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-k72d">21 Dec, Wed (<a href="https://woodlandssec.moe.edu.sg/sec1registration/#other-info" target="_blank" rel="noopener noreferrer"><span style="font-weight:800;font-style:inherit;color:#FFF"><a href="#21dec">MORE DETAILS</a></span></a>)</td>
+    <td class="tg-k72d">21 Dec, Wed (<a href="#21dec" target="_blank" rel="noopener noreferrer"><span style="font-weight:800;font-style:inherit;color:#FFF">MORE DETAILS</span></a>)</td>
     <td class="tg-76tb" colspan="2"><span style="font-weight:800;font-style:normal;color:#FFF">22 Dec, Thu </span><span style="font-weight:700;font-style:normal;color:#FFF">(<a href="https://woodlandssec.moe.edu.sg/sec1registration/#other-info" target="_blank" rel="noopener noreferrer"><span style="font-weight:800;font-style:inherit;color:#FFF">MORE DETAILS</span></a>)</span></td>
   </tr>
   <tr>
