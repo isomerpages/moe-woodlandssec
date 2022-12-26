@@ -329,3 +329,35 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cey4{border-color:inherit;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-v8dz{border-color:inherit;font-size:24px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 90px">
+<col style="width: 315px">
+<col style="width: 90px">
+<col style="width: 315px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-v8dz" colspan="2"><span style="font-weight:600;font-style:inherit;color:#00389B">Purchasing Textbooks</span></td>
+    <td class="tg-v8dz" colspan="2"><span style="font-weight:600;font-style:inherit;color:#00389B">Purchasing Uniform</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cey4"></td>
+    <td class="tg-cey4"><span style="font-weight:400;font-style:normal">• </span><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://woodlandssec.moe.edu.sg/resources/booklists-and-uniform/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">Download Booklists</span></a><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> To purchase the textbooks,</span><br><br><span style="font-weight:bold;font-style:inherit">EITHER </span><a href="https://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;font-style:inherit">Order your books online here</span></a> <span style="font-weight:inherit;font-style:inherit">from 22 Dec</span><br><br><span style="font-weight:bold;font-style:inherit">OR Purchase in school</span><br><span style="font-weight:inherit;font-style:inherit">Dates: 27 to 30 Dec</span><br><span style="font-weight:inherit;font-style:inherit">Time: Between 9am to 3pm.</span><br><span style="font-weight:inherit;font-style:inherit">Venue: D1-02, Level 1 Classroom</span></td>
+    <td class="tg-cey4"></td>
+    <td class="tg-cey4"><span style="font-weight:400;font-style:normal">• </span><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/2023-SALES-OF-SCHOOL-UNIFORM.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none">View details in letter from vendor</span></a><br><span style="font-weight:400;font-style:normal">• </span><span style="font-weight:inherit;font-style:inherit">To purchase the uniforms</span><br><br><span style="font-weight:bold;font-style:inherit">EITHER </span><a href="https://shop.shanghai-uniforms.com/product-category/woodlands-secondary" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">Order uniform online here</span></a><br><br><span style="font-weight:bold;font-style:inherit">OR Purchase in school</span><br><span style="font-weight:inherit;font-style:inherit">Dates: 27 to 30 Dec</span><br><span style="font-weight:inherit;font-style:inherit">Time: Between 9am to 3pm.</span><br><span style="font-weight:inherit;font-style:inherit">Venue: F1-02/03, Level 1 Classroom</span></td>
+  </tr>
+</tbody>
+</table>
