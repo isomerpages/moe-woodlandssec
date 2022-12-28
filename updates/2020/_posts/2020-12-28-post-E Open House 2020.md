@@ -6,6 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/e-openhouse2-768x768.jpeg)
+
+
 #### Welcome to our E-Open House! 2020
 
 [**WELCOME TO OUR HOME (VIRUTALLY)**  
