@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/headerdemo1.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: For Parents
+          description: Quick Links
           url: /privacy/
+        - title: For Staff
+          description: Quick Links
+          url: https://gmail.com
+        - title: For Students
+          description: "Quick Links "
+          url: https://google.com
   - infobar:
       title: Infobar title
       subtitle: Subtitle
