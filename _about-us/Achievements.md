@@ -29,21 +29,21 @@ Arpitha (2A), Xuan Yee (2A) & Serhnice (2A)
 <img src="/images/a21-4.jpeg" 
      style="width:100%">
 **Distinction** for Drama  
-by [ELDDS] (LINK HERE)
+by [ELDDS](/ccas/performing-arts/#4)
 
 
 <img src="/images/a21-5.png" 
      style="width:100%">
-**Distinction** for [Malay Dance](https://woodlandssec.moe.edu.sg/ccas/performing-arts/#malay-dance)
+**Distinction** for [Malay Dance](/ccas/performing-arts/#5)
 
 <img src="/images/a21-6.png" 
      style="width:100%">
-**Accomplishment** for Chinese [Dance](https://woodlandssec.moe.edu.sg/ccas/performing-arts/#dance)
+**Accomplishment** for Chinese [Dance](/ccas/performing-arts/#3)
 
 
 <img src="/images/a21-7.jpeg" 
      style="width:100%">
-**Accomplishment** for [Concert Band](https://woodlandssec.moe.edu.sg/ccas/performing-arts/#concert-band)
+**Accomplishment** for [Concert Band](/ccas/performing-arts/#2)
 
 ------
 
