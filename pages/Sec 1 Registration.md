@@ -11,21 +11,21 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 665px" class="tg">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
+<col style="width: 130px">
+<col style="width: 130px">
+<col style="width: 100px">
+<col style="width: 100px">
+<col style="width: 190px">
 <col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 100px">
-<col style="width: 100px">
-<col style="width: 200px">
-<col style="width: 100px">
 </colgroup>
 <tbody>
   <tr>
 		<td class="tg-fj82"><a href="#welcome"><span style="color:#FFF;background-color:#034289">Welcome</span></a></td>
     <td class="tg-fj82"><a href="#summary"><span style="color:#FFF;background-color:#034289">Summary</span></a></td>
     <td class="tg-fj82"><a href="#21dec"><span style="color:#FFF;background-color:#034289">21 Dec</span></a></td>
-    <td class="tg-fj82"><a href="22dec"><span style="color:#FFF;background-color:#034289">22 Dec</span></a></td>
+    <td class="tg-fj82"><a href="#22dec"><span style="color:#FFF;background-color:#034289">22 Dec</span></a></td>
     <td class="tg-fj82"><a href="#booksanduniform"><span style="color:#FFF;background-color:#034289">Books & Uniform</span></a></td>
 		<td class="tg-fj82"><a href="#otherinfo"><span style="color:#FFF;background-color:#034289">Other Info</span></a></td>
   </tr>
