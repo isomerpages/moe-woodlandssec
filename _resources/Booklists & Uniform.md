@@ -49,14 +49,14 @@ description: ""
 
 #### Booklists for 2023 Sec 4s
 
-*   [For Sec 4 Exp](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S4-EXP-Booklist.pdf)
-*   [For Sec 4 Normal (Academic)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S4-NA-Booklist.pdf)
-    *   [Additional booklist for Sec 4 N(A) Students taking SBB Subject(s)\*](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S4-NA-SBB-Booklist.pdf)
-*   [For Sec 4 Normal (Techical)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S4-NT-Booklist.pdf)
-    *   [Additional booklist for Sec 4 N(T) Students taking SBB Subject(s)\*](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S4-NT-SBB-Booklist.pdf)
+*   [For Sec 4 Exp](/files/WDL-2023-S4-EXP-Booklist.pdf)
+*   [For Sec 4 Normal (Academic)](/files/WDL-2023-S4-NA-Booklist.pdf)
+    *   [Additional booklist for Sec 4 N(A) Students taking SBB Subject(s)\*](/files/WDL-2023-S4-NA-SBB-Booklist.pdf)
+*   [For Sec 4 Normal (Techical)](/files/WDL-2023-S4-NT-Booklist.pdf)
+    *   [Additional booklist for Sec 4 N(T) Students taking SBB Subject(s)\*](/files/WDL-2023-S4-NT-SBB-Booklist.pdf)
 
 \*Please purchase materials only for the SBB Subject(s) you are taking. [(More Info)](/files/sbb-buy-textbook-advisory.pdf)
 
 #### Booklists for 2023 Sec 5s
 
-*   [For Sec 5 Normal (Academic)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S5-NA-Booklist.pdf)
+*   [For Sec 5 Normal (Academic)](/files/WDL-2023-S5-NA-Booklist.pdf)
