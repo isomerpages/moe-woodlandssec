@@ -4,7 +4,7 @@ title: Woodlands Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/schoolcrest.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/headerdemo1.png
