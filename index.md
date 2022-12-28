@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: For Parents
           description: Quick Links
-          url: /privacy/
+          url: /quick-links/for-parents/
         - title: For Staff
           description: Quick Links
-          url: https://gmail.com
+          url: /quick-links/for-staff/
         - title: For Students
           description: "Quick Links "
-          url: https://google.com
+          url: /quick-links/for-students/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
