@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/eopenhouse2021-front-768x768.jpeg)
+
+
+[Click here to access our E-Open House Site.](https://woodlandssec.moe.edu.sg/eopenhouse-2021/)
