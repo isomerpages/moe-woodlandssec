@@ -2,7 +2,6 @@ collections:
   wdl-experience:
     output: true
     order:
-      - Lower Sec Experience.md
       - Distinctive Programmes.md
       - English.md
       - Mother Tongue.md
