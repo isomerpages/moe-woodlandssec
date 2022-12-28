@@ -8,13 +8,13 @@ colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#1334cd"
+      color: "#11439c"
     - title: media-color-three
-      color: "#0054b4"
+      color: "#11439c"
     - title: media-color-four
-      color: "#f5f640"
+      color: "#11439c"
     - title: media-color-five
-      color: "#00838f"
+      color: "#11439c"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
