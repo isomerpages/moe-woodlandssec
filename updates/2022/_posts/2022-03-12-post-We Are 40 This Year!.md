@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/40logo.jpeg)
+
+[Click here to find out about our 40th anniversary celebrations.](/about-us/40thanniversary/)
