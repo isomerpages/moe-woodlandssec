@@ -14,3 +14,5 @@ Our virtual doors are opened! Welcome to our e-open house!
 Find out more about your gifts and how we can grow them at our e-open house!
 
 [Visit Us Virtually!](/e-open-house-2022/welcome/)
+
+[QnA Zoom Recording!](https://www.youtube.com/watch?v=JDRd2GxDssc&feature=youtu.be)
