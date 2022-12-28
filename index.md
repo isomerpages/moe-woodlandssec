@@ -18,12 +18,6 @@ sections:
         - title: For Students
           description: "Quick Links "
           url: /quick-links/for-students/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: Sec 1 Registration
       subtitle: Latest Update
@@ -36,4 +30,9 @@ sections:
       title: Updates
       subtitle: Latest News
       button: View All
+  - infobar:
+      title: Contact Us
+      description: Our Contact Information
+      button: View More
+      url: /resources/contact-information/
 ---
