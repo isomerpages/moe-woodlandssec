@@ -24,6 +24,14 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Sec 1 Registration
+      subtitle: Latest Update
+      description: Register Now
+      button: More Details
+      url: /sec-1-registration/
+      image: /images/post.jpeg
+      alt: Image alt text
   - resources:
       title: Updates
       subtitle: Latest News
