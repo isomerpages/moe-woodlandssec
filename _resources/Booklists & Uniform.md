@@ -39,11 +39,11 @@ description: ""
 
 #### Booklists for 2023 Sec 3s
 
-*   [For Sec 3 Exp](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S3-EXP-Booklist.pdf)
-*   [For Sec 3 Normal (Academic)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S3-NA-Booklist.pdf)
-    *   [Additional booklist for Sec 3 N(A) Students taking SBB Subject(s)\*](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S3-NA-SBB-Booklist.pdf)
-*   [For Sec 3 Normal (Techical)](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S3-NT-Booklist.pdf)
-    *   [Additional booklist for Sec 3 N(T) Students taking SBB Subject(s)\*](https://woodlandssec.moe.edu.sg/wp-content/uploads/2022/12/WDL-2023-S3-NT-SBB-Booklist.pdf)
+*   [For Sec 3 Exp](/files/WDL-2023-S3-EXP-Booklist.pdf)
+*   [For Sec 3 Normal (Academic)](/files/WDL-2023-S3-NA-Booklist.pdf)
+    *   [Additional booklist for Sec 3 N(A) Students taking SBB Subject(s)\*](/files/WDL-2023-S3-NA-SBB-Booklist.pdf)
+*   [For Sec 3 Normal (Techical)](/files/WDL-2023-S3-NT-Booklist.pdf)
+    *   [Additional booklist for Sec 3 N(T) Students taking SBB Subject(s)\*](/files/WDL-2023-S3-NT-SBB-Booklist.pdf)
 
 \*Please purchase materials only for the SBB Subject(s) you are taking. [(More Info)](/files/sbb-buy-textbook-advisory.pdf)
 
