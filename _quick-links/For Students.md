@@ -3,8 +3,6 @@ title: For Students
 permalink: /quick-links/for-students/
 description: ""
 ---
-###### FOR STUDENTS
-
 *   [Student Handbook](https://for.edu.sg/wdlstudenthandbook)  
     (Require login to your school email address if you are not using your PLD)
 *   [PLD & HBL Toolkit](https://sites.google.com/moe.edu.sg/wdl-pld-toolkit-students/home)
