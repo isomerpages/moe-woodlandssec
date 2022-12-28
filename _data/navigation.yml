@@ -19,7 +19,7 @@ links:
         url: /about-us/achievements/
       - title: 40th Anniversary
         url: /about-us/40thanniversary/
-      - title: Direct School Admission
+      - title: Direct School Admission (dsa)
         url: /dsa/
       - title: E-Open House
         url: /e-open-house-2022/welcome/
@@ -29,7 +29,5 @@ links:
     collection: ccas
   - title: Resources
     collection: resources
-  - title: E-Open House 2022
-    collection: e-open-house-2022
   - title: Sec 1 Registration
     url: /sec-1-registration
