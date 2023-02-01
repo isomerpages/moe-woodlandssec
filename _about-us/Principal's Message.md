@@ -3,7 +3,13 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-Hi! Welcome to Woodlands Secondary School’s website.
+<style type="text/css">  
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+	
+.test {font-family: 'Open Sans', sans-serif !important; color: #ff0000;}
+</style>
+
+<span class="test"> Hi! Welcome to Woodlands Secondary School’s website. </p>
 
 #### **A hope-building school of the community**
 
