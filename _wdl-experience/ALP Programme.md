@@ -19,7 +19,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 ## Food Science and Technology
 
 #### Developing Gifts to Society
-<p class="side-by-side-container">
+<div class="side-by-side-container">
 	<div class="small-side"> 
 		<img src="/images/alp.jpeg" />
 	</div>
@@ -29,7 +29,7 @@ We hope to develop every Woodlander to be able to contribute to society by enabl
 *   **D**iscovering the needs of others
 *   **D**aring to prototype and try to address these needs, then
 *   **D**reaming further and bigger to improve the prototype to serve those around us in the community</div>
-	</div>
+</div>
 
 #### Key Approaches
 
