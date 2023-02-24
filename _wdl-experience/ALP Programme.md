@@ -26,12 +26,13 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 		<img src="/images/alp.jpeg" />
 	</div>
 	<div class="big-side">
-We hope to develop every Woodlander to be able to contribute to society by enabling them to achieve the Triple D’s:
-		<ul>
-			<li><strong>D</strong>iscovering the needs of others</li>
-<li><strong>D</strong>aring to prototype and try to address these needs, then</li>
-<li><strong>D</strong>eaming further and bigger to improve the prototype to serve those around us in the community</li></ul></div>
-</div>
+<p>We hope to develop every Woodlander to be able to contribute to society by enabling them to achieve the Triple D’s:</p>
+* **D**scovering the needs of others
+* **D**aring to prototype and try to address these needs, then
+* **D**eaming further and bigger to improve the prototype to serve those around us in the community
+
+ </div>
+</div>	
 
 #### Key Approaches
 
