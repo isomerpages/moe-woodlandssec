@@ -6,7 +6,7 @@ description: ""
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
 
-body { font-family: 'Open Sans', sans-serif !important; }
+body, * { font-family: 'Open Sans', sans-serif !important; color: #ff0000; }
 .bp-container h1 { letter-spacing: normal !important;}
 	
 	
