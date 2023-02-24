@@ -9,7 +9,7 @@ description: ""
 body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 
-.side-by-side-container { display: flex; border: 1px solid #000;}
+.side-by-side-container { display: flex; border: 1px solid #000; gap: 16px;}
 .small-side { flex: 1; max-width: 600px; flex-basis: 250px;}
 .big-side {flex: 2; flex-basis: 350px;}
 	
