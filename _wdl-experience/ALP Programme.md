@@ -20,8 +20,8 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 
 #### Developing Gifts to Society
 <div class="side-by-side-container">
-	<div class="small-side">
-		![](/images/a20-1.jpeg)
+	<div class="small-side"> 
+		testsetsetstetestset 
 	</div>
 	<div class="big-side">
 We hope to develop every Woodlander to be able to contribute to society by enabling them to achieve the Triple D’s:
@@ -79,4 +79,3 @@ Students are exposed to 2 areas of learning - Food Science and Computational Thi
 ![](/images/alp1.png)
 ![](/images/alp2.png)
 ![](/images/alp3.png)
-
