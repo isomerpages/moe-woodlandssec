@@ -8,6 +8,10 @@ description: ""
 
 body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+
+.side-by-side-container { display: flex; border: 1px solid #000;}
+.small-side { flex: 1;}
+.big-side {flex: 2}
 	
 	</style>
 ![](/images/Draft/alp.jpg)
@@ -15,12 +19,17 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 ## Food Science and Technology
 
 #### Developing Gifts to Society
-
+<div class="side-by-side-container">
+	<div class="small-side">
+		![](/images/a20-1.jpeg)
+	</div>
+	<div class="big-side">
 We hope to develop every Woodlander to be able to contribute to society by enabling them to achieve the Triple D’s:
 
 *   **D**iscovering the needs of others
 *   **D**aring to prototype and try to address these needs, then
-*   **D**reaming further and bigger to improve the prototype to serve those around us in the community
+*   **D**reaming further and bigger to improve the prototype to serve those around us in the community</div>
+	</div>
 
 #### Key Approaches
 
