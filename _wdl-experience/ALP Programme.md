@@ -9,14 +9,16 @@ description: ""
 body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 
-.side-by-side-container { display: flex; border: 1px solid #000; gap: 16px;}
-.small-side { flex: 1; max-width: 600px; flex-basis: 250px;}
+.side-by-side-container { display: flex; gap: 16px;}
+.small-side { flex: 1; max-width: 600px; flex-basis: 300px;}
 .big-side {flex: 2; flex-basis: 350px;}
 	
 	</style>
 ![](/images/Draft/alp.jpg)
 
 ## Food Science and Technology
+
+
 
 #### Developing Gifts to Society
 <div class="side-by-side-container">
@@ -25,10 +27,10 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 	</div>
 	<div class="big-side">
 We hope to develop every Woodlander to be able to contribute to society by enabling them to achieve the Triple D’s:
-
-*   **D**iscovering the needs of others
-*   **D**aring to prototype and try to address these needs, then
-*   **D**reaming further and bigger to improve the prototype to serve those around us in the community</div>
+		<ul>
+			<li><strong>D</strong>iscovering the needs of others</li>
+<li><strong>D</strong>aring to prototype and try to address these needs, then</li>
+<li><strong>D</strong>eaming further and bigger to improve the prototype to serve those around us in the community</li></ul></div>
 </div>
 
 #### Key Approaches
