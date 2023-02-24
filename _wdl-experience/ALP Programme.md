@@ -10,8 +10,8 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 
 .side-by-side-container { display: flex; border: 1px solid #000;}
-.small-side { flex: 1; max-width: 500px; min-width: 300px;}
-.big-side {flex: 2;}
+.small-side { flex: 1; max-width: 600px; flex-basis: 250px;}
+.big-side {flex: 2; flex-basis: 350px;}
 	
 	</style>
 ![](/images/Draft/alp.jpg)
@@ -19,7 +19,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 ## Food Science and Technology
 
 #### Developing Gifts to Society
-<div class="side-by-side-container">
+<p class="side-by-side-container">
 	<div class="small-side"> 
 		<img src="/images/alp.jpeg" />
 	</div>
