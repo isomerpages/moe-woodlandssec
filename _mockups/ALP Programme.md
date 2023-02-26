@@ -12,6 +12,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 ## Food Science & Technology
 ### Developing Gifts to Society
 > Every Woodlander achieves the Triple D’s to be able to contribute to society.
+
 * **D**iscovering the needs of others
 * **D**aring to prototype and try to address these needs, then
 * **D**reaming further and bigger to improve the prototype to serve those around us in the community
@@ -29,6 +30,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 ###  Key Programmes
 
 > Exploring Food Science and Computational thinking first, deepening in one later. 
+
 ##### Tier 1 & 2 - Broadening & Deepening Learning <br />Growing all Woodlanders (Sec 1 &amp; 2)
 
 
@@ -36,6 +38,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 * Techniques in molecular gastronomy
 * Drinks-Making competition - Woodlanders use Design Thinking to create a healthy and visually-appealing beverage with the molecular gastronomy techniques learnt.
 ![](/images/alp.jpeg)
+
 **Computational Thinking**
 * Basic and Advanced microcontroller programming. 
 * Woodlanders then apply their skills to control and programme the flight paths of drones.
