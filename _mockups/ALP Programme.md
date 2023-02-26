@@ -15,7 +15,6 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 * **D**iscovering the needs of others
 * **D**aring to prototype and try to address these needs, then
 * **D**reaming further and bigger to improve the prototype to serve those around us in the community
-
 ![](/images/Draft/alp.jpg)
 
 ### Key Approaches
