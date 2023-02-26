@@ -16,7 +16,6 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 * **D**iscovering the needs of others
 * **D**aring to prototype and try to address these needs, then
 * **D**reaming further and bigger to improve the prototype to serve those around us in the community
-![](/images/Draft/alp.jpg)
 
 ### Key Approaches
 
@@ -37,12 +36,11 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 **Food Sciences**
 * Techniques in molecular gastronomy
 * Drinks-Making competition - Woodlanders use Design Thinking to create a healthy and visually-appealing beverage with the molecular gastronomy techniques learnt.
-![](/images/alp.jpeg)
 
 **Computational Thinking**
 * Basic and Advanced microcontroller programming. 
 * Woodlanders then apply their skills to control and programme the flight paths of drones.
- ![](/images/alp2.jpeg)
+
 
 ##### Tier 3 – Developing passion <br /> Stretching those with strong interests  
 Science Competition/Enrichment activities to stretch students’ potential. This includes: 
@@ -51,4 +49,11 @@ Science Competition/Enrichment activities to stretch students’ potential. This
 * Food Science Competitions (Nurti-booster- STEM INC &amp; RP, Swensen’s Ice-cream challenge-NYP, Picky Palette- STEM INC &amp; RP)
 * Coding Programme by Saturday Kids 
 * Science Centre enrichment programme
+
+![](/images/Draft/alp.jpg)
+
+![](/images/alp2.jpeg)
+
+![](/images/alp.jpeg)
+
 ![](/images/a20-1.jpeg)
