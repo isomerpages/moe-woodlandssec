@@ -7,17 +7,21 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/headerdemo1.png
+      background: /images/Draft/gift 2.gif
       key_highlights:
-        - title: For Parents
-          description: Quick Links
+        - title: Quick Links
+          description: ""
           url: /quick-links/for-parents/
-        - title: For Staff
-          description: Quick Links
-          url: /quick-links/for-staff/
-        - title: For Students
-          description: "Quick Links "
+        - title: Updates
+          description: ""
+          url: ""
+        - title: Contact us
+          description: ""
           url: /quick-links/for-students/
+      title: Every Woodlander a GIFT to society
+      subtitle: How do we grow you to be a gift to society?
+      button: Find out more
+      url: /home/
   - infopic:
       title: Sec 1 Registration
       subtitle: Latest Update
