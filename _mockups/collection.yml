@@ -2,5 +2,6 @@ collections:
   mockups:
     output: true
     order:
+      - Applied Learning Programme 2.md
       - Applied Learning Programme.md
       - test.md
