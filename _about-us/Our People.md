@@ -507,44 +507,9 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">5Growth</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lim Jia Wen</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4E2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Phua Poh Boon</span><br><span style="font-weight:inherit;font-style:italic">SH / Chinese Language</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4E2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Liyana Binte Kamsani</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4E2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ahmad Hosaini B Noor</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4F</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Farhana Binte Zulkifli</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4F</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nabila Bte Awalluddin</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4G</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tan Eng Hui</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4G</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+		   <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Luo Yanjie</span><br><span style="font-weight:inherit;font-style:italic">SH / Geography</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">5A</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">5Growth</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
@@ -553,7 +518,26 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Govindasamy Raja Lakshmi</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Govindasamy Raja Lakshmi</span><br>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Thirumaran S/O Thangaraju</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Liyana Binte Kamsani</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nurul Deena Binte Maamon</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">-</span></td>
+  </tr>
+  <tr>
+
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">-</span></td>
   </tr>
 </tbody>
