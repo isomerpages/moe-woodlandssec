@@ -103,7 +103,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Thirumaran s/o Thangaraju</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Phua Poh Boon</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / Mother Tongue Language</span></td>
   </tr>
   <tr>
@@ -124,22 +124,27 @@ description: ""
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Teo Chee Chong</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD Normal (Technical)/</span><br><span style="font-weight:inherit;font-style:inherit">Year Head (Upper Sec)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD Normal (Technical)</span><br><span style="font-weight:inherit;font-style:inherit"></span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Savarimuthu Xavier s/o Tamil A</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Year Head (Lower Sec) / Sec 2 IC</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Year Head (Lower Sec) / Sec 1 IC</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nur Shahzreen Binte Mohd Taufik</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Year Head (Upper Sec) / Sec 4&5 IC</span></td>
+   </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nadzirah Bte Andi Mohamed Nasron</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Character Education</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3E1</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Character Education</span><br><span style="font-weight:inherit;font-style:inherit">FT for 4Appreciation1</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nurul Amalina Binte Jamaludin</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / English Language</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / English Language</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3Appreciation</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
@@ -147,49 +152,39 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Student Management</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Phua Poh Boon</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Chinese Language</span><br><span style="font-weight:inherit;font-style:inherit">FT for 4E2</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Khoo Ying Ling Elaine</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Chemistry</span><br><span style="font-weight:inherit;font-style:inherit">FT for 1Trustworthiness</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tan Mingli Yvonne</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Biology</span><br><span style="font-weight:inherit;font-style:inherit">(Covering HOD / Science)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Biology</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3Respect</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tuong Ze Wei Wilson</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Mathematics</span><br><span style="font-weight:inherit;font-style:inherit">FT for 1C</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Mathematics</span><br><span style="font-weight:inherit;font-style:inherit">FT for 2Resilience</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Jamakyah Binte Adhar</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AYH (Sec 1)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AYH (Sec 2)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nur Shahzreen Binte Mohd Taufik</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AYH (Sec 3)</span></td>
+
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Aw Siao Hwee</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AYH (Sec 4 &amp; 5)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Yeo Su Yan</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Student Leadership (Acting)</span><br><span style="font-weight:inherit;font-style:inherit">FT for 4B</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AYH (Sec 3)</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Luo Yanjie</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Geography</span><br><span style="font-weight:inherit;font-style:inherit">FT for 5A</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Geography</span><br><span style="font-weight:inherit;font-style:inherit">FT for 5Growth</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chee Soon Teck Christopher</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LT / Mathematics</span><br><span style="font-weight:inherit;font-style:inherit">FT for 1F</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
@@ -199,22 +194,25 @@ description: ""
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">M Gnanasekaran</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Tamil Language</span></td>
+     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Tamil Language</span><br><span style="font-weight:inherit;font-style:inherit">FT for 2Respect1</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mohamed Fazil B Aris</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Malay Language</span><br><span style="font-weight:inherit;font-style:inherit">FT for 4C</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Paik Shi Yang Robin</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Mathematics</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3E2</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Malay Language</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3Appreciation</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Wong Yoke Ung</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Chemistry</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3A</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Zou Yan</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Chinese</span><br><span style="font-weight:inherit;font-style:inherit">FT for 1Empathy</span></td>
+  </tr>
+</td>
+  </tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Paik Shi Yang Robin</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Mathematics</span><br><span style="font-weight:inherit;font-style:inherit">FT for 4Appreciation2</span></td>
+  </tr>
+</td>
   </tr>
 </tbody>
 </table>
@@ -237,94 +235,106 @@ description: ""
     <td class="tg-z1pf"><span style="font-weight:inherit;font-style:inherit">FT of class</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">V K Tamilselvi</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1A</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ong Xin Yan, Alyssa</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1A</span></td>
-  </tr>
-  <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Michael Eric Basuki</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1B1</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lin Zhaowei</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1B2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tuong Ze Wei Wilson</span><br><span style="font-weight:inherit;font-style:italic">SH / Mathematics</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1C</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lee Li Hwa Brenda</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1C</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Low May Ann Shawna</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1D</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ng Ling Nee Faith</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1D</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Low Eng Ngee</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1E</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Kee Jing Yee</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1E</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chee Soon Teck Christopher</span><br><span style="font-weight:inherit;font-style:italic">LT / Mathematics</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1F</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Muhammad Tirmidzi Bin Khalid</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1F</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lee Jia Xin</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2A</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">	Mohd Adri Bin Mohd Rafik Alkhatib</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Growth</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chin Kah Ying</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2A</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Growth</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chun Guan Yang</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2B</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Li Rui</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Respect</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Uma Sankgery d/o Pandyani</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Respect</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tan Eng Hui</span><br>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Resilience</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Khairunnisa Binte Zulkifli</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2B</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">	Eliza Binte Mohamed</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Resilience</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Farhana Binte Zulkifli</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Empathy</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Zou Yan</span><br><span style="font-weight:inherit;font-style:italic">ST / Chinese Language</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Empathy</span></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chia Soon Hann Justin Ian</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Appreciation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nabila Bte Awalluddin</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Appreciation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">	Khoo Ying Ling Elaine</span><br><span style="font-weight:inherit;font-style:italic">ST / Chemistry</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Trustworthiness</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lee Jia Xin</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1Trustworthiness</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">V K Tamilselvi</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2Growth</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ong Xin Yan, Alyssa</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2Growth</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tay Li Ching</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2C</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2Respect1</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mohamed Adri Bin Mohamed Rafik Alkhatib</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2C</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">M Gnanasekaran</span><br><span style="font-weight:inherit;font-style:italic">ST / Tamil Language</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2Respect1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lin Zhaowei</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2Respect2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Rozilawati Bte Kasran</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2Respect2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">	Tuong Ze Wei Wilson</span><br><span style="font-weight:inherit;font-style:italic">SH / Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2Resilience</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lee Li Hwa Brenda</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2Resilience</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
