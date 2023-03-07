@@ -582,8 +582,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Koh Tee Huat</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Craft &amp; Technology)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">	Abdullah Bin Hassan</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Design & Technology)</span></td>
+  </tr>
+  <tr>
+		    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">	Andrew Tung Song Khai</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Design & Technology)</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
@@ -591,13 +596,23 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Design &amp; Technology)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Milissa Amy Fernandez</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Mathematics)</span></td>
+				    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">	Yuslin Binte Yusoff</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Food & Consumer Education)</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Wong Yin Foon</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lim Jia Wen</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Mathematics)</span></td>
+  </tr>
+  <tr>
+		    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Sidtharshini D/O Manunethi</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Mathematics)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lee Shin Peng</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Mathematics)</span></td>
   </tr>
   <tr>
@@ -611,29 +626,22 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Tamil Language)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chian Siau Yong</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Science)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chua Lucy</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Fajariah Saban </span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Counselling)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gopi Krishnan S/o M. B. Krishnan</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Mathematics)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Maimunah Mosli </span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Counselling)</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Kam Kit Yin</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ho Ngai Kuen Magdalene</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Science)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Arunakiree@Arun Rosiah</span><br><span style="font-weight:inherit;font-style:inherit">@Arun Aminur Rashid</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Physical Education)</span></td>
+
   </tr>
 </tbody>
 </table>
