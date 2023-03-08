@@ -36,7 +36,9 @@ Every Woodlander a creative problem solver and caring citizen.
 </tbody>
 </table>
 
-![](/images/math1-1.png)
+![](/images/Mathdept1.jpg)
+![](/images/IMG_20210914_093114-1024x768.jpg)
+![](/images/WhatsApp-Image-2021-10-28.jpg)
 
 #### Additional resources
 
