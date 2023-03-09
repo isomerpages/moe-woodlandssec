@@ -23,7 +23,7 @@ Parents or Students who would like to explore more about subject choices, enquir
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-oqf2"><a href="https://moeecg.appointeze.com/onlinelink/Subramaniyam"><span style="color:#FFF;background-color:#034289">Book an appointment for personalised consultation</span></a></td>
+    <td class="tg-oqf2"><a href="https://go.gov.sg/wdlecg"><span style="color:#FFF;background-color:#034289">Book an appointment for personalised consultation</span></a></td>
   </tr>
 </tbody>
 </table>
