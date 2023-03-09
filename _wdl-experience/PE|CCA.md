@@ -44,8 +44,8 @@ As Woodlanders seek to lead an active and healthy lifestyle:
 
 [Click here to visit it](https://sites.google.com/view/wdlpe/)
 
-![](/images/pe1.png)
-![](/images/pe2.png)
-![](/images/pe3.png)
-![](/images/pe4.png)
-![](/images/pe5.png)
+![](/images/pe1.jpg)
+
+![](/images/pe2.jpeg)
+
+![](/images/pe3.jpeg)
