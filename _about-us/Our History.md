@@ -100,7 +100,8 @@ WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.<i
 
 <img src="/images/km8.jpeg">
 
->2019<
+
+>2019
 
 * WDL became National Champions of the Singapore Schools Sports Council National Inter-School Sepak Takraw Tournament for both ‘B’ &amp; 'C' Divisions.
 
@@ -109,4 +110,3 @@ WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.<i
 * WDL won 2nd position for the Singapore Schools Sports Council/Football Association of Singapore National Inter-School Football Championship for  'C' Divisions.
 
 <img src="/images/km11.jpeg" >
-
