@@ -110,3 +110,9 @@ WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.<i
 * WDL won 2nd position for the Singapore Schools Sports Council/Football Association of Singapore National Inter-School Football Championship for  'C' Divisions.
 
 <img src="/images/km11.jpeg" >
+
+
+
+>2022
+
+Despite COVID Safe Management Measures, WDL celebrates its 40th anniversary.
