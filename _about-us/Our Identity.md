@@ -3,13 +3,11 @@ title: Our Identity
 permalink: /about-us/our-identity/
 description: ""
 ---
-
-
 ### Our Vision
 
 Every Woodlander a Gift to Society
 
-### Our Mission
+###Our Mission
 
 Nurturing Enduring Hearts and Creative Minds Ready to Serve Society
 
@@ -23,6 +21,7 @@ Nurturing Enduring Hearts and Creative Minds Ready to Serve Society
 **T**rustworthiness
 
 ### School Song
+<iframe src="https://www.youtube.com/embed/zEWDNjv24Fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Woodlanders stand tall and proud  
 Honest in word, thought and deed  
@@ -41,18 +40,26 @@ Loyal to school and country
 Making Wisdom and Truth our goal   
 Our alma mater to cherish evermore
 
-(embed video of song here)
 
 ### School Crest
 
 <img src="/images/schoolcrest.png" 
-     style="width:35%">
+     style="width:50%">
 
-The overall blue tone reflects the setting of the school near the sea. Blue represents harmony, serenity and a closeness to nature.
+> The overall blue tone 
 
-The six-pointed golden star encompasses the total development of the individual's academic, physical, social, emotional, aesthetic and moral aspects that will be strengthened to a fineness represented by the points of the star.
+* Reflects the setting of the school near the sea. 
+* Blue represents harmony, serenity and a closeness to nature.
 
-The stylised W is designed as a soaring bird representing purity of spirit and ambition to reach greater heights. It is the focus of loyalty and aims to foster a sense of belonging and pride in the school.
+> The six-pointed golden star 
+
+Encompasses the total development of the individual's academic, physical, social, emotional, aesthetic and moral aspects that will be strengthened to a fineness represented by the points of the star.
+
+> The stylised W
+
+* Designed as a soaring bird 
+* Representing purity of spirit and ambition to reach greater heights. 
+* Focus of loyalty and aims to foster a sense of belonging and pride in the school.
 
 
 ### Pupil Creed
