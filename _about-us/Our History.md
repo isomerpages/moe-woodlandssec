@@ -29,85 +29,84 @@ In 2016, the school achieved the School Distinction Award (SDA) and four Best Pr
 *   Mrs Tay Yang Fern (2018- Present)
 
 ### Key Milestones
+>1982
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-g43m{background-color:#FFF;color:#034289;font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 702px">
-<colgroup>
-<col style="width: 92px">
-<col style="width: 610px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">1982</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Establishment of Woodlands Secondary School with 205 student and temporarily housed at the premises of Siling Secondary School.</span><br><img src="/images/km1.jpeg" 
-     style="width:45%">
-<br><span style="font-weight:inherit;font-style:inherit">Our Pioneer Staff in July 1982.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">1984</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Relocation of school to 8 Admiralty Road</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Declared open by Mr Lee Yiok Seng then MP for Bukit Panjang and Senior Parliamentary Secretary of Ministry of National Development on 20th September.</span><br><img src="/images/km2.jpeg" 
-     style="width:45%"><br><span style="font-weight:inherit;font-style:inherit">Bird’s eye view of the school building in 1984.</span><br><img src="/images/km3.jpeg" 
-     style="width:45%"><br><span style="font-weight:inherit;font-style:inherit">Official Opening Ceremony of the school by Mr Lee Yiok Seng.</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">1985</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> WDL won the ‘B’ Division Boys and ‘C’ Division Girls National Cross Country Championships.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">1999</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Became single-session school.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Formation of the Pupils’ Creed and Pledge.</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2004</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Underwent PRIME upgrading.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Entrance of the school changed to face Marsiling Road and addressed changed to 11 Marsiling Road.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Designated Innovation Centre for the Cluster.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2009</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Visit by PM Lee Hsien Loong.</span><br><img src="/images/km4.jpeg" 
-     style="width:45%"></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2011</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> WDL entered Singapore Book of Records for completing largest origami roses display consisting of 90 111 roses measuring 15m by 12.5 m.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Official Opening of the Indoor Sports Hall by founding Principal Mrs. Nararanaswamy and Mrs Julia Woo.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2012</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Celebration of 30th anniversary.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Official Opening of School Synthetic Field by GOH Mr. Fandi Ahmad.</span><br><img src="/images/km5.jpeg" 
-     style="width:45%"><br><span style="font-weight:bold;font-style:italic">WDL celebrates its 30th Anniversary with the presence of the present and 4 past principals in attendance</span></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2014</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Initiated Cohort Based Overseas VIA for Sec 3 students.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Our Pioneer Teacher Mr. Thirumaran Thangaraju awarded the Most Inspiring Tamil Teacher Award</span></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2015</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Awarded the School Distinction Award with 4 Best Practices</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Launch of the Woodlands Heritage Trail as part of SG50 Celebrations.</span><br><img src="/images/km6.jpeg" 
-     style="width:45%"></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2017</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.</span><br><img src="/images/km7.jpeg" 
-     style="width:45%"><br></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2018</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Launch of new Vision, Mission and Values</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Our teachers Mr M. Gnanasekaran awarded the Most Inspiring Tamil Teacher (MITT) Award and Mr R. Thuraimanikam awarded the MITT Lifetime achievement award.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Woodlands Secondary School collaboration with North West Community Development Council (NWCDC) and Woodlands Health Campus for its Learning for Life Programme (LLP) ‘Share-A-Pot’ Programme featured in national news.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> School emerges Champion of the Tamil National Debate Series for Secondary Schools.</span><br><img src="/images/km8.jpeg" 
-     style="width:45%"></td>
-  </tr>
-  <tr>
-    <td class="tg-g43m"><span style="font-weight:normal;font-style:inherit;color:#034289">2019</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> WDL became National Champions of the Singapore Schools Sports Council National Inter-School Sepak Takraw Tournament for both ‘B’ &amp; 'C' Divisions.</span><br><img src="/images/km9.jpeg" 
-     style="width:45%"><br><span style="font-weight:inherit;font-style:inherit">'C' Division Champions.</span><br><br><img src="/images/km10.jpeg" 
-     style="width:45%"><br><span style="font-weight:inherit;font-style:inherit">'B' Division Champions.</span><br><br><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> WDL won 2nd position for the Singapore Schools Sports Council/Football Association of Singapore National Inter-School Football Championship for  'C' Divisions.</span><br><img src="/images/km11.jpeg" 
-     style="width:45%"></td>
-  </tr>
-</tbody>
-</table>
+Establishment of Woodlands Secondary School with 205 student and temporarily housed at the premises of Siling Secondary School.
+<img src="/images/km1.jpeg">
+
+
+>1984
+
+* Relocation of school to 8 Admiralty Road
+* Declared open by Mr Lee Yiok Seng then MP for Bukit Panjang and Senior Parliamentary Secretary of Ministry of National Development on 20th September.
+
+<img src="/images/km2.jpeg">
+<img src="/images/km3.jpeg">
+
+>1985
+
+WDL won the ‘B’ Division Boys and ‘C’ Division Girls National Cross Country Championships.
+
+>1999
+
+* Became single-session school.
+* Formation of the Pupils’ Creed and Pledge.
+
+>2004
+
+* Underwent PRIME upgrading.
+* Entrance of the school changed to face Marsiling Road and addressed changed to 11 Marsiling Road.
+* Designated Innovation Centre for the Cluster
+
+>2009
+
+Visit by PM Lee Hsien Loong.
+<img src="/images/km4.jpeg">
+
+>2011
+
+* WDL entered Singapore Book of Records for completing largest origami roses display consisting of 90 111 roses measuring 15m by 12.5m.
+* Official Opening of the Indoor Sports Hall by founding Principal Mrs. Nararanaswamy and Mrs Julia Woo.
+
+>2012</span></td>
+
+* Celebration of 30th anniversary.
+* Official Opening of School Synthetic Field by GOH Mr. Fandi Ahmad.
+
+<img src="/images/km5.jpeg">
+		 
+>2014
+
+* Initiated Cohort Based Overseas VIA for Sec 3 students.
+* Our Pioneer Teacher Mr. Thirumaran Thangaraju awarded the Most Inspiring Tamil Teacher Award
+
+>2015
+
+* Awarded the School Distinction Award with 4 Best Practices
+* Launch of the Woodlands Heritage Trail as part of SG50 Celebrations.
+
+<img src="/images/km6.jpeg">
+
+>2017</span></td>
+
+WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.<img src="/images/km7.jpeg">
+
+>2018
+
+* Launch of new Vision, Mission and Values
+* Our teachers Mr M. Gnanasekaran awarded the Most Inspiring Tamil Teacher (MITT) Award and Mr R. Thuraimanikam awarded the MITT Lifetime achievement award. 
+* Woodlands Secondary School collaboration with North West Community Development Council (NWCDC) and Woodlands Health Campus for its Learning for Life Programme (LLP) ‘Share-A-Pot’ Programme featured in national news.
+* School emerges Champion of the Tamil National Debate Series for Secondary 
+
+<img src="/images/km8.jpeg">
+
+>2019<
+
+* WDL became National Champions of the Singapore Schools Sports Council National Inter-School Sepak Takraw Tournament for both ‘B’ &amp; 'C' Divisions.
+
+<img src="/images/km10.jpeg" >
+
+* WDL won 2nd position for the Singapore Schools Sports Council/Football Association of Singapore National Inter-School Football Championship for  'C' Divisions.
+
+<img src="/images/km11.jpeg" >
+
