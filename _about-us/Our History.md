@@ -117,3 +117,6 @@ WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.<i
 >2022
 
 Despite COVID Safe Management Measures, WDL celebrates its 40th anniversary.
+![](/images/About%20us/40th%20parade.jpg)
+
+![](/images/About%20us/40th%20principals.jpg)
