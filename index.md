@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Woodlands Secondary School
-description: An Isomer site of the Singapore Government
+description: Every Woodlander a gift to society
 image: /images/schoolcrest.png
 permalink: /
 notification: ""
@@ -40,3 +40,4 @@ sections:
       button: View More
       url: /resources/contact-information/
 ---
+
