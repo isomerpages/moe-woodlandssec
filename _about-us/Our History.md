@@ -32,7 +32,9 @@ In 2016, the school achieved the School Distinction Award (SDA) and four Best Pr
 >1982
 
 Establishment of Woodlands Secondary School with 205 student and temporarily housed at the premises of Siling Secondary School.
-<img src="/images/km1.jpeg">
+
+![](/images/About%20us/km1.jpeg)
+
 
 
 >1984
@@ -40,8 +42,10 @@ Establishment of Woodlands Secondary School with 205 student and temporarily hou
 * Relocation of school to 8 Admiralty Road
 * Declared open by Mr Lee Yiok Seng then MP for Bukit Panjang and Senior Parliamentary Secretary of Ministry of National Development on 20th September.
 
-<img src="/images/km2.jpeg">
-<img src="/images/km3.jpeg">
+![](/images/About%20us/km2.jpeg)
+
+![](/images/About%20us/km3.jpeg)
+
 
 >1985
 
@@ -61,19 +65,22 @@ WDL won the ‘B’ Division Boys and ‘C’ Division Girls National Cross Coun
 >2009
 
 Visit by PM Lee Hsien Loong.
-<img src="/images/km4.jpeg">
+
+![](/images/About%20us/km4.jpeg)
+
 
 >2011
 
 * WDL entered Singapore Book of Records for completing largest origami roses display consisting of 90 111 roses measuring 15m by 12.5m.
 * Official Opening of the Indoor Sports Hall by founding Principal Mrs. Nararanaswamy and Mrs Julia Woo.
 
->2012</span></td>
+>2012
 
 * Celebration of 30th anniversary.
 * Official Opening of School Synthetic Field by GOH Mr. Fandi Ahmad.
 
-<img src="/images/km5.jpeg">
+![](/images/About%20us/km5.jpeg)
+
 		 
 >2014
 
@@ -85,11 +92,14 @@ Visit by PM Lee Hsien Loong.
 * Awarded the School Distinction Award with 4 Best Practices
 * Launch of the Woodlands Heritage Trail as part of SG50 Celebrations.
 
-<img src="/images/km6.jpeg">
+![](/images/About%20us/km6.jpeg)
+
 
 >2017</span></td>
 
-WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.<img src="/images/km7.jpeg">
+WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.
+![](/images/About%20us/km7.jpeg)
+
 
 >2018
 
@@ -98,7 +108,7 @@ WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.<i
 * Woodlands Secondary School collaboration with North West Community Development Council (NWCDC) and Woodlands Health Campus for its Learning for Life Programme (LLP) ‘Share-A-Pot’ Programme featured in national news.
 * School emerges Champion of the Tamil National Debate Series for Secondary 
 
-<img src="/images/km8.jpeg">
+![](/images/About%20us/km9.jpeg)
 
 > 
 
@@ -106,11 +116,11 @@ WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.<i
 
 * WDL became National Champions of the Singapore Schools Sports Council National Inter-School Sepak Takraw Tournament for both ‘B’ &amp; 'C' Divisions.
 
-<img src="/images/km10.jpeg" >
+![](/images/About%20us/km10.jpeg)
 
 * WDL won 2nd position for the Singapore Schools Sports Council/Football Association of Singapore National Inter-School Football Championship for  'C' Divisions.
 
-<img src="/images/km11.jpeg" >
+![](/images/About%20us/km11.jpeg)
 
 > 
 
