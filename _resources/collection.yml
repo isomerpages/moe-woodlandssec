@@ -1,0 +1,12 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Student Handbook.md
+      - Contact Information.md
+      - Booklists & Uniform.md
+      - Counselling.md
+      - Education and Career Guidance (ECG).md
+      - Special Education Needs.md
+      - Financial.md
+      - Other Support.md

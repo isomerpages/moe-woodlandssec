@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Identity.md
+      - Our History.md
+      - Our Partners.md
+      - Our People.md
+      - School Expectations (Rules).md

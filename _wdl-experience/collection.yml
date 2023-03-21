@@ -1,0 +1,14 @@
+collections:
+  wdl-experience:
+    output: true
+    order:
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - English.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Craft & Technology.md
+      - PE & CCA.md
+      - Character & Citizenship Education (CCE).md

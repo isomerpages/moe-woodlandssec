@@ -1,15 +1,31 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/header-logo3.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our Identity
+        url: /about-us/our-identity/
+      - title: Our History
+        url: /about-us/our-history/
+      - title: Our Partners
+        url: /about-us/our-partners/
+      - title: Our People
+        url: /about-us/our-people/
+      - title: School Expectations
+        url: /about-us/school-expectations/
+      - title: Achievements
+        url: /about-us/achievements/
+      - title: 40th Anniversary
+        url: /about-us/40thanniversary/
+      - title: Direct School Admission (dsa)
+        url: /dsa/
+      - title: E-Open House
+        url: /e-open-house-2022/welcome/
+  - title: WDL Experience
+    collection: wdl-experience
+  - title: CCAs
+    collection: ccas
+  - title: Resources
+    collection: resources

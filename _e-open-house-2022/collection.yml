@@ -1,0 +1,18 @@
+collections:
+  e-open-house-2022:
+    output: true
+    order:
+      - Welcome.md
+      - Explore Your Gifts/.keep
+      - Explore Your Gifts/Explore Your Gifts!.md
+      - Explore Your Gifts/1 – English.md
+      - Explore Your Gifts/2 – Mother Tongue.md
+      - Explore Your Gifts/3 – Mathematics.md
+      - Explore Your Gifts/4 – Science.md
+      - Explore Your Gifts/5 – STEM (ALP).md
+      - Explore Your Gifts/6 – Sports.md
+      - Explore Your Gifts/7 – Humanities.md
+      - Explore Your Gifts/8 – Design and Aesthetics.md
+      - Explore Your Gifts/9 – Service & Leadership (Our LLP).md
+      - CCA Challenge.md
+      - Contact Us!.md
