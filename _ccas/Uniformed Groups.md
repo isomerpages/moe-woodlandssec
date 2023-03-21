@@ -188,8 +188,8 @@ HQ activities and trainings on some Saturdays for selected Guides.
 
 ##### Teachers-in-Charge
 
-Miss Saranya d/o Thayalan (OIC)
-Mr Chun Guan Yang
+Miss Saranya d/o Thayalan (OIC) <br>
+Mr Chun Guan Yang <br>
 Miss Ng Ling Nee Faith
 
 ##### Weekly Training Schedule
@@ -264,9 +264,11 @@ To develop our young NCC leaders to have the following:
 
 Mr Lee Jia Xin (OIC)  
 Ms Yeo Su Yan (AIC)  
-Miss Low May Ann Shawna
-Mr Chia Soon Hann Justin Ian
+Miss Low May Ann Shawna <br>
+Mr Chia Soon Hann Justin Ian <br>
 Mr Lin Zhaowei
+
+
 
 
 ##### Weekly Training Schedule
