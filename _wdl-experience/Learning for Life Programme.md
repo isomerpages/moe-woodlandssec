@@ -56,11 +56,13 @@ Tier 2 programmes provide training and leadership platforms for youth envoys to 
 > Stretching those with strong interests - Tier 3 Programmes
 
 Tier 3 programmes provides opportunities for youth ambassadors to explore enduring engagement in the community through the following platforms:  
-* Dialogue with Prime Minister  
-* Youth Assembly at NWCDC  
-* Marsiling Constituency Annual Workplan (ACWP)  
-* Parliament Journey - Parliament in session  
-* Mentoring juniors in VIA Projects
+* Dialogue with Prime Minister  
+* Youth Assembly at NWCDC  
+* Marsiling Constituency Annual Workplan (ACWP)  
+* Parliament Journey - Parliament in session  
+* Mentoring juniors in VIA Projects
+
+
 
 ![](/images/WDL%20Experience/Untitled-4.jpg)
 
