@@ -88,7 +88,7 @@ HQ activities and trainings on some Saturdays for selected Boys.
           <img src="/images/instagram.jpeg" 
      style="width:100%"></a></td>
 		<td class="tg-x5q1"><a href="https://www.instagram.com/wdl_ncdcc/">@bb_sixty6
-<a>
+</a>
 	</td>
   </tr>
 </tbody>
