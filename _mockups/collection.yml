@@ -1,5 +1,4 @@
 collections:
   mockups:
     output: true
-    order:
-      - test.md
+    order: []
