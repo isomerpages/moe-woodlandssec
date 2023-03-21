@@ -95,7 +95,7 @@ Mr Lin Zhaowei
 
 ### Badminton
 
-![](/images/Badminton_4.jpeg)
+![](/images/CCAs/Badminton_4.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -145,7 +145,7 @@ Mr Wong Chin Choong Brian
 
 ### Basketball
 
-![](/images/basketball-scaled.jpeg)
+![](/images/CCAs/basketball-scaled.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -168,12 +168,11 @@ Mr Li Rui
 
 ### Football (Girls)
 
-![](/images/football-girls.jpeg)
+![](/images/CCAs/football-girls.jpeg)
 
 ##### Teachers-in-Charge
 
 Mdm Intan Badariah Bushra (OIC)  
-Ms Lim Jia Wen  
 Ms Siti Farhana Binte Abdullah
 
 ##### Weekly Training Schedule
@@ -222,13 +221,13 @@ Ms Siti Farhana Binte Abdullah
 
 ### Football (Boys)
 
-![](/images/football-boys.jpeg)
+![](/images/CCAs/football-boys.jpeg)
 
 
 ##### Teachers-in-Charge
-
 Mr Muhammad Kamal Bin Abdul Halim (OIC)  
-Mr Ang Choon Peng
+Mr Mohamad Noorhisham  
+Mr Tan Jia Xuan Kin
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
@@ -277,7 +276,7 @@ Mr Ang Choon Peng
 
 ### Netball
 
-![](/images/Netball-2.jpeg)
+![](/images/CCAs/Netball-2.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -355,14 +354,14 @@ At the end of their secondary education, each player will:
 ### Sepak Takraw
 
 
-![](/images/takraw.jpeg)
+![](/images/CCAs/takraw.jpeg)
 
 
 ##### Teachers-in-Charge
 
 Mr Ahmad Hosaini Bin Noor (OIC)  
+Mdm Nabila Bte Awalluddin
 Ms Nurul Deena Binte Maamon  
-Mr I'dil Saladin Alamin Bin Salleh
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
@@ -388,6 +387,14 @@ Mr I'dil Saladin Alamin Bin Salleh
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">4th Place</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Place</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">National Champions</span></td>
