@@ -2,5 +2,6 @@ collections:
   rejected-migrated-pages:
     output: true
     order:
+      - E Open House 2020.md
       - Distinctive Programmes.md
       - 40th Anniversary.md
