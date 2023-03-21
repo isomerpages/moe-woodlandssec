@@ -3,11 +3,17 @@ title: Humanities
 permalink: /wdl-experience/humanities/
 description: ""
 ---
-#### Developing Gifts to Society
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+</style>
+### Developing Gifts to Society
 
 Every Woodlander a critical thinker with an inquiring mind ready to serve society.
 
-#### Key approaches
+### Key approaches
 
 As Humanities subjects are new to secondary school students, the following is done to help Woodlanders grow in the subjects:
 
@@ -15,48 +21,52 @@ As Humanities subjects are new to secondary school students, the following is do
 *   Tapping on Woodlanders’ day-to-day experiences to build interests
 *   Learning through investigation and discovery to develop interests and critical thinking
 
-#### Key Programmes
+### Key Programmes
+#### Growing all Woodlanders
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-l8if{background-color:#FFF;color:#3A3A3A;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 786px">
-<colgroup>
-<col style="width: 130px">
-<col style="width: 217px">
-<col style="width: 221px">
-<col style="width: 218px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-l8if"></td>
-    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">Geography</span></td>
-    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">History</span></td>
-    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">Social Studies</span></td>
-  </tr>
-  <tr>
-    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">Growing all Woodlanders</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Experiential learning:</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Geographical Investigation for all levels</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Simulations through card game lessons</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Virtual field trips through Google Cardboard VR Goggles</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Collaborative Learning where students work together for skills development:</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Using Venn Diagrams for comparison of various sources.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Playing the Inference Detective Card Game to making inferences</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Perspective Taking, where students take different viewpoints</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Upper Sec using Lego Museum for War In Europe events</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Inquiry Based Learning projects to Hitler’s rule</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Collaborative Learning and Self directed Learning to Issues Investigation scenarios for IBL</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Self-directed playlist for ICT resources and videos using Nearpod and Edpuzzle</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Cohort Activities for Sec 3 students to self explore the topic on Diversity</span></td>
-  </tr>
-  <tr>
-    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">Stretching those with strong interests</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> NUS Geography Challenge</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Full Geography option at Upper Sec</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Lower Sec-NLB Historical Investigation Challenge</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Upper Sec-Model UN participation for History and Social Studies Students.</span></td>
-    <td class="tg-oku2"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Upper Sec-Model UN participation for History and Social Studies Students.</span></td>
-  </tr>
-</tbody>
-</table>
+> Geography
 
-![](/images/hum1.jpg)
+**Experiential learning:  **
 
-![](/images/hum2.jpeg)
+* Geographical Investigation for all levels  
+* Simulations through card game lessons  
+* Virtual field trips through Google Cardboard VR Goggles
 
-![](/images/hum3.jpg)
+> History
+
+**Collaborative Learning where students work together for skills development:  **
+* Using Venn Diagrams for comparison of various sources.  
+* Playing the Inference Detective Card Game to making inferences  
+* Perspective Taking, where students take different viewpoints  
+* Upper Sec using Lego Museum for War In Europe events  
+* Inquiry Based Learning projects to Hitler’s rule
+
+> Social Studies
+
+* Collaborative Learning and Self directed Learning to Issues Investigation scenarios for IBL  
+* Self-directed playlist for ICT resources and videos using Nearpod and Edpuzzle  
+* Cohort Activities for Sec 3 students to self explore the topic on Diversity
+
+
+#### Stretching those with strong interests
+> Geography
+
+* NUS Geography Challenge  
+* Full Geography option at Upper Sec
+
+> History
+
+* Lower Sec-NLB Historical Investigation Challenge  
+* Upper Sec-Model UN participation for History and Social Studies Students.
+
+> Social Studies
+
+* Upper Sec-Model UN participation for History and Social Studies Students.
+
+
+
+![](/images/Departments/hum1.jpg)
+
+![](/images/Departments/hum2.jpeg)
+
+![](/images/Departments/hum3.jpg)
