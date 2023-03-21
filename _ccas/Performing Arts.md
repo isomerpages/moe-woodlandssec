@@ -35,7 +35,7 @@ description: ""
 <a id="1"></a>
 ### Choir
 
-![](/images/choir-scaled.jpeg)
+![](/images/CCAs/choir-scaled.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -44,27 +44,8 @@ Mdm Fu Jian Ning Janny
 
 ##### Weekly Training Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 205px">
-<colgroup>
-<col style="width: 205px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">4.00 - 6.00pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1600H - 1800H
 
 ##### Social Media
 
@@ -119,7 +100,8 @@ Miss Seah Wei Ee (OIC)
 Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 
 ##### Weekly Training Schedule
-
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1500H - 1800H
 ##### Social Media
 
 <style type="text/css">
@@ -166,6 +148,10 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 Singapore Youth Festival Arts Presentation</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Singapore Youth Festival Arts Presentation</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
@@ -191,27 +177,8 @@ Miss Lim Zhi Xuan
 
 ##### Weekly Training Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">4.00 - 6.00pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1600H - 1800H
 
 
 ##### Key Info & Programmes
@@ -234,6 +201,10 @@ Miss Lim Zhi Xuan
 </style>
 <table class="tg">
 <tbody>
+		  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 SYF Arts Presentation</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Singapore Youth Festival Arts Presentation</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Achievement</span></td>
@@ -253,7 +224,7 @@ Miss Lim Zhi Xuan
 
 ##### ENGLISH LANGUAGE DRAMA AND DEBATING SOCIETY
 
-![](/images/syf2021-drama.jpeg)
+![](/images/CCAs/syf2021-drama.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -263,27 +234,8 @@ Ms Ong Xin Yan, Alyssa
 
 ##### Weekly Training Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">4.00 - 6.00pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1600H - 1800H
 
 ##### Key Info & Programmes
 
@@ -310,6 +262,10 @@ Ms Ong Xin Yan, Alyssa
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 SYF Arts Presentation</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Distinction</span></td>
+  </tr>
   <tr>
     <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2020 Human Values Drama Festival</span></td>
     <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Certificate of Participation</span></td>
@@ -326,7 +282,7 @@ Ms Ong Xin Yan, Alyssa
 
 ### Malay Dance
 
-![](/images/syf2021-malay-dance.png)
+![](/images/CCAs/syf2021-malay-dance.png)
 
 ##### Teachers-in-Charge
 
@@ -335,27 +291,8 @@ Mdm Liyana Binte Kamsani
 
 ##### Weekly Training Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">4.00 - 6.00pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1600H - 1800H
 
 ##### Social Media
 
@@ -405,6 +342,10 @@ Mdm Liyana Binte Kamsani
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 SYF Arts Presentation</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Distinction</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SYF Arts Presentation</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
