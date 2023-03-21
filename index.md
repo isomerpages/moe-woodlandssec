@@ -22,14 +22,6 @@ sections:
       subtitle: How do we grow you to be a gift to society?
       button: Find out more
       url: /wdl-experience/applied-learning-programme/
-  - infopic:
-      title: Sec 1 Registration
-      subtitle: Latest Update
-      description: Register Now
-      button: More Details
-      url: /sec-1-registration/
-      image: /images/post.jpeg
-      alt: Image alt text
   - resources:
       title: Updates
       subtitle: Latest News
