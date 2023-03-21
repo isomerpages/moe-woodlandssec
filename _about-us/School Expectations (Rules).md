@@ -5,11 +5,11 @@ description: ""
 ---
 Woodlands Secondary School aims to provide a caring and safe environment in which all students enjoy learning and cultivate a sense of belonging. It is the intent of the school staff to support and encourage each Woodlander’s academic, personal and social growth, and to groom students to become responsible members of the Woodlands community. The school rules and regulations serve to protect the well-being of all in attendance. The School Expectations serve to engender in our Woodlands our Core Values of Growth, Respect, Resilience, Empathy, Appreciation and Trustworthiness.
 
-### SCHOOL EXPECTATIONS
+## SCHOOL EXPECTATIONS
 
 Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to use these terms to model their behaviours and set realistic targets.
 
-#### **The 3Cs are:**
+### **The 3Cs are:**
 
 > Care for Self
 
@@ -23,7 +23,7 @@ Students care and strive to build positive relationships with the people around 
 
 Students display pride for their school and the facilities and give their best for the school at all times.
 
-#### **The 7As are:**
+### **The 7As are:**
 
 >Attendance & Punctuality 
 
@@ -121,36 +121,71 @@ Students sport short and neat hairstyles. Girls have their hair tied with approp
 
 Students will be dealt with by the Student Management Committee in line with the category of offence committed.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-guf0{background-color:#EFEFEF;color:#3A3A3A;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-guf0"><span style="font-style:inherit">Offences</span></td>
-    <td class="tg-guf0"><span style="font-weight:bold;font-style:inherit">Consequences</span></td>
-  </tr>
-	<tr>
-		<td colspan="2">Minor Offences </span>
-  <tr>
-    <td class="tg-ppvc">• </span><span style="font-style:inherit">Latecoming</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Improper attire and appearance</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Infringement in the use of mobile devices</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Littering</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Not bringing books or materials for lessons</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Failure to complete assignments/tasks</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Skipping Classes/CCA/Detention (first offence)</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Misuse of Social Media</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Any other minor offences</span></td>
-    <td class="tg-ppvc"><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Counselling</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Verbal/ Written</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Warning</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Detention Class</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Corrective Work Order</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Confiscation of Items</span><br><br><span style="font-weight:inherit;font-style:inherit">Any other actions deemed appropriate</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Serious Offences</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Three minor offences will be treated as one serious offence</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Truancy</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Leaving school grounds without permission</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Forgery</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Stealing</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Vandalism</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Gambling</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Dishonesty</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Instigating/inciting others to commit offences</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Use of rude, abusive or vulgar language</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Unruly behaviour which causes nuisance to public</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Open defiance to school authority</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Cyber-bullying/bullying/threatening/fighting/ assault</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Gangsterism</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Extortion</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Possession and dissemination of pornographic materials</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Outrage of modesty</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Possession/consumption of tobacco products, alcohol or substance abuse</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Possession of weapons or dangerous objects</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-style:inherit"> Any other serious offences</span><br><span style="font-style:inherit"> </span></td>
-    <td class="tg-ppvc"><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Counselling</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Compensation</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Parental Involvement</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Caning (boys only)</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> In-house Suspension</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Home Suspension</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Expulsion</span><br><span style="font-weight:700;font-style:normal">•</span><span style="font-weight:inherit;font-style:inherit"> Police Assistance</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Any other actions deemed appropriate</span></td>
+#### Minor offences
+
+> Offences
+* Latecoming
+* Improper attire and appearance
+* Infringement in the use of mobile devices
+* Littering
+* Not bringing books or materials for lessons
+* Failure to complete assignments/tasks
+* Skipping Classes/CCA/Detention (first offence)
+* Misuse of Social Media
+* Any other minor offences
+
+> Consequences
+* Counselling
+* Verbal/ Written
+* Warning
+* Detention Class
+* Corrective Work Order
+* Confiscation of Items
+* Any other actions deemed appropriate
+
+#### Serious offences
+> Offences
+* Three minor offences will be treated as one serious offence
+* Truancy
+* Leaving school grounds without permission
+* Forgery
+* Stealing
+* Vandalism
+* Gambling
+* Dishonesty
+* Instigating/inciting others to commit offences
+* Use of rude, abusive or vulgar language
+* Unruly behaviour which causes nuisance to public
+* Open defiance to school authority
+* Cyber-bullying/bullying/threatening/fighting/ assault
+* Gangsterism
+* Extortion
+* Possession and dissemination of pornographic materials
+* Outrage of modesty
+* Possession/consumption of tobacco products, alcohol or substance abuse
+* Possession of weapons or dangerous objects
+* Any other serious offences
+
+
+> Consequences
+* Counselling
+* Compensation
+* Parental Involvement
+* Caning (boys only)
+* In-house Suspension
+* Home Suspension
+* Expulsion
+* Police Assistance
+* Any other actions deemed appropriate
+
+
+
   </tr>
 </tbody>
 </table>
 
 
-#### Guidelines on the use of mobile devices
+## Guidelines on the use of mobile devices
 
 Students are allowed to bring their mobile devices/tablets to school. The following restrictions dictate when and where these devices may be use in order to ensure that students remain focused during lessons:
 
