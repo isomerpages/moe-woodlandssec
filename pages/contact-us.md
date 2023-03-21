@@ -17,4 +17,11 @@ contacts:
       - email: wdl_ss@moe.edu.sg
       - other: "Fax: 6269 1774"
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <a href="https://www.facebook.com/woodlandssecsch">Facebook</a><br /><a
+          href="https://www.instagram.com/woodlandssec/">Instagram</a><br/><a
+          href="https://youtube.com/@woodlandssecsch">YouTube</a>
+    title: "Follow Us "
 ---
