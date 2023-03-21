@@ -3,11 +3,17 @@ title: PE|CCA
 permalink: /wdl-experience/pe-cca/
 description: ""
 ---
-#### Developing Gifts to Society
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+</style>
+### Developing Gifts to Society
 
 Every Woodlander a practitioner and advocate of a physically active and healthy lifestyle.
 
-#### Key approaches
+### Key approaches
 
 As Woodlanders seek to lead an active and healthy lifestyle:
 
@@ -15,37 +21,21 @@ As Woodlanders seek to lead an active and healthy lifestyle:
 *   Various platforms and opportunities will be provided for them to apply what they have learnt so as to allow good healthy habits and attitudes to be instilled.
 *   Collaborative learning as a technique to encourage and motivate them to learn and influence others
 
-#### Key Programmes
+### Key Programmes
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-l8if{background-color:#FFF;color:#3A3A3A;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">Growing all Woodlanders</span></td>
-    <td class="tg-oku2" colspan="3"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Acquiring, understanding and applying movement concepts, principles and strategies in a range of physical activities.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-l8if"><span style="font-weight:bold;font-style:inherit">Stretching those with strong interests</span></td>
-    <td class="tg-oku2" colspan="3"><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Application and competing through inter class competitions </span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Mentor classmates during lessons to develop coaching eye and mentoring skills</span></td>
-  </tr>
-</tbody>
-</table>
+##### Growing all Woodlanders
+* Acquiring, understanding and applying movement concepts, principles and strategies in a range of physical activities.
+
+#####  Stretching those with strong interests
+* Application and competing through inter class competitions  
+* Mentor classmates during lessons to develop coaching eye and mentoring skills
 
 
-#### WDL PE Website
 
-[Click here to visit it](https://sites.google.com/view/wdlpe/)
+##### [Find out more at the WDL PE site](https://sites.google.com/view/wdlpe/)
 
-![](/images/pe1.jpg)
+![](/images/Departments/pe1.jpg)
 
-![](/images/pe2.jpeg)
+![](/images/Departments/pe2.jpeg)
 
-![](/images/pe3.jpeg)
+![](/images/Departments/pe3.jpeg)
