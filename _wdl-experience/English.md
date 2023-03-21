@@ -59,7 +59,3 @@ As Woodlanders come from different backgrounds with different levels of language
 * Morning student banter to showcase talents and hone speaking skills
 * Emceeing opportunities for schoolwide events
 * Featured essays, stories and poetry in the termly Woodlands Newsletter
-
-  </tr>
-</tbody>
-</table>
