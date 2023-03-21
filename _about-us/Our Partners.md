@@ -65,5 +65,3 @@ WDL Alumni Sports Challenge:
 *   The “Nambiar Cup” (Netball Tournament)
 
 ![](/images/About%20us/alumni1.jpg)
-
-
