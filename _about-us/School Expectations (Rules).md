@@ -3,6 +3,12 @@ title: School Expectations (Rules)
 permalink: /about-us/school-expectations/
 description: ""
 ---
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+</style>
 Woodlands Secondary School aims to provide a caring and safe environment in which all students enjoy learning and cultivate a sense of belonging. It is the intent of the school staff to support and encourage each Woodlander’s academic, personal and social growth, and to groom students to become responsible members of the Woodlands community. The school rules and regulations serve to protect the well-being of all in attendance. The School Expectations serve to engender in our Woodlands our Core Values of Growth, Respect, Resilience, Empathy, Appreciation and Trustworthiness.
 
 ## SCHOOL EXPECTATIONS
