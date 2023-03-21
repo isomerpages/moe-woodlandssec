@@ -3,16 +3,22 @@ title: Craft & Technology
 permalink: /wdl-experience/craft-and-technology/
 description: ""
 ---
-#### Developing Gifts to Society
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+</style>
+### Developing Gifts to Society
 
 Every Woodlander a creative and innovative talent who will lead to inspire in various creative fields.
 
-#### Key approaches
+### Key approaches
 
 *   Engaging and value-adding every Woodlanders through an enriching curriculum.
 *   Equipping every Woodlanders with communication, critical and inventive thinking skills to adapt to the changing environment.
 
-#### Key Programmes
+### Key Programmes
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -79,8 +85,8 @@ Every Woodlander a creative and innovative talent who will lead to inspire in va
 </tbody>
 </table>
 
-![](/images/dnt.jpg)
+![](/images/Departments/dnt.jpg)
 
-![](/images/fce.jpg)
+![](/images/Departments/fce.jpg)
 
-![](/images/art.jpg)
+![](/images/Departments/art.jpg)
