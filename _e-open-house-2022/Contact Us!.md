@@ -77,7 +77,7 @@ School tours will be provided to those who attend the event at Woodlands Sec.
     <td class="tg-nx8p"><a href = "LINKHERE" target = "_self"> 
           <img src="/images/website.gif" 
      style="width:100%"></a></td>
-    <td class="tg-wzrl"><a href="https://woodlandssec.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#034289">woodlandssec.moe.edu.sg</span></a> (link isomer site here when done)</td>
+    <td class="tg-wzrl"><a href="https://www.woodlandssec.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#034289">woodlandssec.moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-nx8p"><a href = "mailto:wdl_ss@moe.edu.sg" target = "_self"> 
