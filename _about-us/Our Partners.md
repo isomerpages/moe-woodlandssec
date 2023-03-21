@@ -39,6 +39,12 @@ The Parent Support Group:
 *   Teachers’ Day celebration
 
 (For more information and latest updates, please join “[WDL PSG](https://www.facebook.com/pages/WDL-PSG/492211320814534?fref=ts)” Facebook group)
+![](/images/About%20us/psg1.jpg)
+
+![](/images/About%20us/psg2.jpg)
+
+![](/images/About%20us/psg3.jpg)
+
 
 ----
 
