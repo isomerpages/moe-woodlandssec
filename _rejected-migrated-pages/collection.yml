@@ -1,4 +1,5 @@
 collections:
   rejected-migrated-pages:
     output: true
-    order: []
+    order:
+      - 40th Anniversary.md
