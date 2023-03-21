@@ -30,5 +30,5 @@ sections:
       title: Contact Us
       description: Our Contact Information
       button: View More
-      url: /resources/contact-information/
+      url: /resources/contact-us/
 ---
