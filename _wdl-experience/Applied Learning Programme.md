@@ -3,9 +3,6 @@ title: Applied Learning Programme
 permalink: /wdl-experience/applied-learning-programme/
 description: ""
 ---
-
-
-
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
 
