@@ -2,6 +2,12 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+</style>
 ### **General**
 
 1.  Thank you for visiting this website (“Website”) which is owned and operated by the Woodlands Secondary School (“Woodlands Sec”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
