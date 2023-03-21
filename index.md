@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Draft/gift 2.gif
+      background: /images/Home page banners/ezgif-1-9503e1b53c.gif
       key_highlights:
         - title: Quick Links
           description: ""
