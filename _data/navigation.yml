@@ -21,3 +21,5 @@ links:
     collection: ccas
   - title: Resources
     collection: resources
+  - title: Contact Us
+    url: /contact-us/
