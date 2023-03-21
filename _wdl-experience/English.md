@@ -35,27 +35,27 @@ As Woodlanders come from different backgrounds with different levels of language
 
 ### Key Programmes
 
->Growing all Woodlanders
+#### Growing all Woodlanders
 
-##### Secondary 1
+>  Secondary 1
 * Effective communication enrichment that involves storytelling and social media presenting
 * Curated magazine with interesting articles for reading activities and discussions in class 
 
-##### Secondary 2 
+>  Secondary 2 
 * Effective communication package that involves quick generation of ideas and clear articulation
 * Curated magazine with interesting articles for reading activities and discussions in class 
-
-##### Secondary 3 
+ 
+>  Secondary 3 
 * Effective communication package that involves quick generation of ideas, structured organisation of ideas, and the precision and coherence in articulation 
 
  
->Stretching those with strong interests
+#### Stretching those with strong interests
 
-##### External Competitions
+> External Competitions
 * Public Speaking competitions: YMCA Plain English Speaking Awards
 * Literacy competitions: EL Olympiad
 
-##### School Opportunities
+> School Opportunities
 * Morning student banter to showcase talents and hone speaking skills
 * Emceeing opportunities for schoolwide events
 * Featured essays, stories and poetry in the termly Woodlands Newsletter
