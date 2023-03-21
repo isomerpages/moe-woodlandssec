@@ -4,41 +4,24 @@ permalink: /about-us/our-partners/
 description: ""
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wxe1{background-color:#11439c;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 602px">
-<colgroup>
-<col style="width: 301px">
-<col style="width: 301px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wxe1"><a href="#1">
-			<span style="color:#FFF">Parents Support Group (PSG@WDL)</span></a></td>
-		<td class="tg-wxe1"><a href="#2"><span style="color:#FFF">Alumni</span></a></td>
-  </tr>
-</tbody>
-</table>
 
 
-<a id="1"></a>
+## Parents Support Group (PSG@WDL)
 
-### Parents Support Group (PSG@WDL)
-
-##### Vision
+### Vision
 
 Involved Parents, Inspired Woodlanders
 
-##### Mission
+### Mission
 
 Working hand in hand to support the school endeavor towards excellence
 
-##### Objectives
+#### Objectives
 
 The Parent Support Group:
 
@@ -46,7 +29,7 @@ The Parent Support Group:
 *   serves as a communication channel for parents to provide constructive feedback on school programmes; and
 *   recruiting and leading other parents to join this meaningful endeavour to ensure sustainability of home-school partnership.
 
-##### Key Programme
+#### Key Programmes
 
 *   Welcome dinner for new members
 *   Sports Fiesta
@@ -57,20 +40,10 @@ The Parent Support Group:
 
 (For more information and latest updates, please join “[WDL PSG](https://www.facebook.com/pages/WDL-PSG/492211320814534?fref=ts)” Facebook group)
 
+----
 
-![](/images/psg1.png)
-![](/images/psg2.png)
-![](/images/psg3.png)
-![](/images/psg4.png)
-![](/images/psg5.png)
-![](/images/psg6.png)
-![](/images/psg7.png)
-![](/images/psg8.png)
 
------
-
-<a id="2"></a>
-### Alumni
+## Alumni
 
 
 The WDL Alumni Working Committee was officially formed on 10th May 2010 with 7 strong and committed former Woodlanders from the pioneer (80s), graduates of classes from the 90's and 2000's. Mr Thirumaran (HOD MT) and Mr Gary Ong (HOD PE/CCA) were appointed as the school contact persons to this committee.
@@ -84,13 +57,3 @@ WDL Alumni Sports Challenge:
 *   The “Thirumaran Cup” (7-A-Side Football Tournament)
 *   The “Suraidi Cup” (Badminton Tournament)
 *   The “Nambiar Cup” (Netball Tournament)
-
-<img src="/images/alum-image001.jpeg" 
-     style="width:65%">
-
-<center>The 2nd Suraidi Badminton Challenge Tournament</center>
-
-<img src="/images/alum-image003.jpeg" 
-     style="width:65%">
-
-<center>The 2nd Thirumaran Football Cup</center>
