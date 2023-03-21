@@ -254,6 +254,10 @@ Mr Tan Jia Xuan Kin
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Place</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 2 Group Stage</span></td>
