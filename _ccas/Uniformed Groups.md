@@ -37,11 +37,11 @@ description: ""
 
 ##### THE BOY'S BRIGADE 66TH SINGAPORE COMPANY
 
-![](/images/bb1.jpg)
+![](/images/CCAs/bb1.jpg)
 
 ##### Teachers-in-Charge
 
-Mr Tan Eng Hui  
+Mr Tan Eng Hui  (OIC)
 Mr Lim Kian Beng  
 Miss Kee Jing Yee  
 
@@ -56,24 +56,8 @@ Mdm Choo Kai Ee, 2LT
 
 ##### Weekly Training Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1830H
+* Selected Saturdays - 0900H - 1200H 
 
 HQ activities and trainings on some Saturdays for selected Boys.
 
@@ -102,6 +86,10 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 <col style="width: 254px">
 </colgroup>
 <tbody>
+	  <tr>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">JM Fraser Award 2022</span></td>
+    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
+  </tr>
   <tr>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">JM Fraser Award 2020</span></td>
     <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
@@ -123,33 +111,15 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 
 ### Girl Guides
 
-![](/images/girl-guides.jpeg)
+![](/images/CCAs/girl-guides.jpeg)
 
 ##### Teachers-in-Charge
 
 Miss Lee Li Hwa Brenda (OIC)  
 Miss Uma Sankgery d/o Pandyan (AIC)  
-Miss Divyalakshmi d/o Muthu Saminathan
 
 ##### Weekly Training Schedule
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 248px">
-<colgroup>
-<col style="width: 248px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-weight:inherit;font-style:inherit">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:inherit;font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:inherit;font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:inherit;font-style:inherit">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1830H
 
 HQ activities and trainings on some Saturdays for selected Guides.
 
@@ -174,6 +144,10 @@ HQ activities and trainings on some Saturdays for selected Guides.
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Bronze</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
@@ -210,34 +184,16 @@ HQ activities and trainings on some Saturdays for selected Guides.
 
 ##### NATIONAL CADET CORPS
 
-![](/images/ncc.jpeg)
+![](/images/CCAs/ncc.jpeg)
 
 ##### Teachers-in-Charge
 
-Mr Michael Eric Basuki (OIC)  
-Miss Saranya d/o Thayalan  
+Miss Saranya d/o Thayalan (OIC)
 Mr Chun Guan Yang
+Miss Ng Ling Nee Faith
 
 ##### Weekly Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br>Sec 1: 2.45 – 5pm<br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-</tbody>
-</table>
+Tuesdays, 1445H - 1730H/1830H
 
 ##### Key Info & Programmes
 
@@ -273,6 +229,10 @@ To develop our young NCC leaders to have the following:
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 NCC Unit Recognition (UR) Award</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 Outstanding Cadet Award</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Awarded to Gabriel Goh</span></td>
@@ -298,35 +258,20 @@ To develop our young NCC leaders to have the following:
 
 ##### NATIONAL CIVIL DEFENCE CADET CORPS
 
-![](/images/ncdcc.jpeg)
+![](/images/CCAs/ncdcc.jpeg)
 
 ##### Teachers-in-Charge
 
 Mr Lee Jia Xin (OIC)  
 Ms Yeo Su Yan (AIC)  
 Miss Low May Ann Shawna
+Mr Chia Soon Hann Justin Ian
+Mr Lin Zhaowei
 
 
 ##### Weekly Training Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 275px">
-<colgroup>
-<col style="width: 275px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-</tbody>
-</table>
+Tuesdays, 1445H - 1730H/1830H
 
 ##### Social Media
 
@@ -384,6 +329,10 @@ Miss Low May Ann Shawna
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 Unit Overall Proficiency Award (UOPA)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Unit Overall Proficiency Award (UOPA)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
@@ -401,34 +350,17 @@ Miss Low May Ann Shawna
 
 ###### NATIONAL POLICE CADET CORPS
 
-![](/images/npcc.jpeg)
+![](/images/CCAs/npcc.jpeg)
 
 ##### Teachers-in-Charge
 
 Mr Oh Chin Chye Richard (OC)  
-Mr Ee Bao Qin  
-Mr Muhammad Tirmidzi Bin Khalid
+Mr Muhammad Tirmidzi Bin Khalid (AIC)
+Mr Lee Jing Xiang Eric  
+Mr Donovan Liew Yi Heng
 
 ##### Weekly Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4s/5: 2.45 – 6pm</span></td>
-  </tr>
-</tbody>
-</table>
+Tuesdays, 1445H - 1730H/1830H
 
 ##### Key Info & Programmes
 
@@ -451,6 +383,10 @@ Mr Muhammad Tirmidzi Bin Khalid
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2022 Overall Unit Proficiency Award</span></td>
+    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Gold Award</td>
+  </tr>
   <tr>
     <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2011 - 2019 Overall Unit Proficiency Award</span></td>
     <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Gold Award</span><br><span style="font-weight:inherit;font-style:inherit">(9 consecutive years of Gold Award)</span></td>
