@@ -1,0 +1,4 @@
+collections:
+  rejected-migrated-pages:
+    output: true
+    order: []
