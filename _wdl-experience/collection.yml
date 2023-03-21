@@ -2,8 +2,8 @@ collections:
   wdl-experience:
     output: true
     order:
-      - Learning for Life Programme.md
       - Applied Learning Programme.md
+      - Learning for Life Programme.md
       - English.md
       - Mother Tongue.md
       - Mathematics.md
