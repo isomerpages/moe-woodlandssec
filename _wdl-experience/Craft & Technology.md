@@ -23,9 +23,9 @@ Every Woodlander a creative and innovative talent who will lead to inspire in va
 #### Growing all Woodlanders
 > Art
 
-* Provide a balanced and well-rounded education in the aesthetics, cognitive and affective dimensions  
-* Opportunities for creative and innovative self-expression in varied modes  
-* Promotes lifelong enjoyment and appreciation of artistic works and developing visual literacy
+* Provide a balanced and well-rounded education in the aesthetics, cognitive and affective dimensions  
+* Opportunities for creative and innovative self-expression in varied modes  
+* Promotes lifelong enjoyment and appreciation of artistic works and developing visual literacy
 
 > Design & Technology
 
@@ -39,8 +39,8 @@ Every Woodlander a creative and innovative talent who will lead to inspire in va
 
 > Music
 
-* Provide a meaningful learning musical experience through performances with musical instruments such as the guitar, ukulele and keyboard.  
-* Engage in decision-making during the process of creating, performing and listening to music.
+* Provide a meaningful learning musical experience through performances with musical instruments such as the guitar, ukulele and keyboard.  
+* Engage in decision-making during the process of creating, performing and listening to music.
 
 #### Stretching those with strong interests
 > Art, Design & Technology, Nutrition & Food Science
