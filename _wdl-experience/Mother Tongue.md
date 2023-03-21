@@ -32,25 +32,30 @@ With affordance of technologies, students will be exposed to greater interaction
 
 #### Growing all Woodlanders
 > Secondary 1
+
 * Storytelling programme (Mother Tongue Fortnight)
 * Curated reading materials with interesting articles for reading activities and discussions in class
 
 > Secondary 2
+
 * Broadcasting Journalism (Mother Tongue Fortnight)
 * Curated reading materials with interesting articles for reading activities and discussions in class
 
 > Secondary 3
+
 * Drama programme (Mother Tongue Fortnight)
 * Curated reading materials with interesting articles for reading activities and discussions in class
 
 #### Stretching those with strong interests
 
 > External Competitions:
+
 * Writing competitions
 * Text recital competition
 * Cultural and Debate competition
 
 > School Opportunities
+
 * Offering of Higher Mother Tongue subjects
 * Emceeing opportunities for school cultural events like Chinese New Year, Hari Raya and Deepavali celebration
 * Featured essays, stories in school’s public platform
