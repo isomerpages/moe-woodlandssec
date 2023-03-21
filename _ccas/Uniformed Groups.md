@@ -123,6 +123,7 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 
 Miss Lee Li Hwa Brenda (OIC)  
 Miss Uma Sankgery d/o Pandyan (AIC)  
+Miss Divyalakshmi d/o Muthu Saminathan
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1830H
