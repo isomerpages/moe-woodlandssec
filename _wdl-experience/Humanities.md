@@ -26,7 +26,7 @@ As Humanities subjects are new to secondary school students, the following is do
 
 > Geography
 
-**Experiential learning:  **
+**Experiential learning**
 
 * Geographical Investigation for all levels  
 * Simulations through card game lessons  
@@ -34,30 +34,31 @@ As Humanities subjects are new to secondary school students, the following is do
 
 > History
 
-**Collaborative Learning where students work together for skills development:  **
-* Using Venn Diagrams for comparison of various sources.  
-* Playing the Inference Detective Card Game to making inferences  
-* Perspective Taking, where students take different viewpoints  
-* Upper Sec using Lego Museum for War In Europe events  
-* Inquiry Based Learning projects to Hitler’s rule
+**Collaborative Learning where students work together for skills development**
+
+* Using Venn Diagrams for comparison of various sources.  
+* Playing the Inference Detective Card Game to making inferences  
+* Perspective Taking, where students take different viewpoints  
+* Upper Sec using Lego Museum for War In Europe events  
+* Inquiry Based Learning projects to Hitler’s rule
 
 > Social Studies
 
-* Collaborative Learning and Self directed Learning to Issues Investigation scenarios for IBL  
-* Self-directed playlist for ICT resources and videos using Nearpod and Edpuzzle  
-* Cohort Activities for Sec 3 students to self explore the topic on Diversity
+* Collaborative Learning and Self directed Learning to Issues Investigation scenarios for IBL  
+* Self-directed playlist for ICT resources and videos using Nearpod and Edpuzzle  
+* Cohort Activities for Sec 3 students to self explore the topic on Diversity
 
 
 #### Stretching those with strong interests
 > Geography
 
-* NUS Geography Challenge  
-* Full Geography option at Upper Sec
+* NUS Geography Challenge  
+* Full Geography option at Upper Sec
 
 > History
 
-* Lower Sec-NLB Historical Investigation Challenge  
-* Upper Sec-Model UN participation for History and Social Studies Students.
+* Lower Sec-NLB Historical Investigation Challenge  
+* Upper Sec-Model UN participation for History and Social Studies Students.
 
 > Social Studies
 
