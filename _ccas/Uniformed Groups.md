@@ -47,7 +47,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 
 ##### Teachers-in-Charge
 
-Mr Tan Eng Hui  (OIC)
+Mr Tan Eng Hui  (OIC) <br />
 Mr Lim Kian Beng  
 Miss Kee Jing Yee  
 
@@ -67,6 +67,33 @@ Mdm Choo Kai Ee, 2LT
 
 HQ activities and trainings on some Saturdays for selected Boys.
 
+##### Social Media
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 188px">
+<colgroup>
+<col style="width: 53px">
+<col style="width: 135px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><a href = "https://www.instagram.com/bb_sixty6/" target = "_self"> 
+          <img src="/images/instagram.jpeg" 
+     style="width:100%"></a></td>
+		<td class="tg-x5q1"><a href="https://www.instagram.com/wdl_ncdcc/">@bb_sixty6
+<a></td>
+  </tr>
+</tbody>
+</table>
+ 
+ 
 ##### Key Info & Programmes
 
 A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) with the following key outcomes:
@@ -201,6 +228,30 @@ Miss Ng Ling Nee Faith
 
 ##### Weekly Training Schedule
 Tuesdays, 1445H - 1730H/1830H
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 188px">
+<colgroup>
+<col style="width: 53px">
+<col style="width: 135px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><a href = "https://www.instagram.com/wdl_ncc/" target = "_self"> 
+          <img src="/images/instagram.jpeg" 
+     style="width:100%"></a></td>
+		<td class="tg-x5q1"><a href="https://www.instagram.com/wdl_ncdcc/">@wdl_ncc</a></td>
+  </tr>
+</tbody>
+</table>
+
 
 ##### Key Info & Programmes
 
