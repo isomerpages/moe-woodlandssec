@@ -43,7 +43,7 @@ description: ""
 
 ### Athletics
 
-![](/images/athletics.jpeg)
+![](/images/CCAs/athletics.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -52,28 +52,9 @@ Mr Teoi Boey Jia
 Mr Lin Zhaowei
 
 ##### Weekly Training Schedule
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1600H - 1800H
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 300px" class="tg">
-<colgroup>
-<col style="width: 257px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">3.00 - 6.00pm</span></td>
-  </tr>
-</tbody>
-</table>
 
 ##### Key Info &amp; Programmes
 
@@ -113,31 +94,12 @@ Mr Lin Zhaowei
 ##### Teachers-in-Charge
 
 Miss Tay Li Ching (OIC)  
+Mr Thirumaran s/o Thangaraju
 Mr Wong Chin Choong Brian
 
 ##### Weekly Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 300px" class="tg">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-	<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">3.00 - 6.00pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1500H - 1800H
 
 ##### Key Info &amp; Programmes
 
@@ -185,28 +147,8 @@ Mr Tay Chor Kwang (OIC)
 Mr Li Rui
 
 ##### Weekly Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 300px" class="tg">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Thursdays</span><br><span style="font-style:inherit">3.00 - 6.00pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1500H - 1800H
 
 ##### Key Info &amp; Programmes
 
@@ -229,28 +171,8 @@ Ms Lim Jia Wen
 Ms Siti Farhana Binte Abdullah
 
 ##### Weekly Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 300px" class="tg">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:normal">Tuesdays</span><br><span style="font-weight:400;font-style:normal">Sec 1: 2.45 – 5.00pm</span><br><span style="font-weight:400;font-style:normal">Sec 2: 2.45 – 5.15pm</span><br><span style="font-weight:400;font-style:normal">Sec 3: 2.45 – 5.45pm</span><br><span style="font-weight:400;font-style:normal">Sec 4/5: 2.45 – 6.00pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:normal">Thursdays</span><br><span style="font-weight:400;font-style:normal">4.00 - 6.00pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1600H - 1800H
 
 ##### Key Info &amp; Programmes
 
@@ -303,28 +225,8 @@ Mr Muhammad Kamal Bin Abdul Halim (OIC)
 Mr Ang Choon Peng
 
 ##### Weekly Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Fridays</span><br><span style="font-style:inherit">2.30 - 5.30pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Fridays, 1430H - 1700H
 
 ##### Key Info & Programmes
 
@@ -377,28 +279,8 @@ Ms Eliza binte Mohamed (OIC)
 Miss Low Qiao Xuan
 
 ##### Weekly Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Fridays</span><br><span style="font-style:inherit">1.00 - 3.00pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Thursdays, 1600H - 1800H
 
 ##### Social Media
 
@@ -477,28 +359,8 @@ Ms Nurul Deena Binte Maamon
 Mr I'dil Saladin Alamin Bin Salleh
 
 ##### Weekly Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 300px">
-<colgroup>
-<col style="width: 300px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Tuesdays</span><br><span style="font-style:inherit">Sec 1: 2.45 – 5.00pm</span><br><span style="font-style:inherit">Sec 2: 2.45 – 5.15pm</span><br><span style="font-style:inherit">Sec 3: 2.45 – 5.45pm</span><br><span style="font-style:inherit">Sec 4/5: 2.45 – 6.00pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:bold;font-style:inherit">Fridays</span><br><span style="font-style:inherit">2.30 - 5.30pm</span></td>
-  </tr>
-</tbody>
-</table>
+* Tuesdays, 1445H - 1730H/1800H
+* Fridays, 1430H - 1700H
 
 ##### Key Info & Programmes
 
