@@ -12,7 +12,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-        - title: Updates
+        - title: Announcements
           description: ""
           url: /updates/
         - title: Contact us
@@ -23,8 +23,7 @@ sections:
       button: Find out more
       url: /wdl-experience/applied-learning-programme/
   - resources:
-      title: Updates
-      subtitle: Latest News
+      title: " Announcements"
       button: View All
   - infobar:
       title: Contact Us
