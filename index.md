@@ -11,17 +11,17 @@ sections:
       key_highlights:
         - title: Quick Links
           description: ""
-          url: /quick-links/for-parents/
+          url: /quick-links
         - title: Updates
           description: ""
-          url: ""
+          url: /updates/
         - title: Contact us
           description: ""
-          url: /quick-links/for-students/
+          url: /contact-information/
       title: Every Woodlander a GIFT to society
       subtitle: How do we grow you to be a gift to society?
       button: Find out more
-      url: /home/
+      url: /wdl-experience/applied-learning-programme/
   - infopic:
       title: Sec 1 Registration
       subtitle: Latest Update
@@ -40,4 +40,3 @@ sections:
       button: View More
       url: /resources/contact-information/
 ---
-
