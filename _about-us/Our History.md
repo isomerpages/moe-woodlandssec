@@ -3,6 +3,12 @@ title: Our History
 permalink: /about-us/our-history/
 description: ""
 ---
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+</style>
 ### Our Journey
 
 Woodlands Secondary School was established in 1982 with 205 students and a pioneer batch of 13 staff as a Government co-educational school to cater to the growing population in Woodlands and Marsiling area. It was initially sited in Si Ling Secondary School’s premises. In 1984, the school relocated to its current premises at 8 Admiralty Road, and was officially opened on 20th September. The school has a distinction of being the northernmost school in Singapore just a stone’s throw away from the Singapore-Johore Causeway.
