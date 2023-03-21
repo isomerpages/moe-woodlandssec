@@ -228,6 +228,7 @@ description: ""
 .tg .tg-z1pf{background-color:#EFEFEF;color:#3A3A3A;text-align:left;vertical-align:top}
 .tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <tbody>
   <tr>
@@ -536,10 +537,6 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nurul Deena Binte Maamon</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">-</span></td>
   </tr>
-  <tr>
-
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">-</span></td>
-  </tr>
 </tbody>
 </table>
 
@@ -640,9 +637,7 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ho Ngai Kuen Magdalene</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Flexi (Science)</span></td>
   </tr>
-  <tr>
 
-  </tr>
 </tbody>
 </table>
 
