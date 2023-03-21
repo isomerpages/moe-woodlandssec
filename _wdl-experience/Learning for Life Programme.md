@@ -35,16 +35,16 @@ Inspiring students to lead and mentor in VIA & Community Youth Leadership (CYL) 
 
 Tier 1 programmes caters to all students across Sec 1 to 5 with the following themes:  
   
-###### Secondary 1: Contributing to School Community  
+##### Secondary 1: Contributing to School Community  
 Through applying principles of design thinking, students developed empathy and a sense of appreciation towards the unsung heroes in the school community and formulate ideas to improve the school through gardening.
 
-###### Secondary 2: Serving the Immediate Community  
+##### Secondary 2: Serving the Immediate Community  
 Students served the elderly through identifying their needs and collaborated with community partners like North West CDC and Sunlove Marsiling Senior Activity Centre where they get to come together and deliver an NDP Goodie Bag for the elderly.
 
-###### Secondary 3: Redefining Boundaries  
+##### Secondary 3: Redefining Boundaries  
 Our students develop these competencies and values of empathy, care and responsibility towards others through training workshops and practise them through our Values-in-Action (VIA) platforms. At Sec 3, the Glocal Citizens Programme reaches its high point with an online cohort overseas experience with students from Cambodia, Thailand and New Zealand. Through this friendly online exchange, the school hopes to encourage our students to become future Community Youth Leaders by forging relationships with others and be active contributors to society.
 
-###### Secondary 4 and 5: Seniors Giving Back - Mentoring and Advocacy  
+##### Secondary 4 and 5: Seniors Giving Back - Mentoring and Advocacy  
 Over the years of developing the understanding of their role as active citizens, the graduating students dedicate their time for the betterment of our Singapore future/society through advocacy projects of their choice focusing on Conservation and Sustainability.  
   
 At Tier 1, students attend a workshop to acquire knowledge on servant leadership before engaging in community problem-solving through their Values-in-Action projects.
