@@ -4,6 +4,12 @@ permalink: /ccas/sports-and-games/
 description: ""
 ---
 <style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+</style>
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -89,7 +95,7 @@ Mr Lin Zhaowei
 
 ### Badminton
 
-![](/images/Badminton_4.jpeg)
+![](/images/CCAs/Badminton_4.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -139,7 +145,7 @@ Mr Wong Chin Choong Brian
 
 ### Basketball
 
-![](/images/basketball-scaled.jpeg)
+![](/images/CCAs/basketball-scaled.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -162,12 +168,11 @@ Mr Li Rui
 
 ### Football (Girls)
 
-![](/images/football-girls.jpeg)
+![](/images/CCAs/football-girls.jpeg)
 
 ##### Teachers-in-Charge
 
 Mdm Intan Badariah Bushra (OIC)  
-Ms Lim Jia Wen  
 Ms Siti Farhana Binte Abdullah
 
 ##### Weekly Training Schedule
@@ -192,15 +197,19 @@ Ms Siti Farhana Binte Abdullah
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc" ><span style="font-weight:inherit;font-style:inherit">2022 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship </span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">4th Place</span></td>
+  </tr>
   <tr>
-    <td class="tg-ppvc" rowspan="2"><span style="font-weight:inherit;font-style:inherit">2019 SSSC/FAS ‘C’ Division Girls National Inter – School Football Championship 2018</span></td>
+    <td class="tg-ppvc" rowspan="2"><span style="font-weight:inherit;font-style:inherit">2019 SSSC/FAS ‘C’ Division Girls National Inter – School Football Championship</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">First Runner Up</span></td>
   </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Siti Noraini Binte Suyudi was awarded the "Most Promising Player" Award for the championship</span></td>
   </tr>
   <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship 2018</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Participation</span></td>
   </tr>
   <tr>
@@ -216,13 +225,13 @@ Ms Siti Farhana Binte Abdullah
 
 ### Football (Boys)
 
-![](/images/football-boys.jpeg)
+![](/images/CCAs/football-boys.jpeg)
 
 
 ##### Teachers-in-Charge
-
 Mr Muhammad Kamal Bin Abdul Halim (OIC)  
-Mr Ang Choon Peng
+Mr Mohamad Noorhisham  
+Mr Tan Jia Xuan Kin
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
@@ -249,6 +258,10 @@ Mr Ang Choon Peng
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Place</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 2 Group Stage</span></td>
@@ -271,7 +284,7 @@ Mr Ang Choon Peng
 
 ### Netball
 
-![](/images/Netball-2.jpeg)
+![](/images/CCAs/Netball-2.jpeg)
 
 ##### Teachers-in-Charge
 
@@ -349,14 +362,14 @@ At the end of their secondary education, each player will:
 ### Sepak Takraw
 
 
-![](/images/takraw.jpeg)
+![](/images/CCAs/takraw.jpeg)
 
 
 ##### Teachers-in-Charge
 
 Mr Ahmad Hosaini Bin Noor (OIC)  
+Mdm Nabila Bte Awalluddin
 Ms Nurul Deena Binte Maamon  
-Mr I'dil Saladin Alamin Bin Salleh
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
@@ -382,6 +395,14 @@ Mr I'dil Saladin Alamin Bin Salleh
 </style>
 <table class="tg">
 <tbody>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">4th Place</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
+    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Place</span></td>
+  </tr>
   <tr>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
     <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">National Champions</span></td>

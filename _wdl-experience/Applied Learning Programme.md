@@ -52,8 +52,8 @@ Science Competition/Enrichment activities to stretch students’ potential. This
 
 ![](/images/Draft/alp.jpg)
 
-![](/images/alp2.jpeg)
+![](/images/WDL%20Experience/alp.jpeg)
 
-![](/images/alp.jpeg)
+![](/images/WDL%20Experience/alp2.jpeg)
 
 ![](/images/a20-1.jpeg)

@@ -5,6 +5,7 @@ description: ""
 ---
 
 
+
 ### What is DSA - Sec?
 
 The Direct School Admission - Secondary (DSA-Sec) Exercise allows students to seek admission to Secondary 1 based on their talents and achievements. The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It seeks to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school. The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released.

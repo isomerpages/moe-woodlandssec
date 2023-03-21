@@ -1,6 +1,0 @@
-collections:
-  quick-links:
-    output: true
-    order:
-      - For Staff.md
-      - For Students.md

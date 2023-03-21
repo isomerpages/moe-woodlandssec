@@ -25,35 +25,35 @@ third_nav_title: Explore Your Gifts
 <tbody>
   <tr>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/el/" target = "_self"> 
-          <img src="/images/1-el.jpeg" 
+          <img src="/images/E%20Open%20House/1-el.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/mt/" target = "_self"> 
-          <img src="/images/2-mt.jpeg" 
+          <img src="/images/E%20Open%20House/2-mt.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/math/" target = "_self"> 
-          <img src="/images/3-math.jpeg" 
+          <img src="/images/E%20Open%20House/3-math.jpeg" 
      style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/science/" target = "_self"> 
-          <img src="/images/4-science.jpeg" 
+          <img src="/images/E%20Open%20House/4-science.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/stem/" target = "_self"> 
-          <img src="/images/5-stem.jpeg" 
+          <img src="/images/E%20Open%20House/5-stem.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/sports/" target = "_self"> 
-          <img src="/images/6-sports.jpeg" 
+          <img src="/images/E%20Open%20House/6-sports.jpeg" 
      style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/humanities/" target = "_self"> 
-          <img src="/images/7-humanities.jpeg" 
+          <img src="/images/E%20Open%20House/7-humanities.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/dna/" target = "_self"> 
-          <img src="/images/8-de.jpeg" 
+          <img src="/images/E%20Open%20House/8-de.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nx8p"><a href = "/e-open-house-2022/Explore-Your-Gifts/sl/" target = "_self"> 
-          <img src="/images/9-sl.jpeg" 
+          <img src="/images/E%20Open%20House/9-sl.jpeg" 
      style="width:100%"></a></td>
   </tr>
 </tbody>

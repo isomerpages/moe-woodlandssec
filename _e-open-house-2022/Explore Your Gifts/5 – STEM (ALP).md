@@ -36,8 +36,8 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-yg9r"><img src="/images/alp.jpeg" 
-     style="width:100%"><br><img src="/images/alp2.jpeg" 
+    <td class="tg-yg9r"><img src="/images/WDL%20Experience/alp.jpeg" 
+     style="width:100%"><br><img src="/images/WDL%20Experience//alp2.jpeg" 
      style="width:100%"></td>
     <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Exposure for all</span><br><span style="font-weight:400;font-style:inherit">Our ALP aims to nurture the love for for STEM.</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> At Sec 1, you will get to learn about Food Sciences and Computational Thinking</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> In Sec 2, you will get to specialise in one of these fields further.</span><br><br><span style="font-weight:600;font-style:inherit">CCAs</span><br><span style="font-weight:400;font-style:normal">• </span><a href="/ccas/clubs-and-societies/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:inherit;color:#034289">Infocomm &amp; Media Club</span></a></td>
     <td class="tg-yg9r"><span style="font-weight:600;font-style:inherit">Stretching those with strong interests</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> STEM Competitions</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Coding Programme by Saturday Kids</span><br><span style="font-weight:400;font-style:normal">•</span><span style="font-weight:400;font-style:inherit"> Science Centre enrichment programme</span></td>
@@ -63,8 +63,8 @@ Our Vice-Principal, Mr Chen Bing Hong, recounts how our Woodlanders grew their g
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-fuxe"><img src="/images/yee-pheng.jpeg"><span style="font-weight:700;font-style:normal">Gold Award</span><br><span style="font-weight:400;font-style:normal">Game-Making Competition 2022</span></td>
-    <td class="tg-fuxe"><img src="/images/youth-change-maker.jpeg"><span style="font-weight:700;font-style:normal">Semi-finalist</span><br><span style="font-weight:400;font-style:normal">Young Founders Summit Singapore 2022 - for youth changemakers to create innovative solutions that solve sustainability challenges.</span></td>
+    <td class="tg-fuxe"><img src="/images/E%20Open%20House/yee-pheng.jpeg"><span style="font-weight:700;font-style:normal">Gold Award</span><br><span style="font-weight:400;font-style:normal">Game-Making Competition 2022</span></td>
+    <td class="tg-fuxe"><img src="/images/E%20Open%20House/youth-change-maker.jpeg"><span style="font-weight:700;font-style:normal">Semi-finalist</span><br><span style="font-weight:400;font-style:normal">Young Founders Summit Singapore 2022 - for youth changemakers to create innovative solutions that solve sustainability challenges.</span></td>
     <td class="tg-fuxe"><img src="/images/sci-eopen-21.jpeg" 
      style="width:100%"><span style="font-weight:700;font-style:normal">2nd Runner-up</span><br><a href="https://www.instagram.com/p/CTpSPSjBlro/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289">Rescue Rangers Category</span></a><br><a href="https://www.instagram.com/p/CTpSPSjBlro/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#034289">2021 Nanyang Polytechnic e-Science &amp; Technology Challenge (NYP E-STC)</span></a></td>
   </tr>
