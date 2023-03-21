@@ -25,9 +25,4 @@ sections:
   - resources:
       title: " Announcements"
       button: View All
-  - infobar:
-      title: Contact Us
-      description: Our Contact Information
-      button: View More
-      url: /resources/contact-us/
 ---
