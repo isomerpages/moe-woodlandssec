@@ -10,10 +10,10 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
 <style type="text/css">
-.top-button-container { display: flex; flex-wrap: wrap;}
-.top-button {flex:1; text-align: center; font-size:  1.2em; color: #fff !important; background-color: #034289; gap: 4px 8px; flex-basis: 200px; max-width: 408px; border-radius: 12px; padding: 8px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4);}
+.top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
+.top-button {flex:1; text-align: center; font-size:  1.2em; color: #fff !important; background-color: #034289; flex-basis: 240px; border-radius: 20px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
 	
-.top-button:hover {opacity: .6;}
+.top-button:hover {opacity: .6 !important;}
 	
 </style>
 
