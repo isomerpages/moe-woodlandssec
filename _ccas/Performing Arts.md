@@ -17,6 +17,9 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 <div class="top-button-container">
 	<a class="top-button" href="#1">Choir</a>
 	<a class="top-button" href="#2">Concert Band</a>
+	<a class="top-button" href="#3">Concert Band</a>
+	<a class="top-button" href="#4">Concert Band</a>
+	<a class="top-button" href="#5">Concert Band</a>
 </div>
 	 
 <style type="text/css">
