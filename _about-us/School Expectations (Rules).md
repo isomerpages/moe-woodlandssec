@@ -130,6 +130,7 @@ Students will be dealt with by the Student Management Committee in line with the
 #### Minor offences
 
 > Offences
+
 * Latecoming
 * Improper attire and appearance
 * Infringement in the use of mobile devices
@@ -141,6 +142,7 @@ Students will be dealt with by the Student Management Committee in line with the
 * Any other minor offences
 
 > Consequences
+
 * Counselling
 * Verbal/ Written
 * Warning
@@ -151,6 +153,7 @@ Students will be dealt with by the Student Management Committee in line with the
 
 #### Serious offences
 > Offences
+
 * Three minor offences will be treated as one serious offence
 * Truancy
 * Leaving school grounds without permission
@@ -174,6 +177,7 @@ Students will be dealt with by the Student Management Committee in line with the
 
 
 > Consequences
+
 * Counselling
 * Compensation
 * Parental Involvement
