@@ -31,7 +31,7 @@ Mr |	Tay Hong Joo Steven |	Vice-Principal
 Mr |	Abdul Latiff Bin Omar |	HOD / Craft &Technology
 Mdm |	Goh Hui Shi |	HOD / Mathematics
 Mdm |	Lee Silk Yen April |	HOD / Character & Citizenship Education (CCE)
-Mr |	Mohamed Razif Bin Abdul Hamed |	HOD / Physical Education & Co-Curricular Activities (PE & CCA)
+Mr |	Mohamed Razif Bin Abdul Hamed |	HOD / Physical Education <br />& Co-Curricular Activities <br />(PE & CCA)
 Mr |	Tay Yong Chiang |	HOD / Student Management
 Mdm |	Teo Jia Yin Sarah	 |HOD / English Language
 Mr |	Phua Poh Boon |	HOD / Mother Tongue Language
@@ -66,64 +66,66 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br />FT for 4Appreciation2
 | Mdm |	Chin Kah Ying |	1Growth |
 | Mr |	Li Rui |	1Respect |
 | Miss |	Uma Sankgery d/o Pandyani |	1Respect |
-| Mr |	Tan Eng Hui | 1Resilience |
 | Mdm |	Eliza Binte Mohamed |	1Resilience |
+| Mr |	Tan Eng Hui | 1Resilience |
 | Mdm |	Farhana Binte Zulkifli | 1Empathy |
 | Mdm |	Zou Yan | 1Empathy<br />ST / Chinese Language |
 | Mdm |	Nabila Bte Awalluddin	| 1Appreciation |
 | Mrs |	Sam Shin Peng	| 1Appreciation |
+| Mr |	Chia Soon Hann Justin Ian |	1Trustworthiness |
 | Mdm |	Khoo Ying Ling Elaine | 1Trustworthiness<br />ST / Chemistry |
 | Mr |	Lee Jia Xin |	1Trustworthiness |
-| Mr |	Chia Soon Hann Justin Ian |	1Trustworthiness |
-| Miss |	V K Tamilselvi	|	2Growth |
 | Ms	|	Ong Xin Yan, Alyssa	|	2Growth |
+| Miss |	V K Tamilselvi	|	2Growth |
+| Mdm |	Fazliah Bte Abdul Latiff	|	2Respect1 |
 | Miss |	Tay Li Ching	|	2Respect1 |
-| Miss |	Fazilah	|	2Respect1 |
+| Mr |	Lin Zhaowei	|	2Respect2 |
 | Mr |	M Gnanasekaran | 2Respect2<br />ST / Tamil Language |
 | Mdm |	Rozilawati Bte Kasran	|	2Respect2 |
-| Mr |	Lin Zhaowei	|	2Respect2 |
-| Mr |	Tuong Ze Wei Wilson	| 2Resilience<br />SH / Mathematics |
 | Miss |	Lee Li Hwa Brenda	| 2Resilience |
-| Miss |	Ng Ling Nee Faith	|	2Empathy |
-| Miss |	Low May Ann Shawna	|	2Empathy |
+| Mr |	Tuong Ze Wei Wilson	| 2Resilience<br />SH / Mathematics |
 | Mr |	Donovan Liew Yi Heng	|	2Empathy |
+| Miss |	Low May Ann Shawna	|	2Empathy |
+| Miss |	Ng Ling Nee Faith	|	2Empathy |
 | Mdm |	Low Eng Ngee	|	2Appreciation |
 | Mr |	Tan Jia Xuan Kin	|	2Appreciation |
-| Mdm |	Norashikin Binti Atan	|	2Trustworthiness |
 | Mr |	Muhammad Tirmidzi Bin Khalid	|	2Trustworthiness |
+| Mdm |	Norashikin Binti Atan	|	2Trustworthiness |
 | Mr |	Chun Guan Yang	|	3Growth |
 | Mr |	Oh Chin Chye Richard	|	3Growth |
-| Miss |	Tan Mingli Yvonne | 3Respect<br />SH / Biology |
 | Mdm |	Khairunnisa Binte Zulkifli |	3Respect |
-| Mdm |	Yeo Su Yan |	3Resilience |
+| Miss |	Tan Mingli Yvonne | 3Respect<br />SH / Biology |
 | Mr |	Tay Chor Kwang |	3Resilience |
-| Mr |	Mohamad Noorhisham Bin Mohd Noor |	3Empathy |
+| Mdm |	Yeo Su Yan |	3Resilience |
 | Mdm |	Ma Jiajing |	3Empathy |
+| Mr |	Mohamad Noorhisham Bin Mohd Noor |	3Empathy |
 | Mr |	Mohamed Fazil B Aris | 3Appreciation<br />ST / Malay Language |
 | Mdm |	Nurul Amalina Binte Jamaludin | 3Appreciation<br />SH / English Language |
 | Mr |	Ahmad Hosaini B Noor | 3Trustworthiness |
 | Mr |	Wong Chin Choong Brian | 3Trustworthiness |
-| Mdm |	Intan Badariah Bushra |	4Growth |
 | Miss |	Kee Jing Yee | 4Growth |
-| Mdm |	Siti Farhana Binte Abdullah |	4Respect |
+| Mdm |	Intan Badariah Bushra |	4Growth |
 | Miss |	Low Qiao Xuan |	4Respect |
+| Mdm |	Siti Farhana Binte Abdullah |	4Respect |
 | Mdm |	Fu Jian Ning Janny |	4Resilience |
 | Mr |	Muhammad Kamal Bin Abdul Halim |	4Resilience |
-| Mr |	I'dil Saladin Alamin B Salleh | 4Empathy |
 | Miss |	Grace Sum Lai Yee |	4Empathy |
+| Mr |	I'dil Saladin Alamin B Salleh | 4Empathy |
 | Mdm |	Nadzirah Bte Andi Mohamed Nasron | 4Appreciation1<br />SH / Character Education |
 | Mr |	Teoi Boey Jia |	4Appreciation1 |
-| Mr |	Paik Shi Yang Robin | 4Appreciation2<br />ST / Mathematics |
 | Miss |	Lim Zhi Xuan |	4Appreciation2 |
-| Miss |	Saranya d/o K Thayalan |	4Trustworthiness |
+| Mr |	Paik Shi Yang Robin | 4Appreciation2<br />ST / Mathematics |
 | Mr |	Lim Kian Beng |	4Trustworthiness |
+| Miss |	Saranya d/o K Thayalan |	4Trustworthiness |
 | Miss |	Divyalakshmi d/o Muthu Saminathan |	5Growth |
 | Mr |	Luo Yanjie | 5Growth<br />SH / Geography |
 | Mdm |	Foo Elaine |	- |
 | Miss |	Govindasamy Raja Lakshmi | - |
-| Mr |	Thirumaran S/O Thangaraju |	- |
 | Mdm |	Liyana Binte Kamsani |	- |
 | Mdm |	Nurul Deena Binte Maamon |	- |
+| Mr |	Thirumaran S/O Thangaraju |	- |
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
