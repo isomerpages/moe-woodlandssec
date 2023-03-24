@@ -11,7 +11,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 </style>
 <style type="text/css">
 .top-button-container { display: flex; flex-wrap: wrap;}
-.top-button {flex:1; text-align: center; font-size:  1.2em; color: #fff !important; background-color: #034289; gap: 8px; flex-basis: 160px; border-radius: 20px; padding: 16px; font-weight: 900; text-decoration: none !important; box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);}
+.top-button {flex:1; text-align: center; font-size:  1.2em; color: #fff !important; background-color: #034289; gap: 8px 4px; flex-basis: 200px; border-radius: 20px; padding: 8px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4);}
 	
 a:hover .top-button {opacity: .6;}
 	
