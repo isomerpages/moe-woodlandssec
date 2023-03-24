@@ -176,51 +176,11 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br />FT for 4Appreciation2
 
 ### Other Support Staff
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-z1pf{background-color:#EFEFEF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-z1pf" colspan="2"><span style="font-weight:inherit;font-style:inherit">Name</span></td>
-    <td class="tg-z1pf"><span style="font-weight:inherit;font-style:inherit">Position</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Subramaniyam Jekanathan</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ECG Counsellor</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Phil Wong</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Youth Worker</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Charlene Tan Qiu Ling</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">School Health Assistant</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Zaira Bee D/O K M A Zackiriaye</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Librarian</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nicholas Anak Yanga</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Desktop Engineer</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Prithividharsanan</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Desktop Engineer</span></td>
-  </tr>
-</tbody>
-</table>
+| Name | | Position |
+| --- | --- | ---|
+| Mr	| Subramaniyam Jekanathan	| ECG Counsellor | 
+| Mr	| Phil Wong |	Youth Worker| 
+| Ms	| Charlene Tan Qiu Ling |	School Health Assistant| 
+| Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian| 
+| Mr	| Nicholas Anak Yanga |	Desktop Engineer| 
+| Mr	| Prithividharsanan |	Desktop Engineer| 
