@@ -10,16 +10,16 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
 <style type="text/css">
-.top-button-container { display: flex;}
-.top-button {flex:1; text-align: center; font-size:  1.2em; color: #fff !important; background-color: #034289; margin: 16px; flex-basis: 100px; border-radius: 20px; padding: 16px; font-weight: 900; text-decoration: none !important; box-shadow: 1px 4px 10px rgba(0, 0, 0, .5);}
+.top-button-container { display: flex; flex-wrap: wrap;}
+.top-button {flex:1; text-align: center; font-size:  1.2em; color: #fff !important; background-color: #034289; margin: 8px; flex-basis: 160px; border-radius: 20px; padding: 16px; font-weight: 900; text-decoration: none !important; box-shadow: 1px 4px 10px rgba(0, 0, 0, .5);}
 </style>
 
 <div class="top-button-container">
 	<a class="top-button" href="#1">Choir</a>
 	<a class="top-button" href="#2">Concert Band</a>
-	<a class="top-button" href="#3">Concert Band</a>
-	<a class="top-button" href="#4">Concert Band</a>
-	<a class="top-button" href="#5">Concert Band</a>
+	<a class="top-button" href="#3">Chinese Dance</a>
+	<a class="top-button" href="#4">ELDDS</a>
+	<a class="top-button" href="#5">Malay Dance</a>
 </div>
 	 
 <style type="text/css">
