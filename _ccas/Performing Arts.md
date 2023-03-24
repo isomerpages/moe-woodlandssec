@@ -172,6 +172,14 @@ Ms Ong Xin Yan, Alyssa
 * Tuesdays, 1445H - 1730H/1800H
 * Thursdays, 1600H - 1800H
 
+##### Social Media
+<a class="sm-container" href="https://www.instagram.com/wdl_eldds/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdl_eldds</span>
+</a>
+
+
+
 ##### Key Info & Programmes
 
 **Debates:**
@@ -213,30 +221,12 @@ Mdm Liyana Binte Kamsani
 
 ##### Social Media
 
+<a class="sm-container" href="https://www.instagram.com/alunan_sutera/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@alunan_sutera</span>
+</a>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-cqfb{font-size:18px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 255px">
-<colgroup>
-<col style="width: 55px">
-<col style="width: 200px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/alunan_sutera/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-    <td class="tg-cqfb"><a href="https://www.instagram.com/alunan_sutera/">@alunan_sutera</a></td>
-  </tr>
-</tbody>
-</table>
+
 
 ##### Key Info & Programmes
 
@@ -253,4 +243,4 @@ Mdm Liyana Binte Kamsani
 | 2021 Singapore Youth Festival Arts Presentation | Certificate of Distinction | 
 | 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
 | 2018 Istana National Day Open House | Performers | 
-| 2017 Singapore Youth Festival Arts Presentation | Certificate of Distinction | 
+| 2017 Singapore Youth Festival Arts Presentation | Certificate of Distinction |
