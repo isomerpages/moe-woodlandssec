@@ -23,7 +23,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 	
 .sm-container { display: inline-flex; align-items: center; align-content: flex-start; gap: 8px; border: 1px solid #4372d6; padding: 8px; border-radius: 8px; background-color: #fafafa;}
 .sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; }
-.sm-text {text-align: left;
+.sm-text {text-align: left; text-decoration: none;}
 	
 	.sm-container:hover {opacity: .4; transition: .3s;}
 </style>
