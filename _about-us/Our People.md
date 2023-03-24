@@ -23,181 +23,40 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 
 ### School Management Committee
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-z1pf{background-color:#EFEFEF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-z1pf" colspan="2"><span style="font-weight:inherit;font-style:inherit">Name</span></td>
-    <td class="tg-z1pf"><span style="font-weight:inherit;font-style:inherit">Position</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mrs</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tay Yang Fern</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Principal</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Masayu Mahmud</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Vice-Principal</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tay Hong Joo Steven</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Vice-Principal</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Abdul Latiff Bin Omar</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / Craft &amp;Technology</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Goh Hui Shi</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / Mathematics</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lee Silk Yen April</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / Character &amp; Citizenship Education (CCE)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mohamed Razif Bin Abdul Hamed</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / Physical Education &amp; Co-Curricular Activities (PE &amp; CCA)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tay Yong Chiang</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / Student Management</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Teo Jia Yin Sarah</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / English Language</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Phua Poh Boon</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / Mother Tongue Language</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mrs</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Lechimi Devi Ramesh</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> HOD / Humanities</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Wan Weng Kin Cornelius</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD / Infocomm Technology (ICT)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ong Wun Wee Ivan</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">School Staff Developer</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Teo Chee Chong</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD Normal (Technical)</span><br><span style="font-weight:inherit;font-style:inherit"></span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Savarimuthu Xavier s/o Tamil A</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Year Head (Lower Sec) / Sec 1 IC</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nur Shahzreen Binte Mohd Taufik</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Year Head (Upper Sec) / Sec 4&5 IC</span></td>
-   </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nadzirah Bte Andi Mohamed Nasron</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Character Education</span><br><span style="font-weight:inherit;font-style:inherit">FT for 4Appreciation1</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nurul Amalina Binte Jamaludin</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / English Language</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3Appreciation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Nurdiyana Bte Abdul Rahim</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Student Management</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Khoo Ying Ling Elaine</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Chemistry</span><br><span style="font-weight:inherit;font-style:inherit">FT for 1Trustworthiness</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tan Mingli Yvonne</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Biology</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3Respect</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Tuong Ze Wei Wilson</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Mathematics</span><br><span style="font-weight:inherit;font-style:inherit">FT for 2Resilience</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Jamakyah Binte Adhar</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AYH (Sec 2)</span></td>
-  </tr>
-  <tr>
+| Name | | Position | 
+| -------- | -------- |  -------- |
+| Mrs | Tay Yang Fern | Principal |
+Mdm |	Masayu Mahmud	| Vice-Principal
+Mr |	Tay Hong Joo Steven |	Vice-Principal
+Mr |	Abdul Latiff Bin Omar |	HOD / Craft &Technology
+Mdm |	Goh Hui Shi |	HOD / Mathematics
+Mdm |	Lee Silk Yen April |	HOD / Character & Citizenship Education (CCE)
+Mr |	Mohamed Razif Bin Abdul Hamed |	HOD / Physical Education & Co-Curricular Activities (PE & CCA)
+Mr |	Tay Yong Chiang |	HOD / Student Management
+Mdm |	Teo Jia Yin Sarah	 |HOD / English Language
+Mr |	Phua Poh Boon |	HOD / Mother Tongue Language
+Mrs |	Lechimi Devi Ramesh |	HOD / Humanities
+Mr |	Wan Weng Kin Cornelius |	HOD / Infocomm Technology (ICT)
+Mr |	Ong Wun Wee Ivan |	School Staff Developer
+Mr |	Teo Chee Chong |	HOD Normal (Technical)
+Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 1 IC
+Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec) / Sec 4&5 IC
+Miss |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education <br />FT for 4Appreciation1
+Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br />FT for 3Appreciation
+Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
+Miss | Tan Mingli Yvonne |	SH / Biology <br />FT for 3Respect
+Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br />FT for 2Resilience
+Mdm |	Jamakyah Binte Adhar | AYH (Sec 2)
+Mdm |	Aw Siao Hwee |	AYH (Sec 3)
+Mr |	Luo Yanjie |	SH / Geography<br />FT for 5Growth
+Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br />FT for 1Trustworthiness
+Miss | Seah Wei Ee |	ST / English Language
+Mr |	M Gnanasekaran |	ST / Tamil Language<br />FT for 2Respect1
+Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br />FT for 3Appreciation
+Mdm |	Zou Yan |	ST / Chinese<br />FT for 1Empathy
+Mr | Paik Shi Yang Robin |	ST / Mathematics<br />FT for 4Appreciation2
 
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Aw Siao Hwee</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">AYH (Sec 3)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Luo Yanjie</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH / Geography</span><br><span style="font-weight:inherit;font-style:inherit">FT for 5Growth</span></td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Seah Wei Ee</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / English Language</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">M Gnanasekaran</span></td>
-     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Tamil Language</span><br><span style="font-weight:inherit;font-style:inherit">FT for 2Respect1</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mohamed Fazil B Aris</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Malay Language</span><br><span style="font-weight:inherit;font-style:inherit">FT for 3Appreciation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Zou Yan</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Chinese</span><br><span style="font-weight:inherit;font-style:inherit">FT for 1Empathy</span></td>
-  </tr>
-</td>
-  </tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Paik Shi Yang Robin</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST / Mathematics</span><br><span style="font-weight:inherit;font-style:inherit">FT for 4Appreciation2</span></td>
-  </tr>
-</td>
-  </tr>
-</tbody>
-</table>
+
 
 ### Teaching Staff
 
