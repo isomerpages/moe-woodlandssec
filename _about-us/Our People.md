@@ -11,39 +11,15 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 </style>
 ### School Advisory Committee
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-lcoe{background-color:#EFEFEF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-lcoe"><span style="font-weight:bold;font-style:inherit">Position</span></td>
-    <td class="tg-lcoe"><span style="font-weight:bold;font-style:inherit">Name</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chairman</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Malik Bin Maksudi</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Vice-Chairman</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Selvarajan Balamurugan</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Secretary</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mrs Tay Yang Fern</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Members</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Kevin Oh Beng Lein</span><br><span style="font-weight:inherit;font-style:inherit">Mr Md Zin Bin Handair</span><br><span style="font-weight:inherit;font-style:inherit">Mr Ng Meng Liang</span><br><span style="font-weight:inherit;font-style:inherit">Mr Nicholas Michael</span><br><span style="font-weight:inherit;font-style:inherit">Mr Ong Wong Hoon</span><br><span style="font-weight:inherit;font-style:inherit">Dr Radiah Binti Salim</span></td>
-  </tr>
-</tbody>
-</table>
+
+| Position | Name | 
+| -------- | -------- | 
+| Chairman  | Mr Malik Bin Maksudi |
+| Vice-Chairman  | Mr Selvarajan Balamurugan  |
+| Secretary  | Mrs Tay Yang Fern |
+| Members  | Mr Kevin Oh Beng Lein  <br />Mr Md Zin Bin Handair   <br />Mr Ng Meng Liang   <br />Mr Nicholas Michael   <br />Mr Ong Wong Hoon   <br />Dr Radiah Binti Salim    |
+
+
 
 ### School Management Committee
 
