@@ -12,6 +12,9 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 <style type="text/css">
 .top-button-container { display: flex; flex-wrap: wrap;}
 .top-button {flex:1; text-align: center; font-size:  1.2em; color: #fff !important; background-color: #034289; margin: 8px; flex-basis: 160px; border-radius: 20px; padding: 16px; font-weight: 900; text-decoration: none !important; box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);}
+	
+a:hover .top-button {opacity: .6;}
+	
 </style>
 
 <div class="top-button-container">
