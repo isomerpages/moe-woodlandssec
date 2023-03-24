@@ -90,30 +90,11 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 * Tuesdays, 1445H - 1730H/1800H
 * Thursdays, 1500H - 1800H
 ##### Social Media
+<a class="sm-container" href="https://www.instagram.com/wdlsymphonicband/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdlsymphonicband</span>
+</a>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-cqfb{font-size:18px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 255px">
-<colgroup>
-<col style="width: 55px">
-<col style="width: 200px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdlsymphonicband/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-    <td class="tg-cqfb"><a href="https://www.instagram.com/wdlsymphonicband/">@wdlsymphonicband</a></td>
-  </tr>
-</tbody>
-</table>
 
 ##### Key Info & Programmes
 
@@ -125,30 +106,12 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-</tbody>
-</table>
+
+|  | |
+| - | - | 
+| 2021 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+| 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+| 2017 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
 
 -------
 <a id="3"></a>
