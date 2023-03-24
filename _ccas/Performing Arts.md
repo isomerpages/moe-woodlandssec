@@ -10,6 +10,8 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
 <style type="text/css">
+	.this-bunch-css-code-is-to-style-the-buttons-under-the-header-that-links-to-the-individual-cca-below {}
+		
 .top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
 .top-button {flex:1; text-align: center; font-size:  1.2em; color: #4372d6 !important; border: 1px solid #4372d6; background-color: #f9f9f9; flex-basis: 240px; border-radius: 8px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
 	
@@ -17,9 +19,11 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 </style>
 
 <style type="text/css">
-.sm-container { display: inline-flex; align-items: center; align-content: flex-start; border: 1px solid #000; gap: 8px;}
-.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; border: 1px solid #ff0000;}
-.sm-text {text-align: left;border: 1px solid #ff0000;}
+		.this-bunch-css-code-is-to-style-the-social-media-links {}
+	
+.sm-container { display: inline-flex; align-items: center; align-content: flex-start; gap: 8px;}
+.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; }
+.sm-text {text-align: left;
 </style>
 
 
