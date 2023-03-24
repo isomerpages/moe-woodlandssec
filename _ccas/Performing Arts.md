@@ -44,14 +44,14 @@ Mdm Fu Jian Ning Janny
 
 ##### Social Media
 <style type="text/css">
-.sm-container { display: flex; justify-content: flex-start; gap: 4px; border: 1px solid #000;}
-.sm-icon {flex-basis: 36px; max-width: 36px; border: 1px solid #000;}
+.sm-container { display: flex; justify-content: flex-start; align-items: center;}
+.sm-icon {flex-basis: 36px; max-width: 36px; margin-bottom: 0 !important;}
 .sm-text {text-align: left;}
 </style>
-<div class="sm-container">
+<a class="sm-container" href="https://www.instagram.com/wdl_choir/">
 	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<a class="sm-text" href="https://www.instagram.com/wdl_choir/">@wdl_choir</a>
-</div>
+	<span class="sm-text" >@wdl_choir</span>
+</a>
 	
 ##### Key Info & Programmes
 
