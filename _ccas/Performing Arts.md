@@ -13,8 +13,13 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 .top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
 .top-button {flex:1; text-align: center; font-size:  1.2em; color: #4372d6 !important; border: 1px solid #4372d6; background-color: #f9f9f9; flex-basis: 240px; border-radius: 8px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
 	
-.top-button:hover {opacity: .6 !important; transition: .3s;}
-	
+.top-button:hover {opacity: .5 !important; transition: .3s;}
+</style>
+
+<style type="text/css">
+.sm-container { display: inline-flex; align-items: center; align-content: flex-start; border: 1px solid #000; gap: 8px;}
+.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; border: 1px solid #ff0000;}
+.sm-text {text-align: left;border: 1px solid #ff0000;}
 </style>
 
 
@@ -43,11 +48,7 @@ Mdm Fu Jian Ning Janny
 * Thursdays, 1600H - 1800H
 
 ##### Social Media
-<style type="text/css">
-.sm-container { display: inline-flex; align-items: center; align-content: flex-start; border: 1px solid #000; gap: 8px;}
-.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; border: 1px solid #ff0000;}
-.sm-text {text-align: left;border: 1px solid #ff0000;}
-</style>
+
 <a class="sm-container" href="https://www.instagram.com/wdl_choir/">
 	<img class="sm-icon" src="/images/instagram.jpeg" />
 	<span class="sm-text" >@wdl_choir</span>
