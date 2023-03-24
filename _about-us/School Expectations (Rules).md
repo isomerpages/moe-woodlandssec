@@ -190,11 +190,6 @@ Students will be dealt with by the Student Management Committee in line with the
 
 
 
-  </tr>
-</tbody>
-</table>
-
-
 ## Guidelines on the use of mobile devices
 
 Students are allowed to bring their mobile devices/tablets to school. The following restrictions dictate when and where these devices may be use in order to ensure that students remain focused during lessons:
