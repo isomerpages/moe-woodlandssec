@@ -6,15 +6,15 @@ colors:
   secondary-color: "#0054b4"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#0054b4"
     - title: media-color-two
-      color: "#11439c"
+      color: "#3682da"
     - title: media-color-three
-      color: "#11439c"
+      color: "#53a4ff"
     - title: media-color-four
-      color: "#11439c"
+      color: "#3f5d80"
     - title: media-color-five
-      color: "#11439c"
+      color: "#154780"
 description: Every Woodlander a gift to society
 permalink: none
 baseurl: ""
