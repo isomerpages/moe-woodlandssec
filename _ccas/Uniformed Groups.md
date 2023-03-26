@@ -9,14 +9,6 @@ description: ""
 body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
-</style>
 
 <style type="text/css">
 	.this-bunch-css-code-is-to-style-the-buttons-under-the-header-that-links-to-the-individual-cca-below {}
@@ -305,5 +297,4 @@ Tuesdays, 1445H - 1730H/1830H
 | 2022 Overall Unit Proficiency Award | Gold Award | 
 | 2011 - 2019 Overall Unit Proficiency Award | Gold Award <br />(for 9 consecutive years)| 
 | 2020 SPF-NPCC Badge | 1 Recipient <br /> (9 in total for the past 7 years) | 
-| 2019 Inter-Unit Drill Competition | Top 50 | 
-
+| 2019 Inter-Unit Drill Competition | Top 50 |
