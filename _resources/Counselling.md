@@ -22,6 +22,6 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 
 We have school counsellors who are able to provide a listening ear to your problems and issues. Parents who wish to refer their child for counselling or students who wish to reach out to a counsellor may book an appointment.
 
-<a class="buttom" href="https://form.gov.sg/602f6a99cdb3880011704567">Book an appointment with a counsellor</a>
+<a class="button" href="https://form.gov.sg/602f6a99cdb3880011704567">Book an appointment with a counsellor</a>
 
 For Education & Career Guidance (ECG) related matters, please visit [the ECG page](/resources/ecg/).
