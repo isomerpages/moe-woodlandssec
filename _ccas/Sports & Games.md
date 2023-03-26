@@ -9,41 +9,35 @@ description: ""
 body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
+
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
+	.this-bunch-css-code-is-to-style-the-buttons-under-the-header-that-links-to-the-individual-cca-below {}
+		
+.top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
+.top-button {flex:1; text-align: center; font-size:  1.2em; color: #4372d6 !important; border: 1px solid #4372d6; background-color: #f9f9f9; flex-basis: 240px; border-radius: 8px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
+	
+.top-button:hover {opacity: .5 !important; transition: .3s;}
 </style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
-<colgroup>
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-</colgroup>
-<tbody>
-  <tr>
-		<td class="tg-fj82"><a href="#1"><span style="color:#FFF;background-color:#034289">Athletics</span></a></td>
-    <td class="tg-fj82"><a href="#2"><span style="color:#FFF;background-color:#034289">Badminton</span></a></td>
-    <td class="tg-fj82"><a href="#3"><span style="color:#FFF;background-color:#034289">Basketball</span></a></td>
-    <td class="tg-fj82"><a href="#4"><span style="color:#FFF;background-color:#034289">Football (Girls)</span></a></td>
-    <td class="tg-fj82"><a href="#5"><span style="color:#FFF;background-color:#034289">Football (Boys)</span></a></td>
-  </tr>
-	<tr>
-		<td class="tg-fj82"><a href="#6"><span style="color:#FFF;background-color:#034289">Netball</span></a></td>
-    <td class="tg-fj82"><a href="#7"><span style="color:#FFF;background-color:#034289">Sepak Takraw</span></a></td>
-    <td class="tg-fj82"></td>
-    <td class="tg-fj82"></td>
-    <td class="tg-fj82"></td>
-  </tr>
-</tbody>
-</table>
 
+<style type="text/css">
+		.this-bunch-css-code-is-to-style-the-social-media-links {}
+	
+.sm-container { display: inline-flex; align-items: center; align-content: flex-start; gap: 8px; border: 1px solid #4372d6; padding: 8px; border-radius: 8px; background-color: #fafafa;}
+.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; }
+.sm-text {text-align: left; text-decoration: none;}
+	
+	.sm-container:hover {opacity: .4; transition: .3s;}
+</style>
 
+<div class="top-button-container">
+	<a class="top-button" href="#1">Athletics</a>
+	<a class="top-button" href="#2">Badminton</a>
+	<a class="top-button" href="#3">Basketball</a>
+	<a class="top-button" href="#4">Football (Girls</a>
+	<a class="top-button" href="#5">Football (Boys)</a>
+	<a class="top-button" href="#6">Netball</a>
+	<a class="top-button" href="#7">Sepak Takraw</a>
+</div>
 
 <a id="1"></a>
 
@@ -187,6 +181,8 @@ Ms Siti Farhana Binte Abdullah
 
 ##### Recent Achievements
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -297,31 +293,10 @@ Miss Low Qiao Xuan
 
 ##### Social Media
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 211px">
-<colgroup>
-<col style="width: 54px">
-<col style="width: 157px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/explore/tags/wdlnetball/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-    <td class="tg-cly1"><a href="https://www.instagram.com/explore/tags/wdlnetball/">@wdl_netball</a></td>
-  </tr>
-</tbody>
-</table>
-
+<a class="sm-container" href="https://www.instagram.com/wdl_netball/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdl_netball</span>
+</a>
 
 ##### Key Info & Programmes
 
