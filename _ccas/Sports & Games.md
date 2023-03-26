@@ -65,23 +65,9 @@ Mr Lin Zhaowei
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 National School Games Championships</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Semi-finalists</span></td>
-  </tr>
-</tbody>
-</table>
-
+|   |   |
+|  --- |---   | 
+| 2019 National School Games Championships 'C' Division Boys | Semi-finalists | 
 
 --------
 <a id="2"></a>
@@ -112,26 +98,10 @@ Mr Wong Chin Choong Brian
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Sportsmanship</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">- 5th Place</span><br><span style="font-weight:inherit;font-style:inherit">- Certificate of Sportsmanship</span></td>
-  </tr>
-</tbody>
-</table>
+|   |   |
+|  --- |---   | 
+| 2019 North Zone Championship  'B' Division Boys | Certificate of Sportsmanship | 
+| 2018 North Zone Championship  'B' Division Boys | 5th place, <br />Certificate of Sportsmanship | 
 
 
 --------
@@ -181,39 +151,12 @@ Ms Siti Farhana Binte Abdullah
 
 ##### Recent Achievements
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc" ><span style="font-weight:inherit;font-style:inherit">2022 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship </span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">4th Place</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc" rowspan="2"><span style="font-weight:inherit;font-style:inherit">2019 SSSC/FAS ‘C’ Division Girls National Inter – School Football Championship</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">First Runner Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Siti Noraini Binte Suyudi was awarded the "Most Promising Player" Award for the championship</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SOF Peter Lim Scholarship</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Nur Amirah Bte Mohamed Rosman was awarded the scholarship</span></td>
-  </tr>
-</tbody>
-</table>
+|   |   |
+|  --- |---   | 
+| 2022 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship | 4th Place | 
+| 2019 SSSC/FAS ‘C’ Division Girls National Inter – School Football Championship | 2nd Place <br /> Siti Noraini Binte Suyudi was awarded the "Most Promising Player" Award for the championship | 
+| 2018 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship | Participation | 
+| 2018 SOF Peter Lim Scholarship | Awarded to Nur Amirah Bte Mohamed Rosman | 
 
 --------
 <a id="5"></a>
@@ -244,35 +187,13 @@ Mr Tan Jia Xuan Kin
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Place</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 2 Group Stage</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 2 Group Stage</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 1 Group Stage</span></td>
-  </tr>
-</tbody>
-</table>
-
+|   |   |
+|  --- |---   | 
+| 2022 National School Games 'C' Division Boys | 3rd Place | 
+| 2022 National School Games 'B' Division Boys | Fair Play Award | 
+| 2020 National School Games 'B' Division Boys | League 2 Group Stage | 
+| 2019 National School Games 'B' Division Boys | League 2 Group Stage | 
+| 2019 National School Games 'C' Division Boys | League 1 Group Stage | 
 
 --------
 <a id="6"></a>
@@ -309,26 +230,12 @@ At the end of their secondary education, each player will:
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Girls</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd in Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Girls</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd in Group</span></td>
-  </tr>
-</tbody>
-</table>
+|   |   |
+|  --- |---   | 
+| 2020 North Zone Championship  'B' Division Girls | 3rd in Group | 
+| 2019 North Zone Championship  'B' Division Girls | 3rd in Group | 
+
+
 
 --------
 <a id="7"></a>
@@ -360,47 +267,15 @@ Ms Nurul Deena Binte Maamon
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">4th Place</span></td>
-  </tr>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Place</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">National Champions</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">National Champions</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Runner Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">1st Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">1st Runner Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Champions</span></td>
-  </tr>
-</tbody>
-</table>
+|   |   |
+|  --- |---   | 
+| 2023 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 2nd Place | 
+| 2022 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 4th Place | 
+| 2022 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | 3rd Place | 
+| 2019 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | National Champions | 
+| 2019 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | National Champions | 
+| 2018 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 4th Place | 
+| 2018 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | 1st Round | 
+| 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 2nd Place | 
+| 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | National Champions | 
+
