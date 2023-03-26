@@ -17,25 +17,35 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
-<colgroup>
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-</colgroup>
-<tbody>
-  <tr>
-		<td class="tg-fj82"><a href="#1"><span style="color:#FFF;background-color:#034289">Boys' Brigade</span></a></td>
-    <td class="tg-fj82"><a href="#2"><span style="color:#FFF;background-color:#034289">Girl Guides</span></a></td>
-    <td class="tg-fj82"><a href="#3"><span style="color:#FFF;background-color:#034289">NCC</span></a></td>
-    <td class="tg-fj82"><a href="#4"><span style="color:#FFF;background-color:#034289">NCDCC</span></a></td>
-    <td class="tg-fj82"><a href="#5"><span style="color:#FFF;background-color:#034289">NPCC</span></a></td>
-  </tr>
-</tbody>
-</table>
 
+<style type="text/css">
+	.this-bunch-css-code-is-to-style-the-buttons-under-the-header-that-links-to-the-individual-cca-below {}
+		
+.top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
+.top-button {flex:1; text-align: center; font-size:  1.2em; color: #4372d6 !important; border: 1px solid #4372d6; background-color: #f9f9f9; flex-basis: 240px; border-radius: 8px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
+	
+.top-button:hover {opacity: .5 !important; transition: .3s;}
+</style>
+
+<style type="text/css">
+		.this-bunch-css-code-is-to-style-the-social-media-links {}
+	
+.sm-container { display: inline-flex; align-items: center; align-content: flex-start; gap: 8px; border: 1px solid #4372d6; padding: 8px; border-radius: 8px; background-color: #fafafa;}
+.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; }
+.sm-text {text-align: left; text-decoration: none;}
+	
+	.sm-container:hover {opacity: .4; transition: .3s;}
+</style>
+
+<div class="top-button-container">
+	<a class="top-button" href="#1">Boy's Brigade</a>
+	<a class="top-button" href="#2">Girl Guides</a>
+	<a class="top-button" href="#3">NCC</a>
+	<a class="top-button" href="#4">NCDCC</a>
+	<a class="top-button" href="#5">NPCC</a>
+</div>
+
+----
 
 <a id="1"></a>
 
@@ -69,30 +79,13 @@ HQ activities and trainings on some Saturdays for selected Boys.
 
 ##### Social Media
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 188px">
-<colgroup>
-<col style="width: 53px">
-<col style="width: 135px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-x5q1"><a href = "https://www.instagram.com/bb_sixty6/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-		<td class="tg-x5q1"><a href="https://www.instagram.com/wdl_ncdcc/">@bb_sixty6
+
+<a class="sm-container" href="https://www.instagram.com/bb_sixty6/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@bb_sixty6</span>
 </a>
-	</td>
-  </tr>
-</tbody>
-</table>
+
+
  
  
 ##### Key Info & Programmes
@@ -106,38 +99,12 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oku2{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 461px">
-<colgroup>
-<col style="width: 207px">
-<col style="width: 254px">
-</colgroup>
-<tbody>
-	  <tr>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">JM Fraser Award 2022</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
-  </tr>
-  <tr>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">JM Fraser Award 2020</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
-  </tr>
-  <tr>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Founders’ Awardees 2020</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Awarded to</span><br><span style="font-weight:inherit;font-style:inherit">- SSGT Loh Qi Won, Sylvester</span><br><span style="font-weight:inherit;font-style:inherit">- SSGT Gan Shiu Kuan</span><br><span style="font-weight:inherit;font-style:inherit">- SSGT Tan Jin Xiang</span></td>
-  </tr>
-  <tr>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">JM Fraser Award 2020</span></td>
-    <td class="tg-oku2"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
-  </tr>
-</tbody>
-</table>
+|  | |
+| - | - | 
+| JM Fraser Award 2022 | Silver | 
+| JM Fraser Award 2020 | Gold | 
+| Founders' Awardees 2020 | Awarded to <br /> - SSGT Loh Qi Won, Sylvester <br /> - SSGT Gan Shiu Kuan <br /> - SSGT Tan Jin Xiang | 
+| JM Fraser Award 2019 | Silver | 
 
 --------
 
@@ -169,46 +136,16 @@ HQ activities and trainings on some Saturdays for selected Guides.
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Bronze</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:400;font-style:inherit">2019 North Division Masterchef</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">1st</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:400;font-style:inherit">2019 North Division Day Telematch</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">1st</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 Puan Noor Aishah (Unit Proficiency ) Award</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 North Division Amazing Race</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 North Division Outdoor Challenge 2018</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Patrol Flag (1st)</span></td>
-  </tr>
-</tbody>
-</table>
+|  | |
+| - | - | 
+| 2022 Puan Noor Aishah (Unit Proficiency ) Award | Bronze | 
+| 2019 Puan Noor Aishah (Unit Proficiency ) Award | Gold | 
+| 2019 North Division Masterchef | 1st | 
+| 2019 North Division Telematch | 1st | 
+| 2018 Puan Noor Aishah (Unit Proficiency ) Award | Gold | 
+| 2018 North Division Amazing Race | 3rd | 
+| 2018 North Division Outdoor Challenge | Patrol Flag (1st) | 
+
 
 --------
 
@@ -228,30 +165,17 @@ Mr Chun Guan Yang <br>
 Miss Ng Ling Nee Faith
 
 ##### Weekly Training Schedule
+
 Tuesdays, 1445H - 1730H/1830H
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 188px">
-<colgroup>
-<col style="width: 53px">
-<col style="width: 135px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-x5q1"><a href = "https://www.instagram.com/wdl_ncc/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-		<td class="tg-x5q1"><a href="https://www.instagram.com/wdl_ncdcc/">@wdl_ncc</a></td>
-  </tr>
-</tbody>
-</table>
+
+##### Social Media
+
+<a class="sm-container" href="https://www.instagram.com/wdl_ncc/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdl_ncc</span>
+</a>
+
 
 
 ##### Key Info & Programmes
@@ -278,38 +202,15 @@ To develop our young NCC leaders to have the following:
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 NCC Unit Recognition (UR) Award</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 Outstanding Cadet Award</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Awarded to Gabriel Goh</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 NCC Unit Recognition (UR) Award</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 NCC Unit Recognition (UR) Award</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
-  </tr>
-</tbody>
-</table>
+|  | |
+| - | - | 
+| 2022 NCC Unit Recognition (UR) Award | Distinction | 
+| 2020 Outstanding Cadet Award | Awarded to MSG Gabriel Goh | 
+| 2019 NCC Unit Recognition (UR) Award | Distinction | 
+| 2018 NCC Unit Recognition (UR) Award | Distinction | 
 
 
-
---------
+---
 
 <a id="4"></a>
 
@@ -336,29 +237,11 @@ Tuesdays, 1445H - 1730H/1830H
 
 ##### Social Media
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 188px">
-<colgroup>
-<col style="width: 53px">
-<col style="width: 135px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-x5q1"><a href = "https://www.instagram.com/wdl_ncdcc/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-		<td class="tg-x5q1"><a href="https://www.instagram.com/wdl_ncdcc/">@wdl_ncdcc</a></td>
-  </tr>
-</tbody>
-</table>
- 
+<a class="sm-container" href="https://www.instagram.com/wdl_ncdcc/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdl_ncdcc</span>
+</a>
+
  
 
 ##### Key Info & Programmes
@@ -379,27 +262,10 @@ Tuesdays, 1445H - 1730H/1830H
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 Unit Overall Proficiency Award (UOPA)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gold</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Unit Overall Proficiency Award (UOPA)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
-  </tr>
-</tbody>
-</table>
+|  | |
+| - | - | 
+| 2022 Unit Overall Proficiency Award (UOPA) | Gold | 
+| 2019 Unit Overall Proficiency Award (UOPA) | Silver | 
 
 
 --------
@@ -434,31 +300,10 @@ Tuesdays, 1445H - 1730H/1830H
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2022 Overall Unit Proficiency Award</span></td>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Gold Award</td>
-  </tr>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2011 - 2019 Overall Unit Proficiency Award</span></td>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Gold Award</span><br><span style="font-weight:inherit;font-style:inherit">(9 consecutive years of Gold Award)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2020 SPF-NPCC Badge</span></td>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">1 Recipient</span><br><span style="font-weight:inherit;font-style:inherit">(9 in total for the past 7 years)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2019 Inter-Unit Drill Competition</span></td>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Top 50</span></td>
-  </tr>
-</tbody>
-</table>
+|  | |
+| - | - | 
+| 2022 Overall Unit Proficiency Award | Gold Award | 
+| 2011 - 2019 Overall Unit Proficiency Award | Gold Award <br />(for 9 consecutive years)| 
+| 2020 SPF-NPCC Badge | 1 Recipient <br /> (9 in total for the past 7 years) | 
+| 2019 Inter-Unit Drill Competition | Top 50 | 
+
