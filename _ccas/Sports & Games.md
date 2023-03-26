@@ -33,7 +33,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 	<a class="top-button" href="#1">Athletics</a>
 	<a class="top-button" href="#2">Badminton</a>
 	<a class="top-button" href="#3">Basketball</a>
-	<a class="top-button" href="#4">Football (Girls</a>
+	<a class="top-button" href="#4">Football (Girls)</a>
 	<a class="top-button" href="#5">Football (Boys)</a>
 	<a class="top-button" href="#6">Netball</a>
 	<a class="top-button" href="#7">Sepak Takraw</a>
@@ -277,5 +277,4 @@ Ms Nurul Deena Binte Maamon
 | 2018 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 4th Place | 
 | 2018 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | 1st Round | 
 | 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 2nd Place | 
-| 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | National Champions | 
-
+| 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | National Champions |
