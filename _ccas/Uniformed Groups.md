@@ -254,15 +254,6 @@ Tuesdays, 1445H - 1730H/1830H
 *   Sports & Wellness Programme
 
 
-##### Social Media
-
-<a class="sm-container" href="https://www.instagram.com/wdl_npcc/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@wdl_npcc</span>
-</a>
-
-
-
 
 ##### Recent Achievements
 
@@ -291,7 +282,15 @@ Mr Lee Jing Xiang Eric
 Mr Donovan Liew Yi Heng
 
 ##### Weekly Training Schedule
+
 Tuesdays, 1445H - 1730H/1830H
+
+##### Social Media
+
+<a class="sm-container" href="https://www.instagram.com/wdl_npcc/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdl_npcc</span>
+</a>
 
 ##### Key Info & Programmes
 
