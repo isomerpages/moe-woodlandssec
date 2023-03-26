@@ -246,11 +246,23 @@ Tuesdays, 1445H - 1730H/1830H
 
 **Key Programmes**   
 **Structured Training Programme which includes:**
+
 *   Basic firefighting, first aid and CPR+AED Modules
 *   Drills excellence
 *   Proficiency badges
 *   Structured community service
 *   Sports & Wellness Programme
+
+
+##### Social Media
+
+<a class="sm-container" href="https://www.instagram.com/wdl_npcc/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdl_npcc</span>
+</a>
+
+
+
 
 ##### Recent Achievements
 
