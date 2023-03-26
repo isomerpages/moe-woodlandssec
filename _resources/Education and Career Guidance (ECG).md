@@ -26,16 +26,5 @@ Parents or Students who would like to explore more about subject choices, enquir
 
 <a class="button" href="https://form.gov.sg/wdlecg">Book an appointment for personalised consultation</a>
 
-<table class="tg" style="undefined;table-layout: fixed; width: 439px">
-<colgroup>
-<col style="width: 439px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-oqf2"><a href="https://go.gov.sg/wdlecg"><span style="color:#FFF;background-color:#034289">Book an appointment for personalised consultation</span></a></td>
-  </tr>
-</tbody>
-</table>
-
 **Contact details:**  
 Email: [subramaniyam\_jekanathan@schools.gov.sg](mailto:subramaniyam_jekanathan@schools.gov.sg)
