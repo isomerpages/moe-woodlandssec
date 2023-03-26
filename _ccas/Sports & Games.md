@@ -39,6 +39,8 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 	<a class="top-button" href="#7">Sepak Takraw</a>
 </div>
 
+----
+
 <a id="1"></a>
 
 ### Athletics
@@ -176,6 +178,14 @@ Mr Tan Jia Xuan Kin
 * Tuesdays, 1445H - 1730H/1800H
 * Fridays, 1430H - 1700H
 
+##### Social Media
+
+<a class="sm-container" href="https://www.instagram.com/woodlands_ftballboys/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@woodlands_ftballboys</span>
+</a>
+
+
 ##### Key Info & Programmes
 
 *   Annual ‘B’ and ‘C’ National School Games (NSG)
@@ -211,13 +221,6 @@ Miss Low Qiao Xuan
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
 * Thursdays, 1600H - 1800H
-
-##### Social Media
-
-<a class="sm-container" href="https://www.instagram.com/wdl_netball/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@wdl_netball</span>
-</a>
 
 ##### Key Info & Programmes
 
