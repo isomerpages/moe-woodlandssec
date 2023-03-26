@@ -19,11 +19,10 @@ sections:
           description: ""
           url: /resources/contact-information/
       title: Every Woodlander a GIFT to society
-      subtitle: How do we grow you to be a gift to society?
+      subtitle: How are you grown to become a gift to society?
       button: Find out more
       url: /wdl-experience/applied-learning-programme/
   - resources:
       title: " Announcements"
       button: View All
 ---
-
