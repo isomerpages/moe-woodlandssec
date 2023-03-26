@@ -24,7 +24,7 @@ Our ECG Counsellor, Mr Mani is stationed at school on **Wednesdays and Thursday
 
 Parents or Students who would like to explore more about subject choices, enquire about post-secondary education pathways or discover more about your interests, can have a chat with him on **Wednesdays and Thursdays.**
 
-<a class="button" href="https://form.gov.sg/wdlecg">Book an appointment for personalised consultation</a>
+<a class="button" href="https://go.gov.sg/wdlecg">Book an appointment for personalised consultation</a>
 
 **Contact details:**  
 Email: [subramaniyam\_jekanathan@schools.gov.sg](mailto:subramaniyam_jekanathan@schools.gov.sg)
