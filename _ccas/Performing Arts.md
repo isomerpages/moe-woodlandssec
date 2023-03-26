@@ -37,6 +37,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 	<a class="top-button" href="#5">Malay Dance</a>
 </div>
 	 
+---
 
 <a id="1"></a>
 ### Choir
@@ -92,6 +93,7 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 
 
 ##### Social Media
+
 <a class="sm-container" href="https://www.instagram.com/wdlsymphonicband/">
 	<img class="sm-icon" src="/images/instagram.jpeg" />
 	<span class="sm-text" >@wdlsymphonicband</span>
@@ -173,6 +175,7 @@ Ms Ong Xin Yan, Alyssa
 * Thursdays, 1600H - 1800H
 
 ##### Social Media
+
 <a class="sm-container" href="https://www.instagram.com/wdl_eldds/">
 	<img class="sm-icon" src="/images/instagram.jpeg" />
 	<span class="sm-text" >@wdl_eldds</span>
