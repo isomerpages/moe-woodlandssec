@@ -2,7 +2,7 @@
 layout: homepage
 title: Woodlands Secondary School
 description: Every Woodlander a gift to society
-image: /images/schoolcrest.png
+image: /images/Site settings/304206762_589981476127737_2853487812838009623_n.jpg
 permalink: /
 notification: ""
 sections:
@@ -26,3 +26,4 @@ sections:
       title: " Announcements"
       button: View All
 ---
+
