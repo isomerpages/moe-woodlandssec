@@ -10,6 +10,23 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
 
+<style type="text/css">
+	.this-bunch-css-code-is-to-style-the-buttons-under-the-header-that-links-to-the-individual-cca-below {}
+		
+.top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
+.top-button {flex:1; text-align: center; font-size:  1.2em; color: #4372d6 !important; border: 1px solid #4372d6; background-color: #f9f9f9; flex-basis: 240px; border-radius: 8px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
+	
+.top-button:hover {opacity: .5 !important; transition: .3s;}
+</style>
+
+<div class="top-button-container">
+	<a class="top-button" href="#1">Parents Support Group</a>
+	<a class="top-button" href="#2">Alumni</a>
+</div>
+
+----
+
+<a id="1"></a>
 
 ## Parents Support Group (PSG@WDL)
 
@@ -47,6 +64,8 @@ The Parent Support Group:
 
 
 ----
+
+<a id="2"></a>
 
 
 ## Alumni
