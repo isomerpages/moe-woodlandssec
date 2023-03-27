@@ -6,15 +6,15 @@ colors:
   secondary-color: "#0054b4"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#0054b4"
     - title: media-color-two
-      color: "#11439c"
+      color: "#3682da"
     - title: media-color-three
-      color: "#11439c"
+      color: "#53a4ff"
     - title: media-color-four
       color: "#11439c"
     - title: media-color-five
-      color: "#11439c"
+      color: "#154780"
 description: Every Woodlander a gift to society
 permalink: none
 baseurl: ""
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1qrsrqf24putd.amplifyapp.com
 prod: https://master.d1qrsrqf24putd.amplifyapp.com
-shareicon: /images/schoolcrest.png
+shareicon: /images/Site settings/304206762_589981476127737_2853487812838009623_n.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: G-MXGJQN4G1Z

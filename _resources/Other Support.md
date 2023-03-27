@@ -3,6 +3,13 @@ title: Other Support
 permalink: /resources/other-support/
 description: ""
 ---
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
+
+body, * { font-family: 'Open Sans', sans-serif !important; }
+.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
+</style>
+
 ### Zonta Pari Programme
 
 Zonta Club of Singapore is part of Zonta International, a worldwide service organization of women executives in business and the professions passionate about advancing the status of women in Singapore, around the region, and worldwide. It is made up of a fun loving group of women who enjoys working together to make contributions to the community.

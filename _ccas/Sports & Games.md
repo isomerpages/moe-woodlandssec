@@ -9,41 +9,37 @@ description: ""
 body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
+
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
+	.this-bunch-css-code-is-to-style-the-buttons-under-the-header-that-links-to-the-individual-cca-below {}
+		
+.top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
+.top-button {flex:1; text-align: center; font-size:  1.2em; color: #4372d6 !important; border: 1px solid #4372d6; background-color: #f9f9f9; flex-basis: 240px; border-radius: 8px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
+	
+.top-button:hover {opacity: .5 !important; transition: .3s;}
 </style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
-<colgroup>
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-</colgroup>
-<tbody>
-  <tr>
-		<td class="tg-fj82"><a href="#1"><span style="color:#FFF;background-color:#034289">Athletics</span></a></td>
-    <td class="tg-fj82"><a href="#2"><span style="color:#FFF;background-color:#034289">Badminton</span></a></td>
-    <td class="tg-fj82"><a href="#3"><span style="color:#FFF;background-color:#034289">Basketball</span></a></td>
-    <td class="tg-fj82"><a href="#4"><span style="color:#FFF;background-color:#034289">Football (Girls)</span></a></td>
-    <td class="tg-fj82"><a href="#5"><span style="color:#FFF;background-color:#034289">Football (Boys)</span></a></td>
-  </tr>
-	<tr>
-		<td class="tg-fj82"><a href="#6"><span style="color:#FFF;background-color:#034289">Netball</span></a></td>
-    <td class="tg-fj82"><a href="#7"><span style="color:#FFF;background-color:#034289">Sepak Takraw</span></a></td>
-    <td class="tg-fj82"></td>
-    <td class="tg-fj82"></td>
-    <td class="tg-fj82"></td>
-  </tr>
-</tbody>
-</table>
 
+<style type="text/css">
+		.this-bunch-css-code-is-to-style-the-social-media-links {}
+	
+.sm-container { display: inline-flex; align-items: center; align-content: flex-start; gap: 8px; border: 1px solid #4372d6; padding: 8px; border-radius: 8px; background-color: #fafafa;}
+.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; }
+.sm-text {text-align: left; text-decoration: none;}
+	
+	.sm-container:hover {opacity: .4; transition: .3s;}
+</style>
 
+<div class="top-button-container">
+	<a class="top-button" href="#1">Athletics</a>
+	<a class="top-button" href="#2">Badminton</a>
+	<a class="top-button" href="#3">Basketball</a>
+	<a class="top-button" href="#4">Football (Girls)</a>
+	<a class="top-button" href="#5">Football (Boys)</a>
+	<a class="top-button" href="#6">Netball</a>
+	<a class="top-button" href="#7">Sepak Takraw</a>
+</div>
+
+----
 
 <a id="1"></a>
 
@@ -71,23 +67,9 @@ Mr Lin Zhaowei
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 National School Games Championships</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Semi-finalists</span></td>
-  </tr>
-</tbody>
-</table>
-
+|   |   |
+|  --- |---   | 
+| 2019 National School Games Championships 'C' Division Boys | Semi-finalists | 
 
 --------
 <a id="2"></a>
@@ -118,26 +100,10 @@ Mr Wong Chin Choong Brian
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Sportsmanship</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">- 5th Place</span><br><span style="font-weight:inherit;font-style:inherit">- Certificate of Sportsmanship</span></td>
-  </tr>
-</tbody>
-</table>
+|   |   |
+|  --- |---   | 
+| 2019 North Zone Championship  'B' Division Boys | Certificate of Sportsmanship | 
+| 2018 North Zone Championship  'B' Division Boys | 5th place, <br />Certificate of Sportsmanship | 
 
 
 --------
@@ -187,37 +153,12 @@ Ms Siti Farhana Binte Abdullah
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc" ><span style="font-weight:inherit;font-style:inherit">2022 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship </span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">4th Place</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc" rowspan="2"><span style="font-weight:inherit;font-style:inherit">2019 SSSC/FAS ‘C’ Division Girls National Inter – School Football Championship</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">First Runner Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Siti Noraini Binte Suyudi was awarded the "Most Promising Player" Award for the championship</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SOF Peter Lim Scholarship</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Nur Amirah Bte Mohamed Rosman was awarded the scholarship</span></td>
-  </tr>
-</tbody>
-</table>
+|   |   |
+|  --- |---   | 
+| 2022 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship | 4th Place | 
+| 2019 SSSC/FAS ‘C’ Division Girls National Inter – School Football Championship | 2nd Place <br /> Siti Noraini Binte Suyudi was awarded the "Most Promising Player" Award for the championship | 
+| 2018 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship | Participation | 
+| 2018 SOF Peter Lim Scholarship | Awarded to Nur Amirah Bte Mohamed Rosman | 
 
 --------
 <a id="5"></a>
@@ -237,6 +178,14 @@ Mr Tan Jia Xuan Kin
 * Tuesdays, 1445H - 1730H/1800H
 * Fridays, 1430H - 1700H
 
+##### Social Media
+
+<a class="sm-container" href="https://www.instagram.com/woodlands_ftballboys/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@woodlands_ftballboys</span>
+</a>
+
+
 ##### Key Info & Programmes
 
 *   Annual ‘B’ and ‘C’ National School Games (NSG)
@@ -248,35 +197,13 @@ Mr Tan Jia Xuan Kin
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Place</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 2 Group Stage</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 2 Group Stage</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 National School Games</span><br><span style="font-weight:inherit;font-style:inherit">'C' Division Boys</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">League 1 Group Stage</span></td>
-  </tr>
-</tbody>
-</table>
-
+|   |   |
+|  --- |---   | 
+| 2022 National School Games 'C' Division Boys | 3rd Place | 
+| 2022 National School Games 'B' Division Boys | Fair Play Award | 
+| 2020 National School Games 'B' Division Boys | League 2 Group Stage | 
+| 2019 National School Games 'B' Division Boys | League 2 Group Stage | 
+| 2019 National School Games 'C' Division Boys | League 1 Group Stage | 
 
 --------
 <a id="6"></a>
@@ -295,34 +222,6 @@ Miss Low Qiao Xuan
 * Tuesdays, 1445H - 1730H/1800H
 * Thursdays, 1600H - 1800H
 
-##### Social Media
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 211px">
-<colgroup>
-<col style="width: 54px">
-<col style="width: 157px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/explore/tags/wdlnetball/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-    <td class="tg-cly1"><a href="https://www.instagram.com/explore/tags/wdlnetball/">@wdl_netball</a></td>
-  </tr>
-</tbody>
-</table>
-
-
 ##### Key Info & Programmes
 
 At the end of their secondary education, each player will:
@@ -334,26 +233,12 @@ At the end of their secondary education, each player will:
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2020 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Girls</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd in Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 North Zone Championship</span><br><span style="font-weight:inherit;font-style:inherit">'B' Division Girls</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd in Group</span></td>
-  </tr>
-</tbody>
-</table>
+|   |   |
+|  --- |---   | 
+| 2020 North Zone Championship  'B' Division Girls | 3rd in Group | 
+| 2019 North Zone Championship  'B' Division Girls | 3rd in Group | 
+
+
 
 --------
 <a id="7"></a>
@@ -385,47 +270,14 @@ Ms Nurul Deena Binte Maamon
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">4th Place</span></td>
-  </tr>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2022 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Place</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">National Champions</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">National Champions</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">3rd Runner Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">1st Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">1st Runner Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 SSC National Inter-School Sepak Takraw Tournament - 'C' Division</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Champions</span></td>
-  </tr>
-</tbody>
-</table>
+|   |   |
+|  --- |---   | 
+| 2023 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 2nd Place | 
+| 2022 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 4th Place | 
+| 2022 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | 3rd Place | 
+| 2019 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | National Champions | 
+| 2019 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | National Champions | 
+| 2018 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 4th Place | 
+| 2018 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | 1st Round | 
+| 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 2nd Place | 
+| 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | National Champions |

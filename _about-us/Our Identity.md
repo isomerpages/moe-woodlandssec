@@ -13,11 +13,11 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 
 Every Woodlander a Gift to Society
 
-###Our Mission
+### Our Mission
 
 Nurturing Enduring Hearts and Creative Minds Ready to Serve Society
 
-### Our School Values - GR2EAT
+### Our School Values - GR<sup>E</sup>AT
 
 **G**rowth  
 **R**espect  

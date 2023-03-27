@@ -10,33 +10,34 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fj82{background-color:#034289;color:#ffffff;font-size:18px;text-align:center;vertical-align:middle}
+	.this-bunch-css-code-is-to-style-the-buttons-under-the-header-that-links-to-the-individual-cca-below {}
+		
+.top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
+.top-button {flex:1; text-align: center; font-size:  1.2em; color: #4372d6 !important; border: 1px solid #4372d6; background-color: #f9f9f9; flex-basis: 240px; border-radius: 8px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
+	
+.top-button:hover {opacity: .5 !important; transition: .3s;}
 </style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
-<colgroup>
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-<col style="width: 160px">
-</colgroup>
-<tbody>
-	<tr>
-		<td class="tg-fj82"><a href="#1"><span style="color:#FFF;background-color:#034289">Choir</span></a></td>
-    <td class="tg-fj82"><a href="#2"><span style="color:#FFF;background-color:#034289">Concert Band</span></a></td>
-    <td class="tg-fj82"><a href="#3"><span style="color:#FFF;background-color:#034289">Dance</span></a></td>
-    <td class="tg-fj82"><a href="#4"><span style="color:#FFF;background-color:#034289">ELDDS</span></a></td>
-    <td class="tg-fj82"><a href="#5"><span style="color:#FFF;background-color:#034289">Malay Dance</span></a></td>
-  </tr>
-</tbody>
-</table>
+
+<style type="text/css">
+		.this-bunch-css-code-is-to-style-the-social-media-links {}
+	
+.sm-container { display: inline-flex; align-items: center; align-content: flex-start; gap: 8px; border: 1px solid #4372d6; padding: 8px; border-radius: 8px; background-color: #fafafa;}
+.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; }
+.sm-text {text-align: left; text-decoration: none;}
+	
+	.sm-container:hover {opacity: .4; transition: .3s;}
+</style>
 
 
+<div class="top-button-container">
+	<a class="top-button" href="#1">Choir</a>
+	<a class="top-button" href="#2">Concert Band</a>
+	<a class="top-button" href="#3">Chinese Dance</a>
+	<a class="top-button" href="#4">ELDDS</a>
+	<a class="top-button" href="#5">Malay Dance</a>
+</div>
+	 
+---
 
 <a id="1"></a>
 ### Choir
@@ -55,30 +56,11 @@ Mdm Fu Jian Ning Janny
 
 ##### Social Media
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 211px">
-<colgroup>
-<col style="width: 54px">
-<col style="width: 157px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdl_choir/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-    <td class="tg-cqfb"><a href="https://www.instagram.com/wdl_choir/">@wdl_choir</a></td>
-  </tr>
-</tbody>
-</table>
-
+<a class="sm-container" href="https://www.instagram.com/wdl_choir/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdl_choir</span>
+</a>
+	
 ##### Key Info & Programmes
 
 *   SYF Presentation (biennial)
@@ -108,31 +90,15 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
 * Thursdays, 1500H - 1800H
+
+
 ##### Social Media
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-cqfb{font-size:18px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 255px">
-<colgroup>
-<col style="width: 55px">
-<col style="width: 200px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/wdlsymphonicband/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-    <td class="tg-cqfb"><a href="https://www.instagram.com/wdlsymphonicband/">@wdlsymphonicband</a></td>
-  </tr>
-</tbody>
-</table>
+<a class="sm-container" href="https://www.instagram.com/wdlsymphonicband/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdlsymphonicband</span>
+</a>
+
 
 ##### Key Info & Programmes
 
@@ -144,30 +110,12 @@ Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-</tbody>
-</table>
+|  | |
+| - | - | 
+| 2021 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+| 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+| 2017 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+
 
 -------
 <a id="3"></a>
@@ -197,30 +145,13 @@ Miss Lim Zhi Xuan
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-		  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 SYF Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Achievement</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Achievement</span></td>
-  </tr>
-</tbody>
-</table>
+
+|  | |
+| - | - | 
+| 2021 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+| 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+| 2017 Singapore Youth Festival Arts Presentation | Certificate of Achievement | 
+
 
 
 -------
@@ -243,6 +174,15 @@ Ms Ong Xin Yan, Alyssa
 * Tuesdays, 1445H - 1730H/1800H
 * Thursdays, 1600H - 1800H
 
+##### Social Media
+
+<a class="sm-container" href="https://www.instagram.com/wdl_eldds/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@wdl_eldds</span>
+</a>
+
+
+
 ##### Key Info & Programmes
 
 **Debates:**
@@ -258,30 +198,12 @@ Ms Ong Xin Yan, Alyssa
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 SYF Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Distinction</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2020 Human Values Drama Festival</span></td>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Certificate of Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">2019 Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-nx8p"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-</tbody>
-</table>
+|  | |
+| - | - | 
+| 2021 Singapore Youth Festival Arts Presentation | Certificate of Distinction | 
+| 2019 Singapore Youth Festival Arts Presentation | Certificate of Participation | 
+| 2017 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+
 
 -------
 <a id="5"></a>
@@ -302,30 +224,12 @@ Mdm Liyana Binte Kamsani
 
 ##### Social Media
 
+<a class="sm-container" href="https://www.instagram.com/alunan_sutera/">
+	<img class="sm-icon" src="/images/instagram.jpeg" />
+	<span class="sm-text" >@alunan_sutera</span>
+</a>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-cqfb{font-size:18px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 255px">
-<colgroup>
-<col style="width: 55px">
-<col style="width: 200px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-cqfb"><a href = "https://www.instagram.com/alunan_sutera/" target = "_self"> 
-          <img src="/images/instagram.jpeg" 
-     style="width:100%"></a></td>
-    <td class="tg-cqfb"><a href="https://www.instagram.com/alunan_sutera/">@alunan_sutera</a></td>
-  </tr>
-</tbody>
-</table>
+
 
 ##### Key Info & Programmes
 
@@ -338,31 +242,9 @@ Mdm Liyana Binte Kamsani
 
 ##### Recent Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ppvc{background-color:#FFF;color:#3A3A3A;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-	  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2021 SYF Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Distinction</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2019 SYF Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2018 Istana National Day Open House</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Performers</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">2017 SYF Arts Presentation</span></td>
-    <td class="tg-ppvc"><span style="font-weight:inherit;font-style:inherit">Certificate of Distinction</span></td>
-  </tr>
-</tbody>
-</table>
+|  | |
+| --- | ---- | 
+| 2021 Singapore Youth Festival Arts Presentation | Certificate of Distinction | 
+| 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
+| 2018 Istana National Day Open House | Performers | 
+| 2017 Singapore Youth Festival Arts Presentation | Certificate of Distinction |
