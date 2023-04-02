@@ -47,7 +47,7 @@ b. Character and Citizenship Education (CCE)
 
 7)  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-###### [Click here](/files/Sexuality%20Education/2023%20sexuality%20eduaction%20lessons%20in%20cce.pdf) to download the Sexuality Education lessons which will be taught in 2023 in Woodlands Secondary School. 
+###### 	At Woodlands Secondary School, the Sexuality Education lessons which will be taught in 2023 can be [viewed here.](/files/Sexuality%20Education/2023%20sexuality%20eduaction%20lessons%20in%20cce.pdf)
 
 #### _eTeens_ Programme
 
