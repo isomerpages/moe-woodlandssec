@@ -53,12 +53,27 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-##### At Woodlands Secondary School, the following Sexuality Education lessons will be taught in 2023:
+###### [Click here](/files/Sexuality%20Education/2023%20sexuality%20eduaction%20lessons%20in%20cce.pdf) to download the Sexuality Education lessons which will be taught in 2023 in Woodlands Secondary School. 
 
-&gt; Secondary 1
+#### _eTeens_ Programme
 
-###### Unit: Respectful Relationships &amp; Safety
+8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-| Lesson Title / Duration | Lesson Overview | Lesson Objectives <br> At the end of the lesson, students will be able to: | Time Period |
-| --- | --- | --- | --- | --- |
-| ? | ? | ? | ? | 
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+###### At Woodlands Secondary School, the _eTeens_ programme will be implemented as follows in 2023:
+
+| Topics <br> Lessons | Programme Learning Objectives | Time Period |
+|--- |--- |--- |
+|Mass Talk by HPB appointed vendor  | •	Awareness of the different STIs and HIV/AIDS <br>•	Modes of transmission <br>•	Modes of protection, specifically on how the condom is used <br>•	Consequences and impact of STIs/HIV | Term 3 Week 8 | 
+| Classroom-based Lesson | •	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 9 | 
+
+#### INFORMATION FOR PARENTS
+
+10. Parents may opt their children out of Growing Years, eTeens and/or sexuality education programmes by external providers.
+
+11. Parents who wish to opt their children out of the ***Growing Years (GY) programme*** need to complete an opt-out form via Parents Gateway. Those not on board, will be given a hard copy by your child's form teachers.
+
+12. Parents may wish to attend the school sexuality education programmes with their children. Parents should contact the school to make the necessary arrangements.
+
+13. Parents can contact the school at [6849 4400](tel:68494400) for discussion or to seek clarification about the school’s sexuality education programme.
