@@ -67,7 +67,7 @@ b. Character and Citizenship Education (CCE)
 |Mass Talk by HPB appointed vendor  | •	Awareness of the different STIs and HIV/AIDS <br>•	Modes of transmission <br>•	Modes of protection, specifically on how the condom is used <br>•	Consequences and impact of STIs/HIV | Term 3 Week 8 | 
 | Classroom-based Lesson | •	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 9 | 
 
-#### INFORMATION FOR PARENTS
+#### Information for Parents
 
 10. Parents may opt their children out of Growing Years, eTeens and/or sexuality education programmes by external providers.
 
