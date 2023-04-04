@@ -28,12 +28,11 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: '<style type="text/css"> 	#facebook, #instagram { display: flex;
-        flex-wrap: nowrap; gap: 8px 12px; justify-content:
-        center;} 	 </style>  <iframe
-        id="facebook"     title="Facebook"     width="375"     height="500"     src="https://www.facebook.com/woodlandssecsch">
-        </iframe> <iframe
-        id="instagram"     title="instragram"     width="375"     height="500"     src="https://www.instagram.com/woodlandssec">
-        </iframe>'
+      description: <iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoodlandssecsch&tabs=timeline&width=320&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=21490701024"
+        width="320" height="700" style="border:none;overflow:hidden"
+        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+        clipboard-write; encrypted-media; picture-in-picture;
+        web-share"></iframe>
       button: Button Text
 ---
