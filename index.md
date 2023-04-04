@@ -25,4 +25,11 @@ sections:
   - resources:
       title: " Announcements"
       button: View All
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: <iframe
+        id="facebook"     title="Facebook"     width="375"     height="812"     src="https://www.facebook.com/woodlandssecsch">
+        </iframe>
+      button: Button Text
 ---
