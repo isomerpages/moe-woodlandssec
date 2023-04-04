@@ -26,19 +26,17 @@ sections:
       title: " Announcements"
       button: View All
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: '<style type="text/css">   .container {display: flex;
-        flex-direction: row; gap: 8px; justify-content: center;} </style> <div
-        class="container">   <iframe
-        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoodlandssecsch&tabs=timeline&width=320&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=21490701024"
-        width="320" height="500" style="border:none;overflow:hidden"
+      title: Follow us on social media!
+      subtitle: Logged into your social media?
+      description: '<style type="text/css">.c {display: flex; gap: 8px;} .c iframe
+        {flex-basis: 375px; max-width: 500px;} </style> <div class="c"><iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoodlandssecsch&tabs=timeline&width=375&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=21490701024"
+        width="375" height="500" style="border:none;overflow:hidden"
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
-        web-share"></iframe>   <iframe width="320" height="500"
+        web-share"></iframe>   <iframe width="375" height="500"
         src="https://www.instagram.com/woodlandssec"  style="border:none;overflow:hidden"
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
-        web-share">   </iframe> </div>'
-      button: Button Text
+        web-share"></iframe></div>'
 ---
