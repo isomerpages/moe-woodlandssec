@@ -29,15 +29,13 @@ sections:
       title: Follow us on social media!
       subtitle: Logged into your social media?
       description: '<style type="text/css">.c {display:flex;
-        gap:16px;justify-content:center;} .c>* {flex-basis: 375px;
+        gap:16px;justify-content:center;} .c>iframe, c>a {flex-basis: 375px;
         max-width:500px;} </style> <div class="c"><iframe
         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoodlandssecsch&tabs=timeline&width=375&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=21490701024"
         width="375" height="500" style="border:none;overflow:hidden"
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
-        web-share"></iframe>  <blockquote class="instagram-media"
-        data-instgrm-captioned
-        data-instgrm-permalink="https://www.instagram.com/woodlandssec/"
-        data-instgrm-version="13"> <a
-        href="https://www.instagram.com/woodlandssec/"><img src="</a></iframe>'
+        web-share"></iframe><a
+        href="https://www.instagram.com/woodlandssec/"><img
+        src="/images/Home%20page%20hacks/instagram-ss.png" /></a></iframe>'
 ---
