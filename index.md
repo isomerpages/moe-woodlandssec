@@ -30,7 +30,7 @@ sections:
       subtitle: Infobar Subtitle
       description: '<style type="text/css">   .container {display: flex;
         flex-direction: row; gap: 8px; justify-content: center;} </style> <div
-        class="container"   <iframe
+        class="container">   <iframe
         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoodlandssecsch&tabs=timeline&width=320&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=21490701024"
         width="320" height="500" style="border:none;overflow:hidden"
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
