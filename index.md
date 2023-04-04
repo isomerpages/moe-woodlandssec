@@ -28,8 +28,12 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: <iframe
+      description: '<style type="text/css"> 	#facebook, #instagram { display: flex;
+        flex-wrap: nowrap; gap: 8px 12px; justify-content:
+        center;} 	 </style>  <iframe
         id="facebook"     title="Facebook"     width="375"     height="812"     src="https://www.facebook.com/woodlandssecsch">
-        </iframe>
+        </iframe> <iframe
+        id="instagram"     title="instragram"     width="375"     height="812"     src="https://www.instagram.com/woodlandssec">
+        </iframe>'
       button: Button Text
 ---
