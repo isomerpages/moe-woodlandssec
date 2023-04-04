@@ -26,7 +26,7 @@ sections:
       title: " Announcements"
       button: View All
   - infobar:
-      title: Follow us on social media!
+      title: Follow us on Facebook & Instagram!
       subtitle: Logged into your social media?
       description: '<style type="text/css">.c {display:flex;
         gap:16px;justify-content:center;} .c>iframe, c>a {flex-basis: 375px;
