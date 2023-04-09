@@ -17,7 +17,7 @@ Every Woodlander a Gift to Society
 
 Nurturing Enduring Hearts and Creative Minds Ready to Serve Society
 
-### Our School Values - GR<sup>E</sup>AT
+### Our School Values - GRE<sup>2</sup>AT
 
 **G**rowth  
 **R**espect  
@@ -27,7 +27,7 @@ Nurturing Enduring Hearts and Creative Minds Ready to Serve Society
 **T**rustworthiness
 
 ### School Song
-<iframe src="https://www.youtube.com/embed/zEWDNjv24Fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zEWDNjv24Fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Woodlanders stand tall and proud  
 Honest in word, thought and deed  
@@ -49,19 +49,18 @@ Our alma mater to cherish evermore
 
 ### School Crest
 
-<img src="/images/schoolcrest.png" 
-     style="width:50%">
+<img src="/images/schoolcrest.png" style="width:50%">
 
-> The overall blue tone 
+&gt; The overall blue tone 
 
 * Reflects the setting of the school near the sea. 
 * Blue represents harmony, serenity and a closeness to nature.
 
-> The six-pointed golden star 
+&gt; The six-pointed golden star 
 
 Encompasses the total development of the individual's academic, physical, social, emotional, aesthetic and moral aspects that will be strengthened to a fineness represented by the points of the star.
 
-> The stylised W
+&gt; The stylised W
 
 * Designed as a soaring bird 
 * Representing purity of spirit and ambition to reach greater heights. 
@@ -70,22 +69,22 @@ Encompasses the total development of the individual's academic, physical, social
 
 ### Pupil Creed
 
-I know there is something inside of me It’s what I call ability   
-And I know I could do my best   
-In everyday life’s a big big test   
-And when the going gets tough   
+I know there is something inside of me&nbsp;It’s what I call ability&nbsp;  
+And I know I could do my best&nbsp;  
+In everyday life’s a big big test&nbsp;  
+And when the going gets tough&nbsp;  
 And everything just seems so rough  
 I know that I’m not alone  
   
-**Chorus**   
-I believe we can conquer dreams   
-I believe we can reach for greater heights   
-I believe we can do anything as one   
+**Chorus**&nbsp;  
+I believe we can conquer dreams&nbsp;  
+I believe we can reach for greater heights&nbsp;  
+I believe we can do anything as one&nbsp;  
 Woodlanders are the best when we unite  
   
-I feel there is freedom in my heart   
-I put pride in the freedom that I have   
-With this freedom, I won’t lose respect   
-That I feel for each and everyone   
-Never stray from the ray of wisdom   
+I feel there is freedom in my heart&nbsp;  
+I put pride in the freedom that I have&nbsp;  
+With this freedom, I won’t lose respect&nbsp;  
+That I feel for each and everyone&nbsp;  
+Never stray from the ray of wisdom&nbsp;  
 Achieve our goals through lifelong learning
