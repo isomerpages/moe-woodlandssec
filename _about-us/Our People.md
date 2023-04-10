@@ -151,7 +151,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Ms |	Fajariah Saban |	Flexi (Counselling) |
 | Ms |	Maimunah Mosli |	Flexi (Counselling) |
-| Ms |	Ho Ngai Kuen Magdalene |	Flexi (Science) |
+| Mdm |	Yeo Lay Hoon (Mrs Whelan) |	Flexi (Science) |
 
 
 
