@@ -44,10 +44,10 @@ Mr |	Ong Wun Wee Ivan |	School Staff Developer
 Mr |	Teo Chee Chong |	HOD Normal (Technical)
 Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 1 IC
 Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec) / Sec 4&amp;5 IC
+Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>
 Miss |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education <br>FT for 4Appreciation1
 Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 3Appreciation
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
-Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>
 Miss | Tan Mingli Yvonne |	SH / Biology <br>FT for 3Respect
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 2Resilience
 Mdm |	Jamakyah Binte Adhar | AYH (Sec 2)
