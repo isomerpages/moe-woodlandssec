@@ -335,3 +335,15 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// Custom
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body, * {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+h1 {
+  letter-spacing: normal !important;
+  font-weight: 300 !important
+}
