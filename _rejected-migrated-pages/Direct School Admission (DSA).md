@@ -3,14 +3,11 @@ title: Direct School Admission (DSA)
 permalink: /dsa/
 description: ""
 ---
-
-
-
 ### What is DSA - Sec?
 
 The Direct School Admission - Secondary (DSA-Sec) Exercise allows students to seek admission to Secondary 1 based on their talents and achievements. The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It seeks to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school. The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released.
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from **5 May to 1 June 2022.** For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from&nbsp;**5 May to 1 June 2022.**&nbsp;For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
@@ -18,7 +15,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 In line with the school mission to nurture enduring hearts and creative minds ready to serve society, WDL is looking for promising students who have the aptitude in and attitude towards one of these 3 areas, CCA, Learning for Life Programme (LLP) or Applied Learning Programme (ALP).
 
-More specifically they are Football ([Boys](/ccas/sports-and-games/#5) and [Girls](/ccas/sports-and-games/#4)) or [Sepak Takraw (Boys)](/ccas/sports-and-games/#7) for CCA, [Community Youth Leader for LLP](/wdl-experience/distinctive-programmes/#2) or [Science, Technology, Engineering and Maths (STEM) for ALP.](/wdl-experience/distinctive-programmes/#1)
+More specifically they are Football ([Boys](/ccas/sports-and-games/#5)&nbsp;and&nbsp;[Girls](/ccas/sports-and-games/#4)) or&nbsp;[Sepak Takraw (Boys)](/ccas/sports-and-games/#7)&nbsp;for CCA,&nbsp;[Community Youth Leader for LLP](/wdl-experience/distinctive-programmes/#2)&nbsp;or&nbsp;[Science, Technology, Engineering and Maths (STEM) for ALP.](/wdl-experience/distinctive-programmes/#1)
 
 Do refer to the respective pages for more info on each programme.
 
@@ -61,7 +58,7 @@ Successful applicants will be offered a place in Woodlands Secondary School for 
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Sports and Games</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Football</span><br><span style="font-weight:inherit;font-style:inherit">(Boys and Girls)</span><br><span style="font-weight:inherit;font-style:inherit">(</span><a href="/ccas/sports-and-games/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289;background-color:transparent">Visit CCA webpage</span></a><span style="font-weight:inherit;font-style:inherit">)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Football</span><br><span style="font-weight:inherit;font-style:inherit">(Boys and Girls)</span><br><span style="font-weight:inherit;font-style:inherit">(</span><a href="/ccas/sports-and-games/4"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289;background-color:transparent">Visit CCA webpage</span></a><span style="font-weight:inherit;font-style:inherit">)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Achievements in the sport, including zonal, national and/or international level competitions</span><br><span style="font-weight:inherit;font-style:inherit">2. Has achieved at least a “Very Good” conduct rating for Primary 5 and Primary 6 semesters</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Trials* for shortlisted applicants (July – Aug)</span><br><span style="font-weight:inherit;font-style:inherit">2. Interview* for shortlisted applicants (July – Aug)</span><br><span style="font-weight:inherit;font-style:inherit">3. Shortlisted applicants may also submit a video snippet of them in a football match  (optional)</span><br><br><span style="font-weight:inherit;font-style:inherit">*Information on the trials and interview will be provided to the shortlisted applicants.</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Represent the school in the National School Games</span><br><span style="font-weight:inherit;font-style:inherit">2. Represent the school in external tournaments</span><br><span style="font-weight:inherit;font-style:inherit">3. Contribute to the community through CCA based VIA programmes</span><br><span style="font-weight:inherit;font-style:inherit">4. Leadership trainings and opportunities within and beyond CCA</span></td>
