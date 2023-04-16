@@ -15,7 +15,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 In line with the school mission to nurture enduring hearts and creative minds ready to serve society, WDL is looking for promising students who have the aptitude in and attitude towards one of these 3 areas, CCA, Learning for Life Programme (LLP) or Applied Learning Programme (ALP).
 
-More specifically they are Football ([Boys](/ccas/sports-and-games/#5)&nbsp;and&nbsp;[Girls](/ccas/sports-and-games/#4)) or&nbsp;[Sepak Takraw (Boys)](/ccas/sports-and-games/#7)&nbsp;for CCA,&nbsp;[Community Youth Leader for LLP](/wdl-experience/distinctive-programmes/#2)&nbsp;or&nbsp;[Science, Technology, Engineering and Maths (STEM) for ALP.](/wdl-experience/distinctive-programmes/#1)
+More specifically they are Football ([Boys](/ccas/sports-and-games/#5)&nbsp;and&nbsp;[Girls](/ccas/sports-and-games/#4)) or&nbsp;[Sepak Takraw (Boys)](/ccas/sports-and-games/#7)&nbsp;for CCA,&nbsp;[Community Youth Leader for LLP](/wdl-experience/llp)&nbsp;or&nbsp;[Science, Technology, Engineering and Maths (STEM) for ALP.](/wdl-experience/distinctive-programmes/#1)
 
 Do refer to the respective pages for more info on each programme.
 
