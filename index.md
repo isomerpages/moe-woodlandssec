@@ -17,7 +17,7 @@ sections:
           url: /updates/
         - title: Contact us
           description: ""
-          url: /resources/contact-information/
+          url: /contact-us/
       title: Every Woodlander a GIFT to society
       subtitle: How are you grown to become a gift to society?
       button: Find out more
