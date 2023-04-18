@@ -4,7 +4,7 @@ permalink: /wdl-experience/pe-cca/
 description: ""
 ---
 
-### Developing Gifts to Society```````````````````````````````````````````````````````````````r2``````````````````````````````````````````````````hes
+### Developing Gifts to Society
 
 As Woodlanders seek to lead an active and healthy lifestyle:
 
