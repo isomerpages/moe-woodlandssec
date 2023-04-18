@@ -2,7 +2,7 @@
 title: Financial
 permalink: /resources/financial/
 description: ""
-
+---
 
 ### Financial Assistance
 
