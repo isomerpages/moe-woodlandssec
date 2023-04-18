@@ -3,32 +3,6 @@ title: Uniformed Groups
 permalink: /ccas/uniformed-groups/
 description: ""
 ---
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
-
-<style type="text/css">
-	.this-bunch-css-code-is-to-style-the-buttons-under-the-header-that-links-to-the-individual-cca-below {}
-		
-.top-button-container { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: center;}
-.top-button {flex:1; text-align: center; font-size:  1.2em; color: #4372d6 !important; border: 1px solid #4372d6; background-color: #f9f9f9; flex-basis: 240px; border-radius: 8px; padding: 8px 12px; font-weight: 900; text-decoration: none !important; box-shadow: 0px 0px 3px rgba(0, 0, 0, .4); margin-bottom: 0 !important;}
-	
-.top-button:hover {opacity: .5 !important; transition: .3s;}
-</style>
-
-<style type="text/css">
-		.this-bunch-css-code-is-to-style-the-social-media-links {}
-	
-.sm-container { display: inline-flex; align-items: center; align-content: flex-start; gap: 8px; border: 1px solid #4372d6; padding: 8px; border-radius: 8px; background-color: #fafafa;}
-.sm-icon {flex-basis: 36px; max-width: 36px; margin: 0 !important; }
-.sm-text {text-align: left; text-decoration: none;}
-	
-	.sm-container:hover {opacity: .4; transition: .3s;}
-</style>
-
 <div class="top-button-container">
 	<a class="top-button" href="#1">Boy's Brigade</a>
 	<a class="top-button" href="#2">Girl Guides</a>
