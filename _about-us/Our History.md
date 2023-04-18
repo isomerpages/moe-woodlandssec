@@ -35,7 +35,7 @@ In 2016, the school achieved the School Distinction Award (SDA) and four Best Pr
 *   Mrs Tay Yang Fern (2018- Present)
 
 ### Key Milestones
-&gt; 1982
+&gt;  1982
 
 Establishment of Woodlands Secondary School with 205 student and temporarily housed at the premises of Siling Secondary School.
 
