@@ -3,12 +3,6 @@ title: Character & Citizenship Education (CCE)
 permalink: /wdl-experience/character-and-citizenship-education/
 description: ""
 ---
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
 ### Developing Gifts to Society
 
 Character and citizenship education (CCE) in WDL seeks to inculcate in every woodlander values and skills necessary to manage their relationships, emotions and make decisions so that they are well-prepared to navigate the challenges in the future, where they could contribute as gifts to the society.
