@@ -3,13 +3,6 @@ title: English
 permalink: /wdl-experience/english/
 description: ""
 ---
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
-
 ### Developing Gifts to Society
 
 Every Woodlander is a discerning reader who clearly and empathetically communicates in the English Language.
@@ -56,6 +49,7 @@ As Woodlanders come from different backgrounds with different levels of language
 
  
 #### Stretching those with strong interests
+
 
 > External Competitions
 

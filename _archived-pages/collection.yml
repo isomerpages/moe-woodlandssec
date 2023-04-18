@@ -1,9 +1,9 @@
 collections:
-  rejected-migrated-pages:
+  archived-pages:
     output: true
     order:
+      - Lower Sec Experience.md
       - Contact Information.md
-      - Direct School Admission (DSA).md
       - Achievements.md
       - Sec 1 Registration.md
       - E Open House 2021.md

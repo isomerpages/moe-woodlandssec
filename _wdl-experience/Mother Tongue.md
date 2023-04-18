@@ -3,12 +3,6 @@ title: Mother Tongue
 permalink: /wdl-experience/mother-tongue/
 description: ""
 ---
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
 ### Developing Gifts to Society
 
 Every Woodlander an effective communicator, creative thinker and cultural ambassador - our gifts to society.

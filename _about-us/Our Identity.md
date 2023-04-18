@@ -45,16 +45,16 @@ Our alma mater to cherish evermore
 
 <img src="/images/schoolcrest.png" style="width:50%">
 
-&gt; The overall blue tone 
+> The overall blue tone 
 
 * Reflects the setting of the school near the sea. 
 * Blue represents harmony, serenity and a closeness to nature.
 
-&gt; The six-pointed golden star 
+> The six-pointed golden star 
 
 Encompasses the total development of the individual's academic, physical, social, emotional, aesthetic and moral aspects that will be strengthened to a fineness represented by the points of the star.
 
-&gt; The stylised W
+> The stylised W
 
 * Designed as a soaring bird 
 * Representing purity of spirit and ambition to reach greater heights. 
@@ -70,7 +70,7 @@ And when the going gets tough&nbsp;
 And everything just seems so rough  
 I know that I’m not alone  
   
-**Chorus**&nbsp;  
+**Chorus**
 I believe we can conquer dreams&nbsp;  
 I believe we can reach for greater heights&nbsp;  
 I believe we can do anything as one&nbsp;  

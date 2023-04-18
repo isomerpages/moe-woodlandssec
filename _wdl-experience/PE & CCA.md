@@ -4,17 +4,7 @@ permalink: /wdl-experience/pe-cca/
 description: ""
 ---
 
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
 ### Developing Gifts to Society
-
-Every Woodlander a practitioner and advocate of a physically active and healthy lifestyle.
-
-### Key approaches
 
 As Woodlanders seek to lead an active and healthy lifestyle:
 

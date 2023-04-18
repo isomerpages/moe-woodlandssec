@@ -3,15 +3,9 @@ title: Applied Learning Programme
 permalink: /wdl-experience/applied-learning-programme/
 description: ""
 ---
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
 ## Food Science &amp; Technology
 ### Developing Gifts to Society
-&gt; Every Woodlander achieves the Triple D’s to be able to contribute to society.
+> Every Woodlander achieves the Triple D’s to be able to contribute to society.
 
 * **D**iscovering the needs of others
 * **D**aring to prototype and try to address these needs, then
@@ -19,7 +13,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 
 ### Key Approaches
 
-&gt; Allowing students the space to explore, expand general knowledge and build interest
+> Allowing students the space to explore, expand general knowledge and build interest
 
 *   Providing varied hands-on learning activities which are process-focused,
 *  Providing opportunities for first-person experiences such as Learning Journeys to industry partner and workshops at Science Centre,
@@ -28,7 +22,7 @@ body, * { font-family: 'Open Sans', sans-serif !important; }
 
 ### &nbsp;Key Programmes
 
-&gt; Exploring Food Science and Computational thinking first, deepening in one later. 
+> Exploring Food Science and Computational thinking first, deepening in one later. 
 
 ##### Tier 1 &amp; 2 - Broadening &amp; Deepening Learning <br>Growing all Woodlanders (Sec 1 &amp; 2)
 

@@ -3,12 +3,6 @@ title: Craft & Technology
 permalink: /wdl-experience/craft-and-technology/
 description: ""
 ---
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
 ### Developing Gifts to Society
 
 Every Woodlander a creative and innovative talent who will lead to inspire in various creative fields.
