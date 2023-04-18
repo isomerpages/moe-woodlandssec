@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Contact Information.md
-      - Direct School Admission (DSA).md
       - Achievements.md
       - Sec 1 Registration.md
       - E Open House 2021.md
