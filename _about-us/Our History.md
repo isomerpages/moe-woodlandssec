@@ -3,12 +3,6 @@ title: Our History
 permalink: /about-us/our-history/
 description: ""
 ---
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
 ### Our Journey
 
 Woodlands Secondary School was established in 1982 with 205 students and a pioneer batch of 13 staff as a Government co-educational school to cater to the growing population in Woodlands and Marsiling area. It was initially sited in Si Ling Secondary School’s premises. In 1984, the school relocated to its current premises at 8 Admiralty Road, and was officially opened on 20th&nbsp;September. The school has a distinction of being the northernmost school in Singapore just a stone’s throw away from the Singapore-Johore Causeway.
@@ -35,7 +29,7 @@ In 2016, the school achieved the School Distinction Award (SDA) and four Best Pr
 *   Mrs Tay Yang Fern (2018- Present)
 
 ### Key Milestones
-&gt;  1982
+> 1982
 
 Establishment of Woodlands Secondary School with 205 student and temporarily housed at the premises of Siling Secondary School.
 
@@ -43,7 +37,7 @@ Establishment of Woodlands Secondary School with 205 student and temporarily hou
 
 
 
-&gt; 1984
+> 1984
 
 * Relocation of school to 8 Admiralty Road
 * Declared open by Mr Lee Yiok Seng then MP for Bukit Panjang and Senior Parliamentary Secretary of Ministry of National Development on 20th September.
@@ -53,34 +47,34 @@ Establishment of Woodlands Secondary School with 205 student and temporarily hou
 ![](/images/About%20us/km3.jpeg)
 
 
-&gt; 1985
+> 1985
 
 WDL won the ‘B’ Division Boys and ‘C’ Division Girls National Cross Country Championships.
 
-&gt; 1999
+> 1999
 
 * Became single-session school.
 * Formation of the Pupils’ Creed and Pledge.
 
-&gt; 2004
+> 2004
 
 * Underwent PRIME upgrading.
 * Entrance of the school changed to face Marsiling Road and addressed changed to 11 Marsiling Road.
 * Designated Innovation Centre for the Cluster
 
-&gt; 2009
+> 2009
 
 Visit by PM Lee Hsien Loong.
 
 ![](/images/About%20us/km4.jpeg)
 
 
-&gt; 2011
+> 2011
 
 * WDL entered Singapore Book of Records for completing largest origami roses display consisting of 90 111 roses measuring 15m by 12.5m.
 * Official Opening of the Indoor Sports Hall by founding Principal Mrs. Nararanaswamy and Mrs Julia Woo.
 
-&gt; 2012
+> 2012
 
 * Celebration of 30th anniversary.
 * Official Opening of School Synthetic Field by GOH Mr. Fandi Ahmad.
@@ -88,12 +82,12 @@ Visit by PM Lee Hsien Loong.
 ![](/images/About%20us/km5.jpeg)
 
 		 
-&gt; 2014
+> 2014
 
 * Initiated Cohort Based Overseas VIA for Sec 3 students.
 * Our Pioneer Teacher Mr. Thirumaran Thangaraju awarded the Most Inspiring Tamil Teacher Award
 
-&gt; 2015
+> 2015
 
 * Awarded the School Distinction Award with 4 Best Practices
 * Launch of the Woodlands Heritage Trail as part of SG50 Celebrations.
@@ -101,13 +95,13 @@ Visit by PM Lee Hsien Loong.
 ![](/images/About%20us/km6.jpeg)
 
 
-&gt; 2017
+> 2017
 
 WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.
 ![](/images/About%20us/km7.jpeg)
 
 
-&gt; 2018
+> 2018
 
 * Launch of new Vision, Mission and Values
 * Our teachers Mr M. Gnanasekaran awarded the Most Inspiring Tamil Teacher (MITT) Award and Mr R. Thuraimanikam awarded the MITT Lifetime achievement award. 
@@ -116,7 +110,7 @@ WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.
 
 ![](/images/About%20us/km9.jpeg)
 
-&gt; 2019
+> 2019
 
 * WDL became National Champions of the Singapore Schools Sports Council National Inter-School Sepak Takraw Tournament for both ‘B’ &amp; 'C' Divisions.
 
@@ -126,7 +120,7 @@ WDL celebrates its 35th Anniversary with Mdm Halimah Yacob as Guest-of-Honour.
 
 ![](/images/About%20us/km11.jpeg)
 
-&gt; 2022
+> 2022
 
 Despite COVID Safe Management Measures, WDL celebrates its 40th anniversary.
 ![](/images/About%20us/40th%20parade.jpg)
