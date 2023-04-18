@@ -70,7 +70,7 @@ And when the going gets tough&nbsp;
 And everything just seems so rough  
 I know that I’m not alone  
   
-**Chorus**&nbsp;  
+**Chorus**
 I believe we can conquer dreams&nbsp;  
 I believe we can reach for greater heights&nbsp;  
 I believe we can do anything as one&nbsp;  
