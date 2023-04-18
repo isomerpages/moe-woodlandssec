@@ -3,12 +3,6 @@ title: Clubs & Societies
 permalink: /ccas/clubs-and-societies/
 description: ""
 ---
-<style type="text/css">
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  
-
-body, * { font-family: 'Open Sans', sans-serif !important; }
-.bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
-</style>
 ### Infocomm & Media Club
 
 ![](/images/CCAs/Infocomm_club3-scaled.jpeg)
