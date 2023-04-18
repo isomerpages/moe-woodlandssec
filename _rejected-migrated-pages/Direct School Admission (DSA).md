@@ -40,7 +40,7 @@ Successful applicants will be offered a place in Woodlands Secondary School for 
 .tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
 .tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 809px">
+<br><table class="tg" style="undefined;table-layout: fixed; width: 809px">
 <colgroup>
 <col style="width: 105px">
 <col style="width: 100px">
@@ -75,7 +75,8 @@ Successful applicants will be offered a place in Woodlands Secondary School for 
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Community Youth Leadership</span><br><span style="font-weight:inherit;font-style:inherit">(Boys and Girls)</span><br><span style="font-weight:inherit;font-style:inherit">(</span><a href="/wdl-experience/llp/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#034289;background-color:transparent">Visit LLP page</span></a><span style="font-weight:inherit;font-style:inherit">)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Leadership position in class/ CCA/ school, such as Prefectorial Board, Captain or President</span><br><span style="font-weight:inherit;font-style:inherit">2. Has achieved at least a “Very Good” conduct rating for Primary 5 and Primary 6 semesters</span><br><span style="font-weight:inherit;font-style:inherit">3. Has the passion to help those who are less fortunate and able to empathise and take care of others</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Interview* for shortlisted applicants (July-August)</span><br><span style="font-weight:inherit;font-style:inherit">2. Presentation of portfolio from shortlisted applicants on their community involvement within and beyond school (during interview)</span><br><br><span style="font-weight:inherit;font-style:italic">*Information on the interview will be provided to the shortlisted applicants.</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Training opportunities to be Youth Ambassadors where they would mentor and facilitate school events such as Values-in-Action and be a guide for the Woodlands Heritage Trail</span><br><span style="font-weight:inherit;font-style:inherit">2. Opportunities to lead in school-wide events</span><br><span style="font-weight:inherit;font-style:inherit">3. Student Leadership Camps</span><br><span style="font-weight:inherit;font-style:inherit">Attachment opportunities to 4. NorthWest Youth Assembly and champion youth causes.</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Training opportunities to be Youth Ambassadors where they would mentor and facilitate school events such as Values-in-Action and be a guide for the Woodlands Heritage Trail</span><br><span style="font-weight:inherit;font-style:inherit">2. Opportunities to lead in school-wide events</span><br><span style="font-weight:inherit;font-style:inherit">3. Student Leadership Camps</span><br><span style="font-weight:inherit;font-style:inherit">4. Opportunities to participate in external conferences and leadership
+program opportunities i.e. National Youth Environment conference, North West CDC Youth Assembly etc..</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Science, Technology, Engineering and Mathematics</span></td>
