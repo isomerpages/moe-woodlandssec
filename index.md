@@ -18,7 +18,7 @@ sections:
         - title: Contact us
           description: ""
           url: /contact-us/
-      title: Every Woodlander a GIFT to society
+      title: Every Woodlander a <span class="hlik">Gift</span> to society
       subtitle: How are you grown to become a gift to society?
       button: Find out more
       url: /wdl-experience/applied-learning-programme/
