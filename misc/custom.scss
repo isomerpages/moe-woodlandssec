@@ -339,7 +339,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Custom
 	  
 // Custom text
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Parisienne&display=swap');
 
 body, * {
   font-family: 'Open Sans', sans-serif !important;
@@ -431,3 +431,8 @@ h1 {
   opacity: .5 !important; 
   transition: .3s;
 }
+
+.hlik {
+  font-family: 'Parisienne', 'Open Sans', sans-serif !important; 
+  color: #fff5b9;
+	
