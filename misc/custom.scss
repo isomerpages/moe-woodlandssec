@@ -432,12 +432,6 @@ h1 {
   transition: .3s;
 }
 
-.hlik {
-  font-family: 'Tangerine', cursive, 'Open Sans', sans-serif !important; 
-  color: #fff5b9;
-  font-size: 1.3em;
-}
-
 .bp-hero-body {
   h1 {
     .is-hidden-touch, 
@@ -445,4 +439,29 @@ h1 {
       font-weight: 400 !important;
     }
   }
+}
+	  
+	  
+.hlik {
+  font-family: 'Tangerine', cursive, 'Open Sans', sans-serif !important; 
+  color: #fff5b9;
+  font-size: 1.3em;
+	
+  &:before {
+    background: linear-gradient(45deg, #fff, #fff5b9);
+    content: "";
+    filter: blur(5px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+  }
+	
+  &:hover:before {
+	  opacity:1
+}
+	
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
 }
