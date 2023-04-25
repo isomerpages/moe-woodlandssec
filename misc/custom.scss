@@ -446,18 +446,11 @@ h1 {
   font-family: 'Tangerine', cursive, 'Open Sans', sans-serif !important; 
   color: #fff5b9;
   font-size: 1.3em;
-	
-  &:before {
-    background: linear-gradient(45deg, #fff, #fff5b9);
-    content: "";
-    filter: blur(5px);
-    animation: glowing 20s linear infinite;
-    opacity: 0;
-    transition: opacity .3s ease-in-out;
-  }
-	
-  &:hover:before {
-	  opacity:1
+  background: linear-gradient(45deg, #fff, #fff5b9);
+  filter: blur(5px);
+  animation: glowing 20s linear infinite;
+  opacity: 0;
+  transition: opacity .3s ease-in-out;
 }
 	
 @keyframes glowing {
