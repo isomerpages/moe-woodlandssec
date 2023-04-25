@@ -439,6 +439,9 @@ h1 {
 
 .bp-hero-body {
   h1 {
-    font-weight: 300;
+    .is-hidden-touch, 
+    .is-hidden-desktop {
+      font-weight: 300 !important;
+    }
   }
 }
