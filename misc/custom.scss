@@ -440,7 +440,13 @@ h1 {
     }
   }
 }
-	  
+
+@keyframes hero-gift-glow {
+  0% {filter: blur(0); font-size: 1.3em;}
+  50% {filter: blur(1.5rem); font-size: 2em;}
+  100% (filter: blur(0); font-size: 1.3em}
+}
+
 	  
 .hero-gift-text {
   font-family: 'Tangerine', cursive, 'Open Sans', sans-serif !important; 
@@ -452,8 +458,3 @@ h1 {
   animation-timing-function: ease-in-out;
 }
 
-@keyframes hero-gift-glow {
-  0% {filter: blur(0); font-size: 1.3em;}
-  50% {filter: blur(1.5rem); font-size: 2em;}
-  100% (filter: blur(0); font-size: 1.3em}
-}
