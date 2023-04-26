@@ -442,9 +442,18 @@ h1 {
 }
 	  
 	  
-.hlik {
+.hero-gift-text {
   font-family: 'Tangerine', cursive, 'Open Sans', sans-serif !important; 
   color: #fff5b9;
   font-size: 1.3em;
+  animation-name: hero-gift-glow;
+  animation -duration: 4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
 }
 
+@keyframes hero-gift-glow {
+  0% {filter: blur(0); font-size: 1.3em;}
+  50% {filter: blur(1.5rem); font-size: 2em;}
+  100% (filter: blur(0); font-size: 1.3em}
+}
