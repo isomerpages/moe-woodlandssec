@@ -442,9 +442,9 @@ h1 {
 }
 
 @keyframes hero-gift-glow {
-  0% {filter: blur(0); font-size: 1.3em;}
+  from {filter: blur(0); font-size: 1.3em;}
   50% {filter: blur(1.5rem); font-size: 2em;}
-  100% (filter: blur(0); font-size: 1.3em;}
+  to (filter: blur(0); font-size: 1.3em;}
 }
 
 	  
