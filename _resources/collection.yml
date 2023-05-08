@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Handbook.md
-      - Booklists & Uniform.md
       - Counselling.md
       - Education and Career Guidance (ECG).md
       - Special Education Needs.md
