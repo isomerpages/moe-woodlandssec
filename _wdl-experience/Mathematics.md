@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /wdl-experience/mathematics/
 description: ""
 ---
-
 ### Developing Gifts to Society
 
 Every Woodlander a creative problem solver and caring citizen.
@@ -29,6 +28,3 @@ Every Woodlander a creative problem solver and caring citizen.
 
 ![](/images/WhatsApp-Image-2021-10-28.jpg)
 
-#### Additional resources
-
-[NT Maths Lessons](/nt-math-lessons/)
