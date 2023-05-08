@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-
 ### A hope-building school of the community
 
 Since 1982, Woodlands Secondary School is a hope-building school for the community. We believe that secondary education is a journey of building abilities and creating potential. We appreciate what our students bring to the school, take great effort to help them discover their value, and develop them into gifts to society.
