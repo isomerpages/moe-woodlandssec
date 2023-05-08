@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Booklists & Uniform.md
       - NT Maths Lessons.md
       - Lower Sec Experience.md
       - Contact Information.md
