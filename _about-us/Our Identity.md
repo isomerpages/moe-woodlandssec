@@ -42,6 +42,9 @@ Our alma mater to cherish evermore
 
 
 ### School Crest
+
+![](/images/schoolcrest.png)
+
 &gt; The overall blue tone
 
 * Reflects the setting of the school near the sea. 
