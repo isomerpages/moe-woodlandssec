@@ -447,3 +447,24 @@ h1 {
   font-size: 1.3em;
 }
 
+.two-column-container {
+	display: flex;
+
+	.column-half-width {
+		flex: 1;
+	}
+	.column-one-third-width {
+		flex: 1;
+	}
+	.column-two-third-width {
+		flex: 2;
+	}
+}
+	
+					
+
+
+	  
+
+	  
+
