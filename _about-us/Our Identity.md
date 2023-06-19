@@ -43,7 +43,7 @@ Our alma mater to cherish evermore
 
 ### School Crest
 
-![](/images/schoolcrest.png)
+<img style="width:50%" src="/images/schoolcrest.png">
 
 &gt; The overall blue tone
 
