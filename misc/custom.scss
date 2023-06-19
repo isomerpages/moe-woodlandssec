@@ -447,16 +447,13 @@ h1 {
   font-size: 1.3em;
 }
 
-.two-column-container {
+.columns-container {
 	display: flex;
 
-	.column-half-width {
+	.column-one-part-width {
 		flex: 1;
 	}
-	.column-one-third-width {
-		flex: 1;
-	}
-	.column-two-third-width {
+	.column-two-part-width {
 		flex: 2;
 	}
 }
