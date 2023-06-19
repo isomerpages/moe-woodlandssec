@@ -21,7 +21,7 @@ Nurturing Enduring Hearts and Creative Minds Ready to Serve Society
 **T**rustworthiness
 
 ### School Song
-<iframe src="https://www.youtube.com/embed/zEWDNjv24Fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/zEWDNjv24Fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Woodlanders stand tall and proud  
 Honest in word, thought and deed  
@@ -42,19 +42,21 @@ Our alma mater to cherish evermore
 
 
 ### School Crest
+<div class="multi-columns-container">
+	<div class="column-one-part-width">
+		<img src="/images/schoolcrest.png" style="width:50%">
+	</div>
+	<div class="column-two-part-width">
 
-<img src="/images/schoolcrest.png" style="width:50%">
-
-&gt; The overall blue tone 
-
+		<blockquote> The overall blue tone </blockquote>
 * Reflects the setting of the school near the sea. 
 * Blue represents harmony, serenity and a closeness to nature.
 
-&gt; The six-pointed golden star 
+		<blockquote> The six-pointed golden star 	</blockquote> 
 
 Encompasses the total development of the individual's academic, physical, social, emotional, aesthetic and moral aspects that will be strengthened to a fineness represented by the points of the star.
 
-&gt; The stylised W
+		<blockquote> The stylised W		</blockquote> 
 
 * Designed as a soaring bird 
 * Representing purity of spirit and ambition to reach greater heights. 
@@ -81,4 +83,4 @@ I put pride in the freedom that I have&nbsp;
 With this freedom, I won’t lose respect&nbsp;  
 That I feel for each and everyone&nbsp;  
 Never stray from the ray of wisdom&nbsp;  
-Achieve our goals through lifelong learning
+Achieve our goals through lifelong learning</div></div>
