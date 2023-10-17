@@ -13,7 +13,8 @@ To apply, you may do so using one of the following methods:
 
 *   Apply to MOE directly via [FormSG](https://form.gov.sg/632432ba67747a0011d4a0cc)
 *   [Download the application form](/files/MOE-FAS-2023-Application-Form.pdf) and submit it to the school’s General Office.
-
+*   [New 2024 application form](/files/2024 MOE FAS Application Form-WDLS-20231016.pdf)
+  
 ##### 2) IMDA NEU-PC PROGRAMME
 
 IMDA’s Home Access programme provides 2 years of subsidised broadband to low-income households. For details, please visit [https://eservice.imda.gov.sg/das/homepage](https://eservice.imda.gov.sg/das/homepage). Application forms can be obtained from the school.
