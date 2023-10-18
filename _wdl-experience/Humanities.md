@@ -18,7 +18,7 @@ As Humanities subjects are new to secondary school students, the following is do
 ### Key Programmes
 #### Growing all Woodlanders
 
-> Geography
+&gt; Geography
 
 **Experiential learning**
 
@@ -26,7 +26,7 @@ As Humanities subjects are new to secondary school students, the following is do
 * Simulations through card game lessons  
 * Virtual field trips through Google Cardboard VR Goggles
 
-> History
+&gt; History
 
 **Collaborative Learning where students work together for skills development**
 
@@ -36,25 +36,28 @@ As Humanities subjects are new to secondary school students, the following is do
 * Upper Sec using Lego Museum for War In Europe events  
 * Inquiry Based Learning projects to Hitler’s rule
 
-> Social Studies
+&gt; Social Studies
 
 * Collaborative Learning and Self directed Learning to Issues Investigation scenarios for IBL  
 * Self-directed playlist for ICT resources and videos using Nearpod and Edpuzzle  
 * Cohort Activities for Sec 3 students to self explore the topic on Diversity
+	
+	
+
 
 
 #### Stretching those with strong interests
-> Geography
+&gt; Geography
 
 * NUS Geography Challenge  
 * Full Geography option at Upper Sec
 
-> History
+&gt; History
 
 * Lower Sec-NLB Historical Investigation Challenge  
 * Upper Sec-Model UN participation for History and Social Studies Students.
 
-> Social Studies
+&gt; Social Studies
 
 * Upper Sec-Model UN participation for History and Social Studies Students.
 

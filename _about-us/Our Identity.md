@@ -21,7 +21,7 @@ Nurturing Enduring Hearts and Creative Minds Ready to Serve Society
 **T**rustworthiness
 
 ### School Song
-<iframe src="https://www.youtube.com/embed/zEWDNjv24Fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/zEWDNjv24Fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Woodlanders stand tall and proud  
 Honest in word, thought and deed  
@@ -43,14 +43,14 @@ Our alma mater to cherish evermore
 
 ### School Crest
 
-<img src="/images/schoolcrest.png" style="width:50%">
+<img style="width:50%" src="/images/schoolcrest.png">
 
-&gt; The overall blue tone 
+&gt; The overall blue tone
 
 * Reflects the setting of the school near the sea. 
 * Blue represents harmony, serenity and a closeness to nature.
 
-&gt; The six-pointed golden star 
+&gt; The six-pointed golden star
 
 Encompasses the total development of the individual's academic, physical, social, emotional, aesthetic and moral aspects that will be strengthened to a fineness represented by the points of the star.
 
