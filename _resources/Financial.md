@@ -12,8 +12,7 @@ The Ministry of Education provides financial assistance to Singaporean students 
 To apply, you may do so using one of the following methods:
 
 *   Apply to MOE directly via [FormSG](https://form.gov.sg/632432ba67747a0011d4a0cc)
-*   [Download the application form](/files/MOE-FAS-2023-Application-Form.pdf) and submit it to the school’s General Office.
-*   [New 2024 application form](/files/2024 MOE FAS Application Form-WDLS-20231016.pdf)
+*   [Download the application form](/files/2024 MOE FAS Application Form-WDLS-20231016.pdf) and submit it to the school’s General Office.
   
 ##### 2) IMDA NEU-PC PROGRAMME
 
