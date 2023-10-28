@@ -1,0 +1,14 @@
+collections:
+  archived-pages:
+    output: true
+    order:
+      - Booklists & Uniform.md
+      - NT Maths Lessons.md
+      - Lower Sec Experience.md
+      - Contact Information.md
+      - Achievements.md
+      - Sec 1 Registration.md
+      - E Open House 2021.md
+      - E Open House 2020.md
+      - Distinctive Programmes.md
+      - 40th Anniversary.md
