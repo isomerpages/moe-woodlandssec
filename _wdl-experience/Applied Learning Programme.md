@@ -45,13 +45,10 @@ Science Competition/Enrichment activities to stretch students’ potential. This
 * Code for Fun programme
 * STEM Stretch programme
 
-![](/images/Draft/alp.jpg)
-
-![](/images/WDL%20Experience/alp.jpeg)
-
-![](/images/WDL%20Experience/alp2.jpeg)
-
-![](/images/a20-1.jpeg)
-
 ![](/images/applied-learning-2023-01.jpg)
 
+![](/images/applied-learning-2023-02.jpg)
+
+![](/images/applied-learning-2023-03.jpg)
+
+![](/images/applied-learning-2023-04.jpg)
