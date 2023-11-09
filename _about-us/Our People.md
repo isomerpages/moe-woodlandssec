@@ -2,6 +2,7 @@
 title: Our People
 permalink: /about-us/our-people/
 description: ""
+variant: markdown
 ---
 ### School Advisory Committee
 
@@ -28,7 +29,7 @@ Mr |	Tay Hong Joo Steven |	Vice-Principal
 Mr |	Abdul Latiff Bin Omar |	HOD / Craft &amp;Technology
 Mdm |	Goh Hui Shi |	HOD / Mathematics
 Mdm |	Lee Silk Yen April |	HOD / Character &amp; Citizenship Education (CCE)
-Mr |	Mohamed Razif Bin Abdul Hamed |	HOD / Physical Education <br>&amp; Co-Curricular Activities <br>(PE &amp; CCA)
+|	
 Mr |	Tay Yong Chiang |	HOD / Student Management
 Mdm |	Teo Jia Yin Sarah	 |HOD / English Language
 Mr |	Phua Poh Boon |	HOD / Mother Tongue Language
@@ -45,10 +46,9 @@ Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
 Miss | Tan Mingli Yvonne |	SH / Biology <br>FT for 3Respect
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 2Resilience
 Mdm |	Jamakyah Binte Adhar | AYH (Sec 2)
-Mdm |	Aw Siao Hwee |	AYH (Sec 3)
-Mr |	Luo Yanjie |	SH / Geography<br>FT for 5Growth
+Mdm |	Aw Siao Hwee |	AYH (Sec 3) |	
 Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 1Trustworthiness
-Miss | Seah Wei Ee |	ST / English Language
+Miss | Seah Wei Ee |	ST / LT
 Mr |	M Gnanasekaran |	ST / Tamil Language<br>FT for 2Respect1
 Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br>FT for 3Appreciation
 Mdm |	Zou Yan |	ST / Chinese<br>FT for 1Empathy
@@ -72,25 +72,21 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | Mrs |	Sam Shin Peng	| 1Appreciation |
 | Mr |	Chia Soon Hann Justin Ian |	1Trustworthiness |
 | Mdm |	Khoo Ying Ling Elaine | 1Trustworthiness<br>ST / Chemistry |
-| Mr |	Lee Jia Xin |	1Trustworthiness |
 | Ms	|	Ong Xin Yan, Alyssa	|	2Growth |
 | Miss |	V K Tamilselvi	|	2Growth |
 | Mdm |	Fazliah Bte Abdul Latiff	|	2Respect1 |
 | Miss |	Tay Li Ching	|	2Respect1 |
 | Mr |	Lin Zhaowei	|	2Respect2 |
 | Mr |	M Gnanasekaran | 2Respect2<br>ST / Tamil Language |
-| Mdm |	Rozilawati Bte Kasran	|	2Respect2 |
 | Miss |	Lee Li Hwa Brenda	| 2Resilience |
 | Mr |	Tuong Ze Wei Wilson	| 2Resilience<br>SH / Mathematics |
 | Mr |	Donovan Liew Yi Heng	|	2Empathy |
-| Miss |	Low May Ann Shawna	|	2Empathy |
 | Miss |	Ng Ling Nee Faith	|	2Empathy |
 | Mdm |	Low Eng Ngee	|	2Appreciation |
 | Mr |	Tan Jia Xuan Kin	|	2Appreciation |
 | Mr |	Muhammad Tirmidzi Bin Khalid	|	2Trustworthiness |
 | Mdm |	Norashikin Binti Atan	|	2Trustworthiness |
 | Mr |	Chun Guan Yang	|	3Growth |
-| Mr |	Oh Chin Chye Richard	|	3Growth |
 | Mdm |	Khairunnisa Binte Zulkifli |	3Respect |
 | Miss |	Tan Mingli Yvonne | 3Respect<br>SH / Biology |
 | Mr |	Tay Chor Kwang |	3Resilience |
@@ -145,7 +141,6 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Ms |	Fajariah Saban |	Flexi (Counselling) |
 | Ms |	Maimunah Mosli |	Flexi (Counselling) |
-| Mdm |	Yeo Lay Hoon (Mrs Whelan) |	Flexi (Science) |
 
 
 
@@ -157,7 +152,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | Mr |	Ahmad Zaharan Bin Mohamed Din |	Operations Manager |
 | Mr |	Foo Jong Meng John |	Operations Manager |
 | Mr |	Suka Ekiriwang |	ICT Manager |
-| Miss |	Siti Kamisah Binte Mohamad Aman |	Adjunct ICT Manager |
+| Miss |	Shawn Vaulmen Scully |	Adjunct ICT Associate |
 | Miss |	Nursiah Binte Sulaiman |	CSO |
 | Mdm |	Sulastri Binte Sapari |	CSO |
 | Mdm |	Chan Sook Yee Catherine |	CSO |
@@ -180,7 +175,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | --- | --- | ---|
 | Mr	| Subramaniyam Jekanathan	| ECG Counsellor | 
 | Mr	| Phil Wong |	Youth Worker| 
-| Ms	| Charlene Tan Qiu Ling |	School Health Assistant| 
+| Ms	| Nirmalaj Kumar |	School Health Assistant| 
 | Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian| 
 | Mr	| Nicholas Anak Yanga |	Desktop Engineer| 
 | Mr	| Prithividharsanan |	Desktop Engineer|
