@@ -2,6 +2,7 @@
 title: Learning for Life Programme
 permalink: /wdl-experience/llp/
 description: ""
+variant: markdown
 ---
 ## Community Youth Leadership
 ### Developing Gifts to Society
@@ -30,16 +31,19 @@ Inspiring students to lead and mentor in VIA & Community Youth Leadership (CYL) 
 Tier 1 programmes caters to all students across Sec 1 to 5 with the following themes:  
   
 ##### Secondary 1: Contributing to School Community  
-Through applying principles of design thinking, students developed empathy and a sense of appreciation towards the unsung heroes in the school community and formulate ideas to improve the school through gardening.
-
-##### Secondary 2: Serving the Immediate Community  
 Students served the elderly through identifying their needs and collaborated with community partners like North West CDC and Sunlove Marsiling Senior Activity Centre where they get to come together and deliver an NDP Goodie Bag for the elderly.
 
-##### Secondary 3: Redefining Boundaries  
-Our students develop these competencies and values of empathy, care and responsibility towards others through training workshops and practise them through our Values-in-Action (VIA) platforms. At Sec 3, the Glocal Citizens Programme reaches its high point with an online cohort overseas experience with students from Cambodia, Thailand and New Zealand. Through this friendly online exchange, the school hopes to encourage our students to become future Community Youth Leaders by forging relationships with others and be active contributors to society.
+Through applying principles of design thinking, students developed empathy and a sense of appreciation towards the unsung heroes in the school community and formulate ideas and plan to perform VIA and interaction with elderly in the neighbourhood.
 
-##### Secondary 4 and 5: Seniors Giving Back - Mentoring and Advocacy  
-Over the years of developing the understanding of their role as active citizens, the graduating students dedicate their time for the betterment of our Singapore future/society through advocacy projects of their choice focusing on Conservation and Sustainability.  
+##### Secondary 2: Serving the ASEAN Community  
+Our students develop competencies and values of empathy, care and responsibility towards others through training workshops and practise them through our Values-in-Action (VIA) platforms. At Sec 2, the Glocal Citizens Programme reaches its high point with an cohort overseas trip to ASEAN countries. They gain experience through VIA and interaction with students from countries such as Cambodia and Vietnam. Through this the school hopes to encourage our students to become future Community Youth Leaders by forging relationships with others and be active contributors to society.
+
+##### Secondary 3: Advocacy for Environment and Sustainnability 
+Students are challenged to view environmental stewardship as a global responsibility. It inspires innovative, collaborative, and interdisciplinary approaches to address environmental challenges while encouraging the integration of diverse cultural perspectives. By tapping on the Singapore Green Plan, students can align their advocacy initiatives with a vision of global environmental stewardship that redefines the traditional confines of sustainability efforts, contributing to a more inclusive and sustainable future for both Singapore and the world.
+
+##### Secondary 4 and 5: Empowerment through Choice: Be a Change Maker
+This theme emphasizes the power of choice and individual agency in advocacy. It encourages Sec 4 & 5 students to explore, identify, and passionately advocate for causes that are personally meaningful to them. It celebrates their diverse interests, passions, and the unique ways in which they can contribute to making a positive impact on the world. This theme highlights the idea that advocacy is a powerful tool for change, and by empowering students to choose their causes, the school can harness their intrinsic motivation and commitment to drive meaningful change in their communities and beyond
+
   
 At Tier 1, students attend a workshop to acquire knowledge on servant leadership before engaging in community problem-solving through their Values-in-Action projects.
 

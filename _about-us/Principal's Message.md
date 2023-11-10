@@ -2,6 +2,7 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
 ### A hope-building school of the community
 
