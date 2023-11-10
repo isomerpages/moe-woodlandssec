@@ -31,8 +31,8 @@ As Woodlanders come from different backgrounds with different levels of language
 
 > Effective communication programme
 
-*   Sec 1 students will be acquiring skills on storytelling and social media presentation skills, which will facilitate their learning in the reading aloud component in the oral examination
-*   Sec 2 and 3 students will be acquiring skills to generate quick and clear ideas on the spot, verbalising them in a structured manner, which will facilitate their learning in the spoken interaction component in the oral examination
+*   Sec 1 students will be acquiring skills on storytelling, drama and social media presentation skills, which will facilitate their learning in communicating with purpose and a good awareness of the audience.
+*   Sec 2 and 3 students will be acquiring skills to generate quick and clear ideas on the spot, verbalising them in a structured manner, which will facilitate their learning in the oral examination
 
 ### Key Programmes
 
@@ -40,7 +40,7 @@ As Woodlanders come from different backgrounds with different levels of language
 
 >  Secondary 1
 
-* Effective communication enrichment that involves storytelling and social media presenting
+* Effective communication enrichment that involves storytelling, drama and social media presenting
 * Curated magazine with interesting articles for reading activities and discussions in class 
 
 >  Secondary 2 
@@ -65,4 +65,4 @@ As Woodlanders come from different backgrounds with different levels of language
 
 * Morning student banter to showcase talents and hone speaking skills
 * Emceeing opportunities for schoolwide events
-* Featured essays, stories and poetry in the termly Woodlands Newsletter
+* Featured essays, stories and poetry in the Woodlands Literacy Website
