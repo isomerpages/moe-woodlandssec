@@ -2,10 +2,10 @@
 title: Uniformed Groups
 permalink: /ccas/uniformed-groups/
 description: ""
+variant: markdown
 ---
 <div class="top-button-container">
 	<a class="top-button" href="#1">Boy's Brigade</a>
-	<a class="top-button" href="#2">Girl Guides</a>
 	<a class="top-button" href="#3">NCC</a>
 	<a class="top-button" href="#4">NCDCC</a>
 	<a class="top-button" href="#5">NPCC</a>
@@ -23,7 +23,7 @@ description: ""
 
 ##### Teachers-in-Charge
 
-Mr Tan Eng Hui  (OIC) <br />
+Mr Tan Eng Hui  (OIC) <br>
 Mr Lim Kian Beng  
 Miss Kee Jing Yee  
 
@@ -47,14 +47,14 @@ HQ activities and trainings on some Saturdays for selected Boys.
 
 
 <a class="sm-container" href="https://www.instagram.com/bb_sixty6/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@bb_sixty6</span>
+	<img class="sm-icon" src="/images/instagram.jpeg">
+	<span class="sm-text">@bb_sixty6</span>
 </a>
 
 
  
  
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) with the following key outcomes:
 
@@ -69,48 +69,14 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 | - | - | 
 | JM Fraser Award 2022 | Silver | 
 | JM Fraser Award 2020 | Gold | 
-| Founders' Awardees 2020 | Awarded to <br /> - SSGT Loh Qi Won, Sylvester <br /> - SSGT Gan Shiu Kuan <br /> - SSGT Tan Jin Xiang | 
+| Founders' Awardees 2020 | Awarded to <br> - SSGT Loh Qi Won, Sylvester <br> - SSGT Gan Shiu Kuan <br> - SSGT Tan Jin Xiang | 
 | JM Fraser Award 2019 | Silver | 
 
---------
 
 <a id="2"></a>
 
-### Girl Guides
 
-![](/images/CCAs/girl-guides.jpeg)
-
-##### Teachers-in-Charge
-
-Miss Lee Li Hwa Brenda (OIC)  
-Miss Uma Sankgery d/o Pandyan (AIC)  
-Miss Divyalakshmi d/o Muthu Saminathan
-
-##### Weekly Training Schedule
-* Tuesdays, 1445H - 1730H/1830H
-
-HQ activities and trainings on some Saturdays for selected Guides.
-
-##### Key Info & Programmes
-
-*   Leadership & Character Development
-*   Outdoor Skills Training
-*   UN Sustainable Development Goals Advocacy
-*   Community Involvement in Sree Narayana Mission
-*   Annual Camp to foster bonding & Teamwork
-
-
-##### Recent Achievements
-
-|  | |
-| - | - | 
-| 2022 Puan Noor Aishah (Unit Proficiency ) Award | Bronze | 
-| 2019 Puan Noor Aishah (Unit Proficiency ) Award | Gold | 
-| 2019 North Division Masterchef | 1st | 
-| 2019 North Division Telematch | 1st | 
-| 2018 Puan Noor Aishah (Unit Proficiency ) Award | Gold | 
-| 2018 North Division Amazing Race | 3rd | 
-| 2018 North Division Outdoor Challenge | Patrol Flag (1st) | 
+ 
 
 
 --------
@@ -138,13 +104,13 @@ Tuesdays, 1445H - 1730H/1830H
 ##### Social Media
 
 <a class="sm-container" href="https://www.instagram.com/wdl_ncc/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@wdl_ncc</span>
+	<img class="sm-icon" src="/images/instagram.jpeg">
+	<span class="sm-text">@wdl_ncc</span>
 </a>
 
 
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 **Objective**
 
@@ -204,13 +170,13 @@ Tuesdays, 1445H - 1730H/1830H
 ##### Social Media
 
 <a class="sm-container" href="https://www.instagram.com/wdl_ncdcc/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@wdl_ncdcc</span>
+	<img class="sm-icon" src="/images/instagram.jpeg">
+	<span class="sm-text">@wdl_ncdcc</span>
 </a>
 
  
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 **Objectives:**    
 **We Learn, We Lead, We Serve**
@@ -225,7 +191,7 @@ Tuesdays, 1445H - 1730H/1830H
 *   Drills excellence
 *   Proficiency badges
 *   Structured community service
-*   Sports & Wellness Programme
+*   Sports &amp; Wellness Programme
 
 
 
@@ -262,17 +228,17 @@ Tuesdays, 1445H - 1730H/1830H
 ##### Social Media
 
 <a class="sm-container" href="https://www.instagram.com/wdl_npcc/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@wdl_npcc</span>
+	<img class="sm-icon" src="/images/instagram.jpeg">
+	<span class="sm-text">@wdl_npcc</span>
 </a>
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 *   Crime Scene Investigation (CSI) - where cadets will learn how to analyse the crime scene and get to experience how to dust for finger prints for evidence.
 *   Unarmed Tactics - where cadets learn the basics of self-defence from SPF trainers.
-*   Annual .22 Revolver Shooting - Sec 2 & 3 will get to experience live shooting using a real revolver.
-*   Adventure training camp & Survival training camp at Pulau Ubin.
-*   Enrichment courses like 1st Aid, Kayaking 1 Star, Self defence & Shooting.
+*   Annual .22 Revolver Shooting - Sec 2 &amp; 3 will get to experience live shooting using a real revolver.
+*   Adventure training camp &amp; Survival training camp at Pulau Ubin.
+*   Enrichment courses like 1st Aid, Kayaking 1 Star, Self defence &amp; Shooting.
 
 
 ##### Recent Achievements
@@ -280,6 +246,6 @@ Tuesdays, 1445H - 1730H/1830H
 |  | |
 | - | - | 
 | 2022 Overall Unit Proficiency Award | Gold Award | 
-| 2011 - 2019 Overall Unit Proficiency Award | Gold Award <br />(for 9 consecutive years)| 
-| 2020 SPF-NPCC Badge | 1 Recipient <br /> (9 in total for the past 7 years) | 
+| 2011 - 2019 Overall Unit Proficiency Award | Gold Award <br>(for 9 consecutive years)| 
+| 2020 SPF-NPCC Badge | 1 Recipient <br> (9 in total for the past 7 years) | 
 | 2019 Inter-Unit Drill Competition | Top 50 |
