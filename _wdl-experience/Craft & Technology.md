@@ -2,6 +2,7 @@
 title: Craft & Technology
 permalink: /wdl-experience/craft-and-technology/
 description: ""
+variant: markdown
 ---
 ### Developing Gifts to Society
 
@@ -45,9 +46,8 @@ Every Woodlander a creative and innovative talent who will lead to inspire in va
 
 * Opportunity to showcase talents at various platforms
 
+![](/images/CraftnTech_2023_01.jpg)
 
-![](/images/Departments/dnt.jpg)
+![](/images/CraftnTech_2023_02.jpg)
 
-![](/images/Departments/fce.jpg)
-
-![](/images/Departments/art.jpg)
+![](/images/CraftnTech_2023_03.jpg)
