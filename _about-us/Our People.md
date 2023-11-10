@@ -112,7 +112,6 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | Mr |	Lim Kian Beng |	4Trustworthiness |
 | Miss |	Saranya d/o K Thayalan |	4Trustworthiness |
 | Miss |	Divyalakshmi d/o Muthu Saminathan |	5Growth |
-| Mr |	Luo Yanjie | 5Growth<br>SH / Geography |
 | Mdm |	Foo Elaine |	- |
 | Miss |	Govindasamy Raja Lakshmi | - |
 | Mdm |	Liyana Binte Kamsani |	- |
@@ -152,7 +151,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | Mr |	Ahmad Zaharan Bin Mohamed Din |	Operations Manager |
 | Mr |	Foo Jong Meng John |	Operations Manager |
 | Mr |	Suka Ekiriwang |	ICT Manager |
-| Miss |	Shawn Vaulmen Scully |	Adjunct ICT Associate |
+| Mr |	Shawn Vaulmen Scully |	Adjunct ICT Associate |
 | Miss |	Nursiah Binte Sulaiman |	CSO |
 | Mdm |	Sulastri Binte Sapari |	CSO |
 | Mdm |	Chan Sook Yee Catherine |	CSO |

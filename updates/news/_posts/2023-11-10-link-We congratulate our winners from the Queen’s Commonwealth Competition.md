@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.instagram.com/p/CzDdxAohsC_/?img_index=1
+external: https://www.instagram.com/p/CzDdxAohsC_/?img_index=1
 ---
