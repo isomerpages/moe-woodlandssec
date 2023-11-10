@@ -15,7 +15,7 @@ variant: markdown
 | Chairman  | Mr Malik Bin Maksudi |
 | Vice-Chairman  | Mr Selvarajan Balamurugan  |
 | Secretary  | Mrs Tay Yang Fern |
-| Members  | Mr Kevin Oh Beng Lein  <br>Mr Md Zin Bin Handair   <br>Mr Ng Meng Liang   <br>Mr Nicholas Michael   <br>Mr Ong Wong Hoon   <br>Dr Radiah Binti Salim    |
+| Members  | Mr Lim Kok Hwa  <br>Mr Mehrotra Meenesh Dayakrishan   <br>Mr Tan Kwan Chuen Marcus        <br>Dr Radiah Binti Salim    |
 
 
 
