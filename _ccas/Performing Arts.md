@@ -49,6 +49,10 @@ Mdm Fu Jian Ning Janny
 
 WDL Choir was started in 2020.
 
+|  | |
+| - | - | 
+| 2023 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
+
 
 -------
 <a id="2"></a>
