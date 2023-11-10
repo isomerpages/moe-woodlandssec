@@ -175,7 +175,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | --- | --- | ---|
 | Mr	| Subramaniyam Jekanathan	| ECG Counsellor | 
 | Mr	| Phil Wong |	Youth Worker| 
-| Ms	| Nirmalaj Kumar |	School Health Assistant| 
+| Ms	| Nirmala Jaya Kumar |	School Health Assistant| 
 | Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian| 
 | Mr	| Nicholas Anak Yanga |	Desktop Engineer| 
 | Mr	| Prithividharsanan |	Desktop Engineer|
