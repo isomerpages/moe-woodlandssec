@@ -2,6 +2,7 @@
 title: Performing Arts
 permalink: /ccas/performing-arts/
 description: ""
+variant: markdown
 ---
 <div class="top-button-container">
 	<a class="top-button" href="#1">Choir</a>
@@ -31,11 +32,11 @@ Mdm Fu Jian Ning Janny
 ##### Social Media
 
 <a class="sm-container" href="https://www.instagram.com/wdl_choir/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@wdl_choir</span>
+	<img class="sm-icon" src="/images/instagram.jpeg">
+	<span class="sm-text">@wdl_choir</span>
 </a>
 	
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 *   SYF Presentation (biennial)
 *   School Aesthetics Showcase (biennial)
@@ -60,27 +61,28 @@ WDL Choir was started in 2020.
 
 Miss Seah Wei Ee (OIC)  
 Mr Mohamed Adri Bin Mohamed Rafik Alkhatib
+Ms Isabell Ng Pei Min
 
 ##### Weekly Training Schedule
-* Tuesdays, 1445H - 1730H/1800H
-* Thursdays, 1500H - 1800H
+* Tuesdays, 1445H - 1800H
 
 
 ##### Social Media
 
 <a class="sm-container" href="https://www.instagram.com/wdlsymphonicband/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@wdlsymphonicband</span>
+	<img class="sm-icon" src="/images/instagram.jpeg">
+	<span class="sm-text">@wdlsymphonicband</span>
 </a>
 
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 *   SYF Presentation on alternate years
 *   School Aesthetics Showcase on alternate years
 *   School Performances for school festive events celebrations and National Day.
 *   Community involvement via the Values in Action Programme.
 *   Annual Band camp to foster bonding and teamwork.
+*   Enrichment Performance(s) to widen musical exposure
 
 ##### Recent Achievements
 
@@ -109,7 +111,7 @@ Miss Lim Zhi Xuan
 * Thursdays, 1600H - 1800H
 
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 *   Singapore Youth Festival Arts Presentation
 *   School Aesthetic Showcase
@@ -151,13 +153,13 @@ Ms Ong Xin Yan, Alyssa
 ##### Social Media
 
 <a class="sm-container" href="https://www.instagram.com/wdl_eldds/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@wdl_eldds</span>
+	<img class="sm-icon" src="/images/instagram.jpeg">
+	<span class="sm-text">@wdl_eldds</span>
 </a>
 
 
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 **Debates:**
 
@@ -199,13 +201,13 @@ Mdm Liyana Binte Kamsani
 ##### Social Media
 
 <a class="sm-container" href="https://www.instagram.com/alunan_sutera/">
-	<img class="sm-icon" src="/images/instagram.jpeg" />
-	<span class="sm-text" >@alunan_sutera</span>
+	<img class="sm-icon" src="/images/instagram.jpeg">
+	<span class="sm-text">@alunan_sutera</span>
 </a>
 
 
 
-##### Key Info & Programmes
+##### Key Info &amp; Programmes
 
 *   SYF Arts Presentation
 *   Team Bonding Sessions
