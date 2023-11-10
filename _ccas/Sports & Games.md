@@ -2,6 +2,7 @@
 title: Sports & Games
 permalink: /ccas/sports-and-games/
 description: ""
+variant: markdown
 ---
 <div class="top-button-container">
 	<a class="top-button" href="#1">Athletics</a>
@@ -149,7 +150,8 @@ Mr Mohamad Noorhisham
 Mr Tan Jia Xuan Kin
 
 ##### Weekly Training Schedule
-* Tuesdays, 1445H - 1730H/1800H
+* Tuesdays, 1500H - 1730H
+* Wednesday, 1530H - 1730H (Optional)
 * Fridays, 1430H - 1700H
 
 ##### Social Media
