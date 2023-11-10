@@ -2,6 +2,7 @@
 title: Character & Citizenship Education (CCE)
 permalink: /wdl-experience/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
 ### Developing Gifts to Society
 
@@ -17,7 +18,7 @@ Our key approaches in CCE to nurture every woodlander as future-ready citizens i
 
 ### Key Programmes
 
-##### GRM<sup>2</sup>EAT values inculcation
+##### GR<sup>2</sup>EAT values inculcation
 
 As the most important pillarstone for Character and Citizenship Education, the school implement a robust curriculum revolving around the 3 core concepts of Identity, Relationships and Choices to inculcate values on Growth, Respect, Resilience, Empathy, Appreciation and Trustworthiness across different platforms such as CCE lesson, projects and even through academic subjects.
 
