@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /wdl-experience/mathematics/
 description: ""
+variant: markdown
 ---
 ### Developing Gifts to Society
 
@@ -22,8 +23,8 @@ Every Woodlander a creative problem solver and caring citizen.
 #### Stretching those with strong interests
 * Lower Sec Math π-neers.
 
-![](/images/Departments/Mathdept1.jpg)
+![](/images/Math_2023_01.jpg)
 
 ![](/images/IMG_20210914_093114-1024x768.jpg)
 
-![](/images/WhatsApp-Image-2021-10-28.jpg)
+![](/images/Math_2023_03.jpg)
