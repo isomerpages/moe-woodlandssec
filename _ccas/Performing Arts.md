@@ -124,6 +124,7 @@ Miss Lim Zhi Xuan
 
 |  | |
 | - | - | 
+| 2023 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2021 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
 | 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
 | 2017 Singapore Youth Festival Arts Presentation | Certificate of Achievement | 
