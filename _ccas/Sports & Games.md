@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 <div class="top-button-container">
-	<a class="top-button" href="#1">Athletics</a>
 	<a class="top-button" href="#2">Badminton</a>
 	<a class="top-button" href="#3">Basketball</a>
 	<a class="top-button" href="#4">Football (Girls)</a>
@@ -16,37 +15,7 @@ variant: markdown
 
 ----
 
-<a id="1"></a>
 
-### Athletics
-
-![](/images/CCAs/athletics.jpeg)
-
-##### Teachers-in-Charge
-
-Mdm Chin Kah Ying (OIC)  
-Mr Teoi Boey Jia  
-Mr Lin Zhaowei
-
-##### Weekly Training Schedule
-* Tuesdays, 1445H - 1730H/1800H
-* Thursdays, 1600H - 1800H
-
-
-##### Key Info &amp; Programmes
-
-*   National School Games Championships
-*   Akira SWIFT X-Country
-*   Evergreen Invitational Road Challenge
-*   WINGS ACTIVESG X-CountryChampionship
-
-##### Recent Achievements
-
-|   |   |
-|  --- |---   | 
-| 2019 National School Games Championships 'C' Division Boys | Semi-finalists | 
-
---------
 <a id="2"></a>
 
 
