@@ -59,7 +59,7 @@ WDL Choir was started in 2020.
 
 ### Concert Band
 
-![](/images/Concert_Band_2023_01.jpg)
+![](/images/Concert_Band_2023_01A.jpg)
 
 ##### Teachers-in-Charge
 
