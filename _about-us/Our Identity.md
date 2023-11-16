@@ -2,6 +2,7 @@
 title: Our Identity
 permalink: /about-us/our-identity/
 description: ""
+variant: markdown
 ---
 ### Our Vision
 
@@ -11,7 +12,7 @@ Every Woodlander a Gift to Society
 
 Nurturing Enduring Hearts and Creative Minds Ready to Serve Society
 
-### Our School Values - GRE<sup>2</sup>AT
+### Our School Values - GR<sup>2</sup>EAT
 
 **G**rowth  
 **R**espect  
