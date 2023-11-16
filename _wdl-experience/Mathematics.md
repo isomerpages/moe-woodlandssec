@@ -23,8 +23,8 @@ Every Woodlander a creative problem solver and caring citizen.
 #### Stretching those with strong interests
 * Lower Sec Math π-neers.
 
-![](/images/Math_2023_01.jpg)
+![](/images/Math_2023_01B.jpg)
 
 ![](/images/IMG_20210914_093114-1024x768.jpg)
 
-![](/images/Math_2023_03.jpg)
+![](/images/Math_2023_03A.jpg)
