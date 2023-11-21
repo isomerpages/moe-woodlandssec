@@ -1,6 +1,5 @@
 ---
 title: Fireside Chat and Guided School Tour
-
 date: 2023-11-21
 layout: post
 description: ""
