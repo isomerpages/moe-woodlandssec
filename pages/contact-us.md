@@ -24,12 +24,7 @@ contacts:
           href="https://www.instagram.com/woodlandssec/">Instagram</a><br/><a
           href="https://youtube.com/@woodlandssecsch">YouTube</a>
     title: "Follow Us "
----
-
-<!-- This is the end of the YAML front matter, HTML content should go after this line -->
-
-<div class="school-canteen-advertisement">
-  <h2>School Canteen Advertisement</h2>
-  <p>For more details, <a href="https://sites.google.com/moe.edu.sg/wdlss-canteenadvertisement/home">click here</a></p>
-</div>
+  - content:
+      - other: "School Canteen Advertisement<br /><a href=\"https://sites.google.com/moe.edu.sg/wdlss-canteenadvertisement/home\">For more details, click here</a>"
+    title: "School Canteen Advertisement"
 ---
