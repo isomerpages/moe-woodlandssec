@@ -25,6 +25,6 @@ contacts:
           href="https://youtube.com/@woodlandssecsch">YouTube</a>
     title: "Follow Us "
   - content:
-      - other: "School Canteen Advertisement<br /><a href=\"https://sites.google.com/moe.edu.sg/wdlss-canteenadvertisement/home\">For more details, click here</a>"
+      - other: "<a href=\"https://sites.google.com/moe.edu.sg/wdlss-canteenadvertisement/home\">For more details, click here</a>"
     title: "School Canteen Advertisement"
 ---
