@@ -200,12 +200,11 @@ At the end of their secondary education, each player will:
 ##### Teachers-in-Charge
 
 Mr Ahmad Hosaini Bin Noor (OIC)  
-Mdm Nabila Bte Awalluddin
 Ms Nurul Deena Binte Maamon  
 
 ##### Weekly Training Schedule
-* Tuesdays, 1445H - 1730H/1800H
-* Fridays, 1430H - 1700H
+* Tuesdays, 1500H - 1800H
+* Fridays, 1430H - 1730H
 
 ##### Key Info &amp; Programmes
 
