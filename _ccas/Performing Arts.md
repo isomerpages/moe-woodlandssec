@@ -63,13 +63,13 @@ WDL Choir was started in 2020.
 
 ##### Teachers-in-Charge
 
-Miss Seah Wei Ee (OIC)  
+Ms Seah Wei Ee (OIC)  
 Mr Mohamed Adri Bin Mohamed Rafik Alkhatib  
 Ms Isabell Ng Pei Min
 
 ##### Weekly Training Schedule
-* Tuesdays, 1445H - 1800H
-
+* Tuesdays, 1445H - 1830H
+* Thursdays, 1445H - 1830H
 
 ##### Social Media
 
