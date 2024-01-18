@@ -32,6 +32,6 @@ As the school is committed to nurture every Woodlander as gifts to the society, 
 
 ##### MOE Sexuality Education
 
-Please click [here](URL_OF_YOUR_PDF_ON_GITHUB) for more information.
+Please click [here](files/2024 Info on SEd for schs website.pdf) for more information.
 
 ---
