@@ -29,3 +29,9 @@ In preparing Woodlanders as gifts to the society, the school develops the citize
 ##### Student leadership
 
 As the school is committed to nurture every Woodlander as gifts to the society, learning opportunities in line with Servant Leadership philosophy is curated to develop our students as community youth leaders, ready to take on the challenge in contributing back to the society in the future.
+
+##### MOE Sexuality Education
+
+Please click [here](URL_OF_YOUR_PDF_ON_GITHUB) for more information.
+
+---
