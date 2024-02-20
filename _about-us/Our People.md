@@ -36,7 +36,7 @@ Mr |	Phua Poh Boon |	HOD / Mother Tongue Language
 Mrs |	Lechimi Devi Ramesh |	HOD / Humanities
 Mr |	Lee Choon Kiong |	HOD / Science
 Mr |	Wan Weng Kin Cornelius |	HOD / Infocomm Technology (ICT)
-Mr |  Zhuo Gensheng |	HOD / PE &amp; CCA
+Mr |  Zhuo Gensheng Jason |	HOD / PE &amp; CCA
 Mr |	Ong Wun Wee Ivan |	School Staff Developer
 Mr |	Teo Chee Chong |	HOD Normal (Technical)
 Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 1 IC
