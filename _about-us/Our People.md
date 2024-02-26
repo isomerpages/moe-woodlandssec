@@ -29,7 +29,6 @@ Mr |	Tay Hong Joo Steven |	Vice-Principal
 Mr |	Abdul Latiff Bin Omar |	HOD / Craft &amp;Technology
 Mdm |	Goh Hui Shi |	HOD / Mathematics
 Mdm |	Lee Silk Yen April |	HOD / Character &amp; Citizenship Education (CCE)
-|	
 Mr |	Tay Yong Chiang |	HOD / Student Management
 Mdm |	Teo Jia Yin Sarah	 |HOD / English Language
 Mr |	Phua Poh Boon |	HOD / Mother Tongue Language
@@ -39,22 +38,21 @@ Mr |	Wan Weng Kin Cornelius |	HOD / Infocomm Technology (ICT)
 Mr |  Zhuo Gensheng Jason |	HOD / PE &amp; CCA
 Mr |	Ong Wun Wee Ivan |	School Staff Developer
 Mr |	Teo Chee Chong |	HOD Normal (Technical)
-Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 1 IC
-Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec) / Sec 4&amp;5 IC
-Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>
-Miss |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education <br>FT for 4Appreciation1
-Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 3Appreciation
+Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 2 IC
+Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec)
+Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>FT for 4Respect
+Miss |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
+Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 4Appreciation
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
-Miss | Tan Mingli Yvonne |	SH / Biology <br>FT for 3Respect
-Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 2Resilience
-Mdm |	Jamakyah Binte Adhar | AYH (Sec 2)
-Mdm |	Aw Siao Hwee |	AYH (Sec 3) |	
-Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 1Trustworthiness
+Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 3Resilience
+Mdm |	Jamakyah Binte Adhar | AYH (Sec 1)
+Mdm | Siti Farhana Binte Abdullah | AYH (Sec 3)
+Mdm |	Aw Siao Hwee |	AYH (Sec 4&amp;5) |	
+Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 2Trustworthiness
 Miss | Seah Wei Ee |	ST / LT
-Mr |	M Gnanasekaran |	ST / Tamil Language<br>FT for 2Respect1
-Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br>FT for 3Appreciation
-Mdm |	Zou Yan |	ST / Chinese<br>FT for 1Empathy
-Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
+Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br>FT for 4Appreciation
+Mdm |	Zou Yan |	ST / Chinese<br>FT for 2Empathy
+Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 
 
 
@@ -127,19 +125,26 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 
 | Name | | Position |
 | --- | --- | ---|
-| Mr |	Muhammad Firdaus Bin Madi |	Student Welfare Officer |
+| Mr |	Pang Kah Hwee |	Student Welfare Officer |
 | Miss |	Norsara Binte Azman |	SEN Officer |
 | Miss |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
-| Mr |	Sow Yian Chiong |	Flexi (Chinese Language) |
+| Mr |  Wong Mun Chung | ECG Counsellor |
+| Mr |	Zhao Chuan |	Flexi (Chinese Language) |
 | Mr |	Abdullah Bin Hassan |	Flexi (Design &amp; Technology) |
 | Mr |	Andrew Tung Song Khai |	Flexi (Design &amp; Technology) |
+| Ms | Rachel Shamini Mohan | Flexi (English Language) |
+| Mr | Caleb Cheong Wan Yin | Flexi (English Language) |
 | Mdm |	Loh Woon Kum |	Flexi (Design &amp; Technology) |
 | Ms |	Yuslin Binte Yusoff |	Flexi (Food &amp; Consumer Education) |
 | Mdm |	Lim Jia Wen |	Flexi (Mathematics) |
-| Ms |	Sidtharshini D/O Manunethi |	Flexi (Mathematics) |
-| Mrs |	Sam Shin Peng |	Flexi (Mathematics) |
+| Ms |	Teo Ling Yen |	Flexi (Mathematics) |
+| Ms |	Sitini Binte Ramli |	Flexi (Mathematics) |
+| Ms | Tan Bee Wan | Flexi (Science) |
+| Mdm | Intan Badariah Bushra | Flexi (Science) |
 | Mdm |	Titi Murni Monir |	Flexi (Humanities) |
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
+| Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
+| Mrs | Priscilla Wijayaratna Reteesh | Flexi (Art) |
 | Ms |	Fajariah Saban |	Flexi (Counselling) |
 | Ms |	Maimunah Mosli |	Flexi (Counselling) |
 
@@ -159,23 +164,20 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 4Appreciation2
 | Mdm |	Chan Sook Yee Catherine |	CSO |
 | Ms |	Nurhidayah Abdul Aziz	Adjunct | CSO |
 | Ms |	Siti Adilah Binte Aripin |	TSO |
-| Ms |	Tan Cheng Lan Jasmine |	TSO |
+| Mdm |	Tan Cheng Lan Jasmine |	TSO |
 | Mr |	Jumari Bin Sarkan |	TSO |
 | Mr |	Roszelan Bin Mohd Yusof |	TSO |
-| Mdm |	Azizah Bte Jabbar |	OSO |
 | Mdm |	Lim Swee Inn |	OSO |
 | Mdm |	Siti Rohana Binte Sardar |	OSO |
 | Mdm |	Sumathi d/o Utirapaty |	OSO |
 | Mr |	Tan How Liang |	OSO |
-| Mr |	Wan Mat Din Bin Jamaludin |	OSO |
 
 
 ### Other Support Staff
 
 | Name | | Position |
 | --- | --- | ---|
-| Mr	| Subramaniyam Jekanathan	| ECG Counsellor | 
-| Mr	| Phil Wong |	Youth Worker| 
+| Mr | Wan Mat Din Bin Jamaludin | OSO Support |
 | Ms	| Nirmala Jaya Kumar |	School Health Assistant| 
 | Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian| 
 | Mr	| Nicholas Anak Yanga |	Desktop Engineer| 
