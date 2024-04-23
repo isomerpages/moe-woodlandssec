@@ -25,7 +25,7 @@ Shortlisted applicants will be notified of the trial and interview dates which t
 
 ##### **Offer of Places**
 
-Selected students will receive DSA-Sec offer by **12 September**.
+Selected students will receive DSA-Sec offer by **mid September**.
 
 Successful applicants will be offered a place in Woodlands Secondary School for the academic year 2025.
 
