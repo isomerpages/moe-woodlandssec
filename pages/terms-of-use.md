@@ -8,73 +8,65 @@ permalink: /terms-of-use/
 body, * { font-family: 'Open Sans', sans-serif !important; }
 .bp-container h1 { letter-spacing: normal !important; font-weight: 300 !important;}
 </style>
+
+
+### **Terms of Use**
+
+Thank you for visiting Woodlands Secondary School website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
+
 ### **General**
-
-1.  Thank you for visiting this website (“Website”) which is owned and operated by the Woodlands Secondary School (“Woodlands Sec”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
     
-2.  Woodlands Sec reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes.
+These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
     
-
 ### **Proprietary Rights**
 
-1.  This Website and the materials made available on or through this Website (“Contents”), are protected by copyright, trademark and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by Woodlands Sec.
+1.  This website is owned and maintained by Woodlands Secondary School.
 
-### **Restrictions on use of Contents**
+2.  The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Woodlands Secondary School.
 
-1.  You may access and use this Website and the Contents in the manner permitted in these Terms of Use only.
-    
-2.  You may view, download and print the Contents for your personal, internal and non-commercial use, provided that you keep intact all accompanying copyright and other proprietary notices.
-    
-3.  You shall not make any deletions, additions, adjustments, alterations, adaptations or modifications to this Website or any of the Contents. You acknowledge and agree that any deletion, addition, adjustment, alteration, adaptation or modification of this Website or any of the Contents is a violation of intellectual property rights subsisting therein.
-    
-4.  Except as expressly permitted by these Terms of Use, you shall not reproduce, publish, upload, post, display, transmit or otherwise distribute this Website or any of the Contents in any manner or in any form, without the prior written permission of Woodlands Sec. You acknowledge and agree that any use of the Contents otherwise than in accordance with these Terms of Use is a violation of intellectual property rights subsisting therein
-    
+### **Privacy Policy**
 
-### **Disclaimers against Warranties, Representations and Liability**
+Click [here](https://www.woodlandssec.moe.edu.sg/privacy/) to review the website Privacy Statement.
 
-1.  This Website and the Contents are provided on an “as is” and “as available” basis without warranties of any kind. To the fullest extent permitted by law, Woodlands Sec does not make any representations or warranties whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:
-    
-    a. any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and
-    
-    b. any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.
-    
-2.  Woodlands Sec shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:
-    
-    a. your access to or use of this Website;
-    
-    b. any loss of access to or use of this Website, howsoever caused;
-    
-    c. any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Contents;
-    
-    d. any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise; or
-    
-    e. any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether Woodlands Sec has been advised of the possibility of such damage or loss.
-    
-3.  You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against Woodlands Sec, whether procedural or substantive in nature, in respect of any action that Woodlands Sec may or may not take in the exercise of its discretion, or in connection with Woodlands Sec’s roles as a government agency.
+### **Restrictions on Use of Materials**
 
-### **Indemnity**
+1.  Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Woodlands Secondary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
+    
+2.  Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Woodlands Secondary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Woodlands Secondary School.
+    
+### **Right of Access**
 
-1.  You hereby agree to indemnify Woodlands Sec and hold Woodlands Sec harmless from and against any and all claims, losses, liabilities, costs and expenses (including but not limited to legal costs and expenses on a full indemnity basis) made against or suffered or incurred by Woodlands Sec arising directly or indirectly out of:
-    
-    a. your access to or use of this Website; or
-    
-    b. your breach of any of these Terms of Use.
-    
+Woodlands Secondary School reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular external address to this website, at any time, without ascribing any reasons whatsoever.
 
-### **Availability, Right of Access, Changes to Website and Contents**
+### **Disclaimer of Warranties and Liability**
 
-1.  Woodlands Sec may at any time suspend the operation of this Website or all or any of the Contents for any period of time without any prior notice, whether for the purposes of Website updating and upgrading or system maintenance or otherwise.
+1.  The Contents of this website are provided on an “as is” basis without warranties of any kind. To the fullest extent permitted by law, Woodlands Secondary School does not warrant and hereby disclaims any warranty:
     
-2.  Woodlands Sec reserves all rights to deny or restrict access to this Website by any person, or to block access from a particular internet address to this Website, at any time without prior notice and without ascribing any reason whatsoever.
+    a. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
     
-3.  This Website and the Contents may be changed, modified, edited, removed or withdrawn by Woodlands Sec at its absolute discretion and at any time without prior notice.
+    b. that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements.
     
-4.  You shall obtain your own professional and/or legal advice relevant to your particular circumstances and conduct all necessary due diligence, including but not limited to making such investigations or seeking clarifications as may be appropriate, as regards any decision or action that you intend to take in relation to any matter concerning the Contents of this Website. This Website may not cover all information available on a particular issue.
-    
+2.  Woodlands Secondary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
-### **Hyperlinks from this Website to other websites**
+### **Links from This Website to Other Websites**
 
-1.  This Website contains hyperlinks to websites which are not maintained by Woodlands Sec. Woodlands Sec is not responsible for the contents or reliability of those Websites and does not necessarily endorse the views expressed in them. Woodlands Sec has no control over and cannot guarantee the accessibility or proper functioning of those websites. Further, Woodlands Sec shall not be liable to you or any third party for any damage or loss whatsoever arising from your access to those websites. Use of the hyperlinks and access to those websites are entirely at your own risk.
+1.  This website contains hyperlinks to websites which are not maintained by Woodlands Secondary School. Woodlands Secondary School is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+    
+2. Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Woodlands Secondary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
+
+### **Links from This Website to Other Websites**
+
+1.  Except as set forth below, caching and links to, and the framing of this website or any of the Contents are prohibited.
+    
+2. You must secure permission from Woodlands Secondary School prior to hyperlinking to, or framing, this website or any of the Contents, or engaging in similar activities. Woodlands Secondary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this website or any of the Contents.
+
+3. Your linking to, or framing any part of this website or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this website or any of the Contents.
+
+4. In no circumstances shall Woodlands Secondary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this website or any of the Contents.
+
+5. Woodlands Secondary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+
+6. Woodlands Secondary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this website or any of the Contents.
 
 ### **Governing Law**
 
