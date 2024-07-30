@@ -63,6 +63,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | --- | --- | ---|
 | Mr |	Tay Boon Kiat |	1Growth |
 | Mr |	Koh Furong Edwin |	1Growth |
+| Mdm | Nadzirah Bte Andi Mohamed Nasron | 1Growth <br>SH / Character Education |
 | Miss |	Grace Sum Lai Yee |	1Respect |
 | Miss | Sumaiyah Binte M Razaly |	1Respect |
 | Mr |	Teoi Boey Jia |	1Resilience |
