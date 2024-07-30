@@ -41,7 +41,7 @@ Mr |	Teo Chee Chong |	HOD Normal (Technical)
 Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 2 IC
 Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec)
 Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>FT for 4Respect
-Miss |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
+Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
 Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 4Appreciation
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 3Resilience
@@ -129,7 +129,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | --- | --- | ---|
 | Mr |	Pang Kah Hwee |	Student Welfare Officer |
 | Miss |	Norsara Binte Azman |	SEN Officer |
-| Miss |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
+| Ms |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
 | Mr |	Chua Yan Liang Kevin |	School Counsellor |
 | Mr |  Wong Mun Chung | ECG Counsellor |
 | Mr |	Sow Yian Chiong |	Flexi (Chinese Language) |
