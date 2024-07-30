@@ -41,11 +41,11 @@ Mr |	Teo Chee Chong |	HOD Normal (Technical)
 Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 2 IC
 Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec)
 Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>FT for 4Respect
-Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
+Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education<br>FT for 1Growth
 Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 4Appreciation
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 3Resilience
-Mdm |	Jamakyah Binte Adhar | SH Mother Tongue
+Mdm |	Jamakyah Binte Adhar | SH / Mother Tongue<br>FT for 2Empathy
 Mr | Lee Jian Liang Joel | AYH (Sec 1)
 Mdm | Siti Farhana Binte AbdullSh | AYH (Sec 3)
 Mdm |	Aw Siao Hwee |	AYH (Sec 4&amp;5) |	
@@ -84,7 +84,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mr | Tan Eng Hui | 2Resilience |
 | Mr |	Muhammad Kamal Bin Abdul Halim	|	2Empathy |
 | Mdm |	Zou Yan | 2Empathy<br>ST / Chinese Language |
-| Mr |	Kirshann Venu Das	|	2Empathy |
+| Mdm |	Jamakyah Binte Adhar | 2Empathy<br>SH / Malay Language |
 | Mr |	Lim Kian Beng	|	2Appreciation |
 | Mdm |	Nabila Binte Awalluddin	|	2Appreciation |
 | Mr |	Chia Soon Hann Justin Ian	|	2Trustworthiness |
@@ -99,6 +99,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mdm |	Siew Foong Keng |	3Empathy |
 | Mdm |	Low Eng Ngee | 3Appreciation |
 | Mr |	M Gnanasekaran | 3Appreciation |
+| Mr |	Kirshann Venu Das	|	3Appreciation |
 | Mr |	Muhammad Tirmidzi Bin Khalid | 3Trustworthiness |
 | Mdm |	Norashikin Binte Atan | 3Trustworthiness |
 | Mr |	Chun Guan Yang | 4Growth |
