@@ -153,9 +153,9 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 
 | Name | | Position |
 | --- | --- | ---|
-| Mr |	Wong Wei Keong Edwin |	Admin Manager |
 | Mr |	Ahmad Zaharan Bin Mohamed Din |	Operations Manager |
 | Mr |	Foo Jong Meng John |	Operations Manager |
+| Mdm | Jeslind Jau Siew Mei | Administrative Executive |
 | Mr |	Suka Ekiriwang |	ICT Manager |
 | Mr |	Shawn Vaulmen Scully |	Adjunct ICT Associate |
 | Miss |	Nursiah Binte Sulaiman |	CSO |
