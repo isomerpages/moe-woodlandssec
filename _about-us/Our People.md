@@ -75,6 +75,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Ms	|	Ong Xin Yan, Alyssa	|	1Appreciation |
 | Miss | Amelia Tjia Wei Linz |	1Trustworthiness |
 | Miss |	Lim Zhi Xuan | 1Trustworthiness |
+| Mr |	Syamil Bin Sabirin | 1Trustworthiness |
 | Mdm	|	Chin Kah Ying	|	2Growth |
 | Mr |	Mohd Adri Bin Mohd Rafik Alkhatib	|	2Growth |
 | Mr | Li Rui	|	2Respect |
@@ -83,6 +84,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mr | Tan Eng Hui | 2Resilience |
 | Mr |	Muhammad Kamal Bin Abdul Halim	|	2Empathy |
 | Mdm |	Zou Yan | 2Empathy<br>ST / Chinese Language |
+| Mr |	Kirshann Venu Das	|	2Empathy |
 | Mr |	Lim Kian Beng	|	2Appreciation |
 | Mdm |	Nabila Binte Awalluddin	|	2Appreciation |
 | Mr |	Chia Soon Hann Justin Ian	|	2Trustworthiness |
@@ -100,7 +102,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mr |	Muhammad Tirmidzi Bin Khalid | 3Trustworthiness |
 | Mdm |	Norashikin Binte Atan | 3Trustworthiness |
 | Mr |	Chun Guan Yang | 4Growth |
-| Mdm |	Nurul Deena Binte Maamon |	4Growth |
+| Mdm |	Intan Badariah Bushra |	4Growth |
 | Mr |	Lee Jing Xiang Eric | 4Respect<br>SH / Chemistry |
 | Mdm |	Khairunnisa Binte Zulkifli |	4Respect |
 | Miss |	Lee Li Hwa Brenda |	4Resilience |
@@ -109,14 +111,13 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mr |	Mohamad Noorhisham Bin Mohd Noor | 4Empathy |
 | Mdm |	Nurul Amalina Binte Jamaludin | 4Appreciation<br>SH / English Language |
 | Mr |	Mohamed Fazil B Aris | 4Appreciation<br>SH / Malay Language |
-| Mr |	Ahmad Hosaini B Noor |	4Trustworthiness |
 | Mr |	Wong Chin Choong Brian |	4Trustworthiness |
 | Mr |	Tan Jie Rong |	5Growth |
 | Mr |	Paik Shi Yang Robin | 5Growth<br>ST / Mathematics |
 | Mdm |	Foo Elaine |	- |
 | Miss |	Govindasamy Raja Lakshmi | - |
 | Mdm |	Liyana Binte Kamsani |	- |
-| Miss |	Low Qiao Xuan |	- |
+| Mr |	Leow Wen An |	- |
 | Mr |	Thirumaran S/O Thangaraju |	- |
 
 
