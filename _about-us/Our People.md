@@ -52,7 +52,7 @@ Mdm |	Aw Siao Hwee |	AYH (Sec 4&amp;5) |
 Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 2Trustworthiness
 Miss | Seah Wei Ee |	ST / LT
 Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br>FT for 4Appreciation
-Mdm |	Zou Yan |	ST / Chinese<br>FT for 2Empathy
+Mdm |	Zou Yan |	ST / Chinese Language<br>FT for 2Empathy
 Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 
 
