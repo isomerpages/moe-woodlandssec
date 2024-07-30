@@ -130,25 +130,20 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mr |	Pang Kah Hwee |	Student Welfare Officer |
 | Miss |	Norsara Binte Azman |	SEN Officer |
 | Miss |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
+| Mr |	Chua Yan Liang Kevin |	School Counsellor |
 | Mr |  Wong Mun Chung | ECG Counsellor |
-| Mr |	Zhao Chuan |	Flexi (Chinese Language) |
+| Mr |	Sow Yian Chiong |	Flexi (Chinese Language) |
 | Mr |	Abdullah Bin Hassan |	Flexi (Design &amp; Technology) |
-| Mr |	Andrew Tung Song Khai |	Flexi (Design &amp; Technology) |
 | Ms | Rachel Shamini Mohan | Flexi (English Language) |
 | Mr | Caleb Cheong Wan Yin | Flexi (English Language) |
 | Mdm |	Loh Woon Kum |	Flexi (Design &amp; Technology) |
-| Ms |	Yuslin Binte Yusoff |	Flexi (Food &amp; Consumer Education) |
-| Ms |	Lim Jia Wen |	Flexi (Mathematics) |
 | Ms |	Teo Ling Yen |	Flexi (Mathematics) |
 | Ms |	Sutini Binte Ramli |	Flexi (Mathematics) |
 | Ms | Tan Bee Wan | Flexi (Science) |
-| Mdm | Intan Badariah Bushra | Flexi (Science) |
 | Mdm |	Titi Murni Monir |	Flexi (Humanities) |
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
-| Mrs | Priscilla Wijayaratna Reteesh | Flexi (Art) |
-| Ms |	Fajariah Saban |	Flexi (Counselling) |
-| Ms |	Maimunah Mosli |	Flexi (Counselling) |
+
 
 
 
