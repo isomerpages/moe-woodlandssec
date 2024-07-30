@@ -45,8 +45,9 @@ Miss |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
 Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 4Appreciation
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 3Resilience
-Mdm |	Jamakyah Binte Adhar | AYH (Sec 1)
-Mdm | Siti Farhana Binte Abdullah | AYH (Sec 3)
+Mdm |	Jamakyah Binte Adhar | SH Mother Tongue
+Mr | Lee Jian Liang Joel | AYH (Sec 1)
+Mdm | Siti Farhana Binte AbdullSh | AYH (Sec 3)
 Mdm |	Aw Siao Hwee |	AYH (Sec 4&amp;5) |	
 Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 2Trustworthiness
 Miss | Seah Wei Ee |	ST / LT
