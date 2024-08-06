@@ -41,17 +41,17 @@ Mr |	Teo Chee Chong |	HOD Normal (Technical)
 Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 2 IC
 Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec)
 Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>FT for 4Respect
-Miss |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
+Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education<br>FT for 1Growth
 Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 4Appreciation
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 3Resilience
-Mdm |	Jamakyah Binte Adhar | AYH (Sec 1)
-Mdm | Siti Farhana Binte Abdullah | AYH (Sec 3)
+Mdm |	Jamakyah Binte Adhar | SH / Mother Tongue<br>FT for 2Empathy
+Mr | Lee Jian Liang Joel | AYH (Sec 1)
 Mdm |	Aw Siao Hwee |	AYH (Sec 4&amp;5) |	
 Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 2Trustworthiness
-Miss | Seah Wei Ee |	ST / LT
+Miss | Seah Wei Ee |	LT / EL
 Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br>FT for 4Appreciation
-Mdm |	Zou Yan |	ST / Chinese<br>FT for 2Empathy
+Mdm |	Zou Yan |	ST / Chinese Language<br>FT for 2Empathy
 Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 
 
@@ -62,6 +62,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | --- | --- | ---|
 | Mr |	Tay Boon Kiat |	1Growth |
 | Mr |	Koh Furong Edwin |	1Growth |
+| Mdm | Nadzirah Bte Andi Mohamed Nasron | 1Growth <br>SH / Character Education |
 | Miss |	Grace Sum Lai Yee |	1Respect |
 | Miss | Sumaiyah Binte M Razaly |	1Respect |
 | Mr |	Teoi Boey Jia |	1Resilience |
@@ -73,6 +74,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Ms	|	Ong Xin Yan, Alyssa	|	1Appreciation |
 | Miss | Amelia Tjia Wei Linz |	1Trustworthiness |
 | Miss |	Lim Zhi Xuan | 1Trustworthiness |
+| Mr |	Syamil Bin Sabirin | 1Trustworthiness |
 | Mdm	|	Chin Kah Ying	|	2Growth |
 | Mr |	Mohd Adri Bin Mohd Rafik Alkhatib	|	2Growth |
 | Mr | Li Rui	|	2Respect |
@@ -81,6 +83,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mr | Tan Eng Hui | 2Resilience |
 | Mr |	Muhammad Kamal Bin Abdul Halim	|	2Empathy |
 | Mdm |	Zou Yan | 2Empathy<br>ST / Chinese Language |
+| Mdm |	Jamakyah Binte Adhar | 2Empathy<br>SH / Malay Language |
 | Mr |	Lim Kian Beng	|	2Appreciation |
 | Mdm |	Nabila Binte Awalluddin	|	2Appreciation |
 | Mr |	Chia Soon Hann Justin Ian	|	2Trustworthiness |
@@ -95,10 +98,11 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mdm |	Siew Foong Keng |	3Empathy |
 | Mdm |	Low Eng Ngee | 3Appreciation |
 | Mr |	M Gnanasekaran | 3Appreciation |
+| Mr |	Kirshann Venu Das	|	3Appreciation |
 | Mr |	Muhammad Tirmidzi Bin Khalid | 3Trustworthiness |
 | Mdm |	Norashikin Binte Atan | 3Trustworthiness |
 | Mr |	Chun Guan Yang | 4Growth |
-| Mdm |	Nurul Deena Binte Maamon |	4Growth |
+| Mdm |	Intan Badariah Bushra |	4Growth |
 | Mr |	Lee Jing Xiang Eric | 4Respect<br>SH / Chemistry |
 | Mdm |	Khairunnisa Binte Zulkifli |	4Respect |
 | Miss |	Lee Li Hwa Brenda |	4Resilience |
@@ -107,14 +111,13 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mr |	Mohamad Noorhisham Bin Mohd Noor | 4Empathy |
 | Mdm |	Nurul Amalina Binte Jamaludin | 4Appreciation<br>SH / English Language |
 | Mr |	Mohamed Fazil B Aris | 4Appreciation<br>SH / Malay Language |
-| Mr |	Ahmad Hosaini B Noor |	4Trustworthiness |
 | Mr |	Wong Chin Choong Brian |	4Trustworthiness |
 | Mr |	Tan Jie Rong |	5Growth |
 | Mr |	Paik Shi Yang Robin | 5Growth<br>ST / Mathematics |
 | Mdm |	Foo Elaine |	- |
 | Miss |	Govindasamy Raja Lakshmi | - |
 | Mdm |	Liyana Binte Kamsani |	- |
-| Miss |	Low Qiao Xuan |	- |
+| Mr |	Leow Wen An |	- |
 | Mr |	Thirumaran S/O Thangaraju |	- |
 
 
@@ -126,26 +129,21 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | --- | --- | ---|
 | Mr |	Pang Kah Hwee |	Student Welfare Officer |
 | Miss |	Norsara Binte Azman |	SEN Officer |
-| Miss |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
+| Ms |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
+| Mr |	Chua Yan Liang Kevin |	School Counsellor |
 | Mr |  Wong Mun Chung | ECG Counsellor |
-| Mr |	Zhao Chuan |	Flexi (Chinese Language) |
+| Mr |	Sow Yian Chiong |	Flexi (Chinese Language) |
 | Mr |	Abdullah Bin Hassan |	Flexi (Design &amp; Technology) |
-| Mr |	Andrew Tung Song Khai |	Flexi (Design &amp; Technology) |
 | Ms | Rachel Shamini Mohan | Flexi (English Language) |
 | Mr | Caleb Cheong Wan Yin | Flexi (English Language) |
 | Mdm |	Loh Woon Kum |	Flexi (Design &amp; Technology) |
-| Ms |	Yuslin Binte Yusoff |	Flexi (Food &amp; Consumer Education) |
-| Ms |	Lim Jia Wen |	Flexi (Mathematics) |
 | Ms |	Teo Ling Yen |	Flexi (Mathematics) |
 | Ms |	Sutini Binte Ramli |	Flexi (Mathematics) |
 | Ms | Tan Bee Wan | Flexi (Science) |
-| Mdm | Intan Badariah Bushra | Flexi (Science) |
 | Mdm |	Titi Murni Monir |	Flexi (Humanities) |
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
-| Mrs | Priscilla Wijayaratna Reteesh | Flexi (Art) |
-| Ms |	Fajariah Saban |	Flexi (Counselling) |
-| Ms |	Maimunah Mosli |	Flexi (Counselling) |
+
 
 
 
@@ -153,9 +151,9 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 
 | Name | | Position |
 | --- | --- | ---|
-| Mr |	Wong Wei Keong Edwin |	Admin Manager |
 | Mr |	Ahmad Zaharan Bin Mohamed Din |	Operations Manager |
 | Mr |	Foo Jong Meng John |	Operations Manager |
+| Mdm | Jeslind Jau Siew Mei | Administrative Executive |
 | Mr |	Suka Ekiriwang |	ICT Manager |
 | Mr |	Shawn Vaulmen Scully |	Adjunct ICT Associate |
 | Miss |	Nursiah Binte Sulaiman |	CSO |
