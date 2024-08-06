@@ -47,10 +47,9 @@ Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 3Resilience
 Mdm |	Jamakyah Binte Adhar | SH / Mother Tongue<br>FT for 2Empathy
 Mr | Lee Jian Liang Joel | AYH (Sec 1)
-Mdm | Siti Farhana Binte AbdullSh | AYH (Sec 3)
 Mdm |	Aw Siao Hwee |	AYH (Sec 4&amp;5) |	
 Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 2Trustworthiness
-Miss | Seah Wei Ee |	ST / LT
+Miss | Seah Wei Ee |	LT / EL
 Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br>FT for 4Appreciation
 Mdm |	Zou Yan |	ST / Chinese Language<br>FT for 2Empathy
 Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
