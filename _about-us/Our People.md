@@ -39,17 +39,17 @@ Mr |  Zhuo Gensheng Jason |	HOD / PE &amp; CCA
 Mr |	Ong Wun Wee Ivan |	School Staff Developer
 Mr |	Teo Chee Chong |	HOD Normal (Technical)
 Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 2 IC
-Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec)
+Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec) / Sec 3 IC
 Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>FT for 4Respect
 Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education<br>FT for 1Growth
 Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 4Appreciation
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 3Resilience
-Mdm |	Jamakyah Binte Adhar | SH / Mother Tongue<br>FT for 2Empathy
+Mdm |	Jamakyah Binte Adhar | SH / Malay Language<br>FT for 2Empathy
 Mr | Lee Jian Liang Joel | AYH (Sec 1)
 Mdm |	Aw Siao Hwee |	AYH (Sec 4&amp;5) |	
 Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 2Trustworthiness
-Miss | Seah Wei Ee |	LT / EL
+Miss | Seah Wei Ee |	LT / English Language
 Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br>FT for 4Appreciation
 Mdm |	Zou Yan |	ST / Chinese Language<br>FT for 2Empathy
 Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
@@ -88,9 +88,10 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mdm |	Nabila Binte Awalluddin	|	2Appreciation |
 | Mr |	Chia Soon Hann Justin Ian	|	2Trustworthiness |
 | Mdm |	Khoo Ying Ling Elaine | 2Trustworthiness<br>ST / Chemistry |
+| Mr |	Leow Wen An	|	2Trustworthiness |
 | Mdm |	Fu Jian Ning Janny	|	3Growth |
 | Miss | Isabell Ng Pei Min | 3Growth |
-| Mr | Lim Zhaowei | 3Respect |
+| Mr | Lin Zhaowei | 3Respect |
 | Mr | Tok Yin Pin |	3Respect |
 | Mr |	Tuong Ze Wei Wilson	| 3Resilience<br>SH / Mathematics |
 | Miss |	V K Tamilselvi |	3Resilience |
@@ -110,7 +111,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mdm |	Ma Jiajing |	4Empathy |
 | Mr |	Mohamad Noorhisham Bin Mohd Noor | 4Empathy |
 | Mdm |	Nurul Amalina Binte Jamaludin | 4Appreciation<br>SH / English Language |
-| Mr |	Mohamed Fazil B Aris | 4Appreciation<br>SH / Malay Language |
+| Mr |	Mohamed Fazil B Aris | 4Appreciation<br>ST / Malay Language |
 | Mr |	Wong Chin Choong Brian |	4Trustworthiness |
 | Mr |	Tan Jie Rong |	5Growth |
 | Mr |	Paik Shi Yang Robin | 5Growth<br>ST / Mathematics |
@@ -151,6 +152,7 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 
 | Name | | Position |
 | --- | --- | ---|
+| Mrs | Kavitha D/O Kaliaperumal | Administration Manager |
 | Mr |	Ahmad Zaharan Bin Mohamed Din |	Operations Manager |
 | Mr |	Foo Jong Meng John |	Operations Manager |
 | Mdm | Jeslind Jau Siew Mei | Administrative Executive |
