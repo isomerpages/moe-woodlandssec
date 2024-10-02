@@ -2,8 +2,8 @@
 title: Financial
 permalink: /resources/financial/
 description: ""
+variant: markdown
 ---
-
 ### Financial Assistance
 
 ##### 1) FINANCIAL SUPPORT SCHEME (MOE-FAS)
@@ -20,6 +20,6 @@ IMDA’s Home Access programme provides 2 years of subsidised broadband to low-i
 
 ##### 3) OTHER SCHEMES
 
-The students who are not eligible for MOE-FAS will be given opportunities to apply for other bursaries such as MDIS, CDAC-SFCCA, A heart for student programme, Semb Corp Marine, Sri Sastha, Singapore Buddhist Lodge Education Foundation and Zonta Pari.
+The students who are not eligible for MOE-FAS will be given opportunities to apply for other bursaries such as CDAC-SFCCA Bursary, North West Heart for Students Programme, Straits Times School Pocket Money Funds (STSPMF), Nasser Saddique Bursary, Sembcorp Marine School Book Assistance Grant SchoolBAG, Chettiars' Temple Society (CTS) Education Awards, Singapore Buddhist Lodge Education Foundation and Zonta Pari.
 
 Application forms are available from the school. Parents/Guardians who need additional help can approach the school for further financial assistance.
