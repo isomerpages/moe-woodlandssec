@@ -11,7 +11,7 @@ variant: markdown
 The Ministry of Education provides financial assistance to Singaporean students from our Government and Government aided schools.  
 To apply, you may do so using one of the following methods:
 
-*   Apply to MOE directly via [FormSG](https://form.gov.sg/632432ba67747a0011d4a0cc)
+*   Apply to MOE directly via [FormSG](https://go.gov.sg/moe-efas)
 *   [Download the application form 2024](/files/2024 MOE FAS Application Form-WDLS-20231016.pdf) 
 *   [Download the application form 2025](/files/MOE_FAS_Application_Form_2025.pdf)
 *   and submit it to the school’s General Office.
