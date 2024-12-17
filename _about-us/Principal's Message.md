@@ -4,32 +4,17 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-### A hope-building school of the community
+It is with a great sense of gratitude that I join Woodlands Secondary School this year. Woodlands Secondary School has been a hope-building school for the community since 1982. I am honoured to join the school as the ninth Principal, and am committed to building on our strong foundation that have been laid by my predecessors. I would also like to take this opportunity to thank Mrs Tay Yang Fern, for bringing the school to new heights over the last 6 years in Woodlands Secondary School. 
 
-Since 1982, Woodlands Secondary School is a hope-building school for the community. We believe that secondary education is a journey of building abilities and creating potential. We appreciate what our students bring to the school, take great effort to help them discover their value, and develop them into gifts to society.
+At Woodlands Secondary School, we believe in growing our students to be confident individuals and our mission is to nurture enduring hearts and creative minds, so that they are ready to serve society. We are guided by our GR2EAT values of Growth, Respect, Resilience, Empathy, Appreciation, and Trustworthiness. Together with our mission, these values shape our educational approach.
 
-### Developing gifts to society with GR2EAT values 
+In today's rapidly changing world, it has become even more important to equip our students with the right mindsets, skillsets and toolsets for the future. Here, we believe in cultivating the practice of lifelong learning, understanding that new skills and knowledge can often seem challenging before they become second nature. We embrace effort and view mistakes as integral parts of the learning process and encourage our students to believe in their own capacity for **growth** and **resilience**. We strive to instil in them a deep respect for themselves and a sense of personal accountability for their development.
 
-> Building Resilient Woodlanders with a Growth Mindset
+We believe in helping our students flourish as an individual, living and working in a community. Here, we nurture our students' **respect** for themselves and others, foster their practice of **empathy** and **appreciation** for others, and guide them to be **trustworthy** individuals. We recognise that each student is unique, and everyone matters –Woodlanders are given a myriad of opportunities to explore diverse interests and grow in their potential.  
 
-We know it is no easy journey to work towards excellence. Woodlanders are guided by the school values of Growth and Resilience, and would expect new learning to be difficult. Everything is hard before it is easy. Hence, we see the struggles, the effort, the learning that comes from each mistake, and what appears impossible slowly becoming possible.
+As we embark on this journey together, I look forward to working with all of you to continue building Woodlands Secondary School as a hope-building school of the community. 
 
-> Respecting what Woodlanders bring, developing Trustworthy Woodlanders
-
-We value Trustworthiness, and Woodlanders act responsibly and always give their best. We applaud our teachers for being their lighthouse, patiently guiding them, caring for them, and cheering them on. In school, we provide a myriad of opportunities to expose Woodlanders to varied interests, and stretching those who found their strengths and interests further, respecting that Woodlanders are all different and everyone matters. In this second year of the pandemic, it is no exception. We remain committed and determined in providing our students as wholesome and holistic an education as possible.
-
-> Growing into Empathetic & Appreciative Woodlanders
-
-In serving the various communities, the value of Empathy is emphasised. Here, we see stories of how Woodlanders put themselves in the position of others when they act, understanding the needs of others and meeting them.
-
-Woodlanders also know they would not have come thus far on their own, and Appreciation is something that guides them to always count their blessings, and to remember to pay it forward.
-
-### Conclusion
-
-We hope with the information provided, you would have a better idea of what Woodlands Sec stands for. We are a school that appreciates what our students bring to the school, takes great effort to help them discover their value, and develop them into gifts to society.
-
-
-Thank you.
-
-Mrs Tay Yang Fern    
+Yours sincerely,<br>
+Mrs Rebecca Yim<br>
 Principal
+
