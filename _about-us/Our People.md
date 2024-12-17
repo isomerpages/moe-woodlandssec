@@ -14,7 +14,7 @@ variant: markdown
 | -------- | -------- | 
 | Chairman  | Mr Malik Bin Maksudi |
 | Vice-Chairman  | Mr Selvarajan Balamurugan  |
-| Secretary  | Mrs Tay Yang Fern |
+| Secretary  | Mrs Rebecca Yim  |
 | Members  | Mr Lim Kok Hwa  <br>Mr Mehrotra Meenesh Dayakrishan   <br>Mr Tan Kwan Chuen Marcus        <br>Dr Radiah Binti Salim    |
 
 
@@ -23,7 +23,7 @@ variant: markdown
 
 | Name | | Position | 
 | -------- | -------- |  -------- |
-| Mrs | Tay Yang Fern | Principal |
+| Mrs | Rebecca Yim  | Principal |
 Mdm |	Masayu Mahmud	| Vice-Principal
 Mr |	Tay Hong Joo Steven |	Vice-Principal
 Mr |	Abdul Latiff Bin Omar |	HOD / Craft &amp;Technology
