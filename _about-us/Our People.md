@@ -26,33 +26,38 @@ variant: markdown
 | Mrs | Rebecca Yim  | Principal |
 Mdm |	Masayu Mahmud	| Vice-Principal
 Mr |	Tay Hong Joo Steven |	Vice-Principal
-Mr |	Abdul Latiff Bin Omar |	HOD / Craft &amp;Technology
+Mdm |	Lee Silk Yen April |	HOD / Craft &amp; Technology
 Mdm |	Goh Hui Shi |	HOD / Mathematics
-Mdm |	Lee Silk Yen April |	HOD / Character &amp; Citizenship Education (CCE)
+Ms |	Nur Shahzreen Binte Mohd Taufik |	HOD / Character &amp; Citizenship Education (CCE)
 Mr |	Tay Yong Chiang |	HOD / Student Management
 Mdm |	Teo Jia Yin Sarah	 |HOD / English Language
 Mr |	Phua Poh Boon |	HOD / Mother Tongue Language
 Mrs |	Lechimi Devi Ramesh |	HOD / Humanities
 Mr |	Lee Choon Kiong |	HOD / Science
-Mr |	Wan Weng Kin Cornelius |	HOD / Infocomm Technology (ICT)
+Mr |	Wan Weng Kin Cornelius |	HOD / ICT
 Mr |  Zhuo Gensheng Jason |	HOD / PE &amp; CCA
 Mr |	Ong Wun Wee Ivan |	School Staff Developer
-Mr |	Teo Chee Chong |	HOD Normal (Technical)
-Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Sec) / Sec 2 IC
-Miss |	Nur Shahzreen Binte Mohd Taufik |	Year Head (Upper Sec) / Sec 3 IC
-Mr | Lee Jing Xiang Eric |	SH / Chemistry <br>FT for 4Respect
-Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education<br>FT for 1Growth
-Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language <br>FT for 4Appreciation
+Mr |	Teo Chee Chong |	Year Head (Upper Secondary) / Sec 3 IC
+Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Secondary) / Sec 1 IC
+Mr | Lee Jian Liang Joel | Assistant Year Head (Sec 2)
+Mdm |	Aw Siao Hwee |	Assistant Year Head (Sec 4 &amp; 5) |
+Mdm |	Rajeswari d/o Sinkaram |	SH / Biology
+Mr | Lee Jing Xiang Eric |	SH / Chemistry
+Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
+Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language 
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
-Mr | Tuong Ze Wei Wilson |	SH / Mathematics <br>FT for 3Resilience
-Mdm |	Jamakyah Binte Adhar | SH / Malay Language<br>FT for 2Empathy
-Mr | Lee Jian Liang Joel | AYH (Sec 1)
-Mdm |	Aw Siao Hwee |	AYH (Sec 4&amp;5) |	
-Mdm |	Khoo Ying Ling Elaine |	ST / Chemistry <br>FT for 2Trustworthiness
-Miss | Seah Wei Ee |	LT / English Language
-Mr |	Mohamed Fazil B Aris |	ST / Malay Language<br>FT for 4Appreciation
-Mdm |	Zou Yan |	ST / Chinese Language<br>FT for 2Empathy
-Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
+Mr | Tuong Ze Wei Wilson |	SH / Mathematics 
+Mdm |	Jamakyah Binte Adhar | SH / Malay Language
+Mr | Muhammad Tirmidzi Bin Khalid |	SH / CCA (Internal)
+Ms |	Uma Sankgery D/O Pandyan |	SH / ICT (Internal)
+Mdm | Khoo Ying Ling Elaine | ST / Chemistry
+Mdm | Zou Yan | ST / Chinese Language
+Mr | Abdul Latiff Bin Omar | ST / Design &amp; Technology
+Mr | Mohamed Fazil B Aris | ST / Malay Language
+Mr | Paik Shi Yang Robin | ST / Mathematics 
+
+
+
 
 
 
@@ -60,9 +65,10 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 
 | Name | | FT of class |
 | --- | --- | ---|
-| Mr |	Tay Boon Kiat |	1Growth |
-| Mr |	Koh Furong Edwin |	1Growth |
+| Mdm |	Khairunnisa Binte Zulkifli  |	1Growth |
+| Ms |	Sidtharshini D/O Manunethi |	1Growth |
 | Mdm | Nadzirah Bte Andi Mohamed Nasron | 1Growth <br>SH / Character Education |
+| Miss |	Grace Sum Lai Yee |	1Respect |
 | Miss |	Grace Sum Lai Yee |	1Respect |
 | Miss | Sumaiyah Binte M Razaly |	1Respect |
 | Mr |	Teoi Boey Jia |	1Resilience |
@@ -114,6 +120,60 @@ Mr | Paik Shi Yang Robin |	ST / Mathematics<br>FT for 5Growth
 | Mr |	Mohamed Fazil B Aris | 4Appreciation<br>ST / Malay Language |
 | Mr |	Wong Chin Choong Brian |	4Trustworthiness |
 | Mr |	Tan Jie Rong |	5Growth |
+| Mr |	Tay Boon Kiat |	1Growth |
+| Mdm	|	Chin Kah Ying	|	2Growth |
+| Mr |	Mohd Adri Bin Mohd Rafik Alkhatib	|	2Growth |
+| Mr | Li Rui	|	2Respect |
+| Miss |	Uma Sankgery D/O Pandyan	|	2Respect |
+| Miss |	Ng Ling Nee Faith | 2Resilience |
+| Mr | Tan Eng Hui | 2Resilience |
+| Mr |	Muhammad Kamal Bin Abdul Halim	|	2Empathy |
+| Mdm |	Zou Yan | 2Empathy<br>ST / Chinese Language |
+| Mdm |	Jamakyah Binte Adhar | 2Empathy<br>SH / Malay Language |
+| Mr |	Lim Kian Beng	|	2Appreciation |
+| Mdm |	Nabila Binte Awalluddin	|	2Appreciation |
+| Mr |	Chia Soon Hann Justin Ian	|	2Trustworthiness |
+| Mdm |	Khoo Ying Ling Elaine | 2Trustworthiness<br>ST / Chemistry |
+| Mr |	Leow Wen An	|	2Trustworthiness |
+| Mdm |	Fu Jian Ning Janny	|	3Growth |
+| Miss | Isabell Ng Pei Min | 3Growth |
+| Mr | Lin Zhaowei | 3Respect |
+| Mr | Tok Yin Pin |	3Respect |
+| Mr |	Tuong Ze Wei Wilson	| 3Resilience<br>SH / Mathematics |
+| Miss |	V K Tamilselvi |	3Resilience |
+| Mr |	I'dil Saladin Alamin B Salleh |	3Empathy |
+| Mdm |	Siew Foong Keng |	3Empathy |
+| Mdm |	Low Eng Ngee | 3Appreciation |
+| Mr |	M Gnanasekaran | 3Appreciation |
+| Mr |	Kirshann Venu Das	|	3Appreciation |
+| Mr |	Muhammad Tirmidzi Bin Khalid | 3Trustworthiness |
+| Mdm |	Norashikin Binte Atan | 3Trustworthiness |
+| Mr |	Chun Guan Yang | 4Growth |
+| Mdm |	Intan Badariah Bushra |	4Growth |
+| Mr |	Lee Jing Xiang Eric | 4Respect<br>SH / Chemistry |
+| Mdm |	Khairunnisa Binte Zulkifli |	4Respect |
+| Miss |	Lee Li Hwa Brenda |	4Resilience |
+| Mr |	Tay Chor Kwang |	4Resilience |
+| Mdm |	Ma Jiajing |	4Empathy |
+| Mr |	Mohamad Noorhisham Bin Mohd Noor | 4Empathy |
+| Mdm |	Nurul Amalina Binte Jamaludin | 4Appreciation<br>SH / English Language |
+| Mr |	Mohamed Fazil B Aris | 4Appreciation<br>ST / Malay Language |
+| Mr |	Wong Chin Choong Brian |	4Trustworthiness |
+| Mr |	Tan Jie Rong |	5Growth |
+| Miss |	Grace Sum Lai Yee |	1Respect |
+| Miss | Sumaiyah Binte M Razaly |	1Respect |
+| Mr |	Teoi Boey Jia |	1Resilience |
+| Mr |	Matthew Seah Jooh Kai | 1Resilience |
+| Mr |	Donovan Liew Yi Heng | 1Empathy |
+| Ms |	Sidtharshini D/O Manunethi | 1Empathy |
+| Miss |	Tay Li Ching	| 1Appreciation |
+| Mr |	Ang Wei Ming	| 1Appreciation |
+| Ms	|	Ong Xin Yan, Alyssa	|	1Appreciation |
+| Miss | Amelia Tjia Wei Linz |	1Trustworthiness |
+| Miss |	Lim Zhi Xuan | 1Trustworthiness |
+| Mr |	Syamil Bin Sabirin | 1Trustworthiness |
+| Mdm | Nadzirah Bte Andi Mohamed Nasron | 1Growth <br>SH / Character Education |
+
 | Mr |	Paik Shi Yang Robin | 5Growth<br>ST / Mathematics |
 | Mdm |	Foo Elaine |	- |
 | Miss |	Govindasamy Raja Lakshmi | - |
