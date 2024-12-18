@@ -37,6 +37,7 @@ Mr |	Lee Choon Kiong |	HOD / Science
 Mr |	Wan Weng Kin Cornelius |	HOD / ICT
 Mr |  Zhuo Gensheng Jason |	HOD / PE &amp; CCA
 Mr |	Ong Wun Wee Ivan |	School Staff Developer
+Ms |	Seah Wei Ee |	LT / English Language
 Mr |	Teo Chee Chong |	Year Head (Upper Secondary) / Sec 3 IC
 Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Secondary) / Sec 1 IC
 Mr | Lee Jian Liang Joel | Assistant Year Head (Sec 2)
@@ -181,4 +182,4 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr	| Prithividharsanan |	Desktop Engineer|
 | Mdm	| Nirmala Jaya Kumar |	School Health Assistant| 
 | Mr | Wan Mat Din Bin Jamaludin | OSO Support |
-| Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian| 
+| Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian|
