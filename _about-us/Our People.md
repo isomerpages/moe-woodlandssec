@@ -131,11 +131,11 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 
 | Name | | Position |
 | --- | --- | ---|
-| Mr |	Pang Kah Hwee |	Student Welfare Officer |
-| Miss |	Norsara Binte Azman |	SEN Officer |
-| Ms |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
-| Mr |	Chua Yan Liang Kevin |	School Counsellor |
 | Mr |  Wong Mun Chung | ECG Counsellor |
+| Mr |	Chua Yan Liang Kevin |	Senior School Counsellor |
+| Ms |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
+| Miss |	Norsara Binte Azman |	SEN Officer |
+| Mr |	Pang Kah Hwee |	Student Welfare Officer |
 | Ms |	Saraswathi Credo Vijaya |	Flexi (Art) |
 | Mr |	Zhao Chuan |	Flexi (Chinese Language) |
 | Mr |	Abdullah Bin Hassan |	Flexi (Design &amp; Technology) |
@@ -144,7 +144,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Loh Woon Kum |	Flexi (Design &amp; Technology) |
 | Ms |	Teo Ling Yen |	Flexi (Mathematics) |
 | Ms |	Sutini Binte Ramli |	Flexi (Mathematics) |
-| Mdm |	Loh Woon Kum |	Flexi (Nutrition &amp; Food Science) |
+| Mdm |	Yuslin Binte Yusof |	Flexi (Nutrition &amp; Food Science) |
 | Mdm |	Titi Murni Monir |	Flexi (Humanities) |
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
