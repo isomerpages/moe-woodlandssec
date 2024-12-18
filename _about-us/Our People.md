@@ -92,64 +92,24 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Lim Kian Beng	|	3 Appreciation |
 | Ms | Teo Ling Yen	|	3 Appreciation |
 | Mr |	Leow Wen An	|	2Trustworthiness |
-| Mdm |	Fu Jian Ning Janny	|	3Growth |
-| Miss | Isabell Ng Pei Min | 3Growth |
-| Mr | Lin Zhaowei | 3Respect |
-| Mr | Tok Yin Pin |	3Respect |
-| Mr |	Tuong Ze Wei Wilson	| 3Resilience<br>SH / Mathematics |
-| Miss |	V K Tamilselvi |	3Resilience |
-| Mr |	I'dil Saladin Alamin B Salleh |	3Empathy |
-| Mdm |	Siew Foong Keng |	3Empathy |
-| Mdm |	Low Eng Ngee | 3Appreciation |
-| Mr |	M Gnanasekaran | 3Appreciation |
-| Mr |	Kirshann Venu Das	|	3Appreciation |
-| Mr |	Muhammad Tirmidzi Bin Khalid | 3Trustworthiness |
-| Mdm |	Norashikin Binte Atan | 3Trustworthiness |
-| Mr |	Chun Guan Yang | 4Growth |
-| Mdm |	Intan Badariah Bushra |	4Growth |
-| Mr |	Lee Jing Xiang Eric | 4Respect<br>SH / Chemistry |
-| Mdm |	Khairunnisa Binte Zulkifli |	4Respect |
-| Miss |	Lee Li Hwa Brenda |	4Resilience |
-| Mr |	Tay Chor Kwang |	4Resilience |
-| Mdm |	Ma Jiajing |	4Empathy |
-| Mr |	Mohamad Noorhisham Bin Mohd Noor | 4Empathy |
-| Mdm |	Nurul Amalina Binte Jamaludin | 4Appreciation<br>SH / English Language |
-| Mr |	Mohamed Fazil B Aris | 4Appreciation<br>ST / Malay Language |
-| Mr |	Wong Chin Choong Brian |	4Trustworthiness |
-| Mr |	Tan Jie Rong |	5Growth |
-| Mr |	Tay Boon Kiat |	1Growth |
-| Mdm	|	Chin Kah Ying	|	2Growth |
-| Mr |	Mohd Adri Bin Mohd Rafik Alkhatib	|	2Growth |
-| Mr | Li Rui	|	2Respect |
-| Miss |	Uma Sankgery D/O Pandyan	|	2Respect |
-| Miss |	Ng Ling Nee Faith | 2Resilience |
-| Mr | Tan Eng Hui | 2Resilience |
-| Mr |	Muhammad Kamal Bin Abdul Halim	|	2Empathy |
-| Mdm |	Zou Yan | 2Empathy<br>ST / Chinese Language |
-| Mdm |	Jamakyah Binte Adhar | 2Empathy<br>SH / Malay Language |
-| Mr |	Lim Kian Beng	|	2Appreciation |
-| Mdm |	Nabila Binte Awalluddin	|	2Appreciation |
-| Mr |	Chia Soon Hann Justin Ian	|	2Trustworthiness |
-| Mdm |	Khoo Ying Ling Elaine | 2Trustworthiness<br>ST / Chemistry |
-| Mr |	Leow Wen An	|	2Trustworthiness |
-| Mdm |	Fu Jian Ning Janny	|	3Growth |
-| Miss | Isabell Ng Pei Min | 3Growth |
-| Mr | Lin Zhaowei | 3Respect |
-| Mr | Tok Yin Pin |	3Respect |
-| Mr |	Tuong Ze Wei Wilson	| 3Resilience<br>SH / Mathematics |
-| Miss |	V K Tamilselvi |	3Resilience |
-| Mr |	I'dil Saladin Alamin B Salleh |	3Empathy |
-| Mdm |	Siew Foong Keng |	3Empathy |
-| Mdm |	Low Eng Ngee | 3Appreciation |
-| Mr |	M Gnanasekaran | 3Appreciation |
-| Mr |	Kirshann Venu Das	|	3Appreciation |
-| Mr |	Muhammad Tirmidzi Bin Khalid | 3Trustworthiness |
-| Mdm |	Norashikin Binte Atan | 3Trustworthiness |
-| Mr |	Paik Shi Yang Robin | 5Growth<br>ST / Mathematics |
+| Mdm |	Fu Jian Ning Janny	|	4 Growth |
+| Miss | Isabell Ng Pei Min | 4 Growth |
+| Mr | Lin Zhaowei | 4 Respect |
+| Mdm | Rina Bai D/O Thiruvalluvan |	4 Respect |
+| Mr |	Tuong Ze Wei Wilson	| 4 Resilience |
+| Miss |	V K Tamilselvi |	4 Resilience |
+| Mr |	I'dil Saladin Alamin B Salleh |	4 Empathy |
+| Mdm |	Intan Badariah Bushra |	4 Empathy |
+| Mdm |	Low Eng Ngee | 4 Appreciation |
+| Mr |	M Gnanasekaran | 4 Appreciation |
+| Mr |	Muhammad Tirmidzi Bin Khalid | 4 Trustworthiness |
+| Mdm |	Norashikin Binte Atan | 4 Trustworthiness |
+| Mr |	Paik Shi Yang Robin | 5 Growth |
+| Mr |	Chia Soon Hann Justin Ian |	5Growth |
 | Mdm |	Foo Elaine |	- |
 | Miss |	Govindasamy Raja Lakshmi | - |
-| Mdm |	Liyana Binte Kamsani |	- |
-| Mr |	Leow Wen An |	- |
+| Ms |	Ng Ling Nee Faith |	- |
+| Mr |Andrew Devaraj D Abraham |	- |
 | Mr |	Thirumaran S/O Thangaraju |	- |
 
 
