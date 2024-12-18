@@ -26,7 +26,7 @@ variant: markdown
 ##### Teachers-in-Charge
 
 Miss Tay Li Ching (OIC)  
-Mr Thirumaran s/o Thangaraju
+Mr Thirumaran s/o Thangaraju  
 Mr Wong Chin Choong Brian
 
 ##### Weekly Training Schedule
