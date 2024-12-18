@@ -100,7 +100,6 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Ma Jiajing |	3 Empathy |
 | Mr |	Lim Kian Beng	|	3 Appreciation |
 | Ms | Teo Ling Yen	|	3 Appreciation |
-| Mr |	Leow Wen An	|	2Trustworthiness |
 | Mdm |	Fu Jian Ning Janny	|	4 Growth |
 | Miss | Isabell Ng Pei Min | 4 Growth |
 | Mr | Lin Zhaowei | 4 Respect |
