@@ -177,8 +177,8 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 
 | Name | | Position |
 | --- | --- | ---|
-| Mr | Wan Mat Din Bin Jamaludin | OSO Support |
-| Ms	| Nirmala Jaya Kumar |	School Health Assistant| 
-| Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian| 
 | Mr	| Nicholas Anak Yanga |	Desktop Engineer| 
 | Mr	| Prithividharsanan |	Desktop Engineer|
+| Mdm	| Nirmala Jaya Kumar |	School Health Assistant| 
+| Mr | Wan Mat Din Bin Jamaludin | OSO Support |
+| Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian| 
