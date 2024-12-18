@@ -67,32 +67,30 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | --- | --- | ---|
 | Mdm |	Khairunnisa Binte Zulkifli  |	1 Growth |
 | Ms |	Sidtharshini D/O Manunethi |	1 Growth |
-| Mdm | Nadzirah Bte Andi Mohamed Nasron | 1Growth <br>SH / Character Education |
-| Miss |	Grace Sum Lai Yee |	1Respect |
-| Miss |	Grace Sum Lai Yee |	1Respect |
-| Miss | Sumaiyah Binte M Razaly |	1Respect |
-| Mr |	Teoi Boey Jia |	1Resilience |
-| Mr |	Matthew Seah Jooh Kai | 1Resilience |
-| Mr |	Donovan Liew Yi Heng | 1Empathy |
-| Ms |	Sidtharshini D/O Manunethi | 1Empathy |
-| Miss |	Tay Li Ching	| 1Appreciation |
-| Mr |	Ang Wei Ming	| 1Appreciation |
-| Ms	|	Ong Xin Yan, Alyssa	|	1Appreciation |
-| Miss | Amelia Tjia Wei Linz |	1Trustworthiness |
-| Miss |	Lim Zhi Xuan | 1Trustworthiness |
-| Mr |	Syamil Bin Sabirin | 1Trustworthiness |
-| Mdm	|	Nadzirah Bte Andi Mohamed Nasron	|	2 Growth |
-| Ms	|	Lee Li Hwa Brenda	|	2 Growth |
-| Miss | Grace Sum Lai Yee	|	2 Respect |
-| Miss |	Sumaiyah Binte M Razaly	|	2 Respect |
-| Mr |	Teoi Boey Jia | 2 Resilience |
-| Mr | Matthew Seah Jooh Kai | 2 Resilience |
-| Mr |	Donovan Liew Yi Heng |	2 Empathy |
-| Mdm |	Siew Foong Keng (Helen) |	2 Empathy |
-| Ms |	Tay Li Ching	|	2 Appreciation |
-| Ms |	Ong Xin Yan, Alyssa	|	2 Appreciation |
-| Ms |	Lim Zhi Xuan	|	2 Trustworthiness |
-| Mr | Wong Chin Choong Brian | 2 Trustworthiness |
+| Mr |	Li Rui |	1 Respect |
+| Ms |	Nur Fatin Binte Nordin |	1 Respect |
+| Mdm |	Nadzirah Bte Andi Mohamed Nasron |	2 Growth |
+| Ms |	Lee Li Hwa Brenda |	2 Growth |
+| Miss |	Grace Sum Lai Yee |	2 Respect |
+| Miss | Sumaiyah Binte M Razaly |	2 Respect |
+| Mr |	Teoi Boey Jia |	2 Resilience |
+| Mr |	Matthew Seah Jooh Kai | 2 Resilience |
+| Mr |	Donovan Liew Yi Heng | 2 Empathy |
+| Mdm |	Siew Foong Keng (Helen)| 2 Empathy |
+| Ms |	Tay Li Ching	| 2 Appreciation |
+| Ms	|	Ong Xin Yan, Alyssa	|	2 Appreciation |
+| Ms |	Lim Zhi Xuan | 2 Trustworthiness |
+| Mr |	Wong Chin Choong Brian | 2 Trustworthiness |
+| Mr	|	Chun Guan Yang	|	3 Growth |
+| Mr	|	Tok Yin Pin	|	3 Growth |
+| Ms | Uma Sankgery D/O Pandyan	|	3 Respect |
+| Mr |	Quek Yeow Chong	|	3 Respect |
+| Mr |	Tay Chor Kwang | 3 Resilience |
+| Mr | Lee Jing Xiang Eric | 3 Resilience |
+| Mr |	Abdul Latiff Bin Omar |	3 Empathy |
+| Mdm |	Ma Jiajing |	3 Empathy |
+| Mr |	Lim Kian Beng	|	3 Appreciation |
+| Ms | Teo Ling Yen	|	3 Appreciation |
 | Mr |	Leow Wen An	|	2Trustworthiness |
 | Mdm |	Fu Jian Ning Janny	|	3Growth |
 | Miss | Isabell Ng Pei Min | 3Growth |
