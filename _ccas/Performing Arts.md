@@ -63,9 +63,9 @@ WDL Choir was started in 2020.
 
 ##### Teachers-in-Charge
 
-Ms Seah Wei Ee (OIC)  
+Ms Isabell Ng Pei Min (OIC)  
 Mr Mohamed Adri Bin Mohamed Rafik Alkhatib  
-Ms Isabell Ng Pei Min
+Mr Quek Yeow Chong
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1830H
@@ -148,7 +148,7 @@ Miss Lim Zhi Xuan
 
 Ms Grace Sum Lai Yee (OIC)  
 Mdm Rozilawati Bte Kasran  
-Ms Ong Xin Yan, Alyssa
+Mr Teoi Boey Jia (Howie)
 
 ##### Weekly Training Schedule
 
@@ -196,7 +196,7 @@ Ms Ong Xin Yan, Alyssa
 ##### Teachers-in-Charge
 
 Mdm Khairunnisa Binte Zulkifli (OIC)  
-Mdm Liyana Binte Kamsani
+Ms Nurul Aisyah Binte Rosli
 
 ##### Weekly Training Schedule
 
