@@ -25,7 +25,7 @@ variant: markdown
 
 Mr Tan Eng Hui  (OIC) <br>
 Mr Lim Kian Beng  
-Miss Kee Jing Yee  
+
 
 ##### Officers
 
@@ -92,9 +92,10 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 
 ##### Teachers-in-Charge
 
-Miss Saranya d/o Thayalan (OIC) <br>
-Mr Chun Guan Yang <br>
-Miss Ng Ling Nee Faith
+
+Mr Chun Guan Yang (OIC) <br>
+Ms Ng Ling Nee Faith  
+Ms Nur Fatin Binte Nordin
 
 ##### Weekly Training Schedule
 
@@ -154,11 +155,9 @@ To develop our young NCC leaders to have the following:
 
 ##### Teachers-in-Charge
 
-Mr Lee Jia Xin (OIC)  
-Ms Yeo Su Yan (AIC)  
-Miss Low May Ann Shawna <br>
+Mr Lin Zhaowei (OIC)  
 Mr Chia Soon Hann Justin Ian <br>
-Mr Lin Zhaowei
+Mdm Siew Foong Keng (Helen)
 
 
 
@@ -216,10 +215,9 @@ Tuesdays, 1445H - 1730H/1830H
 
 ##### Teachers-in-Charge
 
-Mr Oh Chin Chye Richard (OC)  
-Mr Muhammad Tirmidzi Bin Khalid (AIC)
-Mr Lee Jing Xiang Eric  
-Mr Donovan Liew Yi Heng
+Mdm Rajeswari d/o Sinkaram  (OIC)  
+Mr Donovan Liew Yi Heng  
+Ms Uma Sankgery d/o Pandyan
 
 ##### Weekly Training Schedule
 

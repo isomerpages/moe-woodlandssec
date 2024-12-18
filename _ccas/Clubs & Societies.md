@@ -2,6 +2,7 @@
 title: Clubs & Societies
 permalink: /ccas/clubs-and-societies/
 description: ""
+variant: markdown
 ---
 ### Infocomm & Media Club
 
@@ -10,7 +11,7 @@ description: ""
 ##### Teachers-in-Charge
 
 Mr M Gnanasekaran (OIC)  
-Miss Siti Kamisah Binte Mohamad Aman (Adjunct ICT Manager)
+
 
 ##### Weekly Training Schedule
 
