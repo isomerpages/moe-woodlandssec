@@ -105,9 +105,10 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr | Lin Zhaowei | 4 Respect |
 | Mdm | Rina Bai D/O Thiruvalluvan |	4 Respect |
 | Mr |	Tuong Ze Wei Wilson	| 4 Resilience |
-| Miss |	V K Tamilselvi |	4 Resilience |
+| Ms |	V K Tamilselvi |	4 Resilience |
 | Mr |	I'dil Saladin Alamin B Salleh |	4 Empathy |
 | Mdm |	Intan Badariah Bushra |	4 Empathy |
+| Mdm |	Siti Farhana Binte Abdullah |	4 Empathy |
 | Mdm |	Low Eng Ngee | 4 Appreciation |
 | Mr |	M Gnanasekaran | 4 Appreciation |
 | Mr |	Muhammad Tirmidzi Bin Khalid | 4 Trustworthiness |
