@@ -83,7 +83,8 @@ Mr Li Rui
 ##### Teachers-in-Charge
 
 Mdm Intan Badariah Bushra (OIC)  
-Ms Siti Farhana Binte Abdullah
+Ms Siti Farhana Binte Abdullah  
+Ms Sumaiyah Binte M Razaly
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
@@ -114,9 +115,9 @@ Ms Siti Farhana Binte Abdullah
 
 
 ##### Teachers-in-Charge
-Mr Muhammad Kamal Bin Abdul Halim (OIC)  
-Mr Mohamad Noorhisham  
-Mr Tan Jia Xuan Kin
+Mr Mohamad Noorhisham Bin Mohd Noor (OIC)  
+Mr Tok Yin Pin  
+Mr Mohamed Fazil B Aris
 
 ##### Weekly Training Schedule
 * Tuesdays, 1500H - 1730H
@@ -162,8 +163,8 @@ Mr Tan Jia Xuan Kin
 
 ##### Teachers-in-Charge
 
-Ms Eliza binte Mohamed (OIC)  
-Miss Low Qiao Xuan
+Mdm Chin Kah Ying (OIC)  
+Ms Ong Xin Yan, Alyssa
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
@@ -199,8 +200,8 @@ At the end of their secondary education, each player will:
 
 ##### Teachers-in-Charge
 
-Mr Ahmad Hosaini Bin Noor (OIC)  
-Ms Nurul Deena Binte Maamon  
+Mdm Nabila Bte Awalluddin (OIC)  
+Mdm Rina Bai D/O Thiruvalluvan
 
 ##### Weekly Training Schedule
 * Tuesdays, 1500H - 1800H
