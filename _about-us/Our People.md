@@ -114,12 +114,13 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Muhammad Tirmidzi Bin Khalid | 4 Trustworthiness |
 | Mdm |	Norashikin Binte Atan | 4 Trustworthiness |
 | Mr |	Paik Shi Yang Robin | 5 Growth |
-| Mr |	Chia Soon Hann Justin Ian |	5Growth |
+| Mr |	Chia Soon Hann Justin Ian |	5 Growth |
 | Mdm |	Foo Elaine |	- |
 | Miss |	Govindasamy Raja Lakshmi | - |
 | Ms |	Ng Ling Nee Faith |	- |
 | Mr |Andrew Devaraj D Abraham |	- |
 | Mr |	Thirumaran S/O Thangaraju |	- |
+| Mr |	Nur Atiqah Binte Abdul Rahim |	- |
 
 
 <br>
