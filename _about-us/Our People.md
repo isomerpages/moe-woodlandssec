@@ -81,19 +81,18 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Miss | Amelia Tjia Wei Linz |	1Trustworthiness |
 | Miss |	Lim Zhi Xuan | 1Trustworthiness |
 | Mr |	Syamil Bin Sabirin | 1Trustworthiness |
-| Mdm	|	Chin Kah Ying	|	2Growth |
-| Mr |	Mohd Adri Bin Mohd Rafik Alkhatib	|	2Growth |
-| Mr | Li Rui	|	2Respect |
-| Miss |	Uma Sankgery D/O Pandyan	|	2Respect |
-| Miss |	Ng Ling Nee Faith | 2Resilience |
-| Mr | Tan Eng Hui | 2Resilience |
-| Mr |	Muhammad Kamal Bin Abdul Halim	|	2Empathy |
-| Mdm |	Zou Yan | 2Empathy<br>ST / Chinese Language |
-| Mdm |	Jamakyah Binte Adhar | 2Empathy<br>SH / Malay Language |
-| Mr |	Lim Kian Beng	|	2Appreciation |
-| Mdm |	Nabila Binte Awalluddin	|	2Appreciation |
-| Mr |	Chia Soon Hann Justin Ian	|	2Trustworthiness |
-| Mdm |	Khoo Ying Ling Elaine | 2Trustworthiness<br>ST / Chemistry |
+| Mdm	|	Nadzirah Bte Andi Mohamed Nasron	|	2 Growth |
+| Ms	|	Lee Li Hwa Brenda	|	2 Growth |
+| Miss | Grace Sum Lai Yee	|	2 Respect |
+| Miss |	Sumaiyah Binte M Razaly	|	2 Respect |
+| Mr |	Teoi Boey Jia | 2 Resilience |
+| Mr | Matthew Seah Jooh Kai | 2 Resilience |
+| Mr |	Donovan Liew Yi Heng |	2 Empathy |
+| Mdm |	Siew Foong Keng (Helen) |	2 Empathy |
+| Ms |	Tay Li Ching	|	2 Appreciation |
+| Ms |	Ong Xin Yan, Alyssa	|	2 Appreciation |
+| Ms |	Lim Zhi Xuan	|	2 Trustworthiness |
+| Mr | Wong Chin Choong Brian | 2 Trustworthiness |
 | Mr |	Leow Wen An	|	2Trustworthiness |
 | Mdm |	Fu Jian Ning Janny	|	3Growth |
 | Miss | Isabell Ng Pei Min | 3Growth |
@@ -148,32 +147,6 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Kirshann Venu Das	|	3Appreciation |
 | Mr |	Muhammad Tirmidzi Bin Khalid | 3Trustworthiness |
 | Mdm |	Norashikin Binte Atan | 3Trustworthiness |
-| Mr |	Chun Guan Yang | 4Growth |
-| Mdm |	Intan Badariah Bushra |	4Growth |
-| Mr |	Lee Jing Xiang Eric | 4Respect<br>SH / Chemistry |
-| Mdm |	Khairunnisa Binte Zulkifli |	4Respect |
-| Miss |	Lee Li Hwa Brenda |	4Resilience |
-| Mr |	Tay Chor Kwang |	4Resilience |
-| Mdm |	Ma Jiajing |	4Empathy |
-| Mr |	Mohamad Noorhisham Bin Mohd Noor | 4Empathy |
-| Mdm |	Nurul Amalina Binte Jamaludin | 4Appreciation<br>SH / English Language |
-| Mr |	Mohamed Fazil B Aris | 4Appreciation<br>ST / Malay Language |
-| Mr |	Wong Chin Choong Brian |	4Trustworthiness |
-| Mr |	Tan Jie Rong |	5Growth |
-| Miss |	Grace Sum Lai Yee |	1Respect |
-| Miss | Sumaiyah Binte M Razaly |	1Respect |
-| Mr |	Teoi Boey Jia |	1Resilience |
-| Mr |	Matthew Seah Jooh Kai | 1Resilience |
-| Mr |	Donovan Liew Yi Heng | 1Empathy |
-| Ms |	Sidtharshini D/O Manunethi | 1Empathy |
-| Miss |	Tay Li Ching	| 1Appreciation |
-| Mr |	Ang Wei Ming	| 1Appreciation |
-| Ms	|	Ong Xin Yan, Alyssa	|	1Appreciation |
-| Miss | Amelia Tjia Wei Linz |	1Trustworthiness |
-| Miss |	Lim Zhi Xuan | 1Trustworthiness |
-| Mr |	Syamil Bin Sabirin | 1Trustworthiness |
-| Mdm | Nadzirah Bte Andi Mohamed Nasron | 1Growth <br>SH / Character Education |
-
 | Mr |	Paik Shi Yang Robin | 5Growth<br>ST / Mathematics |
 | Mdm |	Foo Elaine |	- |
 | Miss |	Govindasamy Raja Lakshmi | - |
