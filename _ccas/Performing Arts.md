@@ -21,8 +21,8 @@ variant: markdown
 
 ##### Teachers-in-Charge
 
-Ms Farhana Binte Zulkifli (OIC)  
-Mdm Fu Jian Ning Janny
+Mdm Fu Jian Ning Janny (OIC)
+Mr Matthew Seah Joon Kai
 
 ##### Weekly Training Schedule
 
