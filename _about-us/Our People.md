@@ -157,9 +157,8 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mrs | Kavitha D/O Kaliaperumal | Administration Manager |
 | Mr |	Ahmad Zaharan Bin Mohamed Din |	Operations Manager |
 | Mr |	Foo Jong Meng John |	Operations Manager |
-| Mdm | Jeslind Jau Siew Mei | Administrative Executive |
 | Mr |	Suka Ekiriwang |	ICT Manager |
-| Mr |	Shawn Vaulmen Scully |	Adjunct ICT Associate |
+| Mdm | Jeslind Jau Siew Mei | Administrative Executive |
 | Miss |	Nursiah Binte Sulaiman |	CSO |
 | Mdm |	Sulastri Binte Sapari |	CSO |
 | Mdm |	Chan Sook Yee Catherine |	CSO |
@@ -171,7 +170,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Lim Swee Inn |	OSO |
 | Mdm |	Siti Rohana Binte Sardar |	OSO |
 | Mdm |	Sumathi d/o Utirapaty |	OSO |
-| Mr |	Tan How Liang |	OSO |
+| Mr |	Haron Bin Amri |	OSO |
 
 
 ### Other Support Staff
