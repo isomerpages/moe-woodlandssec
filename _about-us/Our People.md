@@ -65,8 +65,8 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 
 | Name | | FT of class |
 | --- | --- | ---|
-| Mdm |	Khairunnisa Binte Zulkifli  |	1Growth |
-| Ms |	Sidtharshini D/O Manunethi |	1Growth |
+| Mdm |	Khairunnisa Binte Zulkifli  |	1 Growth |
+| Ms |	Sidtharshini D/O Manunethi |	1 Growth |
 | Mdm | Nadzirah Bte Andi Mohamed Nasron | 1Growth <br>SH / Character Education |
 | Miss |	Grace Sum Lai Yee |	1Respect |
 | Miss |	Grace Sum Lai Yee |	1Respect |
