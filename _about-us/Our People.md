@@ -116,11 +116,11 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Paik Shi Yang Robin | 5 Growth |
 | Mr |	Chia Soon Hann Justin Ian |	5 Growth |
 | Mdm |	Foo Elaine |	- |
-| Miss |	Govindasamy Raja Lakshmi | - |
+| Ms |	Govindasamy Raja Lakshmi | - |
 | Ms |	Ng Ling Nee Faith |	- |
 | Mr |Andrew Devaraj D Abraham |	- |
 | Mr |	Thirumaran S/O Thangaraju |	- |
-| Mr |	Nur Atiqah Binte Abdul Rahim |	- |
+| Ms |	Nur Atiqah Binte Abdul Rahim |	- |
 
 
 <br>
