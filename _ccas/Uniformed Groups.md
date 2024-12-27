@@ -218,7 +218,7 @@ Tuesdays, 1445H - 1730H/1830H
 
 Mdm Rajeswari d/o Sinkaram  (OIC)  
 Mr Donovan Liew Yi Heng  
-Ms Uma Sankgery d/o Pandyan
+Mr Andrew Devaraj D Abraham
 
 ##### Weekly Training Schedule
 
