@@ -25,6 +25,7 @@ variant: markdown
 
 Mr Tan Eng Hui  (OIC) <br>
 Mr Lim Kian Beng  
+Mdm Zou Yan
 
 
 ##### Officers
