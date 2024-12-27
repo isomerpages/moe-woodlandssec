@@ -22,7 +22,8 @@ variant: markdown
 ##### Teachers-in-Charge
 
 Mdm Fu Jian Ning Janny (OIC)  
-Mr Matthew Seah Joon Kai
+Mr Matthew Seah Joon Kai  
+Ms Nur Atiqah Binte Abdul Rahim
 
 ##### Weekly Training Schedule
 
@@ -196,7 +197,8 @@ Mr Teoi Boey Jia (Howie)
 ##### Teachers-in-Charge
 
 Mdm Khairunnisa Binte Zulkifli (OIC)  
-Ms Nurul Aisyah Binte Rosli
+Ms Nurul Aisyah Binte Rosli  
+Ms Shayne Lau Jia Xuan
 
 ##### Weekly Training Schedule
 
