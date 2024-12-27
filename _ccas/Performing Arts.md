@@ -197,7 +197,8 @@ Mr Teoi Boey Jia (Howie)
 ##### Teachers-in-Charge
 
 Mdm Khairunnisa Binte Zulkifli (OIC)  
-Ms Nurul Aisyah Binte Rosli
+Ms Nurul Aisyah Binte Rosli  
+Ms Shayne Lau Jia Xuan
 
 ##### Weekly Training Schedule
 
