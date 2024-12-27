@@ -22,7 +22,8 @@ variant: markdown
 ##### Teachers-in-Charge
 
 Mdm Fu Jian Ning Janny (OIC)  
-Mr Matthew Seah Joon Kai
+Mr Matthew Seah Joon Kai  
+Ms Nur Atiqah Binte Abdul Rahim
 
 ##### Weekly Training Schedule
 
