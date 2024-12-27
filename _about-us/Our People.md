@@ -68,6 +68,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | --- | --- | ---|
 | Mdm |	Khairunnisa Binte Zulkifli  |	1 Growth |
 | Ms |	Sidtharshini D/O Manunethi |	1 Growth |
+| Ms |	Nur Atiqah Binte Abdul Rahim |	1 Growth |
 | Mr |	Li Rui |	1 Respect |
 | Ms |	Nur Fatin Binte Nordin |	1 Respect |
 | Mdm |	Khoo Ying Ling Elaine |	1 Resilience |
@@ -82,7 +83,8 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Ms |	Lee Li Hwa Brenda |	2 Growth |
 | Miss |	Grace Sum Lai Yee |	2 Respect |
 | Miss | Sumaiyah Binte M Razaly |	2 Respect |
-| Mr |	Teoi Boey Jia |	2 Resilience |
+| Mr | Andrew Devaraj D Abraham |	2 Respect |
+| Mr |	Teoi Boey Jia (Howie) |	2 Resilience |
 | Mr |	Matthew Seah Jooh Kai | 2 Resilience |
 | Mr |	Donovan Liew Yi Heng | 2 Empathy |
 | Mdm |	Siew Foong Keng (Helen)| 2 Empathy |
