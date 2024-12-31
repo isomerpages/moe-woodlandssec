@@ -31,7 +31,6 @@ Mdm |	Goh Hui Shi |	HOD / Mathematics
 Ms |	Nur Shahzreen Binte Mohd Taufik |	HOD / Character &amp; Citizenship Education (CCE)
 Mr |	Tay Yong Chiang |	HOD / Student Management
 Mdm |	Teo Jia Yin Sarah	 |HOD / English Language
-Mr |	Phua Poh Boon |	HOD / Mother Tongue Language
 Mrs |	Lechimi Devi Ramesh |	HOD / Humanities
 Mr |	Lee Choon Kiong |	HOD / Science
 Mr |	Wan Weng Kin Cornelius |	HOD / ICT
@@ -120,9 +119,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Foo Elaine |	- |
 | Ms |	Govindasamy Raja Lakshmi | - |
 | Ms |	Ng Ling Nee Faith |	- |
-| Mr |Andrew Devaraj D Abraham |	- |
 | Mr |	Thirumaran S/O Thangaraju |	- |
-| Ms |	Nur Atiqah Binte Abdul Rahim |	- |
 
 
 <br>
