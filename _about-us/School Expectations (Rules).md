@@ -2,30 +2,31 @@
 title: School Expectations (Rules)
 permalink: /about-us/school-expectations/
 description: ""
+variant: markdown
 ---
 Woodlands Secondary School aims to provide a caring and safe environment in which all students enjoy learning and cultivate a sense of belonging. It is the intent of the school staff to support and encourage each Woodlander’s academic, personal and social growth, and to groom students to become responsible members of the Woodlands community. The school rules and regulations serve to protect the well-being of all in attendance. The School Expectations serve to engender in our Woodlands our Core Values of Growth, Respect, Resilience, Empathy, Appreciation and Trustworthiness.
 
 ## SCHOOL EXPECTATIONS
 
-Our School Expectations reflect our **3Cs** and **7As**. Woodlanders are to use these terms to model their behaviours and set realistic targets.
+Our School Expectations reflect our&nbsp;**3Cs**&nbsp;and&nbsp;**7As**. Woodlanders are to use these terms to model their behaviours and set realistic targets.
 
 ### **The 3Cs are:**
 
-> Care for Self
+&gt; Care for Self
 
 Students are responsible for their personal well-being and discipline.
 
-> Care for Others
+&gt; Care for Others
 
-Students care and strive to build positive relationships with the people around them.</span>
+Students care and strive to build positive relationships with the people around them.
 
->Care for School
+&gt;Care for School
 
 Students display pride for their school and the facilities and give their best for the school at all times.
 
 ### **The 7As are:**
 
->Attendance & Punctuality 
+&gt;Attendance &amp; Punctuality 
 
 Students attend school without fail. Absence from school must be justified with a letter from parents or a medical certificate.
 *   Students are expected to report to school by 7.30am.
@@ -34,7 +35,7 @@ Students attend school without fail. Absence from school must be justified with 
 *   Students must seek permission from the School Leaders if he/she wishes to take time off from school for any reasons.
 *   Students are to remain in the classrooms at all times unless permission has been given by their teachers.
   
->Attitude
+&gt;Attitude
 	
 Students give their best at all times. They strive to achieve the best they can be in both their CCA and academics.
 *   Students must subscribe to a growth mindset of excellence and strive to do their best in their studies and their CCA.
@@ -42,14 +43,14 @@ Students give their best at all times. They strive to achieve the best they can 
 *   Students must practise sound time management in order to balance academic, co-curricular activities and service to the community.
 *   Students must strive to uphold the good name of the school at all times.
 
->Assignments
+&gt;Assignments
 
 Assignments given are done on time and to the best of one’s ability.
 *   Students must make conscientious attempts at completing work given on time and ensure expected standards are met.
 *   Students are encouraged to seek assistance from teachers when needed.
 
 
->Assessment
+&gt;Assessment
 
 Students to give their best in all tests and exams.
 *   Students must aspire to do their very best for all tests and examinations.
@@ -59,7 +60,7 @@ Students to give their best in all tests and exams.
 *   Students absent from examinations without valid reasons will be awarded zero marks.
 
 
->Appropriateness
+&gt;Appropriateness
 
 Students respect all members of the school community and behave appropriately at all times.
 *   Students must attend and observe all the commands for assembly. The flag-raising ceremony must be observed with respect and pride.
@@ -69,7 +70,7 @@ Students respect all members of the school community and behave appropriately at
 *   Students must refrain from engaging in practices which may cause physical or emotional distress.
 *   Students are not allowed to have in their possession any weapon or weapon-like item to be used or intended to be used to cause harm to others and/or self.
 
->Attire
+&gt;Attire
 
 Students wear the school uniform with pride. Unsightly alterations and modifications are NOT allowed.
 *   Students are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
@@ -83,10 +84,10 @@ Students wear the school uniform with pride. Unsightly alterations and modificat
     *   Students are to wear white socks and shoes with white shoe laces. Only thin discreet lines around the base of the shoe are allowed. Only white socks above ankle-length can be worn.
 
 
->Appearance
+&gt;Appearance
 
 Students sport short and neat hairstyles. Girls have their hair tied with appropriate clips and bands.
-![](/images/schhair.png)
+![](/images/About%20us/Hair.jpg)
 ##### BOYS
 * Boys must be clean-shaven at all times and facial hair is not to be kept.  
 * Boys must sport short, neat hairstyle and well-combed. Hair should not touch the eyebrows, ears or collar.  
@@ -98,9 +99,9 @@ Students sport short and neat hairstyles. Girls have their hair tied with approp
 
 ##### GIRLS
 * Hair must be kept neat and the fringe of the hair should be above the eyebrow. Shoulder length or long hair is to be plaited or tied-up with dark coloured hair clips or bands.  
-* Use of cosmetics (make-up) is NOT allowed.  
+* Use of cosmetics (make-up) is&nbsp;NOT&nbsp;allowed.  
 * Dyeing/ highlighting of hair and/or fanciful hairstyle are not allowed.  
-* Earrings, if worn, should be simple and identical, with only one on each earlobe. Rings, necklace or jewellery of any kind are NOT allowed.  
+* Earrings, if worn, should be simple and identical, with only one on each earlobe. Rings, necklace or jewellery of any kind are&nbsp;NOT&nbsp;allowed.  
 * Nails are to be kept short and clean. The use of nail polish is not permitted.  
 * No coloured contact lens is allowed.  
 * Body art/tattoos and piercings are strictly forbidden
@@ -108,14 +109,15 @@ Students sport short and neat hairstyles. Girls have their hair tied with approp
 
 ##### School Uniform
 
-![](/images/schuni.png)
+![](/images/About%20us/Attire_02.jpg)
 
 ##### Proper attire for School Polo T-shirt
-![](/images/schpolo.png)
+
+![](/images/About%20us/Attire_03.jpg)
 
 ##### P.E. Attire
 
-![](/images/About%20us/pe-attire.png)
+![](/images/About%20us/Attire_01.jpg)
 
 ## Offences and consequences
 
@@ -123,7 +125,7 @@ Students will be dealt with by the Student Management Committee in line with the
 
 #### Minor offences
 
-> Offences
+&gt; Offences
 
 * Latecoming
 * Improper attire and appearance
@@ -135,7 +137,7 @@ Students will be dealt with by the Student Management Committee in line with the
 * Misuse of Social Media
 * Any other minor offences
 
-> Consequences
+&gt; Consequences
 
 * Counselling
 * Verbal/ Written
@@ -146,7 +148,7 @@ Students will be dealt with by the Student Management Committee in line with the
 * Any other actions deemed appropriate
 
 #### Serious offences
-> Offences
+&gt; Offences
 
 * Three minor offences will be treated as one serious offence
 * Truancy
@@ -170,7 +172,7 @@ Students will be dealt with by the Student Management Committee in line with the
 * Any other serious offences
 
 
-> Consequences
+&gt; Consequences
 
 * Counselling
 * Compensation

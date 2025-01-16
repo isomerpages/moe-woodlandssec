@@ -2,6 +2,7 @@
 title: Our History
 permalink: /about-us/our-history/
 description: ""
+variant: markdown
 ---
 ### Our Journey
 
@@ -26,7 +27,8 @@ In 2016, the school achieved the School Distinction Award (SDA) and four Best Pr
 *   Mrs Yap-Ng Hwee Heng (2001 to 2008)
 *   Mrs Julia Woo Keen Fai(2008 to 2012)
 *   Miss Tan Ke-Xin (2012 to 2018)
-*   Mrs Tay Yang Fern (2018- Present)
+*   Mrs Tay Yang Fern (2018 to 2024)
+*   Mrs Rebecca Yim (2024 - Present)
 
 ### Key Milestones
 > 1982
