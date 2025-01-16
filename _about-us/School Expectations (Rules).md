@@ -87,7 +87,7 @@ Students wear the school uniform with pride. Unsightly alterations and modificat
 &gt;Appearance
 
 Students sport short and neat hairstyles. Girls have their hair tied with appropriate clips and bands.
-![](/images/schhair.png)
+![](/images/About%20us/Hair.jpg)
 ##### BOYS
 * Boys must be clean-shaven at all times and facial hair is not to be kept.  
 * Boys must sport short, neat hairstyle and well-combed. Hair should not touch the eyebrows, ears or collar.  
