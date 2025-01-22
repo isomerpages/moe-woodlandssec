@@ -84,7 +84,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Miss | Sumaiyah Binte M Razaly |	2 Respect |
 | Mr | Andrew Devaraj D Abraham |	2 Respect |
 | Mr |	Teoi Boey Jia (Howie) |	2 Resilience |
-| Mr |	Matthew Seah Jooh Kai | 2 Resilience |
+| Mr |	Matthew Seah Joon Kai | 2 Resilience |
 | Mr |	Donovan Liew Yi Heng | 2 Empathy |
 | Mdm |	Siew Foong Keng (Helen)| 2 Empathy |
 | Ms |	Tay Li Ching	| 2 Appreciation |
