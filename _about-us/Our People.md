@@ -12,10 +12,9 @@ variant: markdown
 
 | Position | Name | 
 | -------- | -------- | 
-| Chairman  | Mr Malik Bin Maksudi |
-| Vice-Chairman  | Mr Selvarajan Balamurugan  |
+| Chairman  | Mr Selvarajan Balamurugan |
 | Secretary  | Mrs Rebecca Yim  |
-| Members  | Mr Lim Kok Hwa  <br>Mr Mehrotra Meenesh Dayakrishan   <br>Mr Tan Kwan Chuen Marcus        <br>Dr Radiah Binti Salim    |
+| Members  | Mr Lim Kok Hwa  <br>Mr Mehrotra Meenesh Dayakrishan   <br>Mr Tan Kwan Chuen Marcus   <br>Mr Brian Ng   <br>Mr Luke Ren Jie Jonathan        <br>Mr Yuvan S/O Mohan    |
 
 
 
