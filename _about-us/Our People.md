@@ -71,16 +71,19 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Ms |	Nur Fatin Binte Nordin |	1 Respect |
 | Mdm |	Khoo Ying Ling Elaine |	1 Resilience |
 | Mdm |	Nurul Amalina Binte Jamaludin | 1 Resilience |
+| Ms |	Shayne Lau Jia Xuan | 1 Resilience |
 | Mr |	Mohamad Noorhisham Bin Mohd Noor | 1 Empathy |
 | Mdm |	Chin Kah Ying| 1 Empathy |
 | Mdm |	Nabila Binte Awalluddin	| 1 Appreciation |
 | Mr	|	Mohd Adri Bin Mohd Rafik Alkhatib	|	1 Appreciation |
+| Mr	|	Quek Yong Kang	|	1 Appreciation |
 | Mr |	Tan Eng Hui | 1 Trustworthiness |
 | Ms |	Nurul Aisyah Binte Rosli | 1 Trustworthiness |
 | Mdm |	Nadzirah Bte Andi Mohamed Nasron |	2 Growth |
 | Ms |	Lee Li Hwa Brenda |	2 Growth |
-| Miss |	Grace Sum Lai Yee |	2 Respect |
-| Miss | Sumaiyah Binte M Razaly |	2 Respect |
+| Ms |	Sandra Maria Jacob |	2 Growth |
+| Ms |	Grace Sum Lai Yee |	2 Respect |
+| Ms | Sumaiyah Binte M Razaly |	2 Respect |
 | Mr | Andrew Devaraj D Abraham |	2 Respect |
 | Mr |	Teoi Boey Jia (Howie) |	2 Resilience |
 | Mr |	Matthew Seah Joon Kai | 2 Resilience |
@@ -146,6 +149,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Titi Murni Monir |	Flexi (Humanities) |
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
+| Mr | Ahmad Hosini Noor | Flexi (Malay Language) |
 
 
 
