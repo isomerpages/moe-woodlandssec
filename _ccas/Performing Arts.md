@@ -66,7 +66,8 @@ WDL Choir was started in 2020.
 
 Ms Isabell Ng Pei Min (OIC)  
 Mr Mohamed Adri Bin Mohamed Rafik Alkhatib  
-Mr Quek Yeow Chong
+Mr Quek Yeow Chong  
+Mr Caleb Cheong Wan Yin
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1830H
