@@ -159,6 +159,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Name | | Position |
 | --- | --- | ---|
 | Mrs | Kavitha D/O Kaliaperumal | Administration Manager |
+| Ms | Chen Shujun | Administration Manager |
 | Mr |	Ahmad Zaharan Bin Mohamed Din |	Operations Manager |
 | Mr |	Foo Jong Meng John |	Operations Manager |
 | Mr |	Suka Ekiriwang |	ICT Manager |
