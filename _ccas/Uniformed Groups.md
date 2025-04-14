@@ -96,7 +96,8 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 
 Mr Chun Guan Yang (OIC) <br>
 Ms Ng Ling Nee Faith  
-Ms Nur Fatin Binte Nordin
+Ms Nur Fatin Binte Nordin  
+Ms Lee Li Hwa Brenda
 
 ##### Weekly Training Schedule
 
