@@ -15,7 +15,7 @@ description: ""
 
 ### For Staff
 *   [Resource Booking Service](https://rbs.avero-tech.com/)
-*   [Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [MySkillsFuture (For Sec School Students & Teachers)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 *   [OPAL2.0](https://opal2.moe.edu.sg/)
 *   [iCON](http://icon.moe.edu.sg/)
