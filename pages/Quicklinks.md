@@ -6,7 +6,7 @@ description: ""
 ### For Students
 *   [Student Handbook](https://for.edu.sg/wdlstudenthandbook)  
 *   [PLD & HBL Toolkit](https://sites.google.com/moe.edu.sg/wdl-pld-toolkit-students/home)
-*   [Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [MySkillsFuture (For Sec School Students & Teachers)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 *   [NLB DiscoverReads](http://www.nlb.gov.sg/discovereads/)
 *   [ECG Guidance Appointment Booking](https://go.gov.sg/wdlecg) 
