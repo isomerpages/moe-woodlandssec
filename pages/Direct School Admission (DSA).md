@@ -7,7 +7,7 @@ description: ""
 
 The Direct School Admission - Secondary (DSA-Sec) Exercise allows students to seek admission to Secondary 1 based on their talents and achievements. The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It seeks to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school. The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released.
 
-Application for 2025 DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from&nbsp;**7th May 2025 to 3rd Jun 2025.**&nbsp;For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for 2025 DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from&nbsp;**7th May 2025, 11am to 3rd Jun 2025, 3pm.**&nbsp;For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are required to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
 
@@ -30,8 +30,6 @@ Please note that meeting all the criteria does not guarantee the student will be
 ##### **Offer of Places**
 
 _All applicants will receive their application outcomes between 25 Aug 2025 and 4 Sep 2025._
-
-Selected students will receive DSA-Sec offer by **early September**.
 
 Successful applicants will be offered a place in Woodlands Secondary School for the academic year 2026.
 
