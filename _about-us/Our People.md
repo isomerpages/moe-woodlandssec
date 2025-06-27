@@ -26,7 +26,6 @@ variant: markdown
 Mdm |	Masayu Mahmud	| Vice-Principal
 Mr |	Tay Hong Joo Steven |	Vice-Principal
 Mdm |	Lee Silk Yen April |	HOD / Craft &amp; Technology
-Mdm |	Goh Hui Shi |	HOD / Mathematics
 Ms |	Nur Shahzreen Binte Mohd Taufik |	HOD / Character &amp; Citizenship Education (CCE)
 Mr |	Tay Yong Chiang |	HOD / Student Management
 Mdm |	Teo Jia Yin Sarah	 |HOD / English Language
@@ -43,7 +42,7 @@ Mdm |	Aw Siao Hwee |	Assistant Year Head (Sec 4 &amp; 5) |
 Mdm |	Rajeswari d/o Sinkaram |	SH / Biology
 Mr | Lee Jing Xiang Eric |	SH / Chemistry
 Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
-Mdm |	Nurul Amalina Binte Jamaludin |	SH / English Language 
+Mdm |	Norashikin Binte Ibrahim |	SH / English Language 
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
 Mr | Tuong Ze Wei Wilson |	SH / Mathematics 
 Mdm |	Jamakyah Binte Adhar | SH / Malay Language
@@ -70,19 +69,17 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Li Rui |	1 Respect |
 | Ms |	Nur Fatin Binte Nordin |	1 Respect |
 | Mdm |	Khoo Ying Ling Elaine |	1 Resilience |
-| Mdm |	Nurul Amalina Binte Jamaludin | 1 Resilience |
 | Ms |	Shayne Lau Jia Xuan | 1 Resilience |
 | Mr |	Mohamad Noorhisham Bin Mohd Noor | 1 Empathy |
 | Mdm |	Chin Kah Ying| 1 Empathy |
+| Ms|	Chua Ziqing| 1 Empathy |
 | Mdm |	Nabila Binte Awalluddin	| 1 Appreciation |
-| Mr	|	Mohd Adri Bin Mohd Rafik Alkhatib	|	1 Appreciation |
 | Mr	|	Quek Yong Kang	|	1 Appreciation |
 | Mr |	Tan Eng Hui | 1 Trustworthiness |
 | Ms |	Nurul Aisyah Binte Rosli | 1 Trustworthiness |
 | Mdm |	Nadzirah Bte Andi Mohamed Nasron |	2 Growth |
 | Ms |	Lee Li Hwa Brenda |	2 Growth |
 | Ms |	Sandra Maria Jacob |	2 Growth |
-| Ms |	Grace Sum Lai Yee |	2 Respect |
 | Ms | Sumaiyah Binte M Razaly |	2 Respect |
 | Mr | Andrew Devaraj D Abraham |	2 Respect |
 | Mr |	Teoi Boey Jia (Howie) |	2 Resilience |
@@ -101,17 +98,18 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr | Lee Jing Xiang Eric | 3 Resilience |
 | Mr |	Abdul Latiff Bin Omar |	3 Empathy |
 | Mdm |	Ma Jiajing |	3 Empathy |
+| Ms |	Thangaraj Pokkisham |	3 Empathy |
 | Mr |	Lim Kian Beng	|	3 Appreciation |
 | Ms | Teo Ling Yen	|	3 Appreciation |
 | Mdm |	Fu Jian Ning Janny	|	4 Growth |
 | Miss | Isabell Ng Pei Min | 4 Growth |
-| Mr | Lin Zhaowei | 4 Respect |
+| Mdm | Siti Farhana Binte Abdullah | 4 Growth |
 | Mdm | Rina Bai D/O Thiruvalluvan |	4 Respect |
+| Mdm | Norashikin Binte Ibrahim |	4 Respect |
 | Mr |	Tuong Ze Wei Wilson	| 4 Resilience |
 | Ms |	V K Tamilselvi |	4 Resilience |
 | Mr |	I'dil Saladin Alamin B Salleh |	4 Empathy |
 | Mdm |	Intan Badariah Bushra |	4 Empathy |
-| Mdm |	Siti Farhana Binte Abdullah |	4 Empathy |
 | Mdm |	Low Eng Ngee | 4 Appreciation |
 | Mr |	M Gnanasekaran | 4 Appreciation |
 | Mr |	Muhammad Tirmidzi Bin Khalid | 4 Trustworthiness |
