@@ -94,8 +94,8 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 ##### Teachers-in-Charge
 
 
-Mr Chun Guan Yang (OIC) <br>
-Ms Ng Ling Nee Faith  
+Mr Chun Guan Yang (Advisor) <br>
+Ms Ng Ling Nee Faith  (OIC)  
 Ms Nur Fatin Binte Nordin  
 Ms Lee Li Hwa Brenda
 
@@ -157,9 +157,9 @@ To develop our young NCC leaders to have the following:
 
 ##### Teachers-in-Charge
 
-Mr Lin Zhaowei (OIC)  
+Mdm Siew Foong Keng (Helen) (OIC)  
 Mr Chia Soon Hann Justin Ian <br>
-Mdm Siew Foong Keng (Helen)
+Ms Chua Ziqing
 
 
 
