@@ -11,6 +11,8 @@ variant: markdown
 ##### Teachers-in-Charge
 
 Mr M Gnanasekaran (OIC)  
+Mr Quek Yong Kang  
+Mr Thirumaran S/O Thangaraju
 
 
 ##### Weekly Training Schedule
