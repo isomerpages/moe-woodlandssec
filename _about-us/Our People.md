@@ -48,6 +48,7 @@ Mr | Tuong Ze Wei Wilson |	SH / Mathematics
 Mdm |	Jamakyah Binte Adhar | SH / Malay Language
 Mr | Muhammad Tirmidzi Bin Khalid |	SH / CCA (Internal)
 Ms |	Uma Sankgery D/O Pandyan |	SH / ICT (Internal)
+Mr |	Chun Guan Yang |	SH / Mathematics (Internal)
 Mdm | Khoo Ying Ling Elaine | ST / Chemistry
 Mdm | Zou Yan | ST / Chinese Language
 Mr | Abdul Latiff Bin Omar | ST / Design &amp; Technology
