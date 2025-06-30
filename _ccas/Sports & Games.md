@@ -26,7 +26,6 @@ variant: markdown
 ##### Teachers-in-Charge
 
 Miss Tay Li Ching (OIC)  
-Mr Thirumaran s/o Thangaraju  
 Mr Wong Chin Choong Brian  
 Ms Sandra Maria Jacob
 
@@ -118,7 +117,7 @@ Ms Sumaiyah Binte M Razaly
 ##### Teachers-in-Charge
 Mr Mohamad Noorhisham Bin Mohd Noor (OIC)  
 Mr Tok Yin Pin  
-Mr Ahmad Hosini Noor
+Ms Thangaraj Pokkisham
 
 ##### Weekly Training Schedule
 * Tuesdays, 1500H - 1730H
@@ -204,7 +203,6 @@ At the end of their secondary education, each player will:
 Mdm Nabila Bte Awalluddin (OIC)  
 Mdm Rina Bai D/O Thiruvalluvan  
 Mr Mohamed Fazil B Aris  
-Mr Abdullah Bin Hassan
 
 ##### Weekly Training Schedule
 * Tuesdays, 1500H - 1800H
