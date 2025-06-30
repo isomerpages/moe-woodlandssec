@@ -135,11 +135,8 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Chua Yan Liang Kevin |	Senior School Counsellor |
 | Ms |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
 | Miss |	Norsara Binte Azman |	SEN Officer |
-| Mr |	Pang Kah Hwee |	Student Welfare Officer |
 | Ms |	Saraswathi Credo Vijaya |	Flexi (Art) |
-| Mr |	Zhao Chuan |	Flexi (Chinese Language) |
 | Mr |	Abdullah Bin Hassan |	Flexi (Design &amp; Technology) |
-| Ms | Rachel Shamini Mohan | Flexi (English Language) |
 | Mr | Caleb Cheong Wan Yin | Flexi (English Language) |
 | Mdm |	Loh Woon Kum |	Flexi (Design &amp; Technology) |
 | Ms |	Teo Ling Yen |	Flexi (Mathematics) |
@@ -148,7 +145,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Titi Murni Monir |	Flexi (Humanities) |
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
-| Mr | Ahmad Hosini Noor | Flexi (Malay Language) |
+| Mr | Peter Kuan |	Flexi (Science) |
 
 
 
@@ -157,24 +154,25 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 
 | Name | | Position |
 | --- | --- | ---|
-| Mrs | Kavitha D/O Kaliaperumal | Administration Manager |
+| Mdm | Kavitha D/O Kaliaperumal | Administration Manager |
 | Ms | Chen Shujun | Administration Manager |
 | Mr |	Ahmad Zaharan Bin Mohamed Din |	Operations Manager |
 | Mr |	Foo Jong Meng John |	Operations Manager |
 | Mr |	Suka Ekiriwang |	ICT Manager |
 | Mdm | Jeslind Jau Siew Mei | Administrative Executive |
-| Miss |	Nursiah Binte Sulaiman |	CSO |
+| Ms |	Nursiah Binte Sulaiman |	CSO |
 | Mdm |	Sulastri Binte Sapari |	CSO |
 | Mdm |	Chan Sook Yee Catherine |	CSO |
-| Ms |	Nurhidayah Abdul Aziz	Adjunct | CSO |
-| Ms |	Siti Adilah Binte Aripin |	TSO |
-| Mdm |	Tan Cheng Lan Jasmine |	TSO |
-| Mr |	Jumari Bin Sarkan |	TSO |
-| Mr |	Roszelan Bin Mohd Yusof |	TSO |
+| Ms |	Nurhidayah Abdul Aziz | CSO |
+| Ms |	Siti Adilah Binte Aripin |	STEM Instructor (Laboratory) |
+| Mdm |	Tan Cheng Lan Jasmine |	STEM Instructor (Laboratory) |
+| Mr |	Jumari Bin Sarkan |	STEM Instructor (Workshop) |
+| Mr |	Roszelan Bin Mohd Yusof |	STEM Instructor (Workshop) |
 | Mdm |	Lim Swee Inn |	OSO |
 | Mdm |	Siti Rohana Binte Sardar |	OSO |
 | Mdm |	Sumathi d/o Utirapaty |	OSO |
 | Mr |	Haron Bin Amri |	OSO |
+| Mr |	Salim Bin Samsi |	OSO |
 
 
 ### Other Support Staff
