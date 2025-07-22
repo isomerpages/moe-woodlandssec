@@ -127,7 +127,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 <br>
 <br>
 
-### Non-Teaching Staff
+### Non-Teaching Staff &amp; Flexi-Adjunct Teachers
 
 | Name | | Position |
 | --- | --- | ---|
@@ -169,7 +169,6 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Jumari Bin Sarkan |	STEM Instructor (Workshop) |
 | Mr |	Roszelan Bin Mohd Yusof |	STEM Instructor (Workshop) |
 | Mdm |	Lim Swee Inn |	OSO |
-| Mdm |	Siti Rohana Binte Sardar |	OSO |
 | Mdm |	Sumathi d/o Utirapaty |	OSO |
 | Mr |	Haron Bin Amri |	OSO |
 | Mr |	Salim Bin Samsi |	OSO |
@@ -181,6 +180,6 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | --- | --- | ---|
 | Mr	| Nicholas Anak Yanga |	Desktop Engineer| 
 | Mr	| Prithividharsanan |	Desktop Engineer|
-| Mdm	| Nirmala Jaya Kumar |	School Health Assistant| 
+| Mdm	| Siti Rohana Binte Sardar |	Kitchen Assistant| 
 | Mr | Wan Mat Din Bin Jamaludin | OSO Support |
 | Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian|
