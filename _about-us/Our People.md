@@ -97,6 +97,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Quek Yeow Chong	|	3 Respect |
 | Mr |	Tay Chor Kwang | 3 Resilience |
 | Mr | Lee Jing Xiang Eric | 3 Resilience |
+| Mdm | Meenambigai Narayasanamy | 3 Resilience |
 | Mr |	Abdul Latiff Bin Omar |	3 Empathy |
 | Mdm |	Ma Jiajing |	3 Empathy |
 | Ms |	Thangaraj Pokkisham |	3 Empathy |
@@ -146,6 +147,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
 | Mr | Peter Kuan |	Flexi (Science) |
+| Mdm | Low Yuet Wan |	Flexi (Chinese Language) |
 
 
 
