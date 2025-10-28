@@ -25,6 +25,7 @@ variant: markdown
 | Mrs | Rebecca Yim  | Principal |
 Mdm |	Masayu Mahmud	| Vice-Principal
 Mr |	Tay Hong Joo Steven |	Vice-Principal
+Mr |	Syed Faisal |	Vice-Principal
 Mdm |	Lee Silk Yen April |	HOD / Craft &amp; Technology
 Ms |	Nur Shahzreen Binte Mohd Taufik |	HOD / Character &amp; Citizenship Education (CCE)
 Mr |	Tay Yong Chiang |	HOD / Student Management
@@ -136,6 +137,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Chua Yan Liang Kevin |	Senior School Counsellor |
 | Ms |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
 | Miss |	Norsara Binte Azman |	SEN Officer |
+| Ms |	Rubeni D/O Kunasegaran |	SWO |
 | Ms |	Saraswathi Credo Vijaya |	Flexi (Art) |
 | Mr |	Abdullah Bin Hassan |	Flexi (Design &amp; Technology) |
 | Mr | Caleb Cheong Wan Yin | Flexi (English Language) |
