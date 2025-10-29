@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Financial Assistance
 
-##### 1) FINANCIAL SUPPORT SCHEME (MOE-FAS)
+##### 1) MOE Financial Assistance Scheme (MOE FAS)
 
 The Ministry of Education provides financial assistance to Singaporean students from our Government and Government aided schools.  
 To apply, you may do so using one of the following methods:
