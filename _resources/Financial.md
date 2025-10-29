@@ -12,6 +12,8 @@ The Ministry of Education provides financial assistance to needy Singaporean stu
 
 MOE has announced a change in the eligibility for MOE FAS on 16 October 2025. For more information on the eligibility criteria and benefits, please visit [Financial assistance | MOE](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
+
+
 Parents/Guardians who wish to apply for the MOE FAS can do so through
 
 (i) the Parents Gateway app services or
