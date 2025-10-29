@@ -8,7 +8,10 @@ variant: markdown
 
 ##### 1) MOE Financial Assistance Scheme (MOE FAS)
 
-The Ministry of Education provides financial assistance to Singaporean students from our Government and Government aided schools.  
+The Ministry of Education provides financial assistance to needy Singaporean students to support them on fees and other school expenses.
+
+MOE has announced a change in the eligibility for MOE FAS on 16 October 2025. For more information on the eligibility criteria and benefits, please visit
+
 To apply, you may do so using one of the following methods:
 
 *   Apply to MOE directly via [FormSG](https://go.gov.sg/moe-efas)
