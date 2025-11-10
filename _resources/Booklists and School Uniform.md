@@ -107,4 +107,3 @@ will be applied for customers without your own bag.</p>
 <h4>Dates for Walk-in Purchase in School</h4>
 <p></p>
 <p></p>
-<p></p>
