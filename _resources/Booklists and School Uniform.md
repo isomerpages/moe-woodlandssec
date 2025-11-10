@@ -56,7 +56,7 @@ students.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students may purchase textbooks from the Level 1 Classroom D1-02 during
-specified dates (Click here to find the dates for walk-in purchases). Please
+specified dates (Click to find the dates for walk-in purchases). Please
 expect longer queues and waiting times for walk-in purchases.</p>
 </li>
 <li>
