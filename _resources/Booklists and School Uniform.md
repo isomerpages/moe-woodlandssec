@@ -19,4 +19,5 @@ dates for walk-in purchases).</p>
 </p>
 <p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files%2FBooklist%20and%20Uniform/editMediaSettings/Secondary_4_Express_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Express Booklist for Year 2026</a>
 </p>
-<p></p>
+<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files%2FBooklist%20and%20Uniform/editMediaSettings/Secondary_4_Normal_Academic_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Academic Booklist for Year 2026</a>
+</p>
