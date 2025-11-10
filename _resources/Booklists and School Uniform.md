@@ -57,5 +57,49 @@ students.</p>
 <li>
 <p>Students</p>
 </li>
+<li>
+<p>Payment modes accepted: Cash, PayNow (QR code) and NTUC Care (Back-to-School).</p>
+</li>
+<li>
+<p>Please bring your own bags – a one-time packaging fee will be applied
+to all orders ($0.10 for plastic bag and $0.90 for reusable bag) for customers
+without your own bag.</p>
+</li>
 </ul>
+<h4>School Uniform</h4>
+<p><u>Online Order</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students may place orders online via the website: <a href="https://www.shanghai-uniforms.sg/" rel="noopener nofollow" target="_blank">www.shanghai-uniforms.sg/</a>
+</p>
+</li>
+<li>
+<p>Payment modes accepted: PayNow</p>
+</li>
+<li>
+<p>Please purchase your uniform online <strong>before 15 December 2025</strong> to
+ensure delivery before school reopens.</p>
+</li>
+<li>
+<p>Delivery fee of $10 is applicable for all orders.</p>
+</li>
+</ul>
+<p></p>
+<p><u>Walk-in purchase</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students</p>
+</li>
+<li>
+<p>Payment modes accepted: Cash and PayNow</p>
+</li>
+<li>
+<p>Please bring your own bags - a packaging fee of $0.10 per plastic bag
+will be applied for customers without your own bag.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p></p>
