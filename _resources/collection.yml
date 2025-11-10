@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Booklists and School Uniform.md
       - Student Handbook.md
       - Counselling.md
       - Education and Career Guidance (ECG).md
