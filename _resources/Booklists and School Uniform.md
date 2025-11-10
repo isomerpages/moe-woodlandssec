@@ -107,3 +107,359 @@ will be applied for customers without your own bag.</p>
 <h4>Dates for Walk-in Purchase in School</h4>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="4" colspan="2">
+<p>Sales Date</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Books</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Uniform</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>(Venue: Level 1&nbsp;</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>(Venue: Level 1&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Classroom D1-02)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Classroom F1-03)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27/11/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28/11/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
