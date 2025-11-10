@@ -55,7 +55,9 @@ students.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students</p>
+<p>Students may purchase textbooks from the Level 1 Classroom D1-02 during
+specified dates (Click here to find the dates for walk-in purchases). Please
+expect longer queues and waiting times for walk-in purchases.</p>
 </li>
 <li>
 <p>Payment modes accepted: Cash, PayNow (QR code) and NTUC Care (Back-to-School).</p>
@@ -90,7 +92,9 @@ ensure delivery before school reopens.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students</p>
+<p>Students may purchase school uniform from Level 1 Classroom F1-03 during
+specified dates (Click here&nbsp;to find the dates for walk-in purchases).
+Please expect longer queue and waiting times for walk-in purchases.</p>
 </li>
 <li>
 <p>Payment modes accepted: Cash and PayNow</p>
