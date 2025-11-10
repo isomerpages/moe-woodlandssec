@@ -104,6 +104,7 @@ Please expect longer queue and waiting times for walk-in purchases.</p>
 will be applied for customers without your own bag.</p>
 </li>
 </ul>
+<h4>Dates for Walk-in Purchase in School</h4>
 <p></p>
 <p></p>
 <p></p>
