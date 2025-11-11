@@ -11,19 +11,19 @@ either online or directly at the school during specified dates (refer to
 dates for walk-in purchases).</p>
 <h4>Booklists 2026</h4>
 <p></p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-1-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-1-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist for Year 2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-2-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-2-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist for Year 2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files%2FBooklist%20and%20Uniform/editMediaSettings/Secondary_3_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-3-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist for Year 2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-4-express-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Express Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-4-express-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Express Booklist for Year 2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-4-normal-academic-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Academic Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-4-normal-academic-booklist-for-year-2026" rel="noopener nofollow" target="_blank">Secondary 4 Normal Academic Booklist for Year 2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-4-normal-technical-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Technical Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-4-normal-technical-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Technical Booklist for Year 2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-5-normal-academic-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Normal Academic Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-5-normal-academic-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Normal Academic Booklist for Year 2026</a>
 </p>
 <p></p>
 <p><u>Online Order</u>
@@ -56,7 +56,7 @@ students.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students may purchase textbooks from the Level 1 Classroom D1-02 during
-specified dates (Click <a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/dates-for-walk-in-purchase-in-school.pdf" rel="noopener nofollow" target="_blank">here</a> to
+specified dates (Click <a href="https://www.woodlandssec.moe.edu.sg/files/dates-for-walk-in-purchase-in-school.pdf" rel="noopener nofollow" target="_blank">here</a> to
 find the dates for walk-in purchases). Please expect longer queues and
 waiting times for walk-in purchases.</p>
 </li>
@@ -94,7 +94,7 @@ ensure delivery before school reopens.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students may purchase school uniform from Level 1 Classroom F1-03 during
-specified dates (Click <a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/dates-for-walk-in-purchase-in-school.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
+specified dates (Click <a href="https://www.woodlandssec.moe.edu.sg/files/dates-for-walk-in-purchase-in-school.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 find the dates for walk-in purchases). Please expect longer queue and waiting
 times for walk-in purchases.</p>
 </li>
