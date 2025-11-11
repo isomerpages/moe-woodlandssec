@@ -13,7 +13,7 @@ dates for walk-in purchases).</p>
 <p></p>
 <p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-1-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist for Year 2026</a>
 </p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files%2FBooklist%20and%20Uniform/editMediaSettings/secondary%202%20booklist%20for%20year%202026.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist for Year 2026</a>
+<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-2-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist for Year 2026</a>
 </p>
 <p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files%2FBooklist%20and%20Uniform/editMediaSettings/Secondary_3_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist for Year 2026</a>
 </p>
