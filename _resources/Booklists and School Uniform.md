@@ -56,7 +56,7 @@ students.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students may purchase textbooks from the Level 1 Classroom D1-02 during
-specified dates (Click <a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/images/mediaDirectory/images/editMediaSettings/dates_for_walk_in_purchase_in_school_jpeg.jpg" rel="noopener nofollow" target="_blank">here</a> to
+specified dates (Click <a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/dates-for-walk-in-purchase-in-school.pdf" rel="noopener nofollow" target="_blank">here</a> to
 find the dates for walk-in purchases). Please expect longer queues and
 waiting times for walk-in purchases.</p>
 </li>
@@ -94,7 +94,7 @@ ensure delivery before school reopens.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students may purchase school uniform from Level 1 Classroom F1-03 during
-specified dates (Click <a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/images/mediaDirectory/images/editMediaSettings/dates_for_walk_in_purchase_in_school_jpeg.jpg" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
+specified dates (Click <a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/dates-for-walk-in-purchase-in-school.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 find the dates for walk-in purchases). Please expect longer queue and waiting
 times for walk-in purchases.</p>
 </li>
