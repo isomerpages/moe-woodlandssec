@@ -11,7 +11,7 @@ either online or directly at the school during specified dates (refer to
 dates for walk-in purchases).</p>
 <h4>Booklists 2026</h4>
 <p></p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-1-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-1-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist for Year 2026</a>
 </p>
 <p><a href="https://cms.isomer.gov.sg/sites/moe-woodlandssec/media/files/mediaDirectory/files/editMediaSettings/secondary-2-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist for Year 2026</a>
 </p>
