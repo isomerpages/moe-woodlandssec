@@ -19,7 +19,7 @@ dates for walk-in purchases).</p>
 </p>
 <p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-4-express-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Express Booklist for Year 2026</a>
 </p>
-<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-4-normal-academic-booklist-for-year-2026" rel="noopener nofollow" target="_blank">Secondary 4 Normal Academic Booklist for Year 2026</a>
+<p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-4-normal-academic-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Academic Booklist for Year 2026</a>
 </p>
 <p><a href="https://www.woodlandssec.moe.edu.sg/files/secondary-4-normal-technical-booklist-for-year-2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Technical Booklist for Year 2026</a>
 </p>
