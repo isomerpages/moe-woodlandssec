@@ -106,12 +106,22 @@ times for walk-in purchases.</p>
 will be applied for customers without your own bag.</p>
 </li>
 </ul>
-<h4>Dates for Walk-in Purchase in School</h4>
+<h4>2025 Dates for Walk-in Purchase in School</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dates-for-Walk-in" src="/images/dates_for_walk_in_purchase_in_school_jpeg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Schedule_copy.jpg">
 </div>
 <p></p>
+<h4>2026 Dates for Walk-in Purchase in School</h4>
+<p>Students may purchase books from the school bookshop on any school day
+between 8am to 3pm. For uniform purchases, please refer to the specific
+dates and timings indicated in the table below.</p>
+<p>For parents who wish to walk-in, please take note of the sale dates and
+timings below for both books and uniform purchases in school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_schedule_copy.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
