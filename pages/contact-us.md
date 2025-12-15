@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Woodlands Secondary School
 locations:
   - address:
-      - "11, Marsiling Road "
+      - 11, Marsiling Road
       - Singapore 739111
       - ""
     operating_hours: []
@@ -20,11 +20,16 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://www.facebook.com/woodlandssecsch">Facebook</a><br /><a
-          href="https://www.instagram.com/woodlandssec/">Instagram</a><br/><a
+      - other: <a href="https://www.facebook.com/woodlandssecsch">Facebook</a><br><a
+          href="https://www.instagram.com/woodlandssec/">Instagram</a><br><a
           href="https://youtube.com/@woodlandssecsch">YouTube</a>
-    title: "Follow Us "
+    title: Follow Us
   - content:
-      - other: "<a href=\"https://sites.google.com/moe.edu.sg/wdlss-canteenadvertisement/home\">For more details, click here</a>"
-    title: "School Canteen Advertisement"
+      - phone: ""
+      - email: ""
+      - other: <a
+          href="https://sites.google.com/moe.edu.sg/schoolcanteenadvertisement/home">For
+          more details, click here</a>
+    title: School Canteen Advertisement
+feedback: ""
 ---
