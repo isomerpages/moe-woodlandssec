@@ -23,7 +23,6 @@ variant: markdown
 | Name | | Position | 
 | -------- | -------- |  -------- |
 | Mrs | Rebecca Yim  | Principal |
-Mdm |	Masayu Mahmud	| Vice-Principal
 Mr |	Tay Hong Joo Steven |	Vice-Principal
 Mr |	Syed Faisal |	Vice-Principal
 Mdm |	Lee Silk Yen April |	HOD / Craft &amp; Technology
