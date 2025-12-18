@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://sites.google.com/moe.edu.sg/wdls1registration/19-dec
+external: https://sites.google.com/moe.edu.sg/wdls1registration
 ---
