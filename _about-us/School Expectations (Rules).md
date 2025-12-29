@@ -49,7 +49,7 @@ Apart from our 3Cs and 7As, our Woodlanders are expected to take full responsibi
 
 - Students are expected to report to school by **7.30am**.
 - Students must attend school punctually without fail. They must observe their timetable and attend all lessons.
-- Absence from school must be accounted for by a medical certificate from a doctor or a letter from a parent/guardian (students are restricted to 3 letters from parents in a single term).
+- Absence from school must be accounted for by a medical certificate from a doctor or a letter from a parent/guardian (students are restricted to 5 letters from parents in a single semester).
 - Students must seek permission from the School Leaders if he/she wishes to take time off from school for any reasons.
 - Students are to remain in the classrooms at all times unless permission has been given by their teachers.
 
