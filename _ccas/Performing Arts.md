@@ -46,14 +46,6 @@ Ms Nur Atiqah Binte Abdul Rahim
 *   Termly Games and Team-bonding activities
 *   Annual Choir Camp -- build up leadership skills and musical proficiency
 
-##### Recent Achievements
-
-WDL Choir was started in 2020.
-
-|  | |
-| - | - | 
-| 2023 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
-
 
 -------
 <a id="2"></a>
@@ -89,14 +81,6 @@ Mr Caleb Cheong Wan Yin
 *   Annual Band camp to foster bonding and teamwork.
 *   Enrichment Performance(s) to widen musical exposure
 
-##### Recent Achievements
-
-|  | |
-| - | - | 
-| 2021 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
-| 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
-| 2017 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
-
 
 -------
 <a id="3"></a>
@@ -123,17 +107,6 @@ Miss Lim Zhi Xuan
 *   Annual Combined Dance Camp
 *   Leadership and Character Development
 *   Community Involvement
-
-##### Recent Achievements
-
-
-|  | |
-| - | - | 
-| 2023 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
-| 2021 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
-| 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
-| 2017 Singapore Youth Festival Arts Presentation | Certificate of Achievement | 
-
 
 
 -------
@@ -177,14 +150,6 @@ Mr Teoi Boey Jia (Howie)
 *   Singapore Youth Festival
 *   Human Values Drama Festival
 
-##### Recent Achievements
-
-|  | |
-| - | - | 
-| 2021 Singapore Youth Festival Arts Presentation | Certificate of Distinction | 
-| 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
-| 2017 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
-
 
 -------
 <a id="5"></a>
@@ -222,11 +187,3 @@ Ms Shayne Lau Jia Xuan
 *   School Aesthetic Showcase
 *   Internal/ external performances
 
-##### Recent Achievements
-
-|  | |
-| --- | ---- | 
-| 2021 Singapore Youth Festival Arts Presentation | Certificate of Distinction | 
-| 2019 Singapore Youth Festival Arts Presentation | Certificate of Accomplishment | 
-| 2018 Istana National Day Open House | Performers | 
-| 2017 Singapore Youth Festival Arts Presentation | Certificate of Distinction |
