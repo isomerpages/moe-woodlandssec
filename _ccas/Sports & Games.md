@@ -42,13 +42,6 @@ Ms Sandra Maria Jacob
 *   Annual B &amp; C National School Games
 *   Interschool friendly matches
 
-##### Recent Achievements
-
-|   |   |
-|  --- |---   | 
-| 2019 North Zone Championship  'B' Division Boys | Certificate of Sportsmanship | 
-| 2018 North Zone Championship  'B' Division Boys | 5th place, <br>Certificate of Sportsmanship | 
-
 
 --------
 <a id="3"></a>
@@ -96,14 +89,6 @@ Ms Sumaiyah Binte M Razaly
 *   GESS Volkswagen Cup
 *   Team-building Activities
 
-##### Recent Achievements
-
-|   |   |
-|  --- |---   | 
-| 2022 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship | 4th Place | 
-| 2019 SSSC/FAS ‘C’ Division Girls National Inter – School Football Championship | 2nd Place <br> Siti Noraini Binte Suyudi was awarded the "Most Promising Player" Award for the championship | 
-| 2018 SSSC/FAS ‘B’ Division Girls National Inter – School Football Championship | Participation | 
-| 2018 SOF Peter Lim Scholarship | Awarded to Nur Amirah Bte Mohamed Rosman | 
 
 --------
 <a id="5"></a>
@@ -141,17 +126,6 @@ Ms Thangaraj Pokkisham
 *   Road to Valencia 2020
 *   External competitions
 
-##### Recent Achievements
-
-|   |   |
-|  --- |---   | 
-| 2023 National School Games 'C' Division Boys | League 1 Group Stage | 
-| 2023 National School Games 'B' Division Boys | 3rd Place League 2 | 
-| 2022 National School Games 'C' Division Boys | 3rd Place North Zone | 
-| 2022 National School Games 'B' Division Boys | Fair Play Award | 
-| 2020 National School Games 'B' Division Boys | League 2 Group Stage | 
-| 2019 National School Games 'B' Division Boys | League 2 Group Stage | 
-| 2019 National School Games 'C' Division Boys | League 1 Group Stage | 
 
 --------
 <a id="6"></a>
@@ -178,14 +152,6 @@ At the end of their secondary education, each player will:
 *   know netball rules and is able to play in at least 2 positions
 *   have played in at least 4 competitions
 *   have fostered good relationships with other team players and teachers-in-charge
-
-##### Recent Achievements
-
-|   |   |
-|  --- |---   | 
-| 2020 North Zone Championship  'B' Division Girls | 3rd in Group | 
-| 2019 North Zone Championship  'B' Division Girls | 3rd in Group | 
-
 
 
 --------
@@ -215,17 +181,3 @@ Mr Mohamed Fazil B Aris
 *   Community Involvement through Values-in-Action program such as Sepak Takraw clinics
 *   Annual Sepak Takraw day camp to foster bonding and teamwork.
 
-
-##### Recent Achievements
-
-|   |   |
-|  --- |---   | 
-| 2023 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 2nd Place | 
-| 2022 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 4th Place | 
-| 2022 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | 3rd Place | 
-| 2019 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | National Champions | 
-| 2019 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | National Champions | 
-| 2018 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 4th Place | 
-| 2018 SSC National Inter-School Sepak Takraw Tournament - 'C' Division | 1st Round | 
-| 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | 2nd Place | 
-| 2017 SSC National Inter-School Sepak Takraw Tournament - 'B' Division | National Champions |
