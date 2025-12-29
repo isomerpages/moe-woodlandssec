@@ -64,15 +64,6 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 *   Leadership Development through Officers/Teachers’ close mentoring of the Boys.
 *   Adventure fun through various ventures, like kayaking, and Camp Craft
 
-##### Recent Achievements
-
-|  | |
-| - | - | 
-| JM Fraser Award 2022 | Silver | 
-| JM Fraser Award 2020 | Gold | 
-| Founders' Awardees 2020 | Awarded to <br> - SSGT Loh Qi Won, Sylvester <br> - SSGT Gan Shiu Kuan <br> - SSGT Tan Jin Xiang | 
-| JM Fraser Award 2019 | Silver | 
-
 
 <a id="2"></a>
 
@@ -135,15 +126,6 @@ To develop our young NCC leaders to have the following:
 *   Sports Championship (All)
 *   Precision Drill Competition (All)
 
-##### Recent Achievements
-
-|  | |
-| - | - | 
-| 2022 NCC Unit Recognition (UR) Award | Distinction | 
-| 2020 Outstanding Cadet Award | Awarded to MSG Gabriel Goh | 
-| 2019 NCC Unit Recognition (UR) Award | Distinction | 
-| 2018 NCC Unit Recognition (UR) Award | Distinction | 
-
 
 ---
 
@@ -195,15 +177,6 @@ Tuesdays, 1445H - 1730H/1830H
 *   Sports &amp; Wellness Programme
 
 
-
-##### Recent Achievements
-
-|  | |
-| - | - | 
-| 2022 Unit Overall Proficiency Award (UOPA) | Gold | 
-| 2019 Unit Overall Proficiency Award (UOPA) | Silver | 
-
-
 --------
 
 <a id="5"></a>
@@ -240,12 +213,3 @@ Tuesdays, 1445H - 1730H/1830H
 *   Adventure training camp &amp; Survival training camp at Pulau Ubin.
 *   Enrichment courses like 1st Aid, Kayaking 1 Star, Self defence &amp; Shooting.
 
-
-##### Recent Achievements
-
-|  | |
-| - | - | 
-| 2022 Overall Unit Proficiency Award | Gold Award | 
-| 2011 - 2019 Overall Unit Proficiency Award | Gold Award <br>(for 9 consecutive years)| 
-| 2020 SPF-NPCC Badge | 1 Recipient <br> (9 in total for the past 7 years) | 
-| 2019 Inter-Unit Drill Competition | Top 50 |
