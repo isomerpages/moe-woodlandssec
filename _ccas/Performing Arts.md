@@ -23,7 +23,7 @@ variant: markdown
 
 Mdm Fu Jian Ning Janny (OIC)  
 Mr Matthew Seah Joon Kai  
-Ms Nur Atiqah Binte Abdul Rahim
+
 
 ##### Weekly Training Schedule
 
@@ -58,7 +58,7 @@ Ms Nur Atiqah Binte Abdul Rahim
 
 Ms Isabell Ng Pei Min (OIC)  
 Mr Quek Yeow Chong  
-Mr Caleb Cheong Wan Yin
+
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1830H
@@ -92,7 +92,7 @@ Mr Caleb Cheong Wan Yin
 ##### Teachers-in-Charge
 
 Mdm Ma Jiajing (OIC)  
-Miss Lim Zhi Xuan  
+Mdm Rina Bai D/O Thiruvalluvan 
 
 ##### Weekly Training Schedule
 
@@ -120,8 +120,9 @@ Miss Lim Zhi Xuan
 
 ##### Teachers-in-Charge
 
-Mdm Norashikin Binte Ibrahim (OIC)  
-Mr Teoi Boey Jia (Howie)
+Mr Teoi Boey Jia, Howie (OIC)  
+Mdm Meenambigai A/P Narayanasamy<br>
+Ms A K R Thawfiqa Banu
 
 ##### Weekly Training Schedule
 
@@ -162,7 +163,7 @@ Mr Teoi Boey Jia (Howie)
 
 Mdm Khairunnisa Binte Zulkifli (OIC)  
 Ms Nurul Aisyah Binte Rosli  
-Ms Shayne Lau Jia Xuan
+
 
 ##### Weekly Training Schedule
 
@@ -186,4 +187,3 @@ Ms Shayne Lau Jia Xuan
 *   VIA
 *   School Aesthetic Showcase
 *   Internal/ external performances
-
