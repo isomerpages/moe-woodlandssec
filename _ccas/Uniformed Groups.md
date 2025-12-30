@@ -85,8 +85,7 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 ##### Teachers-in-Charge
 
 
-Mr Chun Guan Yang (Advisor) <br>
-Ms Ng Ling Nee Faith  (OIC)  
+Mr Lim Yeow Teck Roy (OIC) <br>
 Ms Nur Fatin Binte Nordin  
 Ms Lee Li Hwa Brenda
 
@@ -139,9 +138,9 @@ To develop our young NCC leaders to have the following:
 
 ##### Teachers-in-Charge
 
-Mdm Siew Foong Keng (Helen) (OIC)  
-Mr Chia Soon Hann Justin Ian <br>
-Ms Chua Ziqing
+Mr Chia Soon Hann Justin Ian (OIC)  
+Mr  Muhammad Ridhwan<br>
+Mr Xu Linxiang
 
 
 
@@ -192,7 +191,7 @@ Tuesdays, 1445H - 1730H/1830H
 
 Mdm Rajeswari d/o Sinkaram  (OIC)  
 Mr Donovan Liew Yi Heng  
-Mr Andrew Devaraj D Abraham
+Mr Tey Hao Yin
 
 ##### Weekly Training Schedule
 
@@ -212,4 +211,3 @@ Tuesdays, 1445H - 1730H/1830H
 *   Annual .22 Revolver Shooting - Sec 2 &amp; 3 will get to experience live shooting using a real revolver.
 *   Adventure training camp &amp; Survival training camp at Pulau Ubin.
 *   Enrichment courses like 1st Aid, Kayaking 1 Star, Self defence &amp; Shooting.
-
