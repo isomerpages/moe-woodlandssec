@@ -27,33 +27,32 @@ Mr |	Tay Hong Joo Steven |	Vice-Principal
 Mr |	Syed Faisal |	Vice-Principal
 Mdm |	Lee Silk Yen April |	HOD / Craft &amp; Technology
 Ms |	Nur Shahzreen Binte Mohd Taufik |	HOD / Character &amp; Citizenship Education (CCE)
-Mr |	Tay Yong Chiang |	HOD / Student Management
-Mdm |	Teo Jia Yin Sarah	 |HOD / English Language
 Mrs |	Lechimi Devi Ramesh |	HOD / Humanities
+Mr |	Wan Weng Kin Cornelius |	HOD / Mathematics
 Mr |	Lee Choon Kiong |	HOD / Science
-Mr |	Wan Weng Kin Cornelius |	HOD / ICT
-Mr |  Zhuo Gensheng Jason |	HOD / PE &amp; CCA
+Ms |	Subashini Varlivell |	HOD / ICT
+Mdm |	Jamakyah Binte Adhar | HOD / Mother Tongue
+Mr |	Ng Yung Hui Eugene |	HOD / Student Well-Being
 Mr |	Ong Wun Wee Ivan |	School Staff Developer
 Ms |	Seah Wei Ee |	LT / English Language
-Mr |	Teo Chee Chong |	Year Head (Upper Secondary) / Sec 3 IC
-Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Secondary) / Sec 1 IC
-Mr | Lee Jian Liang Joel | Assistant Year Head (Sec 2)
-Mdm |	Aw Siao Hwee |	Assistant Year Head (Sec 4 &amp; 5) |
+Mr |	Teo Chee Chong |	Year Head (Upper Secondary) / Sec 4 &amp; 5 IC
+Mr |	Savarimuthu Xavier s/o Tamil A | Year Head (Lower Secondary) / Sec 2 IC
+Mr | Lee Jian Liang Joel | Assistant Year Head / Sec 1 IC |
+Mdm |	Aw Siao Hwee |	Assistant Year Head / Sec 3 IC |
 Mdm |	Rajeswari d/o Sinkaram |	SH / Biology
-Mr | Lee Jing Xiang Eric |	SH / Chemistry
 Mdm |	Nadzirah Bte Andi Mohamed Nasron |	SH / Character Education
 Mdm |	Norashikin Binte Ibrahim |	SH / English Language 
+Mr |	Tuong Ze Wei Wilson |	SH / Mathematics
 Mdm |	Nurdiyana Bte Abdul Rahim |	SH / Student Management
-Mr | Tuong Ze Wei Wilson |	SH / Mathematics 
-Mdm |	Jamakyah Binte Adhar | SH / Malay Language
-Mr | Muhammad Tirmidzi Bin Khalid |	SH / CCA (Internal)
-Ms |	Uma Sankgery D/O Pandyan |	SH / ICT (Internal)
-Mr |	Chun Guan Yang |	SH / Mathematics (Internal)
+Mr | Muhammad Tirmidzi Bin Khalid |	SH / CCA
+Ms |	Uma Sankgery D/O Pandyan |	SH / ICT
+Mr |	Chun Guan Yang |	SH / Mathematics
 Mdm | Khoo Ying Ling Elaine | ST / Chemistry
 Mdm | Zou Yan | ST / Chinese Language
 Mr | Abdul Latiff Bin Omar | ST / Design &amp; Technology
 Mr | Mohamed Fazil B Aris | ST / Malay Language
-Mr | Paik Shi Yang Robin | ST / Mathematics 
+Mr | Paik Shi Yang Robin | ST / Mathematics
+      
 
 
 
@@ -130,18 +129,18 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Ms |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
 | Miss |	Norsara Binte Azman |	SEN Officer |
 | Ms |	Rubeni D/O Kunasegaran |	SWO |
-| Ms |	Saraswathi Credo Vijaya |	Flexi (Art) |
 | Mr |	Abdullah Bin Hassan |	Flexi (Design &amp; Technology) |
-| Mr | Caleb Cheong Wan Yin | Flexi (English Language) |
-| Mdm |	Loh Woon Kum |	Flexi (Design &amp; Technology) |
+| Mr |	Wimal Woodward Amarasuriya |	Flexi (Design &amp; Technology) |
+| Mrs | Vasagi S Arumugam | Flexi (English Language) |
 | Ms |	Teo Ling Yen |	Flexi (Mathematics) |
 | Ms |	Sutini Binte Ramli |	Flexi (Mathematics) |
-| Mdm |	Yuslin Binte Yusof |	Flexi (Nutrition &amp; Food Science) |
+| Mdm |	Ng Bee Eng |	Flexi (Nutrition &amp; Food Science) |
 | Mdm |	Titi Murni Monir |	Flexi (Humanities) |
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
 | Mr | Peter Kuan |	Flexi (Science) |
-| Mdm | Low Yuet Wan |	Flexi (Chinese Language) |
+| Ms | Ye Peishan |	Flexi (Science) |
+
 
 
 
@@ -164,10 +163,9 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Tan Cheng Lan Jasmine |	STEM Instructor (Laboratory) |
 | Mr |	Jumari Bin Sarkan |	STEM Instructor (Workshop) |
 | Mr |	Roszelan Bin Mohd Yusof |	STEM Instructor (Workshop) |
-| Mdm |	Lim Swee Inn |	OSO |
 | Mdm |	Sumathi d/o Utirapaty |	OSO |
 | Mr |	Haron Bin Amri |	OSO |
-| Mr |	Salim Bin Samsi |	OSO |
+| Mdm |	Esah Bte Ismail|	OSO |
 
 
 ### Other Support Staff
@@ -176,6 +174,5 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | --- | --- | ---|
 | Mr	| Nicholas Anak Yanga |	Desktop Engineer| 
 | Mr	| Prithividharsanan |	Desktop Engineer|
-| Mdm	| Siti Rohana Binte Sardar |	Kitchen Assistant| 
 | Mr | Wan Mat Din Bin Jamaludin | OSO Support |
 | Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian|
