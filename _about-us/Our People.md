@@ -101,23 +101,19 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Miss |	V K Tamilselvi  | 3 Trustworthiness |
 | Mr |	I'dil Saladin Alamin B Salleh | 3 Trustworthiness |
 | Mr |	Chun Guan Yang	|	4 Growth |
-| Miss | Isabell Ng Pei Min | 4 Growth |
-| Mdm | Siti Farhana Binte Abdullah | 4 Growth |
-| Mdm | Rina Bai D/O Thiruvalluvan |	4 Respect |
-| Mdm | Norashikin Binte Ibrahim |	4 Respect |
-| Mr |	Tuong Ze Wei Wilson	| 4 Resilience |
-| Ms |	V K Tamilselvi |	4 Resilience |
-| Mr |	I'dil Saladin Alamin B Salleh |	4 Empathy |
-| Mdm |	Intan Badariah Bushra |	4 Empathy |
-| Mdm |	Low Eng Ngee | 4 Appreciation |
-| Mr |	M Gnanasekaran | 4 Appreciation |
-| Mr |	Muhammad Tirmidzi Bin Khalid | 4 Trustworthiness |
-| Mdm |	Norashikin Binte Atan | 4 Trustworthiness |
-| Mr |	Paik Shi Yang Robin | 5 Growth |
-| Mr |	Chia Soon Hann Justin Ian |	5 Growth |
+| Mr | Tok Yin Pin | 4 Growth |
+| Ms | Uma Sankgery d/o Pandyan    |	4 Respect |
+| Mr | Quek Yeow Chong |	4 Respect |
+| Mr |	Tay Chor Kwang 	| 4 Resilience |
+| Mdm |	Siti Farhana Binte Abdullah |	4 Resilience |
+| Mr |	Abdul Latiff Bin Omar |	4 Empathy |
+| Mdm |	Ma Jiajing |	4 Empathy |
+| Mr |	Lim Kian Beng | 4 Appreciation |
+| Ms |	Teo Ling Yen | 4 Appreciation |
+| Mr |	Tuong Ze Wei Wilson | 5 Growth |
+| Mr |	M Gnanasekaran  |	5 Growth |
 | Mdm |	Foo Elaine |	- |
 | Ms |	Govindasamy Raja Lakshmi | - |
-| Ms |	Ng Ling Nee Faith |	- |
 | Mr |	Thirumaran S/O Thangaraju |	- |
 
 
