@@ -27,7 +27,7 @@ variant: markdown
 
 Miss Tay Li Ching (OIC)  
 Mr Wong Chin Choong Brian  
-Ms Sandra Maria Jacob
+Miss Shayne Lau Jia Xuan
 
 ##### Weekly Training Schedule
 * Tuesdays, 1445H - 1730H/1800H
@@ -102,7 +102,7 @@ Ms Sumaiyah Binte M Razaly
 ##### Teachers-in-Charge
 Mr Mohamad Noorhisham Bin Mohd Noor (OIC)  
 Mr Tok Yin Pin  
-Ms Thangaraj Pokkisham
+
 
 ##### Weekly Training Schedule
 * Tuesdays, 1500H - 1730H
@@ -167,7 +167,6 @@ At the end of their secondary education, each player will:
 ##### Teachers-in-Charge
 
 Mdm Nabila Bte Awalluddin (OIC)  
-Mdm Rina Bai D/O Thiruvalluvan  
 Mr Mohamed Fazil B Aris  
 
 ##### Weekly Training Schedule
@@ -180,4 +179,3 @@ Mr Mohamed Fazil B Aris
 *   Organise Sepak Takraw Interclass games for the School
 *   Community Involvement through Values-in-Action program such as Sepak Takraw clinics
 *   Annual Sepak Takraw day camp to foster bonding and teamwork.
-
