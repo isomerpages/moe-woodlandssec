@@ -64,46 +64,43 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 
 | Name | | FT of class |
 | --- | --- | ---|
-| Mdm |	Khairunnisa Binte Zulkifli  |	1 Growth |
-| Ms |	Sidtharshini D/O Manunethi |	1 Growth |
-| Ms |	Nur Atiqah Binte Abdul Rahim |	1 Growth |
-| Mr |	Li Rui |	1 Respect |
-| Ms |	Nur Fatin Binte Nordin |	1 Respect |
-| Mdm |	Khoo Ying Ling Elaine |	1 Resilience |
-| Ms |	Shayne Lau Jia Xuan | 1 Resilience |
-| Mr |	Mohamad Noorhisham Bin Mohd Noor | 1 Empathy |
-| Mdm |	Chin Kah Ying| 1 Empathy |
-| Ms|	Chua Ziqing| 1 Empathy |
-| Mdm |	Nabila Binte Awalluddin	| 1 Appreciation |
-| Mr	|	Quek Yong Kang	|	1 Appreciation |
-| Mr |	Tan Eng Hui | 1 Trustworthiness |
-| Ms |	Nurul Aisyah Binte Rosli | 1 Trustworthiness |
-| Mdm |	Nadzirah Bte Andi Mohamed Nasron |	2 Growth |
-| Ms |	Lee Li Hwa Brenda |	2 Growth |
-| Ms |	Sandra Maria Jacob |	2 Growth |
-| Ms | Sumaiyah Binte M Razaly |	2 Respect |
-| Mr | Andrew Devaraj D Abraham |	2 Respect |
-| Mr |	Teoi Boey Jia (Howie) |	2 Resilience |
-| Mr |	Matthew Seah Joon Kai | 2 Resilience |
-| Mr |	Donovan Liew Yi Heng | 2 Empathy |
-| Mdm |	Siew Foong Keng (Helen)| 2 Empathy |
-| Ms |	Tay Li Ching	| 2 Appreciation |
-| Ms	|	Ong Xin Yan, Alyssa	|	2 Appreciation |
-| Ms |	Lim Zhi Xuan | 2 Trustworthiness |
-| Mr |	Wong Chin Choong Brian | 2 Trustworthiness |
-| Mr	|	Chun Guan Yang	|	3 Growth |
-| Mr	|	Tok Yin Pin	|	3 Growth |
-| Ms | Uma Sankgery D/O Pandyan	|	3 Respect |
-| Mr |	Quek Yeow Chong	|	3 Respect |
-| Mr |	Tay Chor Kwang | 3 Resilience |
-| Mr | Lee Jing Xiang Eric | 3 Resilience |
-| Mdm | Meenambigai Narayasanamy | 3 Resilience |
-| Mr |	Abdul Latiff Bin Omar |	3 Empathy |
-| Mdm |	Ma Jiajing |	3 Empathy |
-| Ms |	Thangaraj Pokkisham |	3 Empathy |
-| Mr |	Lim Kian Beng	|	3 Appreciation |
-| Ms | Teo Ling Yen	|	3 Appreciation |
-| Mdm |	Fu Jian Ning Janny	|	4 Growth |
+| Mdm |	Rina Bai D/O Thiruvalluvan |	1 Growth |
+| Mr |	Muhammad Ridhwan Bin Mohammad Muzaki|	1 Growth |
+| Mr |	Xu Linxiang |	1 Resilience |
+| Mr |	Donovan Liew Yi Heng | 1 Resilience |
+| Ms |	A K R Thawfiqa Banu | 1 Resilience |
+| Mr |	Chia Soon Hann Justin Ian | 1 Empathy |
+| Mr |	Teoi Boey Jia| 1 Empathy |
+| Mr | Kuan Kok Oon Peter	| 1 Appreciation |
+| Miss	|	Tay Li Ching	|	1 Appreciation |
+| Mr |	Lim Yeow Teck Roy | 1 Trustworthiness |
+| Ms |	Meenambigai A/P Narayanasamy | 1 Trustworthiness |
+| Mdm | Khairunnisa Binte Zulkifli |	2 Growth |
+| Ms |	Sidtharshini D/O Manunethi |	2 Growth |
+| Mr | Li Rui |	2 Respect |
+| Miss | Nur Fatin Binte Nordin |	2 Respect |
+| Mdm |	Khoo Ying Ling Elaine |	2 Resilience |
+| Miss |	Shayne Lau Jia Xuan | 2 Resilience |
+| Mdm |	Chin Kah Ying| 2 Empathy |
+| Mr |	Mohamad Noorhisham Bin Mohd Noor | 2 Empathy |
+| Mdm | Nabila Bte Awalluddin	| 2 Appreciation |
+| Mr	|	Quek Yong Kang 	|	2 Appreciation |
+| Mr |	Tan Eng Hui   | 2 Trustworthiness |
+| Miss |	Nurul Aisyah Binte Rosli | 2 Trustworthiness |
+| Miss	|	Isabell Ng Pei Min	|	3 Growth |
+| Mr	|	Matthew Seah Joon Kai	|	3 Growth |
+| Miss | Sumaiyah Binte M Razaly|	3 Respect |
+| Ms |	Ong Xin Yan, Alyssa	|	3 Respect |
+| Mdm |	Intan Badariah Bushra | 3 Resilience |
+| Mdm | Norashikin Binti Atan | 3 Resilience |
+| Mr | Tey Hao Yin  | 3 Resilience |
+| Mdm |	Fu Jian Ning Janny |	3 Empathy |
+| Mdm | Low Eng Ngee |	3 Empathy |
+| Mr |	Wong Chin Choong Brian	|	3 Appreciation |
+| Mr | Paik Shi Yang Robin|	3 Appreciation |
+| Miss |	V K Tamilselvi  | 3 Trustworthiness |
+| Mr |	I'dil Saladin Alamin B Salleh | 3 Trustworthiness |
+| Mr |	Chun Guan Yang	|	4 Growth |
 | Miss | Isabell Ng Pei Min | 4 Growth |
 | Mdm | Siti Farhana Binte Abdullah | 4 Growth |
 | Mdm | Rina Bai D/O Thiruvalluvan |	4 Respect |
