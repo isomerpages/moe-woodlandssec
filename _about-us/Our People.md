@@ -69,11 +69,12 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Donovan Liew Yi Heng | 1 Resilience |
 | Ms |	A K R Thawfiqa Banu | 1 Resilience |
 | Mr |	Chia Soon Hann Justin Ian | 1 Empathy |
-| Mr |	Teoi Boey Jia| 1 Empathy |
-| Mr | Kuan Kok Oon Peter	| 1 Appreciation |
-| Miss	|	Tay Li Ching	|	1 Appreciation |
-| Mr |	Lim Yeow Teck Roy | 1 Trustworthiness |
-| Ms |	Meenambigai A/P Narayanasamy | 1 Trustworthiness |
+| Mr |	Teoi Boey Jia | 1 Empathy |
+| Mr |	Kuan Kok Oon Peter | 1 Empathy |
+| Mr | Lim Yeow Teck Roy	| 1 Appreciation |
+| Mdm	|	Meenambigai A/P Narayanasamy	|	1 Appreciation |
+| Miss |	Tay Li Ching    | 1 Trustworthiness |
+| Miss |	Lee Li Hwa Brenda | 1 Trustworthiness |
 | Mdm | Khairunnisa Binte Zulkifli |	2 Growth |
 | Ms |	Sidtharshini D/O Manunethi |	2 Growth |
 | Mr | Li Rui |	2 Respect |
