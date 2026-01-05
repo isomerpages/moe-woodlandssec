@@ -140,7 +140,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
 | Mr | Peter Kuan |	Flexi (Science) |
-| Ms | Ye Peishan |	Flexi (Science) |
+| Ms | Ye Peishan |	Flexi (School Counsellor) |
 
 
 
