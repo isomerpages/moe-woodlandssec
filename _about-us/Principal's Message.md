@@ -4,7 +4,8 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-It is with a great sense of gratitude that I join Woodlands Secondary School this year. Woodlands Secondary School has been a hope-building school for the community since 1982. I am honoured to join the school as the ninth Principal, and am committed to building on our strong foundation that have been laid by my predecessors. I would also like to take this opportunity to thank Mrs Tay Yang Fern, for bringing the school to new heights over the last 6 years in Woodlands Secondary School. 
+
+Happy New Year!  A warm welcome to our Sec 1s, and welcome back to school to our Woodlanders.
 
 At Woodlands Secondary School, we believe in growing our students to be confident individuals and our mission is to nurture enduring hearts and creative minds, so that they are ready to serve society. We are guided by our GR2EAT values of Growth, Respect, Resilience, Empathy, Appreciation, and Trustworthiness. Together with our mission, these values shape our educational approach.
 
@@ -17,4 +18,3 @@ As we embark on this journey together, I look forward to working with all of you
 Yours sincerely,<br>
 Mrs Rebecca Yim<br>
 Principal
-
