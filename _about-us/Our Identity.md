@@ -83,3 +83,4 @@ With this freedom, I won’t lose respect&nbsp;
 That I feel for each and everyone&nbsp;  
 Never stray from the ray of wisdom&nbsp;  
 Achieve our goals through lifelong learning
+And we pledge with Wisdom and Truth
