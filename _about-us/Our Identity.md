@@ -82,9 +82,6 @@ I feel there is freedom in my heart&nbsp;
 I put pride in the freedom that I have&nbsp;  
 With this freedom, I won’t lose respect&nbsp;  
 That I feel for each and everyone&nbsp;  
-Never stray for each and everyone&nbsp;  
+Never stray from the ray of wisdom&nbsp;  
 Achieve our goals through lifelong learning&nbsp;   
-And we pledge with Wisdom and Truth&nbsp;  
-
-
-
+And we pledge with Wisdom and Truth&nbsp;
