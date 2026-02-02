@@ -65,7 +65,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | --- | --- | ---|
 | Mdm |	Rina Bai D/O Thiruvalluvan |	1 Growth |
 | Mr |	Muhammad Ridhwan Bin Mohammad Muzaki|	1 Growth |
-| Mr |	Xu Linxiang |	1 Resilience |
+| Ms |	Xu Linxiang |	1 Resilience |
 | Mr |	Donovan Liew Yi Heng | 1 Resilience |
 | Ms |	A K R Thawfiqa Banu | 1 Resilience |
 | Mr |	Chia Soon Hann Justin Ian | 1 Empathy |
