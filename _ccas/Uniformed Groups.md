@@ -140,7 +140,7 @@ To develop our young NCC leaders to have the following:
 
 Mr Chia Soon Hann Justin Ian (OIC)  
 Mr  Muhammad Ridhwan<br>
-Mr Xu Linxiang
+Ms Xu Linxiang
 
 
 
