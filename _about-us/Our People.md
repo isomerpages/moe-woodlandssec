@@ -70,11 +70,12 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Ms |	A K R Thawfiqa Banu | 1 Resilience |
 | Mr |	Chia Soon Hann Justin Ian | 1 Empathy |
 | Mr |	Teoi Boey Jia | 1 Empathy |
-| Mr |	Kuan Kok Oon Peter | 1 Empathy |
+| Miss |	Nur Farzana Binte Mohd Nasir | 1 Empathy |
 | Mr | Lim Yeow Teck Roy	| 1 Appreciation |
 | Mdm	|	Meenambigai A/P Narayanasamy	|	1 Appreciation |
 | Miss |	Tay Li Ching    | 1 Trustworthiness |
 | Miss |	Lee Li Hwa Brenda | 1 Trustworthiness |
+| Mr |	Chan Wei Kiat, Owen | 1 Trustworthiness |
 | Mdm | Khairunnisa Binte Zulkifli |	2 Growth |
 | Ms |	Sidtharshini D/O Manunethi |	2 Growth |
 | Mr | Li Rui |	2 Respect |
@@ -96,10 +97,12 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr | Tey Hao Yin  | 3 Resilience |
 | Mdm |	Fu Jian Ning Janny |	3 Empathy |
 | Mdm | Low Eng Ngee |	3 Empathy |
+| Ms | Toh Li Bin |	3 Empathy |
 | Mr |	Wong Chin Choong Brian	|	3 Appreciation |
 | Mr | Paik Shi Yang Robin|	3 Appreciation |
 | Miss |	V K Tamilselvi  | 3 Trustworthiness |
 | Mr |	I'dil Saladin Alamin B Salleh | 3 Trustworthiness |
+| Ms |	Thallapu Reddy Ruth Samyuktha | 3 Trustworthiness |
 | Mr |	Chun Guan Yang	|	4 Growth |
 | Mr | Tok Yin Pin | 4 Growth |
 | Ms | Uma Sankgery d/o Pandyan    |	4 Respect |
@@ -130,6 +133,8 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Ms |	Nur Nabiilah Binte Mohamed Hanifah |	School Counsellor |
 | Miss |	Norsara Binte Azman |	SEN Officer |
 | Ms |	Rubeni D/O Kunasegaran |	SWO |
+| Mr |	Muhammad Hakim Bin Mohamed Yusof |	School Counsellor (Practicum) |
+| Ms |	Ainaa Amira Binte Mohamad Noor |	SEN Officer (Practicum) |
 | Mr |	Abdullah Bin Hassan |	Flexi (Design &amp; Technology) |
 | Mr |	Wimal Woodward Amarasuriya |	Flexi (Design &amp; Technology) |
 | Mrs | Vasagi S Arumugam | Flexi (English Language) |
@@ -139,7 +144,6 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Titi Murni Monir |	Flexi (Humanities) |
 | Mr |	Samikannu S/O Sithambaram |	Flexi (Tamil Language) |
 | Mdm | Rubiyah Binte Mohd Ghavs | Flexi (Malay Language) |
-| Ms | Ye Peishan |	Flexi (School Counsellor) |
 
 
 
@@ -166,6 +170,7 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mdm |	Sumathi d/o Utirapaty |	OSO |
 | Mr |	Haron Bin Amri |	OSO |
 | Mdm |	Esah Bte Ismail|	OSO |
+| Mdm |	Nurul Faiqah Binte Mohd Rosly|	OSO |
 
 
 ### Other Support Staff
@@ -175,4 +180,8 @@ Mr | Paik Shi Yang Robin | ST / Mathematics
 | Mr	| Nicholas Anak Yanga |	Desktop Engineer| 
 | Mr	| Prithividharsanan |	Desktop Engineer|
 | Mr | Wan Mat Din Bin Jamaludin | OSO Support |
+| Mdm | Siti Rohana Binte Sardar | OSO Support |
 | Mdm	| Zaira Bee D/O K M A Zackiriaye |	Librarian|
+| Ms | Jacintha Tan | Music Teacher |
+| Mr | Johari Mohd Salleh | Youth Worker |
+| Mr | Shahril Azree Marekan Bin Norazhar | PE Intern |
