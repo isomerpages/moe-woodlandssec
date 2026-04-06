@@ -193,7 +193,8 @@ Tuesdays, 1445H - 1730H/1830H
 
 Mdm Rajeswari d/o Sinkaram  (OIC)  
 Mr Donovan Liew Yi Heng  
-Mr Tey Hao Yin
+Mr Tey Hao Yin  
+Ms Toh Li Bin
 
 ##### Weekly Training Schedule
 
