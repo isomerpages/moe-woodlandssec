@@ -102,6 +102,7 @@ Ms Sumaiyah Binte M Razaly
 ##### Teachers-in-Charge
 Mr Mohamad Noorhisham Bin Mohd Noor (OIC)  
 Mr Tok Yin Pin  
+Mr Chan Wei Kiat, Owen
 
 
 ##### Weekly Training Schedule
