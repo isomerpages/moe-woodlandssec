@@ -58,6 +58,7 @@ Mr Matthew Seah Joon Kai
 
 Ms Isabell Ng Pei Min (OIC)  
 Mr Quek Yeow Chong  
+Mdm Chin Kah Ying
 
 
 ##### Weekly Training Schedule
