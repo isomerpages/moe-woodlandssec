@@ -102,6 +102,7 @@ Ms Sumaiyah Binte M Razaly
 ##### Teachers-in-Charge
 Mr Mohamad Noorhisham Bin Mohd Noor (OIC)  
 Mr Tok Yin Pin  
+Mr Chan Wei Kiat, Owen
 
 
 ##### Weekly Training Schedule
@@ -131,30 +132,9 @@ Mr Tok Yin Pin
 <a id="6"></a>
 
 
-### Netball
-
-![](/images/CCAs/Netball-2.jpeg)
-
-##### Teachers-in-Charge
-
-Mdm Chin Kah Ying (OIC)  
-Ms Ong Xin Yan, Alyssa
-
-##### Weekly Training Schedule
-* Tuesdays, 1445H - 1730H/1800H
-* Thursdays, 1600H - 1800H
-
-##### Key Info &amp; Programmes
-
-At the end of their secondary education, each player will:
-
-*   be passionate about netball
-*   know netball rules and is able to play in at least 2 positions
-*   have played in at least 4 competitions
-*   have fostered good relationships with other team players and teachers-in-charge
 
 
---------
+
 <a id="7"></a>
 
 
@@ -168,6 +148,7 @@ At the end of their secondary education, each player will:
 
 Mdm Nabila Bte Awalluddin (OIC)  
 Mr Mohamed Fazil B Aris  
+Miss Nur Farzana Binte Mohd Nasir
 
 ##### Weekly Training Schedule
 * Tuesdays, 1500H - 1800H

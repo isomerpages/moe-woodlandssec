@@ -87,7 +87,8 @@ A CCA that is run with a partnership with Adam Road Presbyterian Church (ARPC) w
 
 Mr Lim Yeow Teck Roy (OIC) <br>
 Ms Nur Fatin Binte Nordin  
-Ms Lee Li Hwa Brenda
+Ms Lee Li Hwa Brenda  
+Ms Thallapu Reddy Ruth Samyuktha
 
 ##### Weekly Training Schedule
 
@@ -140,7 +141,8 @@ To develop our young NCC leaders to have the following:
 
 Mr Chia Soon Hann Justin Ian (OIC)  
 Mr  Muhammad Ridhwan<br>
-Ms Xu Linxiang
+Ms Xu Linxiang  
+Ms Ong Xin Yan, Alyssa
 
 
 
@@ -191,7 +193,8 @@ Tuesdays, 1445H - 1730H/1830H
 
 Mdm Rajeswari d/o Sinkaram  (OIC)  
 Mr Donovan Liew Yi Heng  
-Mr Tey Hao Yin
+Mr Tey Hao Yin  
+Ms Toh Li Bin
 
 ##### Weekly Training Schedule
 
