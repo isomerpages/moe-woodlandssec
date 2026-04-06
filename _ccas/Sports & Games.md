@@ -148,6 +148,7 @@ Mr Chan Wei Kiat, Owen
 
 Mdm Nabila Bte Awalluddin (OIC)  
 Mr Mohamed Fazil B Aris  
+Miss Nur Farzana Binte Mohd Nasir
 
 ##### Weekly Training Schedule
 * Tuesdays, 1500H - 1800H
