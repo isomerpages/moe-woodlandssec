@@ -44,7 +44,7 @@ Do refer to the respective pages for more info on each programme.
 
 ##### **Shortlisted Applicants**
 
-Shortlisted applicants will be notified&nbsp;**between 29 Jun 2026 and 28 Aug 2026**&nbsp;of the trial and interview dates which the applicants must attend.
+Shortlisted applicants will be notified&nbsp;**between 29 Jun 2026 and 28 Aug 2026**&nbsp;of the trial/audition and interview dates which the applicants must attend.
 
 Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
